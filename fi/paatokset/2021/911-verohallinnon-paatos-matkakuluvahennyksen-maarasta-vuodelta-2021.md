@@ -1,0 +1,44 @@
+---
+title: "Verohallinnon päätös matkakuluvähennyksen määrästä vuodelta 2021 toimitettavassa verotuksessa"
+identifier: "911/2021"
+eli: "http://data.finlex.fi/eli/sd/2021/911/ajantasa"
+type: decision
+jurisdiction: fi
+language: fi
+date: 2021-11-04
+entry_into_force: 2021-11-30
+last_amended: 2021-11-04
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2021/911"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2021/911/fin@"
+retrieved: 2026-10-11
+---
+
+# Verohallinnon päätös matkakuluvähennyksen määrästä vuodelta 2021 toimitettavassa verotuksessa
+
+*911/2021*
+
+Verohallinto on tuloverolain (1535/1992) 93 §:n 2 momentin, sellaisena kuin se on laissa 504/2010, nojalla määrännyt, että asunnon ja työpaikan välisten matkakustannusten perusteella myönnettävä vähennys lasketaan, silloin kun halvimpana kulkuneuvona pidetään muuta kuin julkista kulkuneuvoa, seuraavasti:
+
+## 1 §
+
+Verovelvollisen käyttäessä asunnon ja työpaikan väliseen matkaan omistamaansa tai hallitsemaansa kulkuneuvoa vähennyksen määrät ovat:
+
+| auto | 0,25 euroa kilometriltä |
+|---|---|
+| moottoripyörä ja kevyt nelipyörä | 0,16 euroa kilometriltä |
+| mopo | 0,09 euroa kilometriltä |
+| polkupyörä | 85 euroa vuodessa |
+
+## 2 §
+
+Verovelvollisen käyttäessä edellä mainittuun matkaansa työnantajan omistamaa tai hallitsemaa autoa vähennyksen määrä on 0,19 euroa kilometriltä.
+
+## 3 §
+
+Verovelvollisen käyttäessä edellä mainittuun matkaansa muuta kuin edellä 1 ja 2 §:ssä tarkoitettua kulkuneuvoa vähennys myönnetään kustannuksista esitetyn luotettavan selvityksen perusteella.
+
+## 4 §
+
+Tämä päätös tulee voimaan 30 päivänä marraskuuta 2021.

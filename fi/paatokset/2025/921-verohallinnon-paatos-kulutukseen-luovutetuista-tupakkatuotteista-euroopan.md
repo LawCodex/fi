@@ -1,0 +1,48 @@
+---
+title: "Verohallinnon päätös kulutukseen luovutetuista tupakkatuotteista Euroopan komissiolle toimitettavia tilastoja varten annettavista tiedoista"
+identifier: "921/2025"
+eli: "http://data.finlex.fi/eli/sd/2025/921/ajantasa"
+type: decision
+jurisdiction: fi
+language: fi
+date: 2025-10-09
+entry_into_force: 2026-01-01
+last_amended: 2025-10-09
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2025/921"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2025/921/fin@"
+retrieved: 2026-10-11
+---
+
+# Verohallinnon päätös kulutukseen luovutetuista tupakkatuotteista Euroopan komissiolle toimitettavia tilastoja varten annettavista tiedoista
+
+*921/2025*
+
+Verohallinto on tupakkaverosta annetun lain (1470/1994), 13 §:n 1 momentin, sellaisena kuin se on laissa 1185/2016 ja Euroopan komission päätöksen K (2011) 5291 (28.7.2011) nojalla päättänyt:
+
+## 1 § Velvollisuus toimittaa tiedot
+
+Tietojen toimittaminen koskee valtuutettuja varastonpitäjiä ja rekisteröityjä vastaanottajia, joiden edelliseltä kalenterivuodelta savukkeista ja savukkeiksi käärittävästä hienoksi leikatusta tupakasta maksamat valmisteverot olivat yhteensä vähintään 5 000 000 €.
+
+## 2 § Toimitettavat tiedot
+
+Tiedot valmisteverotuslain (182/2010) 8 §:n tarkoittamien kulutukseen luovutettujen tuotteiden määristä sekä tuotteista kannettujen valmisteverojen kokonaismääristä on toimitettava hintaluokittain jokaiselta verokaudelta.
+
+Edellä 1 momentissa tarkoitetuista tuotteista on annettava seuraavat tiedot:
+
+• savukkeet: hintaluokka (€/1 000 kpl), määrät (1 000 kpl), kannettujen valmisteverojen määrä (1 000 €)
+
+• savukkeiksi käärittävä hienoksi leikattu tupakka: hintaluokka (€/kg), määrät (kg), kannettujen valmisteverojen määrä (1 000 €).
+
+Tiedot on annettava myös niiltä verokausilta, joiden aikana 1 momentissa tarkoitettuja tuotteita ei ole luovutettu kulutukseen.
+
+## 3 § Tietojen toimittamisen ajankohta
+
+Tiedot on toimitettava viimeistään verokautta seuraavan toisen kalenterikuukauden 12. päivänä. Jos määräpäivä on lauantai tai pyhäpäivä, tiedot voi antaa sitä seuraavana arkipäivänä.
+
+## 4 § Voimaantulo
+
+Tämä päätös tulee voimaan 1 päivänä tammikuuta 2026.
+
+Tällä päätöksellä kumotaan Verohallinnon päätös kulutukseen luovutetuista tupakkatuotteista Euroopan komissiolle toimitettavia tilastoja varten annetuista tiedoista (891/2020).

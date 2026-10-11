@@ -1,0 +1,43 @@
+---
+title: "Maa- ja metsätalousministeriön päätös kasvihuonetuotannon lopettamistuesta"
+identifier: "859/1995"
+eli: "http://data.finlex.fi/eli/sd/1995/859/ajantasa"
+type: decision
+jurisdiction: fi
+language: fi
+date: 1995-06-07
+last_amended: 1995-06-07
+status: in_force
+administrative_branch: "Maa- ja metsätalousministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/1995/859"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1995/859/fin@"
+retrieved: 2026-10-11
+---
+
+# Maa- ja metsätalousministeriön päätös kasvihuonetuotannon lopettamistuesta
+
+*859/1995*
+
+Maa- ja metsätalousministeriö on kasvihuonetuotannon ja omenanviljelyn lopettamistuesta 16 päivänä joulukuuta 1994 annetun lain (1297/94) 8 §:n 4 momentin nojalla päättänyt:
+
+## 1 § Soveltamisala
+
+Tämä päätös koskee kasvihuonetuotannon ja omenanviljelyn lopettamistuesta annetussa laissa (1297/94) tarkoitetun kasvihuonetuotannon lopettamistuen määräytymisen perusteita.
+
+## 2 § Kaupallinen kasvihuonetuotanto
+
+Kasvihuonetuotannon ja omenanviljelyn lopettamistuesta annetun lain 8 §:n 4 momentissa tarkoitettuna tuotannosta poistuvana alueena otetaan huomioon ainoastaan sellainen kasvihuonetuotanto, josta saatujen myyntitulojen keskiarvo on vuosien 1993 ja 1994 aikana ollut vähintään 50 000 markkaa.
+
+Tuotannosta poistuvaa aluetta määritettäessä voidaan kasvihuoneiden kokonaispinta-alasta ottaa huomioon enintään sellainen ala, jolta saatavien myyntitulojen laskennallinen määrä kasvihuoneneliötä kohden on vähintään 100 markkaa vuosien 1993 ja 1994 keskiarvosta laskettuna.
+
+## 3 § Lopettamistuen perusteena oleva pinta-ala
+
+Lopettamistuen perusteena olevaksi pinta-alaksi luetaan tavallisessa viljelykäytössä vuonna 1994 olleiden kasvihuoneiden pinta-ala. Pinta-alaan ei sisällytetä myymälätiloja, kasvihuonerakenteisia puutarhakeskuksia tai vastaavia tiloja eikä varsinaisten kasvihuoneiden välisiä yhdyskäytäviä tai pakkaamo-, varasto- tai vastaavassa käytössä olevia tiloja.
+
+## 4 § Eräät poikkeukset
+
+Jos yrittäjän kasvihuonetuotannon kaupallinen arvo tai lopettamistuen perusteena oleva pinta-ala on vuosien 1993 ja 1994 aikana ollut tilapäisesti alentunut, lopettamistuen perusteeksi voidaan perustelluista syistä katsoa kahden sellaisen vuotta 1994 edeltäneen vuoden keskiarvo, jotka edustavat yrittäjän tuotannon tavanomaista tasoa. Perusteltuina syinä voidaan pitää onnettomuutta, tulipaloa tai muuta näihin rinnastettavaa syytä edellyttäen, että viljelijä on tällaisen syyn päättymisen jälkeen jatkanut tuotantoa.
+
+## 5 § Voimaantulo
+
+Tämä päätös tulee voimaan samana päivänä, kun Euroopan komission päätös tässä päätöksessä tarkoitetun tuen hyväksymisestä tulee voimaan.

@@ -1,0 +1,89 @@
+---
+title: "Valtioneuvoston päätös rakennemuutosmäärärahan käyttöperusteista"
+identifier: "36/1990"
+eli: "http://data.finlex.fi/eli/sd/1990/36/ajantasa"
+type: decision
+jurisdiction: fi
+language: fi
+date: 1990-01-11
+entry_into_force: 1990-02-01
+last_amended: 1991-01-17
+status: in_force
+administrative_branch: "Työ- ja elinkeinoministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/1990/36"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1990/36/fin@19910060"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston päätös rakennemuutosmäärärahan käyttöperusteista
+
+*36/1990*
+
+Valtioneuvosto on työministeriön esittelystä päättänyt seuraavaa:
+
+## 1§ (17.1.1991/60)
+
+Valtion vuoden 1991 tulo- ja menoarviossa työllisyyden ja tuotantotoiminnan rakennemuutoksen aiheuttamien häiriöiden lieventämiseen osoitetusta määrärahasta sekä vastaavaan tarkoitukseen aikaisempina vuosina valtion tulo- ja menoarviossa osoitetuista siirtomäärärahoista (rakennemuutosmääräraha) voidaan myöntää avustuksia siten kuin tässä päätöksessä määrätään.
+
+## 2 §
+
+Avustusta voidaan myöntää yrityksille ja muille yhteisöille.
+
+## 3 §
+
+Avustusta myönnetään sellaisten hankkeiden tukemiseen, joilla lievitetään rakennemuutoksesta aiheutunutta tai uhkaavaa työttömyyttä sekä edistetään sopeutumista rakennemuutokseen ja uuteen työvoimatilanteeseen.
+
+Avustusta myönnettäessä on erityisesti otettava huomioon rakennemuutoksen vaikutuksen äkillisyys ja laajuus.
+
+## 4 §
+
+Rakennemuutokseen ja uuteen työvoimatilanteeseen sopeutumista edistävinä hankkeina otetaan huomioon erityisesti:
+
+- 1\) alueellisten yhteistyöhankkeiden edistäminen,
+- 2\) yritysten kehittämishankkeet työvoiman vähennysten ja irtisanomisten välttämiseksi,
+- 3\) yritysten työvoimatilanteen muutoksista johtuva työvoiman uudelleen sijoittaminen ja koulutus sekä
+- 4\) kehittämishankkeet uuden tuotantotoiminnan luomiseksi ja kasvun nopeuttamiseksi.
+
+## 5 §
+
+Rakennemuutosmäärärahasta myönnetään avustusta lähinnä sellaisiin kohteisiin, joihin muuta valtion rahoitusta ei ole käytettävissä. Avustusta myönnetään investointeihin vain, jos ne ovat kehittämishankkeiden kannalta välttämättömiä, pienehköjä kone- ja laiteinvestointeja.
+
+## 6 §
+
+Avustusta voidaan myöntää yrityksille vain, jos niillä on edellytykset jatkuvaan kannattavaan toimintaan tai jos myöntämiselle on muu erityisen painava syy.
+
+## 7 §
+
+Avustuksen myöntää työministeriön esittelystä valtioneuvosto. Milloin avustuksen määrä on enintään 2 000 000 markkaa, päättää tuen myöntämisestä työministeriö. Ministeriö päättää myös hankkeen toteuttamisajan muutoksista niissäkin tapauksissa, joissa valtioneuvosto on myöntänyt avustuksen.
+
+Hakemuksesta tulee ilmetä kehittämissuunnitelma, hankkeen kustannusarvio, rahoitussuunnitelma ja omarahoitusosuus. Hakemus jätetään sille työvoimatoimistolle tai työvoimapiirin toimistolle, jonka alueella hanke lähinnä sijaitsee.
+
+## 8 §
+
+Työvoimapiirin toimisto maksaa avustuksen jälkikäteen työvoimatoimiston hyväksymän maksatusselvityksen perusteella, jollei myöntämispäätöksessä ole sen maksatuksesta toisin päätetty.
+
+## 9 §
+
+Avustuksen myöntämispäätökseen on sisällytettävä ehto siitä, että valtionavun saaja voidaan velvoittaa palauttamaan perusteettomasti maksettu avustus kokonaan tai osaksi, jos myöhemmin ilmenee, että hakemuksen perustaksi on esitetty virheellisiä tietoja tai salattu asian ratkaisemiseen vaikuttavia tietoja taikka käytetty avustusta vastoin myöntämispäätöksen ehtoja.
+
+Palautettavaksi määrätylle avustukselle on suoritettava sen maksupäivästä lukien 12 prosentin vuotuinen korko. Palautuspäätöksessä määrätyn takaisinmaksupäivän jälkeen tapahtuvalle maksulle on lisäksi suoritettava 16 prosentin vuotuinen viivästyskorko määrätystä takaisinmaksupäivästä lukien.
+
+Työvoimapiirin toimisto huolehtii tarvittavista takaisinperintätoimenpiteistä.
+
+## 10 §
+
+Muutoin sovelletaan avustuksen hakemiseen, myöntämiseen, käyttöön ja käytön valvontaan, mitä valtioneuvoston päätöksessä valtionavustuksista koskeviksi yleismääräyksiksi (490/65) on määrätty.
+
+## 11 §
+
+Työministeriö antaa tarvittaessa tarkempia määräyksiä tämän päätöksen soveltamisesta.
+
+## 12 §
+
+Tämä päätös tulee voimaan 1 päivänä helmikuuta 1990.
+
+## Muutossäädösten voimaantulo ja soveltaminen
+
+### 17.1.1991/60:
+
+Tämä päätös tulee voimaan 1 päivänä helmikuuta 1991.

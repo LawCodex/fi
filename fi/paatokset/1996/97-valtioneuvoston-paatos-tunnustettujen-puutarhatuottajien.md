@@ -1,0 +1,70 @@
+---
+title: "Valtioneuvoston päätös tunnustettujen puutarhatuottajien markkinointiorganisaatioiden tukemisesta"
+identifier: "97/1996"
+eli: "http://data.finlex.fi/eli/sd/1996/97/ajantasa"
+type: decision
+jurisdiction: fi
+language: fi
+date: 1996-02-15
+entry_into_force: 1996-02-21
+last_amended: 1996-02-15
+status: in_force
+administrative_branch: "Maa- ja metsätalousministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/1996/97"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1996/97/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston päätös tunnustettujen puutarhatuottajien markkinointiorganisaatioiden tukemisesta
+
+*97/1996*
+
+Valtioneuvosto on maa- ja metsätalouden rakennepoliittisista toimenpiteistä 22 päivänä joulukuuta 1994 annetun lain (1303/94) nojalla maa- ja metsätalousministeriön esittelystä päättänyt:
+
+## 1 § Soveltamisala
+
+Tätä päätöstä sovelletaan myönnettäessä hedelmä- ja vihannesalan yhteisestä markkinajärjestelystä annetun neuvoston asetuksen (ETY) N:o 1035/72 14 artiklassa tarkoitettua käynnistysavustusta.
+
+Tämän päätöksen määräyksiä on noudatettava sen lisäksi, mitä 1 momentissa sanotussa neuvoston asetuksessa, hedelmä- ja vihannesalan tuottajajärjestöjen todellisista perustamis- ja hallintokuluista annetussa komission asetuksessa (ETY) N:o 2118/78 ja maa- ja metsätalouden rakennepoliittisista toimenpiteistä annetussa laissa (1303/94), jäljempänä rakennepolitiikkalaki, säädetään.
+
+Käynnistysavustusta voidaan myöntää sellaiselle markkinointiorganisaatiolle, joka on puutarhatuottajien markkinointiorganisaatioiden tunnustamisesta annetun valtioneuvoston päätöksen (850/95) mukaisesti tunnustettu.
+
+Käynnistysavustusta voidaan kunakin kalenterivuonna myöntää enintään maatilatalouden kehittämisrahaston käyttösuunnitelmassa tarkoitukseen osoitettujen määrärahojen rajoissa.
+
+## 2 § Käynnistysavustuksen hakeminen
+
+Käynnistysavustusta haetaan maa- ja metsätalousministeriön vahvistamalla lomakkeella.
+
+Hakemus jätetään sille maaseutuelinkeinopiirille, jonka toimialueella markkinointiorganisaation pääasiallinen toimipiste sijaitsee.
+
+Maa- ja metsätalousministeriö antaa tarkemmat määräykset käynnistysavustuksen hakuajoista ja muusta hakemismenettelystä.
+
+## 3 § Käynnistysavustuksen myöntäminen ja maksaminen
+
+Käynnistysavustuksen myöntää maa- ja metsätalousministeriö. Avustus myönnetään kultakin vuodelta erikseen.
+
+Avustuksen lopullinen suuruus perustuu markkinointiorganisaation vuosittain antamaan selvitykseen todellisista perustamis- ja hallintokustannuksista sekä kunkin vuoden aikana markkinoidun tuotannon arvosta tuottajahinnoin laskettuna. Tuotannon arvoa laskettaessa ei oteta huomioon arvonlisäveroa.
+
+Avustus voidaan myöntää myös ennakkona hakemuksessa ilmoitetun tuotannon arvosta ja todellisista perustamis- ja hallintokustannuksista esitetyn hyväksyttävän arvion perusteella.
+
+Tarkemmat määräykset avustuksen myöntämisestä ja maksamisesta antaa maa- ja metsätalousministeriö.
+
+## 4  § Käynnistysavustuksen lakkauttaminen ja takaisin periminen
+
+Käynnistysavustus voidaan rakennepolitiikkalain 41 §:n 2 momentin 2 kohdan perusteella lakkauttaa tai periä takaisin, jos käynnistysavustuksen saaja on avustuksen maksamista seuraavien viiden vuoden aikana ilman pakottavaa syytä lopettanut avustuksen myöntämisen perusteena olevan toimintansa taikka olennaisesti supistanut tai muuttanut sitä.
+
+Käynnistysavustus voidaan rakennepolitiikkalain 41 §:n 2 momentin 5 kohdan perusteella lakkauttaa tai periä takaisin, jos avustusta saanut yhteisö tai yhteisön työntekijät kieltäytyvät antamasta avustuksen käyttöön liittyviä tietoja taikka tili- ja muita asiakirjoja maa- ja metsätalousministeriön tai sen alaisen viranomaisen määräämille tarkastajille taikka avustamasta tarpeellisessa määrin rakennepolitiikkalain mukaisten tarkastusten ja valvonnan suorittamisessa.
+
+Sen lisäksi käynnistysavustuksen lakkauttamisesta ja takaisinperimisestä on voimassa, mitä siitä muutoin rakennepolitiikkalain 41 §:ssä säädetään.
+
+## 5 § Takaisin perittävälle määrälle maksettava korko
+
+Takaisin perittävälle määrälle on maksetta-va avustuksen maksupäivästä lukien vuotuista korkoa korkolain (633/82) 3 §:n 2 momentissa tarkoitetun korkokannan mukaan lisättynä kolmella prosenttiyksiköllä.
+
+## 6 § Viivästyskorko
+
+Mikäli takaisin maksettavaksi määrättyä käynnistysavustusta tai sen osaa ei makseta määräajassa, takaisin maksettavaksi määrätylle pääomalle peritään vuotuista viivästyskorkoa korkolain 4 §:n 3 momentissa tarkoitetun korkokannan mukaan kunkin erän erääntymisestä lukien.
+
+## 7 § Voimaantulo
+
+Tämä päätös tulee voimaan 21 päivänähelmikuuta 1996.

@@ -1,0 +1,90 @@
+---
+title: "Verohallinnon päätös välittäjän rekisteröinnistä maahantuotavien tavaroiden etämyyntiä koskevaan erityisjärjestelmään"
+identifier: "400/2021"
+eli: "http://data.finlex.fi/eli/sd/2021/400/ajantasa"
+type: decision
+jurisdiction: fi
+language: fi
+date: 2021-05-07
+entry_into_force: 2021-05-12
+last_amended: 2021-05-07
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2021/400"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2021/400/fin@"
+retrieved: 2026-10-11
+---
+
+# Verohallinnon päätös välittäjän rekisteröinnistä maahantuotavien tavaroiden etämyyntiä koskevaan erityisjärjestelmään
+
+*400/2021*
+
+Verohallinto on arvonlisäverolain (1501/1993) 134 a §:n 2 momentin sellaisena kuin se on laissa 505/2014, nojalla päättänyt:
+
+## 1 § Tunnistetiedot
+
+Välittäjän on ilmoitettava nimensä ja arvonlisäverotunnisteensa.
+
+## 2 § Liiketoimipaikka
+
+Välittäjän on ilmoitettava jäsenvaltio, jossa hänellä on liiketoimipaikkansa, tai, jollei toimipaikkaa ole Yhteisössä, jäsenvaltio, jossa välittäjällä on kiinteä toimipaikka ja jossa se ilmoittaa käyttävänsä tuontijärjestelmää edustamiensa verovelvollisten puolesta.
+
+## 3 § Apu- ja rinnakkaistoiminimet
+
+Välittäjän on ilmoitettava apu- ja rinnakkaistoiminimensä, jos välittäjä käyttää erityisjärjestelmässä muuta toiminimeä kuin virallista toiminimeään.
+
+## 4 § Postiosoite
+
+Välittäjän on ilmoitettava postiosoitteensa.
+
+## 5 § Yhteyshenkilö
+
+Välittäjän on ilmoitettava yhteyshenkilön nimi.
+
+## 6 § Puhelinnumero
+
+Välittäjän on ilmoitettava puhelinnumeronsa.
+
+## 7 § Sähköpostiosoite
+
+Välittäjän on ilmoitettava sähköpostiosoitteensa.
+
+## 8 § Pankkiyhteystiedot
+
+Välittäjän on ilmoitettava tilinumeronsa IBAN muodossa tai muut vastaavat pankkitilitiedot muussa vastaavassa muodossa sekä pankin BIC tunnus.
+
+## 9 § Toiminta
+
+Välittäjän on annettava selvitys toiminnasta, jonka vuoksi hän hakeutuu välittäjänä tuontijärjestelmään.
+
+## 10 § Erityisjärjestelmän aiempi käyttö
+
+Välittäjän on ilmoitettava käyttääkö hän nykyisin tai onko hän käyttänyt aiemmin erityisjärjestelmää. Jos hän käyttää tai on käyttänyt aiemmin erityisjärjestelmää, välittäjän on ilmoitettava tunnistamisjäsenvaltio ja tunniste.
+
+## 11 § Tunnistamisjäsenvaltion vaihtaminen
+
+Välittäjän on ilmoitettava, haluaako hän jatkaa nykyisen järjestelmän käyttöä ja vaihtaa tunnistamisjäsenvaltioksi Suomen. Jos välittäjä haluaa vaihtaa tunnistamisvaltioksi Suomen, hänen on ilmoitettava nykyinen tunnistamisjäsenvaltio ja nykyinen tunniste.
+
+## 12 § Kiinteä toimipaikka muussa Yhteisön jäsenvaltiossa
+
+Välittäjän on ilmoitettava, onko hänellä kiinteitä toimipaikkoja muissa Yhteisön jäsenvaltiossa. Jos välittäjällä on kiinteitä toimipaikkoja, hänen on ilmoitettava, onko toimipaikalla arvonlisäverotunniste ja jos on, hänen on ilmoitettava arvonlisäverotunniste, tunnisteen myöntänyt maa, toimipaikan nimi ja osoite. Jos arvonlisäverotunnistetta ei ole, välittäjän on ilmoitettava verorekisterinumero, numeron myöntänyt maa, toimipaikan nimi ja osoite.
+
+## 13 § Arvonlisäverotunnisteet muissa Yhteisön jäsenvaltioissa
+
+Välittäjän on ilmoitettava ne Yhteisön jäsenvaltiot, joissa hänelle on myönnetty arvonlisäverotunniste sekä kyseinen arvonlisäverotunniste.
+
+## 14 § Ilmoituksen tekeminen
+
+Ilmoitus on tehtävä sähköisesti.
+
+Siitä, mitä sähköistä menettelyä käyttäen ilmoitus on tehtävä, määrätään Verohallinnon sähköisestä asioinnista ja varmentamisesta antamassa päätöksessä.
+
+## 15 § Ilmoituksen allekirjoittaminen
+
+Ilmoitus on allekirjoitettava.
+
+Sähköinen ilmoitus täyttää allekirjoitusvaatimuksen, jos se on varmennettu siten kuin Verohallinto on sähköisestä asioinnista ja varmentamisesta antamassaan päätöksessä määrännyt.
+
+## 16 § Voimaantulo
+
+Tämä päätös tulee voimaan 12 päivänä toukokuuta 2021.

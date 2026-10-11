@@ -1,0 +1,78 @@
+---
+title: "Verohallinnon päätös valmisteverovelvolliseksi rekisteröitymisessä ilmoitettavista tiedoista"
+identifier: "978/2023"
+eli: "http://data.finlex.fi/eli/sd/2023/978/ajantasa"
+type: decision
+jurisdiction: fi
+language: fi
+date: 2023-10-25
+entry_into_force: 2024-01-01
+last_amended: 2023-10-25
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2023/978"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2023/978/fin@"
+retrieved: 2026-10-11
+---
+
+# Verohallinnon päätös valmisteverovelvolliseksi rekisteröitymisessä ilmoitettavista tiedoista
+
+*978/2023*
+
+Verohallinto on valmisteverotuslain (182/2010) 34 §:n, sellaisena kuin se on laissa 766/2020, nojalla päättänyt:
+
+## 1 § Ilmoittajan tiedot
+
+Rekisteröityjästä on ilmoitettava nimi, henkilö- tai Y-tunnus ja osoite.
+
+## 2 § Biopolttoöljyn valmistaja
+
+Nestemäisten polttoaineiden valmisteverosta annetun lain (1472/1994) 11 a §:n 1 momentissa tarkoitetun biopolttoöljyn valmistajan on ilmoitettava toiminnan aloituspäivä, valmistettava tuote, tuotteen valmistuspaikan nimi ja osoite, tuotteen käyttötarkoitus, arvio biopolttoaineen enimmäisvalmistusmäärästä sekä siirretäänkö biopolttoöljyä Suomen ja toisen maan välillä.
+
+## 3 § Sähköverkonhaltija
+
+Sähkön ja eräiden polttoaineiden valmisteverosta (1260/1996) annetun lain 2 §:n 4 kohdassa tarkoitetun sähköverkonhaltijan on ilmoitettava sähköverkkoluvan numero.
+
+## 4 § Sähkön tuottaja ja pientuottaja
+
+Sähkön ja eräiden polttoaineiden valmisteverosta annetun lain 2 §:n 5 a kohdassa tarkoitetun sähköntuottajan ja 2 §:n 5 b kohdassa tarkoitetun pientuottajan on ilmoitettava voimalaitoksen nimi, sähkön tuotantotapa, nimellisteho, pääasialliset polttoaineet, osoite ja kiinteistötunnus tai kiinteistötunnukset.
+
+## 5 § Polttoturpeen käyttäjä ja pienkäyttäjä
+
+Sähkön ja eräiden polttoaineiden valmisteverosta annetun lain 15 §:n 1 momentissa tarkoitetun polttoturpeen käyttäjän ja 17 a §:ssä tarkoitetun pienkäyttäjän on ilmoitettava arvio lämmityskäyttöön käytettävän polttoturpeen käyttömäärästä. Arvio esitetään megawattitunteina kalenterivuodessa. Lisäksi on ilmoitettava polttoturpeen käyttöpaikan osoite.
+
+## 6 § Mäntyöljyn käyttäjä
+
+Sähkön ja eräiden polttoaineiden valmisteverosta annetun lain 15 §:n 2 momentissa tarkoitetun mäntyöljyn käyttäjän on ilmoitettava käyttöpaikan osoite.
+
+## 7 § Rekisteröity jakeluverkonhaltija
+
+Sähkön ja eräiden polttoaineiden valmisteverosta annetun lain 21 a §:n 1 momentissa tarkoitetun rekisteröidyn jakeluverkonhaltijan on ilmoitettava 17 a §:ssä tarkoitetun Verohallinnon rekisteriin merkittävän verottoman jakeluverkon osoite ja nimi. Jos rekisteröitäviä jakeluverkkoja on useita, tiedot on ilmoitettava kaikista jakeluverkoista.
+
+## 8 § Maakaasun ja biokaasun rekisteröity käyttäjä
+
+Sähkön ja eräiden polttoaineiden valmisteverosta annetun lain 21 a §:n 2 momentissa tarkoitetun maakaasun ja biokaasun rekisteröidyn käyttäjän on annettava kuvaus verottomasta käytöstä. Kuvauksessa tulee olla prosessikaavio tai muu erillisessä liitteessä oleva selvitys. Lisäksi on ilmoitettava maa- ja biokaasun käyttöpaikan tai käyttöpaikkojen osoitteet.
+
+## 9 § Kaatopaikanpitäjä
+
+Jäteverolain (1126/2010) 9 §:ssä tarkoitetun kaatopaikan pitäjän on ilmoitettava ympäristöluvan numero ja jätteen kaatopaikan osoite.
+
+## 10 § Virvoitusjuomien pienvalmistaja
+
+Virvoitusjuomaverosta annetun lain (1127/2010) 1 §:n 4 momentissa tarkoitetun virvoitusjuomien pienvalmistajan on vahvistettava rekisteritiedot vuosittain helmikuun loppuun mennessä.
+
+## 11 § Juomapakkausten pienvalmistaja
+
+Eräiden juomapakkausten valmisteverosta annetun lain (1037/2004) 1 §:n 3 momentissa tarkoitetun juomapakkausten pienvalmistajan on vahvistettava rekisteritiedot vuosittain helmikuun loppuun mennessä.
+
+## 12 § Kaivostoiminnan harjoittaja
+
+Kaivosmineraaliverolain (314/2023) 2 §:ssä tarkoitetun kaivostoiminnan harjoittajan on ilmoitettava kaivoskohtaisesti kaivoslainsäädännössä tarkoitetussa lainvoimaisessa luvassa oleva kaivosnumero, kaivoksen nimi, ja kaivoksen sijaintikunta tai sijaintikunnat.
+
+Jos kaivos sijaitsee useamman kuin yhden kunnan alueella, kaivostoiminnan harjoittajan on lisäksi ilmoitettava tieto kaivosalueen pinta-alasta. Tieto on annettava eriteltynä kuntakohtaisesti hehtaareissa 1 desimaalin tarkkuudella. Kaivoksen alueen pinta-alassa ei huomioida kaivoslainsäädännössä tarkoitettua apualueen pinta-alaa.
+
+## 13 § Voimaantulo
+
+Tämä päätös tulee voimaan 1 tammikuuta 2024.
+
+Päätöksellä kumotaan Verohallinnon päätös valmisteverovelvolliseksi rekisteröitymisessä ilmoitettavista tiedoista (1099/2021).

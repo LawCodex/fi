@@ -1,0 +1,60 @@
+---
+title: "Maa- ja metsätalousministeriön päätös metsähallituksen piirihallinnosta"
+identifier: "96/1990"
+eli: "http://data.finlex.fi/eli/sd/1990/96/ajantasa"
+type: decision
+jurisdiction: fi
+language: fi
+date: 1990-01-26
+entry_into_force: 1990-03-01
+last_amended: 1990-01-26
+status: in_force
+administrative_branch: "Maa- ja metsätalousministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/1990/96"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1990/96/fin@"
+retrieved: 2026-10-11
+---
+
+# Maa- ja metsätalousministeriön päätös metsähallituksen piirihallinnosta
+
+*96/1990*
+
+Maa- ja metsätalousministeriö on metsähallinnosta 27 päivänä helmikuuta 1987 annetun asetuksen (213/87) 24§:n nojalla päättänyt:
+
+## 1 §
+
+Metsähallituksen piirihallintoa varten maa jaetaan kolmeen piirikuntaan: Perä-Pohjolan, Pohjanmaan ja Etelä-Suomen piirikuntiin.
+
+## 2 §
+
+Piirikuntien rajat määräytyvät seuraavasti:
+
+*Perä-Pohjolan piirikunta* käsittää Lapin läänin lukuun ottamatta osia Sallan kunnasta;
+
+*Pohjanmaan piirikunta* käsittää Lapin läänistä osia Sallan kunnasta, Oulun läänin lukuun ottamatta osia Kuhmon ja Sotkamon kunnista ja Kajaanin kaupungista sekä Vaasan läänistä Himangan, Kannuksen, Kälviän, Lestijärven, Lohtajan, Toholammin ja Ullavan kunnat;
+
+*Etelä-Suomen piirikunta* käsittää Oulun läänistä osia Kuhmon ja Sotkamon kunnista ja Kajaanin kaupungista, Vaasan läänin lukuun ottamatta Himangan, Kannuksen, Kälviän, Lestijärven, Lohtajan, Toholammin ja Ullavan kuntia, Keski-Suomen, Pohjois-Karjalan, Kuopion, Mikkelin, Kymen, Hämeen, Turun ja Porin sekä Uudenmaan läänit.
+
+## 3 §
+
+Piirikuntakonttoreiden sijoituspaikkoina ovat: Perä-Pohjolan piirikuntakonttorin Rovaniemi, Pohjanmaan piirikuntakonttorin Oulu ja Etelä-Suomen piirikuntakonttorin Kuopio.
+
+## 4 §
+
+Piirikunnat jakaantuvat 27 hoitoalueeseen ja yhteen puistoalueeseen siten, että
+
+*Perä-Pohjolan piirikuntaan* kuuluvat:
+
+Kittilän hoitoalue, jonka toimiston sijaintipaikkana on Kittilä, Länsi-Lapin hoitoalue, jonka toimiston sijaintipaikkana on Pello, Ranuan hoitoalue, jonka toimiston sijaintipaikkana on Ranua, Rovaniemen hoitoalue, jonka toimiston sijaintipaikkana on Rovaniemi, Sodankylän hoitoalue, jonka toimiston sijaintipaikkana on Sodankylä, Ylikemin hoitoalue, jonka toimiston sijaintipaikkana on Kemijärvi, Ylä-Lapin hoitoalue, jonka toimiston sijaintipaikkana on Ivalo, ja Koilliskairan puistoalue, jonka toimiston sijantipaikkana on Vuotso.
+
+*Pohjanmaan piirikuntaan* kuuluvat:
+
+Hyrynsalmen hoitoalue, jonka toimiston sijaintipaikkana on Hyrynsalmi, Keski-Pohjan hoitoalue, jonka toimiston sijaintipaikkana on Haapajärvi, Kiannan hoitoalue, jonka toimiston sijaintipaikkana on Ämmänsaari, Kuhmon hoitoalue, jonka toimiston sijaintipaikkana on Kuhmo, Pudasjärven hoitoalue, jonka toimiston sijaintipaikkana on Pudasjärvi, Puolangan hoitoalue, jonka toimiston sijaintipaikkana on Puolanka, Suomussalmen hoitoalue, jonka toimiston sijaintipaikkana on Ämmänsaari, Taivalkosken hoitoalue, jonka toimiston sijaintipaikkana on Taivalkoski, ja Vaalan hoitoalue, jonka toimiston sijaintipaikkana on Kajaani.
+
+*Etelä-Suomen piirikuntaan* kuuluvat:
+
+Hämeenlinnan hoitoalue, jonka toimiston sijaintipaikkana on Hämeenlinna, Ilomantsin hoitoalue, jonka toimiston sijaintipaikkana on Ilomantsi, Jyväskylän hoitoalue, jonka toimiston sijaintipaikkana on Jyväskylä, Karstulan hoitoalue, jonka toimiston sijaintipaikkana on Karstula, Korkeakosken hoitoalue, jonka toimiston sijaintipaikkana on Orivesi, Lieksan hoitoalue, jonka toimiston sijaintipaikkana on Lieksa, Mikkelin hoitoalue, jonka toimiston sijaintipaikkana on Mikkeli, Nurmeksen hoitoalue, jonka toimiston sijaintipaikkana on Nurmes, Parkanon hoitoalue, jonka toimiston sijaintipaikkana on Parkano, Savonlinnan hoitoalue, jonka toimiston sijaintipaikkana on Savonlinna, ja Viitasaaren hoitoalue, jonka toimiston sijaintipaikkana on Viitasaari.
+
+## 5 §
+
+Tämä päätös tulee voimaan 1 päivänä maaliskuuta 1990.

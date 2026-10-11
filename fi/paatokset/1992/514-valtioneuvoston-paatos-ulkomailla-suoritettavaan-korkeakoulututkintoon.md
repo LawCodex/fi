@@ -1,0 +1,44 @@
+---
+title: "Valtioneuvoston päätös ulkomailla suoritettavaan korkeakoulututkintoon myönnettävän opintotuen enimmäiskestosta"
+identifier: "514/1992"
+eli: "http://data.finlex.fi/eli/sd/1992/514/ajantasa"
+type: decision
+jurisdiction: fi
+language: fi
+date: 1992-05-27
+entry_into_force: 1992-07-01
+last_amended: 1992-05-27
+status: in_force
+administrative_branch: "Opetus- ja kulttuuriministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/1992/514"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1992/514/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston päätös ulkomailla suoritettavaan korkeakoulututkintoon myönnettävän opintotuen enimmäiskestosta
+
+*514/1992*
+
+Valtioneuvosto on 14 päivänä helmikuuta 1992 korkeakouluopiskelijoiden opintotuesta annetun lain (111/92) 4 §:n nojalla opetusministeriön esittelystä päättänyt:
+
+## 1 §
+
+Ulkomailla suoritettavaan korkeakoulututkintoon myönnetään korkeakouluopiskelijoiden opintotuesta annetun lain (111/92) 4 §:n mukaisen 70 kuukauden enimmäistukiajan puitteissa, siten kuin jäljempänä määrätään.
+
+## 2 §
+
+Suomalaisen korkeakoulun perustutkintoa vastaavaan ulkomaiseen korkeakoulututkintoon opintotukea myönnetään enintään 55 kuukaudeksi, ellei jäljempänä toisin määrätä.
+
+Opintotukea myönnetään tämän lisäksi opintoja edeltäviin pakollisiin kieliopintoihin niiden säännönmukaisen keston ajaksi, enintään kuitenkin 10 kuukaudeksi.
+
+## 3 §
+
+Mikäli ulkomaisen korkeakoulututkinnon opetusohjelman mukainen keskimääräinen suorittamisaika on alle 55 kuukautta, suoritetaan opintotukea opintojen opetusohjelman mukaisen keston ajaksi. Valtion opintotukikeskus voi erityisestä syystä pidentää tukiaikaa enintään viidellä kuukaudella.
+
+## 4 §
+
+Mikäli ulkomaisen korkeakoulututkinnon opetusohjelman mukainen keskimääräinen suorittamisaika ylittää 55 kuukautta, suoritetaan opintotukea opintojen opetusohjelman mukaisen keston ajaksi, enintään kuitenkin 65 kuukaudeksi. Valtion opintotukikeskus voi erityisestä syystä pidentää tukiaikaa enintään viidellä kuukaudella.
+
+## 5 §
+
+Tämä päätös tulee voimaan 1 päivänä heinäkuuta 1992.

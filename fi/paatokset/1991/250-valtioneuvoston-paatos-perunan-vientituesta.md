@@ -1,0 +1,60 @@
+---
+title: "Valtioneuvoston päätös perunan vientituesta"
+identifier: "250/1991"
+eli: "http://data.finlex.fi/eli/sd/1991/250/ajantasa"
+type: decision
+jurisdiction: fi
+language: fi
+date: 1991-02-07
+entry_into_force: 1991-02-15
+last_amended: 1991-02-07
+status: in_force
+administrative_branch: "Työ- ja elinkeinoministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/1991/250"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1991/250/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston päätös perunan vientituesta
+
+*250/1991*
+
+Eduskunnan myönnettyä vuoden 1991 tulo- ja menoarviossa määrärahan perunan vientitukeen, valtioneuvosto on kauppa- ja teollisuusministeriön esittelystä päättänyt määrärahan käyttämisestä seuraavaa:
+
+## 1§
+
+Vientiin toimitettavan ruokaperunan, kuoritun perunan ja siemenperunan viejälle voidaan maksaa vuoden 1991 tulo- ja menoarvion momentilta 30.32.40 enintään yhteensä 10 miljoonaa markkaa vientitukea siten kuin tässä päätöksessä määrätään.
+
+## 2§
+
+Vientiin toimitettavan perunan on täytettävä vastaanottavan maan viranomaisten tuontiperunalle asettamat vaatimukset.
+
+## 3§
+
+Vientitukea maksetaan yli 10 000 kiloa suuremmalle vientierälle 35 p/kg.
+
+## 4§
+
+Vientitukilaskelmassa käytetään vientimääränä vientitavaran tullausilmoituksessa hyväksyttyä vientierän nettopainoa edellyttäen, että vientiin mennyt tavara on täyttänyt 2§:n mukaiset vaatimukset.
+
+## 5§
+
+Viejän tulee viennin tapahduttua toimittaa allekirjoitettu vientitukihakemus kauppa- ja teollisuusministeriölle kahtena kappaleena viimeistään 15.8.1991 mennessä. Vientituki maksetaan hakemusten saapumisjärjestyksessä. Hakemukseen tulee liittää asianmukaisin tullausmerkinnöin varustettu vientitavaran tullausilmoitus, tullilaki (573/78) 13§.
+
+## 6§
+
+Vientituki maksetaan hakemuksesta viejälle aikaisintaan vientikuukautta seuraavan kuukauden aikana.
+
+## 7§
+
+Kauppa- ja teollisuusministeriö voi määrätä vientituen kokonaan tai osittain maksettavaksi takaisin, mikäli tuen saamiseksi on esitetty virheellisiä tai puutteellisia tietoja tai salattu seikkoja, jotka vaikuttavat tuen maksamiseen tai määrään.
+
+Palautettavalle määrälle on maksettava korkoa 18 % tuen maksupäivästä lukien.
+
+## 8§
+
+Tarkempia määräyksiä tämän päätöksen täytäntöönpanosta antaa tarvittaessa kauppa- ja teollisuusministeriö.
+
+Tämä päätös tulee voimaan 15 päivänä helmikuuta 1991.
+
+Tätä päätöstä voidaan kuitenkin soveltaa jo ennen sen voimaantuloa tammikuun 1 päivänä 1991 tai sen jälkeen toimitettuihin perunan vientieriin.
