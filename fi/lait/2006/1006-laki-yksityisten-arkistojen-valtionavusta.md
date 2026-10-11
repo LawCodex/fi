@@ -1,0 +1,140 @@
+---
+title: "Laki yksityisten arkistojen valtionavusta"
+identifier: "1006/2006"
+eli: "http://data.finlex.fi/eli/sd/2006/1006/ajantasa"
+type: act
+jurisdiction: fi
+language: fi
+date: 2006-11-17
+entry_into_force: 2007-01-01
+last_amended: 2023-03-03
+status: in_force
+administrative_branch: "Opetus- ja kulttuuriministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2006/1006"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2006/1006/fin@20230325"
+retrieved: 2026-10-11
+---
+
+# Laki yksityisten arkistojen valtionavusta
+
+*1006/2006*
+
+Eduskunnan päätöksen mukaisesti säädetään:
+
+## 1 luku Yleiset säännökset
+
+### 1 § Tarkoitus
+
+Tämän lain tarkoituksena on edistää kansalliseen kulttuuriperintöön kuuluvien yksityisten arkistoaineistojen säilymistä ja käyttöä turvaamalla tällaisia aineistoja säilyttävien yksityisten arkistojen toimintaedellytykset niille myönnettävillä valtionavustuksilla.
+
+### 2 § Soveltamisala
+
+Tässä laissa säädetään niistä perusteista ja menettelyistä, joita noudatetaan myönnettäessä valtionavustuksia yksityisille arkistoille valtion talousarvioon tätä tarkoitusta varten otetusta määrärahasta.
+
+### 3 § Avustettava toiminta
+
+Tämän lain nojalla voidaan myöntää pysyväisluonteista valtionavustusta ja harkinnanvaraista valtionavustusta yksityisten arkistoaineistojen:
+
+- 1\) hankintaan ja säilyttämiseen;
+- 2\) järjestämiseen ja luetteloimiseen sekä käyttöä edistävien hakujärjestelmien laadintaan;
+- 3\) asettamiseen tutkijoiden ja muiden tarvitsijoiden käyttöön; sekä
+- 4\) käyttöä edistävään muuhun toimintaan.
+
+### 4 § Valtionapuviranomainen
+
+Valtionapuviranomainen tässä laissa tarkoitetuissa valtionavustuksissa on Kansallisarkisto.
+
+## 2 luku Pysyväisluonteinen valtionavustus
+
+### 5 § Valtionavustukseen oikeutetut arkistot
+
+Pysyväisluonteista valtionavustusta voidaan myöntää rekisteröidyn yhdistyksen tai säätiön ylläpitämälle, toiminnaltaan tieteellisesti ja yhteiskunnallisesti merkittävälle yksityiselle arkistolle, jonka opetusministeriö on saatuaan asiasta Kansallisarkiston lausunnon hyväksynyt valtionavustukseen oikeutetuksi.
+
+### 6 § Pysyväisluonteisen valtionavustuksen edellytykset
+
+Sen lisäksi mitä 5 §:ssä säädetään, pysyväisluonteisen valtionavustuksen myöntämisen edellytyksenä on, että:
+
+- 1\) arkistossa noudatetaan tätä lakia;
+- 2\) arkistossa säilytettävä arkistoaineisto on oleellisilta osiltaan tutkijoiden ja muiden tarvitsijoiden käytettävissä ja arkistolla on järjestetty tutkijapalvelu;
+- 3\) arkistoaineistoa hoidetaan erillään arkiston ylläpitäjän muusta toiminnasta;
+- 4\) arkistoaineistoa säilytetään Kansallisarkiston hyväksymissä arkistotiloissa;
+- 5\) arkistossa on sen tehtäviin nähden riittävä ja ammatillisesti pätevä henkilökunta; sekä
+- 6\) arkistolla on Kansallisarkiston hyväksymät toimintaa ohjaavat säännöt.
+
+### 7 § Avustuksen määräytyminen
+
+Pysyväisluonteinen valtionavustus voi olla enintään 80 prosenttia arkiston hyväksyttävistä menoista, joihin sisältyvät riittävät henkilöstö-, kiinteistö- ja toimintamenot.
+
+Valtionavustusta määrättäessä otetaan huomioon arkiston toiminnan laatu ja laajuus sekä taloudellisuus ja tuloksellisuus.
+
+## 3 luku Harkinnanvarainen valtionavustus
+
+### 8 § Erityinen harkinnanvarainen valtionavustus
+
+Yksityisluonteiselle arkistolle, joka saa pysyväisluonteista valtionavustusta, voidaan myöntää erityistä harkinnanvaraista valtionavustusta arkiston menojen täyteen määrään. Edellytyksenä on, että arkistolla on erityisen merkittäviä kulttuuri-ilmiöiden dokumentointiin ja dokumenttiaineistojen tutkimuskäytön edistämiseen liittyviä tehtäviä ja että avustuksen myöntämiseen on erityinen syy.
+
+### 9 § Kertaluonteinen harkinnanvarainen valtionavustus
+
+Yksityisluonteiselle arkistolle, joka saa pysyväisluonteista valtionavustusta, voidaan myöntää kertaluonteisena harkinnanvaraista valtionavustusta huomattaviin erityismenoihin ja kehityshankkeisiin sekä arkistojen yhteisiin hankkeisiin.
+
+## 4 luku Erinäiset säännökset
+
+### 10 § (3.3.2023/325)
+
+10 § on kumottu L:lla 3.3.2023/325.
+
+### 11 § Valtionavustuslain soveltaminen
+
+Jollei tässä laissa toisin säädetä, tässä laissa tarkoitettuihin valtionavustuksiin sovelletaan, mitä valtionavustuslaissa (688/2001) säädetään.
+
+### 12 § Arkistoaineistojen julkisuus
+
+Jollei asiakirjojen julkisuudesta tai salassapidosta toisin säädetä, valtionavustusta saavassa yksityisessä arkistossa säilytettävien aineistojen julkisuudessa noudatetaan, mitä siitä on aineistojen luovuttajan kanssa sovittu.
+
+### 13 § Maksuperusteet
+
+Valtionavustusta saavan yksityisen arkiston aineistojen ja hakemistojen käyttö arkiston tiloissa on maksutonta. Muista suoritteistaan arkisto voi periä kohtuullisia maksuja.
+
+### 14 § Toiminnan lakkaaminen
+
+Jos valtionavustusta saavan yksityisen arkiston toiminta lopetetaan, sen hallussa oleva arkistoaineisto on säilytettävä Kansallisarkiston hyväksymällä tavalla.
+
+## 5 luku Voimaantulo- ja siirtymäsäännökset
+
+### 15 § Voimaantulo
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2007.
+
+Tällä lailla kumotaan yksityisluontoisten arkistojen valtionavusta 20 päivänä joulukuuta 1974 annettu laki (998/1974) siihen myöhemmin tehtyine muutoksineen.
+
+Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.
+
+### 16 § Siirtymäsäännökset
+
+Yksityinen arkisto, joka ennen tämän lain voimaantuloa on ollut oikeutettu tällä lailla kumotun lain mukaiseen lakimääräiseen valtionapuun, on oikeutettu 5 §:n mukaiseen pysyväisluonteiseen valtionavustukseen.
+
+Ennen lain voimaantuloa myönnetyn valtionavun käytössä ja käytön valvonnassa, lopullisen valtionavun vahvistamisessa, palauttamisessa ja takaisinperinnässä noudatetaan valtionavun myöntämisajankohtana voimassa olleita säännöksiä.
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+HE 127/2006
+
+SiVM 8/2006
+
+EV 130/2006
+
+## Muutossäädösten voimaantulo ja soveltaminen
+
+### 21.12.2016/1311:
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2017.
+
+HE 132/2016, HaVM 25/2016, EV 240/2016
+
+### 3.3.2023/325:
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2024.
+
+HE 282/2022, SiVM 21/2022, EV 271/2022

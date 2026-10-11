@@ -1,0 +1,771 @@
+---
+title: "Laki metsätalouden määräaikaisesta kannustejärjestelmästä"
+identifier: "71/2023"
+eli: "http://data.finlex.fi/eli/sd/2023/71/ajantasa"
+type: act
+jurisdiction: fi
+language: fi
+date: 2023-01-19
+entry_into_force: 2024-01-01
+last_amended: 2025-12-22
+status: in_force
+administrative_branch: "Maa- ja metsätalousministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2023/71"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2023/71/fin@20251373"
+retrieved: 2026-10-11
+---
+
+# Laki metsätalouden määräaikaisesta kannustejärjestelmästä
+
+*71/2023*
+
+Eduskunnan päätöksen mukaisesti säädetään:
+
+## 1 luku Yleiset säännökset
+
+### 1 § Tarkoitus
+
+Tämän lain tarkoituksena on edistää ja sovittaa yhteen taloudellisesti, ekologisesti ja sosiaalisesti kestävää metsän hoitoa ja käyttöä. Tämän lain nojalla rahoitetaan toimenpiteitä, joiden tarkoituksena on:
+
+- 1\) lisätä metsien kasvua;
+- 2\) turvata ja lisätä metsien biologista monimuotoisuutta;
+- 3\) edistää metsätalouden vesiensuojelua;
+- 4\) hillitä ilmastonmuutosta ja edistää metsien sopeutumista ilmastonmuutokseen;
+- 5\) pitää yllä metsätalouden tieverkkoa.
+
+### 2 § Soveltamisala ja rahoituksen kohdentamista koskevat rajoitukset
+
+Tässä laissa tarkoitettua rahoitusta voidaan valtion talousarviossa vuosittain osoitetun määrärahan rajoissa kohdistaa vain niihin metsiin, jotka kuuluvat metsälain (1093/1996) soveltamisalaan sekä niihin valtioneuvoston periaatepäätökseen perustuviin yksityisiin luonnonsuojelualueisiin, joiden rauhoitusmääräysten mukaan rahoitettava toiminta on sallittu. Rahoitusta ei kuitenkaan saa tällöin kohdistaa edellä tarkoitetuilla luonnonsuojelualueilla tehtäviin ympäristötukisopimuksiin. Rahoitus kohdennetaan tämän lain mukaisten tuensaajien omistuksessa tai hallinnassa oleviin metsiin. Suometsän vesiensuojelutoimenpiteen, piennartien tekemisen, metsäluonnon hoidon ja yksityistien perusparannuksen katsotaan kohdentuvan tämän lain mukaisten tuensaajien omistuksessa tai hallinnassa oleviin metsiin, vaikka toimenpiteitä ja töitä osin tehdään muulla alueella, jos töiden tai toimenpiteiden tavoitellut vaikutukset kohdistuvat tuensaajiin. Rahoitus myönnetään tukena. (5.12.2024/711)
+
+Tässä laissa tarkoitettua rahoitusta ei saa käyttää luonnonsuojelulain (9/2023) 48 §:n nojalla alueen määräaikaisesta rauhoittamisesta tehdyn sopimuksen perusteella maksettaviin korvauksiin tai korvauksiin, joista mainitun lain 111 §:ssä tai 124 §:n 2 momentissa taikka muutoin erikseen säädetään, eikä korvauksiin, jotka perustuvat ennen mainittujen lainkohtien voimaantuloa voimassa olleisiin vastaaviin säännöksiin.
+
+Tässä laissa tarkoitettua rahoitusta ei saa käyttää viranomaisen tai julkista hallintotehtävää hoitavan tekemään suunnittelu- ja selvitystyöhön.
+
+Metsällä tarkoitetaan tässä laissa metsämaata, kitumaata, joutomaata ja muuta metsätalousmaata.
+
+### 3 § Suhde valtionavustuslakiin ja julkisia hankintoja koskeviin säännöksiin
+
+Tässä laissa tarkoitettuun tukeen sovelletaan lisäksi valtionavustuslakia (688/2001) lukuun ottamatta sen 13 §:n 3 ja 4 momenttia.
+
+Suomen metsäkeskus, jäljempänä *metsäkeskus*, toimii tässä laissa säädettyjen tukien osalta valtionapuviranomaisena. Metsäkeskuksen myöntämän tuen takaisinperintää ja ympäristötukisopimuksen purkamista ja irtisanomista koskevien päätöksien osalta valtion-apuviranomaisena toimii kuitenkin Ruokavirasto. Silloin, kun kyse on ympäristötuen palauttamisesta ja sopimuksen irtisanomisesta metsätuhotilanteissa, metsäkeskus ja Ruokavirasto toimivat valtionapuviranomaisina jäljempänä säädetyn mukaisesti.
+
+Tässä laissa tarkoitetulla tuella rahoitettavaan hankintaan sovelletaan julkisia hankintoja koskevia säännöksiä siltä osin kuin hankinta kuuluu julkisten hankintojen soveltamis-alaan. Jos hankinnan arvo alittaa kansallisen kynnysarvon ja jos tuen määrä perustuu hyväksyttäviin kustannuksiin, tuensaajan tulee huolehtia siitä, että tuettavan työn tai toimenpiteen toteuttamiseen liittyvistä hankinnoista pyydetään riittävä määrä tarjouksia. Tarjouksia ei kuitenkaan tarvitse pyytää alihankinnan järjestämisestä eikä alihankkijan työn valvonnasta ja ohjaamisesta, jos tuettavan työn tai toimenpiteen toteuttamisesta vastaavana tilaajana on toteuttamissuunnitelman laatija.
+
+### 4 § Tuensaajat
+
+Tämän lain mukainen tuki voidaan myöntää vain yksityiselle maanomistajalle. Tässä laissa *yksityisellä maanomistajalla* tarkoitetaan:
+
+- 1\) luonnollista henkilöä;
+- 2\) maanvuokraoikeuden, testamenttiin perustuvan käyttöoikeuden, lesken hallintaoikeuden, eläkeoikeuden tai muun vastaavan oikeuden haltijaa, jos haltija on luonnollinen henkilö;
+- 3\) yhteisöä, yhtymää ja kuolinpesää, jonka yhtiömiehenä, jäsenenä tai osakkaana on vain luonnollisia henkilöitä ja jossa yhteisön ja yhtymän pääasiallisena tarkoituksena on maatila- tai metsätalouden harjoittaminen;
+- 4\) säätiötä, jonka toiminnasta pääosan muodostaa maatila- tai metsätalouden harjoittaminen;
+- 5\) sellaista yhteismetsän osakaskuntaa ja yhteisaluelaissa (758/1989) tarkoitetun yhteisen alueen osakaskuntaa, jonka osuuksista vähintään puolet on luonnollisten henkilöiden omistuksessa sekä sellaisen yhteismetsän tai yhteisen alueen osakaskuntaa, joka on muodostettu ennen 1 päivää maaliskuuta 2003.
+
+Lisäksi yksityisellä maanomistajalla tarkoitetaan niitä luonnollisia henkilöitä, jotka omistavat kiinteistön yhdessä yhtiön kanssa, jos heidän omistusosuutensa kiinteistöstä on vähintään 50 prosenttia ja jos yhtiön pääasiallisena tarkoituksena on maatila- tai metsätalouden harjoittaminen. Yksityisenä maanomistajana ei kuitenkaan pidetä niitä rahastoja, joista säädetään sijoitusrahastolaissa (213/2019) tai vaihtoehtorahastojen hoitajista annetussa laissa (162/2014).
+
+Yhtymän osakkaana olevat luonnolliset henkilöt vastaavat tukeen liittyvistä velvoitteista.
+
+Valtioneuvoston asetuksella annetaan tarkempia säännöksiä siitä, mikä katsotaan 1 ja 2 momentissa tarkoitetuksi pääasialliseksi maatila- tai metsätalouden harjoittamiseksi ja siitä, milloin maatila- tai metsätalouden harjoittamisen voidaan katsoa muodostavan pääosan säätiön toiminnasta.
+
+### 5 § Eräiden valtiontukisääntöjen noudattaminen
+
+Tukea ei myönnetä sille, joka täyttää valtiontuesta rahoitusalan ulkopuolisten vaikeuksissa olevien yritysten pelastamiseen ja rakenneuudistukseen annettujen suuntaviivojen (2014/C 249/01) vaatimukset. Tukea ei myönnetä myöskään sille, jolta Euroopan komission päätöksen nojalla peritään takaisin sääntöjenvastaista ja sisämarkkinoille soveltumatonta tukea.
+
+Tässä laissa tarkoitettua tukea ei saa käyttää sellaisten kustannusten korvaamiseen, joiden varalta tuensaaja olisi voinut ottaa vakuutuksen.
+
+Metsäkeskuksen on julkaistava myönnettyjä tukia koskevat tiedot Euroopan unionin lainsäädännössä edellytetyllä tavalla yleisessä tietoverkossa siltä osin kuin myönnetty tuki ylittää 100 000 euroa. Avustustietojen toimittamisesta valtionavustusten tietovarantoon ja siihen liittyvästä avustustietojen julkaisemisesta säädetään valtionavustuslaissa.
+
+Taimikon ja nuoren metsän hoidon, suojavyöhykkeen jättämisen, suon ennallistamisen ja lehdon luonnonhoidon tuki myönnetään vähämerkityksisenä tukena sen Euroopan unionin säädöksen mukaan, joka kulloinkin on voimassa ja jota voidaan soveltaa metsätaloutta koskevaan vähämerkityksiseen tukeen. Mitä 1–3 momentissa säädetään, ei kuitenkaan koske tässä momentissa mainittuja tukia. Edellä tarkoitettu Euroopan unionin säädös nimetään maa- ja metsätalousministeriön asetuksella. (22.12.2025/1373)
+
+### 6 § Tuen myöntämisen yleiset edellytykset
+
+Tuettavien töiden on oltava taloudellisesti ja metsien biologisen monimuotoisuuden säilyttämisen kannalta tarkoituksenmukaisia. Työt on keskitettävä, siltä osin kuin se on mahdollista, siten että ne voidaan toteuttaa kokonaistaloudellisesti edullisimmalla tavalla. Työt tulee tehdä metsäalan hyvän ammattikäytännön mukaisesti.
+
+Tukea ei saa käyttää työhön tai toimenpiteeseen, joka laissa säädetään maanomistajan velvollisuudeksi. Ympäristötukea voidaan kuitenkin myöntää, jos sillä korvataan maanomistajalle metsälain 11 §:ssä tarkoitettua vähäistä suurempaa taloudellista menetystä tai haittaa ylittävää osuutta.
+
+Tuettavan työn tai toimenpiteen tulee olla sitä koskevan lainsäädännön mukainen. Tukea ei saa käyttää työhön tai toimenpiteeseen, joka on aiheutunut lainvastaiseksi todetusta toiminnasta. Töillä ei saa aiheuttaa kohtuudella vältettävissä olevaa haittaa muulle ympäristölle.
+
+### 7 § Tuen myöntämisen rajoitukset
+
+Tukea ei myönnetä Euroopan unionin lainsäädännössä tarkoitetulle suurelle yritykselle.
+
+Tukea ei myönnetä, jos yksityinen maanomistaja on tuen saamiseksi tehnyt varallisuus- tai muu järjestelyn, jonka oikeudellinen muoto ei vastaa asian todellista luonnetta tai tarkoitusta. Tukea ei myönnetä myöskään, jos yksityinen maanomistaja on antanut muulle tuen myöntämiseen liittyvälle seikalle sellaisen muodon, joka ei vastaa asian varsinaista luonnetta tai tarkoitusta.
+
+Valtioneuvoston asetuksella säädetään tarkemmin suuren yrityksen määritelmästä.
+
+### 8 § Muu julkinen tuki
+
+Tämän lain nojalla myönnettävän tuen edellytyksenä on, ettei rahoitettavaan työhön tai toimenpiteeseen ole myönnetty muuta etuutta julkisista varoista. Ympäristötuen, metsäluonnon hoidon, kulotuksen, suojavyöhykkeen jättämisen, suon ennallistamisen ja lehdon luonnonhoidon tuen myöntämisen edellytyksenä on lisäksi, ettei kyseisellä kohteella ole luonnonsuojelulainsäädännön nojalla valtion varoista rahoitettu toimia hakemusta edeltävien viimeisten viiden vuoden aikana. (22.12.2025/1373)
+
+Tämän lain nojalla myönnetty tuki peritään takaisin, jos tuen maksamisen jälkeen käy ilmi, että työhön tai toimenpiteeseen on myönnetty muu etuus julkisista varoista.
+
+### 9 § Oma työ, työn teettäminen ja yhteishanke
+
+Tässä laissa tarkoitetut työt voidaan tehdä omana työnä tai ne voidaan teettää ulkopuolisella toimijalla. Tukea ei myönnetä maanomistajan omana työnä tekemään toimenpiteeseen, jos tuen määrä perustuu hyväksyttäviin kustannuksiin.
+
+Yhteishankkeena pidetään hanketta, joka hanke toteutetaan vähintään kahden sellaisen eri kiinteistön alueella, jotka eivät kuulu samoille maanomistajille, jos kullakin maanomistajalla on oikeus tässä laissa tarkoitettuun tukeen. Taimikon ja nuoren metsänhoitoa ei voida toteuttaa yhteishankkeina.
+
+Valtioneuvoston asetuksella annetaan tarkempia säännöksiä 1 momentissa tarkoitetusta omasta työstä.
+
+### 10 § Toteuttamissuunnitelma, toteutusilmoitus ja suometsän hoitosuunnitelma
+
+Tässä laissa tarkoitettuun terveyslannoitukseen, suometsän vesiensuojelutoimenpiteiden ja piennarteiden tekemiseen, yksityistien perusparannukseen, metsäluonnon hoitoon, kulotukseen, suojavyöhykkeen jättämiseen, suon ennallistamiseen ja lehdon luonnonhoitoon myönnettävän tuen myöntämisen edellytyksenä on metsäkeskuksen hyväksymä toteuttamissuunnitelma. Suometsän vesiensuojelutoimenpiteiden ja piennarteiden tekemisen toteuttamissuunnitelman tulee perustua aiemmin laadittuun ja tämän lain nojalla rahoitettuun suometsän hoitosuunnitelmaan. Edellä mainittujen metsässä tehtävien töiden ja suometsän hoitosuunnitelman loppuunsaattamisesta on tehtävä metsäkeskukselle toteutusilmoitus metsäkeskuksen asettamassa määräajassa. Lisäksi taimikon ja nuoren metsän hoitoa koskevan toimenpiteen toteuttamisesta on tehtävä tuen hakemisen yhteydessä metsäkeskukselle toteutusilmoitus. (22.12.2025/1373)
+
+Toteuttamissuunnitelman, toteutusilmoituksen ja suometsän hoitosuunnitelman laatijalla tulee olla tuettavan toimenpiteen laatuun ja laajuuteen nähden riittävä asiantuntemus.
+
+Toteuttamissuunnitelma ja toteutusilmoitus voidaan tehdä 9 §:ssä tarkoitettuna omana työnä. Suometsän hoitosuunnitelmaa ei voi tehdä omana työnä. Toteuttamissuunnitelman laatimiseen voidaan myöntää tukea, jos asiakirja laaditaan muuna kuin omana työnä.
+
+Maa- ja metsätalousministeriön asetuksella säädetään toteuttamissuunnitelman, toteutusilmoituksen ja suometsän hoitosuunnitelman sisältövaatimuksista.
+
+### 11 § Tukien määrä ja varojen suuntaaminen
+
+Tukien määrä voidaan eriyttää alueittain metsätaloudellisten olosuhteiden ja hallinnollisten rajojen perusteella. Yksityistien perusparannuksen tuen määrä voidaan eriyttää sen mukaan, onko kyse yhteishankkeesta tai yhteismetsän toteuttamasta hankkeesta vai muulla tavoin toteutettavasta hankkeesta. Suometsän hoitosuunnitelman tuki voidaan eriyttää suunnittelualueen kiinteistöjen määrän tai suunnittelualueen pinta-alan mukaan. Tuki myönnetään prosenttiosuutena hyväksyttävistä kustannuksista tai laskennallisen perusteen mukaan. Jos kyse on 4 §:n 2 momentissa tarkoitetusta yhteisomistuksesta, tukea myönnetään luonnollisten henkilöiden suhteellista omistusosuutta vastaava määrä.
+
+Ympäristötuella korvataan maanomistajalle aiheutuneet puuntuotannon tulomenetykset, joista on vähennetty metsälain 11 §:ssä tarkoitetun vähäistä suuremman taloudellisen menetyksen tai haitan osuus. Lisäksi ympäristötukeen voidaan sisällyttää kuolleesta puusta maksettava kannustinkorvaus, joka on enintään kaksikymmentä prosenttia ympäristötuen kokonaismäärästä.
+
+Kulotuksen tukeen sisältyy tuki toimenpiteen toteuttamiseen ja erillinen korvaus maanomistajalle aiheutuneista puuntuotannon tulomenetyksistä kulotusalueelle jätettävän puuston osalta. Erillisessä korvauksessa huomioon otettava puuston määrä on enintään 50 puukuutiometriä. Lisäksi metsäluonnon hoidon tukeen sisältyy korvaus tehtyjen toimenpiteiden aiheuttamasta puuntuotannon tulomenetyksestä silloin, kun näitä menetyksiä on syntynyt.
+
+Valtioneuvoston asetuksella annetaan tarkemmat säännökset tukien määrästä, alueellisesta eriyttämisestä, hyväksyttävistä kustannuksista, ympäristötuen ja siihen liittyvän kannustinkorvauksen laskennan perusteista sekä muista tukien määrän määräytymisen perusteista. Maa- ja metsätalousministeriön asetuksella säädetään puuston hakkuuarvon laskennassa käytettävästä puukuutiometrin keskikantohinnasta.
+
+### 11 a § Tuen määrä ja varojen käyttö tarjouskilpailumenettelyssä (22.12.2025/1373)
+
+Suojavyöhykkeen jättämisen, suon ennallistamisen ja lehdon luonnonhoidon tuen määrä määräytyy tukihakemuksessa ilmoitetun hankkeen toteuttamiseksi tarvittavan tuen määrän mukaan. Tarvittavan tuen määrään sisältyy tällöin myös toteuttamissuunnitelman tuki eikä siitä vähennetä rahoitettavien toimenpiteiden toteuttamisesta tuensaajalle mahdollisesti syntyviä tuloja.
+
+Suojavyöhykkeen jättämistä, suon ennallistamista ja lehdon luonnonhoitoa koskevassa hankehaussa voidaan hyväksyä enintään 80 prosenttia kussakin työlajissa haettujen tukien yhteenlasketusta euromäärästä, kuitenkin enintään hakuilmoituksessa ilmoitettu kyseistä työlajia koskevan määrärahan määrä.
+
+Suon ennallistamisen ja lehdon luonnonhoidon tuen määrä on 100 prosenttia 1 momentissa tarkoitetusta tuen määrästä, jos ennallistamisen ja luonnonhoidon tulos saavutetaan. Jos tulosta ei saavuteta, tuki on 80 prosenttia kyseisestä tuen määrästä.
+
+### 12 § Tuen enimmäis- ja vähimmäismäärä ja hankkeen vähimmäiskoko eräissä tapauksissa
+
+Tukea voidaan myöntää yhteen hankkeeseen tuensaajaa kohden enintään 100 000 euroa. Ympäristötukea ja tukea yksityistien perusparannukseen voidaan kuitenkin myöntää tuensaajaa kohden enintään 300 000 euroa. (5.12.2024/711)
+
+Tukea ei myönnetä, jos 4 §:n 2 momentissa tarkoitetussa yhteisomistuksessa luonnollisten henkilöiden suhteellinen osuus rahoitettavan hankkeen koosta ei täytä hankkeen vähimmäiskokoa koskevaa vaatimusta.
+
+Ympäristötukea ei myönnetä, jos myönnettävä määrä olisi sopimusta kohti pienempi kuin 500 euroa. Metsäluonnon hoitoon ei myönnetä tukea, jos myönnettävä määrä olisi pienempi kuin 500 euroa. Tämän lain 4 §:n 2 momentissa tarkoitetussa yhteisomistuksessa luonnolliset henkilöt eivät ole oikeutettuja tukeen, jos heidän suhteellinen yhteenlaskettu osuutensa myönnettävästä ympäristötuesta tai metsäluonnon hoidon tuesta olisi pienempi kuin 500 euroa.
+
+Yhdelle yritykselle myönnettävän vähämerkityksisen tuen enimmäismäärästä säädetään 5 §:n 4 momentissa tarkoitetussa Euroopan unionin säädöksessä. (15.12.2023/1129)
+
+## 2 luku Ekologiset ja metsän kasvua edistävät tuet
+
+### 13 § Taimikon ja nuoren metsän hoito
+
+Tukea voidaan myöntää taimikon varhaisperkaukseen, taimikon ja nuoren metsän harvennukseen sekä verhopuuston poistoon ja harvennukseen. Tuen myöntämisen edellytyksenä on, ettei toimenpide ole kaupallisesti kannattava. Lisäksi tukea voidaan myöntää edellä mainittujen töiden yhteydessä kaadetun pienpuun keräämiseen. Samoin tukea voidaan myöntää sillä perusteella, että kohteella on hoitotyön jälkeen keskimääräistä suurempi osuus kokonaispuuston määrästä lehtipuuta. (22.12.2025/1373)
+
+Tuen myöntämisen edellytyksenä on, että kohde, joka voi olla jakautunut usealle alueelle, täyttää vähimmäispinta-alaa ja puuston poistamista koskevat vaatimukset sekä käsittelyn jälkeiset puuston tiheyttä, keskipituutta ja kasvamaan jäävää puustoa koskevat vaatimukset ja ettei kohteelle käsittelyn jälkeen jää välitöntä hoidon tarvetta.
+
+Tuki myönnetään ehdolla, että tuensaaja noudattaa tässä laissa säädettyä hoito- ja kunnossapitovelvollisuutta.
+
+Valtioneuvoston asetuksella annetaan tarkemmat säännökset taimikon ja nuoren metsän hoitokohteen vähimmäispinta-alasta, puuston poistamisesta sekä käsittelyn jälkeisistä puuston tiheyttä, keskipituutta ja kasvamaan jäävää puustoa koskevista vaatimuksista, tehdyn taimikon tai nuoren metsän hoitotyön toteamisesta, keskimääräistä suuremmasta lehtipuuosuudesta sekä muista tässä pykälässä säädetyistä tuen myöntämisen edellytyksistä. (22.12.2025/1373)
+
+### 14 § Terveyslannoitus
+
+Tukea voidaan myöntää turvemaiden tuhkalannoitukseen. Lisäksi tukea voidaan myöntää lannoitukseen kohteella, jonka maaperässä esiintyy boorinpuutosta.
+
+Tuen myöntämisen edellytyksenä on, että:
+
+- 1\) lannoituskohde, joka voi olla jakautunut usealle alueelle, täyttää vähimmäispinta-alaa, puustoa ja maaperää koskevat vähimmäisvaatimukset;
+- 2\) kohteella on huolehdittu tarpeellisista metsänhoitotöistä;
+- 3\) kohteella ei ole merkittäviä hakkuutarpeita;
+- 4\) alueen vesitalous on kunnossa.
+
+Jos tukea myönnetään sillä perusteella, että kohteen maaperässä esiintyy boorinpuutosta, on tuen myöntämisen edellytyksenä lisäksi, että työ tehdään sellaisissa metsissä, joiden puuston kehitys metsänhoidollisista toimenpiteistä huolimatta on taantuvaa maaperän ravinteiden epätasapainon vuoksi ja jotka voidaan saada elpymään lannoittamalla. Lisäksi edellytyksenä on, että lannoitevalmiste soveltuu ravinne-epätasapainon korjaamiseen.
+
+Tukea ei myönnetä, ellei toimenpiteen suunnittelussa ole kiinnitetty erityistä huomiota toimenpiteiden aiheuttamiin vesistö- ja ympäristövaikutuksiin sekä toimenpiteistä mahdollisesti aiheutuvien haittojen vähentämiseen.
+
+Tuki myönnetään ehdolla, että tuensaaja noudattaa tässä laissa säädettyä hoito- ja kunnossapitovelvollisuutta.
+
+Valtioneuvoston asetuksella annetaan tarkemmat säännökset terveyslannoituskohteen vähimmäispinta-alasta, lannoituskohteesta, lannoitevalmisteen valinnan perusteista, lannoitteen levittämisestä, puuston ja maaperän vähimmäisvaatimuksista, terveyslannoituskohteella tarpeellisista metsänhoitotöistä sekä siitä, milloin merkittäviä hakkuutarpeita ei ole ja milloin alueen vesitalous on kunnossa, sekä muista tässä pykälässä säädetyistä tuen myöntämisen edellytyksistä.
+
+### 15 § Suometsän hoitosuunnitelma
+
+Tukea voidaan myöntää suometsän hoitosuunnitelman laatimiseen, jos suunnitelma sisältää vesiensuojelun kannalta tarpeellisten toimenpiteiden suunnittelun ja luontoarvojen selvittämisen sekä vähintään kahden muun tarpeellisen metsänkäsittelytoimenpiteen suunnittelun.
+
+Tuen myöntämisen edellytyksenä on, että:
+
+- 1\) suometsän hoitosuunnitelmassa sovitetaan yhteen puuntuotannon edellytysten parantaminen, vesiensuojelu, ilmastonmuutoksen hillintä ja monimuotoisuuden turvaaminen;
+- 2\) suunnittelualue täyttää vähimmäispinta-alaa koskevan vaatimuksen;
+- 3\) suunnittelualue sijaitsee samalla suoalueella tai sen osavaluma-alueella siten, että siitä muodostuu maaperän vedenpinnan korkeuden säätelyn ja vesiensuojelutoimenpiteiden suunnittelun kannalta tarkoituksenmukainen kokonaisuus;
+- 4\) samalle suunnittelualueelle ei ole aiemmin tehty tämän lain nojalla rahoitettua suometsän hoitosuunnitelmaa.
+
+Suometsän hoitosuunnitelman laatimiseen myönnetään tuki ehdolla, että:
+
+- 1\) suunnittelualueen ulkopuoliset metsänkäsittelytoimenpiteet otetaan suunnittelussa huomioon, jos tiedot ovat saatavilla metsäkeskuksen tarjoamista avoimista tietoaineistoista suunnitteluun ryhdyttäessä;
+- 2\) suunnitelmaa laadittaessa käytetään parhaimpia käytettävissä olevia suunnittelumenetelmiä ja hyödynnetään metsäkeskuksen avoimia tietoaineistoja tai muita vastaavia aineistoja, jotka ovat käytettävissä suunnitelman laadintaan ryhdyttäessä;
+- 3\) suunniteltavien kiinteistöjen alueelta selvitetään luontokohteet ja potentiaaliset luonnonhoitokohteet, mukaan lukien ennallistamiskohteet;
+- 4\) valmistunut suunnitelma sisältää vesiensuojelusuunnitelman, kuvauksen suunnittelualueen luontokohteista, potentiaalisista luonnonhoito-, ennallistamis- ja jatkuvan kasvatuksen kohteista sekä kuvauksen suunnittelualueella seuraavan viiden vuoden aikana toteutettavista metsänkäsittelytoimenpiteistä, piennarteistä, lasku-, kuivatus- ja täydennys-ojiin ja eroosiohaittojen korjaamiseen liittyvistä toimenpiteistä;
+- 5\) suunnitelmassa mainitaan ne ojat, joiden kunnostaminen ei ole tarpeen kuivatustilan parantamiseksi ja joiden kunnostamista tulisi välttää kielteisten vesistövaikutusten minimoimiseksi;
+- 6\) suunnitellut toimenpiteet mahdollistavat kestävän metsätalouden harjoittamisen ja minimoivat kielteisiä monimuotoisuus-, ilmasto- ja vesistövaikutuksia;
+- 7\) suunnitelmassa tunnistetaan todennäköisimmät merkittävimmät kielteiset ympäristövaikutukset sekä kuvataan, mitä niiden minimoimiseksi tehdään;
+- 8\) ne maanomistajat, joiden omistuksessa tai hallinnassa olevalla kiinteistöllä vesiensuojelutoimenpiteitä on tarkoitus toteuttaa, hakevat suometsän vesiensuojeluntoimenpiteiden ja piennarteiden tekemisen tukea suometsän hoitosuunnitelman valmistuttua ja sitoutuvat toteuttamaan kyseiset toimenpiteet metsäkeskuksen asettamassa määräajassa; ja
+- 9\) suunnitelman valmistumista seuraavien viiden vuoden aikana ei kunnosteta ojia, jotka suunnitelmassa on tarkoitettu jätettäväksi kunnostamatta.
+
+Poiketen siitä, mitä 3 momentin 8 kohdassa säädetään, vesiensuojelutoimenpiteiden ja piennarteiden tekemisen tukea ei tarvitse hakea, jos vesiensuojelutoimenpiteet rahoitetaan muulla julkisella rahoituksella tai jos suometsän hoitosuunnitelmassa esitetyt metsänkäsittelytoimenpiteet voidaan toteuttaa niin, että minimoidaan toimenpiteiden kielteiset vesistövaikutukset. Muulla julkisella rahoituksella toteutetuista toimenpiteistä on ilmoitettava metsäkeskukselle sen asettamassa määräajassa.
+
+Valtioneuvoston asetuksella annetaan tarkemmat säännökset suunnittelualueen vähimmäispinta-alasta, tukikelpoisen suunnittelualueen rajauksesta, suunniteltavista hyväksyttävistä toimenpiteistä ja niiden ympäristövaikutusten minimoinnista, vesiensuojelusuunnitelmasta sekä muista tässä pykälässä säädetyistä tuen myöntämisen edellytyksistä ja ehdoista.
+
+### 16 § Suometsän vesiensuojelutoimenpiteiden ja piennarteiden tekeminen
+
+Tukea voidaan myöntää vesiensuojelutoimenpiteisiin ja piennarteiden tekemiseen, jos kyseiset toimenpiteet mainitaan 15 §:n mukaisesti rahoitetussa suometsän hoitosuunnitelmassa.
+
+Tuen myöntämisen edellytyksenä on, että:
+
+- 1\) toimenpiteet perustuvat yhteen suometsän hoitosuunnitelmaan ja sen pohjalta laadittuun toteuttamissuunnitelmaan;
+- 2\) toteutuksessa käytetään parhaimpia käytettävissä olevia alueelle soveltuvia ja kustannuksiltaan kohtuullisia vesiensuojelumenetelmiä ja -rakenteita;
+- 3\) vesiensuojelutoimenpiteet ovat tarpeellisia kiintoaineen ja ravinnekuormituksen vähentämiseksi;
+- 4\) piennartie voidaan tehdä kulkuyhteyksien saamiseksi ojastoa lähimmälle kantavalle maapohjalle asti.
+
+Tuki myönnetään ehdolla, että tuensaaja noudattaa tässä laissa säädettyä hoito- ja kunnossapitovelvollisuutta.
+
+Valtioneuvoston asetuksella annetaan tarkemmat säännökset hyväksyttävistä vesiensuojelutoimenpiteistä ja piennarteistä sekä muista tässä pykälässä säädetyistä tuen myöntämisen edellytyksistä.
+
+### 16 a § Eräiden tukien myöntämisen rajoitukset (22.12.2025/1373)
+
+Taimikon ja nuoren metsän hoidon, terveyslannoituksen, suometsän hoitosuunnitelman sekä suometsän vesiensuojelutoimenpiteiden ja piennarteiden tekemisen tukea ei myönnetä, jos samalla kohteella on valtion varoin rahoitettu suojavyöhykkeen jättäminen, suon ennallistaminen tai lehdon luonnonhoito.
+
+## 3 luku Metsätalouden tieverkko
+
+### 17 § Yksityistien perusparannus (5.12.2024/711)
+
+Tukea voidaan myöntää metsätalouden kuljetusten edellyttämän yksityistien perusparannukseen. Yksityistien perusparannus voi koskea koko tietä tai sen osaa, rakenteita ja rakennelmia. Yksityistien perusparannus voi koskea yksityistiehen liittyvän erillisen varastoalueen rakentamista tai sillan rakentamista taikka siltaa vastaavan rummun asentamista, vaikka tietä ei muutoin perusparanneta.
+
+Tuen myöntämisen edellytyksenä on, että:
+
+- 1\) perusparannettava yksityistie soveltuu rakenteeltaan metsätalouden ympärivuotisiin kuljetuksiin lukuun ottamatta kelirikkoaikoja;
+- 2\) tien perusparannusta voidaan pitää alemman asteisen tieverkon kokonaisuuden kannalta tarkoituksenmukaisena;
+- 3\) on perustettu yksityistielain (560/2018) mukainen tieoikeus ja tietä hoitava tieosakkaiden muodostama tiekunta; yksityisen maanomistajan yksinään toteuttaman hankkeen osalta näiden perustamista ei kuitenkaan edellytetä;
+- 4\) perusparannettava tie on rakennettu vähintään tien rakentamisaikaisten varsitien rakentamista koskeneiden teknisten vaatimusten mukaisesti;
+- 5\) toteuttamissuunnitelmaan on liitetty maaperätutkimus, kantavuuden mittauspöytäkirja tai muu selvitys, josta käy ilmi, että perusparannettavan tien suunniteltu kantavuus mahdollistaa ympärivuotisen puunkuljetuksen kelirikkoaikoja lukuun ottamatta;
+- 6\) perusparannettava tie täyttää tien tavoitekantavuutta, vähimmäispituutta ja -leveyttä sekä tien vaikutusalueen enimmäistietiheyttä ja arvioitua metsätalouden kuljetusten osuutta koskevat vaatimukset;
+- 7\) perusparannettavan tien kunnossapidosta on huolehdittu, mutta tie on siitä huolimatta huonossa kunnossa tai teknisesti vanhentunut;
+- 8\) siltä osin kuin kyse on sillan rakentamisesta tai korjaamisesta, hankkeelle on ennen tukihakemuksen jättämistä nimetty toteuttajasta riippumaton ulkopuolinen valvoja, jolla on riittävä ammattitaito;
+- 9\) siltä osin kuin kyse on rumpuihin ja siltoihin liittyvistä toimenpiteistä, mahdolliset vesieliöstön liikkumisen esteet poistetaan;
+- 10\) tiekunta on huolehtinut yksityistielain 50 §:n 1 momentissa säädetystä velvoitteestaan.
+
+Lisäksi tuen myöntämisen edellytyksenä on, ettei tien perusparannusta ole viimeisten 20 vuoden aikana rahoitettu yksityistielain tai yksityisistä teistä annetun lain (358/1962) mukaisin varoin. Tästä edellytyksestä voidaan kuitenkin poiketa, jos tien käyttö on olennaisesti muuttunut metsätalouden kuljetusten laajenemisen vuoksi tai muuttuu arvioidun laajenemisen vuoksi taikka jos tie ei enää rakenteeltaan sovellu nykyisen puutavarankuljetuskaluston, hakkeenkuljetuskaluston tai työkoneiden kuljetuskaluston käyttöön. Lisäksi poikkeamisen edellytyksenä on, että asianomaisen tien perusparannuksen edellisestä rahoituksesta mainituin julkisin varoin on kulunut vähintään kymmenen vuotta. Määräaika lasketaan rahoituksen loppuun maksamisesta.
+
+Tuki myönnetään ehdolla, että tuensaaja noudattaa tässä laissa säädettyä hoito- ja kunnossapitovelvollisuutta.
+
+Valtioneuvoston asetuksella annetaan tarkemmat säännökset 1 momentissa tarkoitetun varastoalueen rakentamisesta, tien tavoitekantavuutta, vähimmäispituutta ja -leveyttä, tien vaikutusalueen enimmäistietiheyttä, arvioitua metsätalouden kuljetusten osuutta ja tien kunnossapidosta huolehtimista koskevasta edellytyksestä sekä muista tässä pykälässä säädetyistä tuen myöntämisen edellytyksistä.
+
+### 18 § (5.12.2024/711)
+
+18 § on kumottu L:lla 5.12.2024/711.
+
+### 19 § (5.12.2024/711)
+
+19 § on kumottu L:lla 5.12.2024/711.
+
+## 4 luku Metsien biologisen monimuotoisuuden ylläpitäminen ja metsäluonnon hoito
+
+### 20 § Ympäristötuki
+
+Ympäristötukea voidaan myöntää, jos metsien hoitoon tai käyttöön liittyvissä toimenpiteissä otetaan huomioon metsän biologisen monimuotoisuuden ylläpitäminen, luonnonhoito tai metsien muu kuin puuntuotannollinen käyttö laajemmin kuin metsälaissa säädetään yksityisen maanomistajan velvollisuudeksi. Lisäksi tukea voidaan myöntää ympäristötukisopimuksen valmisteluun.
+
+Tuen myöntämisen edellytyksenä on, että yksityinen maanomistaja tekee metsäkeskuksen kanssa sopimuksen, jossa hän sitoutuu säilyttämään tietyllä alueella metsien biologista monimuotoisuutta sekä olemaan tekemättä alueella metsätalouden toimenpiteitä ilman metsäkeskuksen suostumusta.
+
+Metsäkeskuksen ja yksityisen maanomistajan sopimukseen voidaan ottaa ehto, että maanomistaja sitoutuu noudattamaan sopimuksen kohteena olevalla alueella sijaitsevan elinympäristön ominaispiirteiden säilymistä edistävää hoito- ja käyttösuunnitelmaa.
+
+Sopimus on voimassa kymmenen vuotta. Sopimus on voimassa, vaikka alue siirtyy kokonaan tai osittain uudelle yksityiselle maanomistajalle.
+
+Valtioneuvoston asetuksella annetaan tarkemmat säännökset ympäristötuen kohdentamisesta ja siitä, milloin 1 momentissa tarkoitetut toimenpiteet ovat laajempia kuin mitä niistä metsälaissa säädetään, sekä muista tässä pykälässä säädetyistä tuen myöntämisen edellytyksistä.
+
+### 21 § Hoito- ja käyttösuunnitelma ja muu ympäristötukisopimuksen valmistelu
+
+Hoito- ja käyttösuunnitelmassa tulee olla tiedot sopimuksen kohteena olevalla alueella tehtävistä luonnonhoidollisista toimenpiteistä ja niiden toteuttamisaikataulusta.
+
+Hoito- ja käyttösuunnitelmaan sovelletaan, mitä 10 §:ssä säädetään toteuttamissuunnitelmasta.
+
+Ympäristötukisopimuksen valmistelulla tarkoitetaan hoito- ja käyttösuunnitelman laatimista, ympäristötukikohteiden kartoittamista, luontoarvojen arviointia ja luontokohteiden rajausta sekä sen selvittämistä, mikä on sopimuskohteen ja sen metsäkiinteistön markkinakelpoisen puuston arvo, jolla sopimuskohde sijaitsee. Ympäristötukisopimuksen valmisteluun voidaan sisällyttää myös kannustinkorvauksen laskemiseen tarvittavien tietojen kerääminen. Ympäristötukisopimuksen valmisteluun voidaan myöntää tukea vain, jos se tehdään muuna kuin yksityisen maanomistajan omana työnä ja jos valmistelun tekijällä on tehtävän hoitamiseen riittävä asiantuntemus.
+
+### 22 § Metsäluonnon hoito
+
+Tukea voidaan myöntää:
+
+- 1\) monimuotoisuuden kannalta tärkeiden elinympäristöjen hoito- ja kunnostustöihin sekä metsä- ja suoelinympäristöjen ennallistamiseen;
+- 2\) aikaisemmin toteutuneista metsäojituksista aiheutuneiden vesistöhaittojen estämiseen tai korjaamiseen, jos toimenpiteellä on tavanomaista laajempi merkitys vesien ja vesiluonnon hoidon kannalta eikä kustannuksia voida osoittaa tietylle aiheuttajalle;
+- 3\) 1 ja 2 kohdassa tarkoitettujen toimenpiteiden ohella tehtävään riistan elinympäristöjen parantamiseen tai metsien maisema-, kulttuuri- ja virkistysarvojen kehittämiseen tai muuhun monikäytön edistämiseen.
+
+Tuki myönnetään ehdolla, että tuensaaja noudattaa tässä laissa säädettyä hoito- ja kunnossapitovelvollisuutta.
+
+Tuki voidaan myöntää hankehaun perusteella. Tuki voidaan myöntää myös ilman hankehakua yksityisten maanomistajien yhteishankkeeseen tai yksittäisen yksityisen maanomistajan toteuttamaan hoitotyöhön. Tuen myöntämisessä metsäkeskuksen tulee asettaa etusijalle alueellisten metsänohjelmien luonnonhoidolle asetetut painopisteet.
+
+Valtioneuvoston asetuksella voidaan antaa tarkemmat säännökset metsäluonnon hoidon tuen kohdentamisesta sekä muista tässä pykälässä säädetyistä tuen myöntämisen edellytyksistä.
+
+### 23 § Kulotus
+
+Tukea voidaan myöntää uudistusalan kulotukseen.
+
+Tuen myöntämisen edellytyksenä on, että:
+
+- 1\) kulotuskohde täyttää vähimmäispinta-alaa ja ravinteisuutta koskevan vaatimuksen;
+- 2\) työn yhteydessä poltetaan alueelle jäävät säästöpuut;
+- 3\) kulotusta varten on otettu vastuuvakuutus;
+- 4\) kulotuksessa on ammattitaitoinen työnjohto.
+
+Tuki myönnetään ehdolla, että tuensaaja noudattaa tässä laissa säädettyä hoito- ja kunnossapitovelvollisuutta.
+
+Valtioneuvoston asetuksella annetaan tarkemmat säännökset kulotuskohteen vähimmäispinta-alasta, ravinteisuudesta ja säästöpuiden vähimmäisvaatimuksista ja niiden laadusta sekä muista tässä pykälässä säädetyistä tuen myöntämisen edellytyksistä.
+
+### 23 a § Eräiden tukien myöntämisen rajoitukset (22.12.2025/1373)
+
+Ympäristötukea, metsäluonnon hoidon ja kulotuksen tukea ei myönnetä, jos samalla kohteella on valtion varoin rahoitettu suojavyöhykkeen jättäminen, suon ennallistaminen tai lehdon luonnonhoito.
+
+## 4 a luku Eräät kokeiluhankkeet (22.12.2025/1373)
+
+### 23 b § Suojavyöhykkeen jättäminen (22.12.2025/1373)
+
+Tukea voidaan myöntää Varsinais-Suomen, Pohjois-Karjalan ja Kainuun maakuntien alueella uudistushakkuussa virtaveden rannalle jätettävästä suojavyöhykkeestä.
+
+Tuen myöntämisen edellytyksenä on, että:
+
+- 1\) uudistushakkuuala sijaitsee vesiensuojelullisesti erityisen herkällä alueella tai suojavyöhykkeen jättämisellä turvataan merkittäviä luontoarvoja;
+- 2\) suojavyöhykkeen suunnittelussa ja toteutuksessa on huomioitu kohteen topografia, maalaji ja muut ominaispiirteet;
+- 3\) suojavyöhyke täyttää vähimmäis- ja enimmäisleveyttä koskevan vaatimuksen; enimmäisleveydestä voidaan kuitenkin osin poiketa, jos se on tarpeen 2 kohdassa tarkoitettujen ominaispiirteiden takia tai sillä turvataan uhanalaista lajistoa;
+- 4\) suojavyöhykkeellä tehdään ainoastaan monimuotoisuutta edistäviä toimenpiteitä.
+
+Tuki myönnetään ehdolla, että tuensaaja noudattaa tässä laissa säädettyä hoito- ja kunnossapitovelvollisuutta.
+
+Valtioneuvoston asetuksella annetaan tarkemmat säännökset vesiensuojelullisesti herkistä alueista, turvattavista luontoarvoista, suojavyöhykkeen enimmäis- ja vähimmäisleveydestä sekä muista tässä pykälässä säädetyistä tuen myöntämisen edellytyksistä.
+
+### 23 c § Suon ennallistaminen (22.12.2025/1373)
+
+Tukea voidaan myöntää suon ennallistamiseen.
+
+Tuen myöntämisen edellytyksenä on, että:
+
+- 1\) ennallistettavalla suoalueella on luonnon ennallistamisesta ja asetuksen (EU) 2022/869 muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2024/1991, jäljempänä *ennallistamisasetus*, liitteessä 1 tarkoitettu luontotyyppi, joka ei ole mainitun asetuksen 3 artiklan 4 alakohdassa tarkoitetussa hyvässä tilassa;
+- 2\) ennallistamistoimien vaikutusalue muodostaa yhtenäisen alueen;
+- 3\) ennallistamistoimien vaikutusalue täyttää vähimmäispinta-alaa koskevan vaatimuksen.
+
+Tukea ei myönnetä, jos voidaan arvioida, ettei suota saada ennallistetuksi suunnitelluilla toimenpiteillä tai että suunniteltujen toimenpiteiden toteuttamisesta aiheutuu luontoarvoille enemmän haittaa kuin hyötyä.
+
+Suon ennallistamisen tulosta arvioidaan pisteytyksen perusteella. Suon ennallistamisen pisteytyksessä arvotetaan vesien johtamisen onnistuminen ennallistetulle alueelle, tukittujen ojien vuotamattomuus ja suokasvillisuuden elpyminen. Tulos katsotaan saavutetuksi, jos kohde on saavuttanut arviointiperusteiden mukaisesti lasketun vähimmäispistemäärän.
+
+Tuki myönnetään ehdolla, että tuensaaja noudattaa tässä laissa säädettyä hoito- ja kunnossapitovelvollisuutta.
+
+Valtioneuvoston asetuksella annetaan tarkemmat säännökset suon ennallistamistoimien vaikutusalueen vähimmäispinta-alasta, suon ennallistamisen tuloksen saavuttamisen pisteytyksestä ja vähimmäispistemäärästä, jonka perusteella tulos katsotaan saavutetuksi, sekä muista tässä pykälässä säädetyistä tuen myöntämisen edellytyksistä.
+
+### 23 d § Lehdon luonnonhoito (22.12.2025/1373)
+
+Tukea voidaan myöntää lehdon luonnonhoitoon.
+
+Tuen myöntämisen edellytyksenä on, että:
+
+- 1\) hoidettavalla kohteella on ennallistamisasetuksen liitteessä 1 tarkoitettu luontotyyppi, joka on lehto ja joka ei ole mainitun asetuksen 3 artiklan 4 alakohdassa tarkoitetussa hyvässä tilassa;
+- 2\) kohteella on hoidon tarve;
+- 3\) kohde täyttää vähimmäispinta-alaa koskevan vaatimuksen.
+
+Tukea ei myönnetä, jos voidaan arvioida, että suunniteltujen toimenpiteiden toteuttamisesta aiheutuu luontoarvoille enemmän haittaa kuin hyötyä.
+
+Lehdon luonnonhoidon tulosta arvioidaan pisteytyksen perusteella. Lehdon luonnonhoidon pisteytyksessä arvotetaan haitallisten vieraslajien esiintyminen, puuston rakenne, kuolleen puun määrä ja lehtokasvillisuuden elpyminen. Tulos katsotaan saavutetuksi, jos kohde on saavuttanut arviointiperusteiden mukaisesti lasketun vähimmäispistemäärän.
+
+Tuki myönnetään ehdolla, että tuensaaja noudattaa tässä laissa säädettyä hoito- ja kunnossapitovelvollisuutta.
+
+Valtioneuvoston asetuksella annetaan tarkemmat säännökset lehdon luonnonhoitokohteen vähimmäispinta-alasta, lehdon luonnonhoitokohteen tuloksen saavuttamisen pisteytyksestä ja vähimmäispistemäärästä, jonka perusteella tulos katsotaan saavutetuksi, sekä muista tässä pykälässä säädetyistä tuen myöntämisen edellytyksistä.
+
+## 5 luku Tuen myöntäminen ja maksaminen
+
+### 24 § Tuen hakeminen
+
+Tukea haetaan kirjallisesti metsäkeskukselta. Hakemuksessa on ilmoitettava luonnollisen henkilön henkilötunnus ja muun hakijan y-tunnus. Luonnollisen henkilön on ilmoitettava henkilötunnuksen ohella myös y-tunnus, jos hän on sen taloudellisen toiminnan harjoittamista varten hankkinut. Jos hakijana on yhtymä tai kuolinpesä, tulee hakemuksessa ilmoittaa yhtymän tai kuolinpesän osakkaiden nimet ja liittää hakemukseen selvitys, josta käy ilmi, että osakkaat hyväksyvät tuen hakemisen. Mitä edellä tässä momentissa säädetään henkilö- ja y-tunnuksesta, koskee myös yhtymän ja kuolinpesän osakkaita.
+
+Tukea on haettava ennen toimenpiteiden aloittamista. Toimenpiteet saadaan aloittaa vasta sen jälkeen, kun metsäkeskus on hyväksynyt hakemuksen ja toteuttamissuunnitelman. Mitä edellä tässä momentissa säädetään toimenpiteiden aloittamisen ajankohdasta, ei koske töiden suunnittelua. Taimikon ja nuoren metsän hoidon tukea koskeva hakemus tulee kuitenkin jättää toimenpiteen aloittamiseen ja loppuunsaattamiseen sidotussa määräajassa työn toteuttamisen jälkeen.
+
+Sen estämättä, mitä 2 momentissa säädetään toteuttamissuunnitelman ja hankkeen toteuttamisen tuen samanaikaisesta hakemisesta, voidaan tukea hakea erikseen toteuttamissuunnitelman laatimiseen, jos toimenpide on tarkoitus rahoittaa yhteishankkeena.
+
+Maa- ja metsätalousministeriön asetuksella säädetään tarkemmin tuen hakemisesta, hakemuksessa ilmoitettavista tiedoista sekä taimikon ja nuoren metsän hoidon tuen hakemisen määräajasta.
+
+### 25 § Hankehaku
+
+Metsäkeskus voi valita metsäluonnon hoitoa koskevan hankkeen toteuttajat hankehaun perusteella. Hankehaussa valitun toteuttajan on kerättävä maanomistajien hakemukset ja toimitettava ne yhdellä kertaa metsäkeskukselle sen asettamaan määräaikaan mennessä. Hankehakuja voi olla enintään kolme vuodessa.
+
+Metsäkeskuksen on tarkoituksenmukaisessa laajuudessa tiedotettava 1 momentissa tarkoitettujen tukien hakumahdollisuudesta, hankkeiden valintaperusteista ja hakemisessa noudatettavasta muusta menettelystä sekä tukien myöntämisen pääasiallisista edellytyksistä ja ehdoista.
+
+Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä hankehaun valintaperusteista ja -menettelystä.
+
+### 25 a § Hankehaku yhdistettynä tarjouskilpailumenettelyyn (22.12.2025/1373)
+
+Metsäkeskus valitsee rahoitettavat suojavyöhykkeen jättämisen, suon ennallistamisen ja lehdon luonnonhoidon tukeen liittyvät hakemukset hankehaun ja tarjouskilpailun perusteella. Työlajikohtaisia hankehakuja voi olla enintään kaksi vuodessa. Hankehaun tiedottamisesta säädetään 25 §:n 2 momentissa.
+
+Poiketen siitä, mitä 1 momentissa säädetään, suon ennallistamisen tukea haetaan kahdessa vaiheessa. Ensimmäisessä vaiheessa hakemuksessa tulee ilmoittaa tarvittavan tuen enimmäismäärä ja siihen tulee liittää suunnitelma, joka sisältää hakemuksen pisteyttämiseksi tarvittavat tiedot. Toisessa vaiheessa hakemukseen tulee liittää toteuttamissuunnitelma. Toisessa vaiheessa metsäkeskus saa ottaa huomioon uutta selvitystä, jos hankkeen saamat valintaperusteiden kokonaispisteet eivät laske. Toisessa vaiheessa haetun tuen määrää ei voi korottaa.
+
+### 25 b § Tarjouskilpailumenettelyn valintaperusteet (22.12.2025/1373)
+
+Suojavyöhykkeen jättämisen hankkeiden valintaperusteiden tulee liittyä:
+
+- 1\) suojavyöhykkeen kattaman rantaviivan pituuteen;
+- 2\) elävän puuston määrään suojavyöhykkeellä;
+- 3\) kuolleen puun määrään suojavyöhykkeellä;
+- 4\) suojavyöhykkeellä olevan lehtipuuston tilavuuden osuuteen;
+- 5\) suojavyöhykkeen yhtenäisyyteen;
+- 6\) suojavyöhykkeellä oleviin ojiin; ja
+- 7\) luontoarvoihin.
+
+Suon ennallistamisen hankkeiden valintaperusteiden tulee liittyä:
+
+- 1\) ennallistamistoimien vaikutusalueen osuuteen koko suon pinta-alasta;
+- 2\) kytkeytyneisyyteen suojelualueeseen tai ojittamattomaan suoalueeseen;
+- 3\) ennallistamistoimien vaikutusalueella olevan suon päätyyppiin;
+- 4\) ennallistamiseen osallistuvien tilojen lukumäärään;
+- 5\) ennallistamisen vaikutusalueen pinta-alan osuus koko valuma-alueesta; ja
+- 6\) lähteisyyden, luhtaisuuden ja lettoisuuden esiintymiseen.
+
+Lehdon luonnonhoidon hankkeiden valintaperusteiden tulee liittyä kohteen ekologiseen laatuun ja kohteen hoitotarpeeseen. Ekologisen laadun valintaperusteena on kytkeytyneisyys lajistollisesti arvokkaaseen lehtokohteeseen. Lisäksi alle 40-vuotiaissa lehdoissa kohteen ekologisen laadun valintaperusteina käytetään lehtipuuosuutta ja puulajien määrää. Yli 40-vuotiaissa lehdoissa kohteen ekologisen laadun valintaperusteina käytetään:
+
+- 1\) valtapuuston ikää;
+- 2\) järeiden puiden määrää;
+- 3\) jalojen puiden määrää;
+- 4\) kuolleen puuston määrää;
+- 5\) lehtipuuosuutta; ja
+- 6\) puuston rakennetta.
+
+Valtioneuvoston asetuksella annetaan tarkemmat säännökset suojavyöhykkeen jättämistä, suon ennallistamista ja lehdon luonnonhoitoa koskevien hakemusten valintaperusteiden pisteytyksestä.
+
+### 25 c § Hakemusten valinta tarjouskilpailumenettelyssä (22.12.2025/1373)
+
+Tarjouskilpailumenettelyssä hakemusten vertailu perustuu vertailulukuun, joka saadaan jakamalla tukihakemuksessa ilmoitettu hankkeen toteuttamiseksi tarvittavan tuen määrä valintaperusteiden pisteillä. Tarjouskilpailumenettelyssä hyväksytään pienimmän vertailuluvun saaneet hakemukset. Saman vertailuluvun saaneiden hakemusten järjestyksen metsäkeskus ratkaisee arvalla.
+
+### 25 d § Asiakirjojen täydentäminen ja julkisuus hankehaussa (22.12.2025/1373)
+
+Metsäkeskus ei saa ottaa huomioon sellaista hankehaun määräajan jälkeen toimitettua selvitystä, jolla on merkitystä hakemusten valintaperusteiden pisteytyksessä tai muutoin rahoitettavien toimenpiteiden valinnassa, ellei kyseessä ole 25 a §:n 2 momentissa tarkoitettu uusi selvitys.
+
+Asiakirjojen julkisuudesta säädetään viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999). Mainitun lain 7 §:n 1 momentista poiketen hankehaun hakemusasiakirjat tulevat kuitenkin julkisiksi vasta, kun metsäkeskus on tehnyt päätöksen rahoitettavien hankkeiden valinnasta. Asianosaisella ei ole mainitun lain 11 §:n 1 momentissa säädetystä poiketen oikeutta saada tietoa liikesalaisuudesta, joka sisältyy toisen hankehakuun osallistuneen hakemusasiakirjoihin.
+
+### 26 § Sopimuksia koskeva menettely
+
+Ympäristötukea koskevan hakemuksen tultua vireille metsäkeskuksen tulee neuvotella yksityisen maanomistajan kanssa ympäristötukisopimuksen sisällöstä. Neuvotteluissa tulee sopia sopimuskohteen rajaamisesta sekä kohdetta koskevista käyttörajoituksista ja mahdollisista ympäristönhoitotöistä.
+
+Metsäkeskuksen tulee laatia neuvotteluista pöytäkirja. Metsäkeskuksen ja tuen hakijan on allekirjoitettava pöytäkirja. Pöytäkirjaan tulee merkitä seuraavat tiedot:
+
+- 1\) sopimuskohteen rajaus ja kuvaus sekä tiedot kohdetta koskevista käyttörajoituksista;
+- 2\) sopimuksen irtisanomista, purkamista ja siirtämistä koskevat ehdot;
+- 3\) hoito- ja käyttösuunnitelma ja siihen liittyvien ympäristönhoitotöiden kustannusarvio, jos mainituista töistä on sovittu;
+- 4\) sopimuskohteen omistajat ja mahdolliset 4 §:n 1 momentin 2 kohdassa tarkoitetut henkilöt;
+- 5\) ympäristötuen laskennassa tarvittavat tiedot;
+- 6\) maininta kohteen merkitsemisestä kiinteistötietojärjestelmään; sekä
+- 7\) neuvottelua sekä hoito- ja käyttösuunnitelmaa koskevat teknisluonteiset yksityiskohdat. (15.12.2023/1129)
+
+Metsäkeskus tekee päätöksen ympäristötuesta pöytäkirjan tiedoin. Ympäristötukisopimus syntyy vasta, kun metsäkeskus on tehnyt tukipäätöksen. Metsäkeskuksen tukipäätös ja pöytäkirja muodostavat sopimuksen.
+
+Maa- ja metsätalousministeriön asetuksella säädetään tarkemmin 2 momentissa tarkoitettuun pöytäkirjaan merkittävistä tiedoista.
+
+### 27 § Metsäkeskuksen selvittämisvelvollisuus (27.6.2025/665)
+
+Metsäkeskuksen tulee ennen asian ratkaisemista selvittää, kohdistuuko aiottuun toimenpiteeseen luonnonsuojelulain 16 §:stä, 5 luvusta, 47, 53, 64, 65, 77–79, 81, 85, 91–94, 104, 124 ja 125 §:stä johtuvia rajoitteita. Metsäkeskuksen tulee tarvittaessa pyytää hakemuksesta lausunto Lupa- ja valvontavirastolta sekä siltä elinvoimakeskukselta, jonka toimialueella toimenpide on tarkoitus toteuttaa. Metsäkeskus saa kuitenkin ratkaista asian ilman Lupa- ja valvontaviraston ja elinvoimakeskuksen lausuntoa sen jälkeen, kun kaksi kuukautta on kulunut lausuntopyynnön lähettämisestä Lupa- ja valvontavirastoon ja elinvoimakeskukseen.
+
+### 28 § Eräät hakemuksen ratkaisemista ja hankehaun käynnistämistä varten tarvittavat hakijan selvitykset
+
+Yhteishankkeen toteuttamista koskevaa päätöstä ei saa tehdä ennen kuin metsäkeskukselle on toimitettu selvitys, josta käy ilmi, että hankkeeseen osallistuvat yksityiset maanomistajat ovat sitoutuneet toteuttamaan hankkeen. Silloin, kun on kyse metsäluonnon hoitoa koskevaan hankkeeseen liittyvästä hankehausta, metsäkeskuksen tulee hankkia yksityisiltä maanomistajilta sitoumus ennen hankehaun käynnistämistä.
+
+Mitä 1 momentissa säädetään, ei sovelleta yksityistien perusparannuksen tukeen. Jos kyse on yhteishankkeena toteutettavasta yksityistien perusparannuksesta, toteuttamisen tukea koskevaa päätöstä ei saa tehdä ennen kuin metsäkeskukselle on toimitettu kirjallisesti tiedoksi tiekunnan päätös yksityistien perusparantamisesta sekä ajantasainen luettelo tieosakkaista ja heille määrätyistä tieyksiköistä. (5.12.2024/711)
+
+Edellä 1 ja 2 momentissa tarkoitettujen selvitysten tulee olla allekirjoitettuja. Tällöin riittää, että päätöksentekoa varten on käytettävissä kopio alkuperäisestä allekirjoitetusta asiakirjasta. Alkuperäiset allekirjoitetut asiakirjat voidaan tuen maksamisen jälkeenkin tarvittaessa tarkastaa.
+
+Jos tuettavan toimenpiteen toteuttamiseen sovelletaan ympäristövaikutusten arviointimenettelystä annetussa laissa (252/2017) tarkoitettua ympäristövaikutusten arviointimenettelyä, tukipäätöstä ei saa tehdä ennen kuin metsäkeskus on saanut käyttöönsä mainitun lain 19 §:n mukaisen arviointiselostuksen ja siihen liittyvän yhteysviranomaisen perustellun päätelmän. Tukipäätöksestä on käytävä ilmi, miten arviointi on otettu huomioon päätösharkinnassa.
+
+Suometsän vesiensuojelutoimenpiteiden ja piennartien tekemisen tukea koskevaa päätöstä ei saa tehdä ennen kuin metsäkeskukselle on toimitettu Lupa- ja valvontavirastolle tehty ojitusilmoitus ja siitä mahdollisesti annettu lausunto, jos suometsän hoitosuunnitelmaan sisältyvästä toimenpiteestä on tehtävä vesilain (587/2011) 5 luvun 6 §:n mukainen ojitusilmoitus. Myöskään yksityistien perusparannuksen tukea koskevaa päätöstä ei saa tehdä ilman mainittua selvitystä, jos kyseiseen toteuttamissuunnitelmaan sisältyvästä toimenpiteestä on tehtävä vesilain mukainen ojitusilmoitus. (27.6.2025/665)
+
+### 29 § Huomautus ja väliaikainen kielto
+
+Metsäkeskus voi antaa huomautuksen asiamiehelle ja avustajalle, joka laatii tässä laissa tarkoitettuihin tukiin liittyviä hakemuksia, toteuttamissuunnitelmia, toteutusilmoituksia, hoito- ja käyttösuunnitelmia tai muita tässä laissa tarkoitettuihin hakemusasioihin liittyviä asiakirjoja, jos hän on antanut mainituissa asiakirjoissa metsäkeskukselle harhaanjohtavia tai virheellisiä tietoja ja jos mainitut tiedot ovat olennaisia tuen myöntämisen edellytyksiä arvioitaessa.
+
+Ruokavirasto voi metsäkeskuksen esityksestä kieltää asiamiestä ja avustajaa laatimasta 1 momentissa tarkoitettuja asiakirjoja, jos harhaanjohtavien tai virheellisten tietojen antaminen on metsäkeskuksen antamasta huomautuksesta huolimatta ollut toistuvaa ja jos mainittu asiamiehen tai avustajan menettely ilman sen esiin tulemista olisi johtanut siihen, että metsäkeskus olisi harhaanjohtavien tai virheellisten tietojen johdosta myöntänyt tai maksanut virheellisesti tukea.
+
+Kieltoa koskevasta päätöksestä tulee käydä ilmi kiellon voimassaoloaika. Kielto voidaan asettaa enintään vuodeksi ja se tulee rajata maantieteellisesti. Vuoden mittainen kielto voidaan asettaa vain, jos toiminta on ollut laajamittaista.
+
+### 30 § Yhteisomistuksessa olevia kiinteistöjä koskeva menettely
+
+Yhteisomistuksessa olevan kiinteistön sellaisilla yhteisomistajilla, jotka omistavat kiinteistöstä vähintään 60 prosenttia ja joihin kuuluvat kiinteistöä hoitavat yhteisomistajat, on yhteisesti oikeus koko kiinteistön osalta ryhtyä tämän lain nojalla tuettavaan toimenpiteeseen ja ottaa vastaan tukea, jos he luopuvat toimenpiteen toteuttamiskustannusten vaatimisesta muilta kuin toimenpiteeseen yhtyneiltä yhteisomistajilta. Myös yhdellä yhteis-omistajalla, joka omistaa 60 prosenttia kiinteistöstä ja joka on kiinteistöä hoitava yhteis-omistaja, on sama oikeus. Yhteisomistajat, joille tuki on myönnetty, vastaavat tällöin tukeen liittyvistä velvoitteista.
+
+Kiinteistöä hoitavana yhteisomistajana pidetään sellaista yhteisomistajaa, joka on:
+
+- 1\) perintökaaren (40/1965) 24 luvun 1 §:ssä tarkoitetussa sopimuksessa sovittu kiinteistön hoitajaksi;
+- 2\) yhteisomistajien tekemällä sopimuksella määritelty toimimaan tässä laissa tarkoitettuna kiinteistöä hoitavana yhteisomistajana;
+- 3\) kiinteistöllä asuva yhteisomistaja, jos 1 tai 2 kohdassa tarkoitettua sopimusta ei ole tehty.
+
+Mitä 1 ja 2 momentissa säädetään, sovelletaan sellaisiin jakamattoman kuolinpesän osakkaisiin, joiden arvioitu osuus on 60 prosenttia kiinteistöstä tuen myöntämisajankohtana. Mitä edellä tässä pykälässä säädetään kiinteistöstä, sovelletaan myös kiinteistön määräosaan, jota hallitaan sovintojaolla.
+
+Hakemuksessa on ilmoitettava, miten niille yhteisomistajille, jotka eivät ole tuen hakijoina, on ilmoitettu suunnitellusta toimenpiteestä ja miten heitä on neuvottu ilmoittamaan hakijoille mahdollinen kielteinen kantansa asiaan. Ilmoitusta ei kuitenkaan tarvitse tehdä, jos heidän tavoittamisensa ei ole mahdollista ilman suuria vaikeuksia.
+
+Tässä pykälässä tarkoitetun päätöksen katsotaan tulleen yhteisomistajien tietoon, kun se on annettu tiedoksi yhdelle kiinteistöä hoitavista yhteisomistajista. Kuolinpesälle annettavasta tiedoksiannosta säädetään hallintolain (434/2003) 57 §:n 2 momentissa.
+
+### 31 § Myöntämisvaltuuden ja määrärahan riittämättömyys (5.12.2024/711)
+
+Metsäkeskuksen tulee siirtää hakemus käsiteltäväksi seuraavana vuonna, jos hakemuksen vireillepanovuonna ei ole käytettävissä myöntämisvaltuutta. Jos myöntövaltuutta ei ole käytettävissä hakemuksen vireillepanovuotta seuraavanakaan vuonna, hakemus hylätään.
+
+Metsäkeskuksen tulee siirtää taimikon ja nuoren metsän hoidon tuen hakemus käsiteltäväksi seuraavana vuonna, jos hakemuksen vireillepanovuonna ei ole käytettävissä määrärahaa. Jos määrärahaa ei ole käytettävissä hakemuksen vireillepanovuotta seuraavanakaan vuonna, hakemus hylätään.
+
+### 32 § Toteuttamissuunnitelmaan perustuvaa tukea koskevat päätökset
+
+Toteuttamissuunnitelman laatimiseen voidaan myöntää tukea erikseen, jos toimenpiteet on tarkoitus rahoittaa yhteishankkeena. Muutoin toteuttamissuunnitelman ja sen toteuttamisen tuesta on päätettävä samanaikaisesti.
+
+Päätöksestä, jolla toteuttamissuunnitelmalle myönnetään tukea erikseen, tulee käydä ilmi, että tuki myönnetään ehdolla, että hanke toteutetaan metsäkeskuksen asettamassa määräajassa. Lisäksi ehtona tuen myöntämiselle toteuttamissuunnitelman laatimiseen on, että metsäkeskukselle toimitetaan sen asettamiin määräaikoihin mennessä tässä laissa säädetyt vaatimukset täyttävä toteuttamissuunnitelma, hankkeen toteuttamisen tukea koskeva hakemus ja selvitys töiden loppuunsaattamisesta. Jos työt on tarkoitus rahoittaa muulla rahoituksella, ehtona tuen myöntämiselle on, että metsäkeskukselle toimitetaan sen asettamassa määräajassa selvitys hankkeen loppuunsaattamisesta toteuttamissuunnitelman mukaisena.
+
+### 33 § Euroopan unionin lainsäädännöstä johtuvat velvoitteet tukipäätöksissä
+
+Sen lisäksi, mitä 5 §:n 4 momentissa tarkoitetussa Euroopan unionin säädöksessä säädetään vähämerkityksistä tukea koskevassa tukipäätöksessä ilmoitettavista tiedoista, taimikon ja nuoren metsän hoitoa, suojavyöhykkeen jättämistä, suon ennallistamista ja lehdon luonnonhoitoa koskevasta tukipäätöksestä tulee käydä ilmi, että kyseisen säädöksen vastainen tuki peritään takaisin. (22.12.2025/1373)
+
+Muihin kuin 1 momentissa tarkoitettuihin tukipäätöksiin on erikseen merkittävä ne vaatimukset, joita Suomi on velvollinen noudattamaan Euroopan komission hyväksymän metsätalouden tukiohjelman täytäntöönpanossa. Tuensaajaa on informoitava siitä, että tuki peritään korkoineen takaisin, jos komission hyväksymispäätöksen vaatimuksia ei ole noudatettu tuen myöntämisessä. Tuensaajaa on myös samalla informoitava siitä, että tuki peritään takaisin myös, jos Euroopan unionin lainsäädännössä sitä muutoin edellytetään. Valtioneuvoston asetuksella säädetään tarkemmin siitä, mitkä tukea koskevat vaatimukset on merkittävä tukipäätöksessä komission hyväksymispäätökseen perustuviksi.
+
+### 34 § Toimenpiteiden toteuttamisen myönnettävä lisäaika
+
+Metsäkeskus voi päättää enintään kahden vuoden lisäajan myöntämisestä toteuttamissuunnitelmaan perustuvan työn loppuunsaattamiseen. Lisäajan myöntämisen edellytyksenä on, että toimenpiteen toteuttaminen on viivästynyt toteutustyötä kohdanneen ennalta arvaamattoman esteen vuoksi. Lisäaikaa ei myönnetä, jos toimenpiteiden loppuunsaattaminen on viivästynyt tuensaajan, toteuttamissuunnitelman laatijan tai tuensaajan käyttämän muun asiamiehen taikka tuettavan hankkeen toteuttajan menettelyn vuoksi. Metsäkeskus voi erityisestä syystä pidentää myöntämäänsä lisäaikaa enintään kaksi vuotta.
+
+### 35 § Eräät tuen määrään liittyvät päätökset
+
+Siltä osin kuin toteuttamissuunnitelmaan perustuvan toteuttamisen tuen määrä määräytyy toteutuneiden kustannusten perusteella, metsäkeskuksen tulee valtionavustuslain 11 §:ssä tarkoitetun päätöksen lisäksi erikseen päättää tuen lopullisesta määrästä sen jälkeen, kun hanke on saatettu loppuun ja siitä on esitetty metsäkeskukselle hyväksyttävä toteutusilmoitus. Sama koskee suometsän hoitosuunnitelman ja ympäristönhoitotöiden tukea.
+
+Metsäkeskuksen tulee asiasta tiedon saatuaan erikseen päättää, voidaanko hakemuksessa ilmoitettujen työ- ja tarvikemäärien ja kustannusten ylitys hyväksyä. Hyväksymisen edellytyksenä on, että ylitys on ennalta arvaamaton. Vähäisistä ylityksistä päätös tehdään kuitenkin vasta tuen lopullista määrää koskevan päätöksen yhteydessä.
+
+Metsäkeskuksen tulee valtionavustuslain 11 §:ssä tarkoitetun päätöksen lisäksi erikseen päättää, maksetaanko suon ennallistamisen ja lehdon luonnonhoidon tukea myös tuloksen saavuttamisen perusteella. Päätös tehdään sen jälkeen, kun metsäkeskukselle on sen asettamassa määräajassa toimitettu ilmoitus tuloksen saavuttamisesta. (22.12.2025/1373)
+
+Maa- ja metsätalousministeriön asetuksella säädetään 3 momentissa tarkoitetun ilmoituksen sisällöstä. (22.12.2025/1373)
+
+### 36 § Päätöksen tekijä ja allekirjoittaminen sekä automaattinen päätöksenteko
+
+Metsäkeskuksen tämän lain nojalla tekemään hallintopäätökseen, joka ratkaistaan esittelystä, tulee merkitä päätöksentekijän ja esittelijän nimi.
+
+Metsäkeskuksen päätös tuen myöntämisestä, maksamisesta tai epäämisestä voidaan allekirjoittaa koneellisesti.
+
+Suomen metsäkeskuksesta annetun lain (418/2011) 14 §:n 3 momentissa säädetystä poiketen metsäkeskus voi ratkaista automaattisesti taimikon ja nuoren metsän hoitoa sekä terveyslannoitusta koskevan tuen myöntämispäätöksen samoin kuin tuen lopullista määrää koskevan päätöksen noudattaen, mitä muualla laissa säädetään viranomaisen automaattisen päätöksenteon mahdollistamisesta. Poiketen siitä, mitä tämän lain 6 §:n 1 momentissa säädetään tuettavan työn toteuttamisesta taloudellisesti ja metsien biologisen monimuotoisuuden säilyttämisen kannalta tarkoituksenmukaisella tavalla, nämä seikat otetaan tukea myönnettäessä huomioon vain siltä osin kuin kyseisiä tuettavan työn tarkoituksenmukaisuuden arviointiin liittyviä paikkatietoja on sähköisesti käytettävissä päätöksenteon automatisoimisessa.
+
+### 37 § Tuen maksaminen
+
+Enintään 300 euron tuki maksetaan yhdessä erässä.
+
+Siltä osin kuin toteuttamissuunnitelmaan perustuvan tuen määrä määräytyy toteutuneiden kustannusten perusteella, tuensaajan, toteutusilmoituksen laatijan tai muun tuensaajan käyttämän asiamiehen on metsäkeskuksen pyynnöstä toimitettava metsäkeskukselle jäljennökset toteutuneet kustannukset osoittavista tositteista.
+
+Sen estämättä, mitä 1 momentissa säädetään, ympäristötuki maksetaan yhdessä erässä sopimuskauden alkaessa. Yli 10 000 euron ympäristötuki voidaan kuitenkin maksaa useammassa kuin yhdessä erässä. Ympäristönhoitotöihin perustuva tuki maksetaan vasta sen jälkeen, kun metsäkeskus on tehnyt tuen lopullista määrää koskevan päätöksen.
+
+Metsäluonnon hoidon tuki maksetaan toteuttajalle, jos tuki on myönnetty hankehaun perusteella.
+
+Toteuttamissuunnitelman ja toteutusilmoituksen laatijaan tai muuhun tuensaajan käyttämään asiamieheen sovelletaan, mitä valtionavustuslain 12 §:n 4 momentissa säädetään tuen maksamista varten annettavista tiedoista.
+
+### 38 § Kiinteistötietojärjestelmään merkittävät tiedot
+
+Metsäkeskuksen tulee huolehtia ympäristötukisopimuksen tietojen tallentamisesta kiinteistötietojärjestelmään, kun tuen myöntämispäätös on tehty tai sopimusta on muutettu tai maanomistaja on irtisanonut sopimuksen, koska alue muuttuu luonnonsuojelualueeksi. Ruokaviraston tulee huolehtia näiden sopimusten irtisanomista ja purkamista koskevien tietojen tallentamisesta kiinteistötietojärjestelmään.
+
+## 6 luku Tukeen liittyvät velvoitteet ja valvonta
+
+### 39 § Velvollisuus sallia tien virkistyskäyttö
+
+Maanomistaja, jolle on myönnetty tukea yksityistien perusparannukseen, on velvollinen sallimaan yksityistien virkistyskäytön maksutta. Käyttöä voidaan kuitenkin rajoittaa, jos se on tarpeen tien vaurioitumisen estämiseksi, arkojen alueiden suojelemiseksi, tien turvallisen käytön varmistamiseksi tai sen varmistamiseksi, että tietä voidaan käyttää asianmukaisesti metsätalouden kuljetuksiin. Mitä edellä tässä momentissa säädetään virkistyskäytöstä, ei koske tien käyttöä muuhun taloudelliseen toimintaan kuin metsätalouteen. (5.12.2024/711)
+
+Edellä 1 momentissa tarkoitettu velvoite on voimassa kymmenen vuotta siitä, kun toimenpiteeseen myönnetty tuki on kokonaan maksettu.
+
+### 40 § Hoito- ja kunnossapitovelvollisuus
+
+Taimikon ja nuoren metsän hoitoon tukea saanut yksityinen maanomistaja on velvollinen huolehtimaan toimenpiteen kohteena olevan alueen hoidosta ja kunnossapidosta viisi vuotta toimenpiteelle myönnetyn tuen loppuun maksamisesta. Terveyslannoitukseen, suometsän vesiensuojelutoimenpiteiden ja piennarteiden tekemiseen, yksityistien perusparannukseen, metsäluonnon hoitoon, kulotukseen tai suojavyöhykkeen jättämiseen tukea saanut yksityinen maanomistaja on velvollinen huolehtimaan toimenpiteen kohteena olleen alueen tai yksityistien hoidosta ja kunnossapidosta kymmenen vuotta toimenpiteelle myönnetyn tuen loppuun maksamisesta. Suon ennallistamiseen ja lehdon luonnonhoitoon tukea saanut yksityinen maanomistaja on velvollinen huolehtimaan toimenpiteen kohteena olevan alueen kunnossapidosta kymmenen vuotta töiden toteuttamisen perusteella maksetun tuen loppuun maksamisesta. Jos suon ennallistamisen tai lehdon luonnonhoidon tulos on saavutettu, hoito- ja kunnossapitovelvollisuus on voimassa vielä kolme vuotta siitä, kun tuki on maksettu tuloksen saavuttamisen perusteella. Kunnossapidon kohteena olevaa aluetta ei saa alkaa käyttää siten, että alueen käyttö metsätaloudelliseen tarkoitukseen olennaiselta osin estyy. Mainitusta vaatimuksesta voidaan poiketa, jos hoito- ja kunnossapitovelvoite liittyy suojavyöhykkeen jättämiseen, suon ennallistamisen tai lehdon luonnonhoidon tukeen. Tällöin kunnossapidon kohteena olevaa aluetta ei saa ottaa muuhun maankäyttöön. (22.12.2025/1373)
+
+Hoito- ja kunnossapitovelvollisuuteen kuuluu:
+
+- 1\) taimikon ja nuoren metsän hoidon tuen osalta, että metsikön jatkokehityksestä huolehditaan niin, ettei kohteelle ole tarpeen myöntää taimikon ja nuoren metsän hoitoon tukea ennen kuin viisi vuotta on kulunut myönnetyn tuen loppuun maksamisesta;
+- 2\) suometsän vesiensuojelutoimenpiteiden ja piennarteiden tekemisen tuen osalta, että tehdyt laitteet ja rakenteet pidetään tarkoitustaan vastaavassa kunnossa;
+- 3\) yksityistien perusparannuksen tuen osalta, että yksityistiellä ja erillisellä varastoalueella huolehditaan tarpeellisesta sorastuksesta, rumpujen ja siltojen korjauksesta sekä tukkeutuneiden ojien avaamisesta ja muista tien kunnossapidon edellyttämistä töistä;
+- 4\) metsäluonnon hoidon tuen osalta, että hoitoalueella tehdyt laitteet ja rakenteet pidetään tarkoitustaan vastaavassa kunnossa;
+- 5\) kulotuksen osalta, että poltettuja säästöpuita ei poisteta;
+- 6\) suon ennallistamisen tuen osalta, että ennallistetulla suolla ei kaiveta uusia ojia eikä kunnosteta ojia ja että alueelle tehdyt laitteet ja rakenteet pidetään tarkoitustaan vastaavassa kunnossa ja haihduttavan puuston määrä pidetään ennallistumista edistävällä tasolla. (22.12.2025/1373)
+
+Taimikon ja nuoren metsän hoitoon, terveyslannoitukseen, metsäluonnon hoitoon ja kulotuksen tukeen liittyvään hoito- ja kunnossapitovelvollisuuteen kuuluu, ettei yksityinen maanomistaja tee toimenpiteen kohteena olevalla alueella 1 momentissa tarkoitettuna ajanjaksona tuen loppuun maksamisesta uudishakkuita eikä sellaisia hakkuita, jotka eivät ole metsänkasvatuksen kannalta tarkoituksenmukaisia. Suojavyöhykkeen jättämiseen, suon ennallistamisen ja lehdon luonnonhoitoon tukeen liittyvään hoito- ja kunnossapitovelvollisuuteen kuuluu, ettei yksityinen maanomistaja tee toimenpiteen kohteena olevalla alueella 1 momentissa tarkoitettuna ajanjaksona tuen loppuun maksamisesta uudishakkuita eikä sellaisia hakkuita tai hoitotoimenpiteitä, jotka eivät ole rahoitetun työlajin tavoitteiden kannalta tarkoituksenmukaisia tai jotka eivät ole tarpeen monimuotoisuuden edistämiseksi. Uudistushakkuun voi tehdä vain silloin, kun kohteella on tapahtunut sellainen luonnontuho, joka edellyttää uudistushakkuuta. Suojavyöhykkeen jättämisen tukeen liittyvään hoito- ja kunnossapitovelvollisuuteen kuuluu, ettei tukea saaneella suojavyöhykkeellä tehdä 1 momentissa tarkoitettuna ajanjaksona tuen loppuun maksamisesta maanmuokkausta, ojien kunnostusta tai uudisojitusta eikä käytetä lannoitteita, torjunta-aineita tai muita kemikaaleja. (22.12.2025/1373)
+
+Hoito- ja kunnossapitovelvoitteen mukaisiin töihin ei saa käyttää tässä laissa tarkoitettua rahoitusta.
+
+### 41 § Hoito- ja kunnossapitovelvoitteen ja muiden tukeen liittyvien velvoitteiden siirtyminen
+
+Kiinteistön tai muun alueen omistajan tai erityisen oikeuden haltijan vaihtuessa siirtyy hoito- ja kunnossapitovelvoite sekä tien virkistyskäytön sallimista koskeva velvoite uudelle yksityiselle maanomistajalle. Metsäkeskuksen tulee hakemuksesta lakkauttaa hoito- ja kunnossapitovelvollisuus, jos kiinteistö tai alue lunastetaan ja kiinteistön tai alueen käyttö metsätaloudelliseen tarkoitukseen tällöin olennaiselta osin estyy. Tällöin maanomistajalla ei ole tuen palautusvelvollisuutta. (5.12.2024/711)
+
+Yksityisen maanomistajan tulee huolehtia siitä, että uusi yksityinen maanomistaja saa omistajan tai erityisen oikeuden haltijan vaihtuessa tiedon lakisääteisestä hoito- ja kunnossapitovelvoitteesta sekä tien virkistyskäytön sallimista koskevasta velvoitteesta. Suometsän hoitosuunnitelman tukea saaneen yksityisen maanomistajan tulee vastaavasti ilmoittaa uudelle yksityiselle maanomistajalle 15 §:n 3 momentin 8 kohdan mukaisesta velvoitteesta.
+
+Metsäkeskus voi hyväksyä myöntämäänsä tukeen liittyvien velvoitteiden siirtämisen muulle kuin yksityiselle maanomistajalle, jos kiinteistön tai alueen omistaja tai erityisen oikeuden haltija on vaihtunut ja jos uusi omistaja tai haltija täyttää 5 §:n 1 momentissa säädetyn vaatimuksen. Lisäksi edellytyksenä hyväksymiselle on, että metsäkeskuksen myöntämään tukeen liittyvien velvoitteiden siirtämistä voidaan valtion varojen käytön ja rahoituksen tavoitteiden kannalta pitää tarkoituksenmukaisena. Metsäkeskuksen päätöksellä uusi omistaja tai haltija tulee yksityisen maanomistajan sijaan tämän lain mukaisine kyseistä tukea koskevine velvollisuuksineen ja oikeuksineen. Tässä momentissa tarkoitetun asian voi saattaa vireille uusi omistaja tai haltija yksin tai yhdessä aiemman yksityisen maanomistajan kanssa. Jos tukeen liittyviä velvoitteita ei siirretä uudelle omistajalle tai haltijalle mainitulla tavalla, aiemmalla yksityisellä maanomistajalla on tuen palautusvelvollisuus.
+
+### 42 § Hoito- ja kunnossapitovelvollisuuden lakkauttaminen
+
+Metsäkeskus voi lakkauttaa alueen tai yksityistien hoito- ja kunnossapitovelvollisuuden, jos:
+
+- 1\) yksityinen maanomistaja on olennaiselta osin menettänyt valtion varoilla rahoitettuun työhön perustuvan taloudellisen hyödyn;
+- 2\) 1 kohdassa tarkoitetun hyödyn menetyksen syynä on luonnontuho tai muu maanomistajasta riippumaton syy; ja
+- 3\) työn uusiminen ei ole tarkoituksenmukaista. (5.12.2024/711)
+
+Metsäkeskus voi lakkauttaa alueen tai yksityistien hoito- ja kunnossapitovelvollisuuden, jos rahoitettuun työhön perustuva taloudellinen hyöty menetetään sen vuoksi, että:
+
+- 1\) alue tai sen merkittävä osa kaavassa osoitetaan muuhun käyttöön kuin metsätalousmaaksi;
+- 2\) alueesta tai sen merkittävästä osasta tehdään ympäristötukisopimus tai muu vastaava sopimus; tai
+- 3\) alueeseen kohdistetaan lain nojalla asetettuja käyttörajoituksia tai toimenpidekieltoja. (5.12.2024/711)
+
+Jos yksityinen maanomistaja lopettaa alueen tai sen merkittävän osan käytön metsätalousmaana, metsäkeskuksen on lakkautettava alueen hoito- ja kunnossapitovelvoite.
+
+Yksityinen maanomistaja ei ole velvollinen palauttamaan saamaansa tukea, jos hoito- ja kunnossapitovelvollisuus lakkautetaan 1 tai 2 momentin perusteella. Jos hoito- ja kunnossapitovelvoite lakkautetaan 3 momentin perusteella, maanomistaja on velvollinen palauttamaan saamansa tuen.
+
+### 43 § Tukeen liittyvä tiedonantovelvollisuus
+
+Tuen saamisen edellytyksenä on, että hakemusasiakirjoissa ilmoitettuja toteutuneita kustannuksia koskevat alkuperäiset tositteet voidaan tuen maksamisen jälkeenkin tarvittaessa tarkastaa. Alkuperäiset tositteet ja 28 §:ssä tarkoitetut alkuperäiset allekirjoitetut selvitykset tulee säilyttää kymmenen vuotta tuen loppuun maksamisesta.
+
+Toteuttamissuunnitelman laatijaan tai muuhun tuensaajan käyttämään asiamieheen sekä tuettavan hankkeen toteuttajaan sovelletaan, mitä valtionavustuslain 14 §:ssä säädetään valtionavustuksen saajan tiedonantovelvollisuudesta.
+
+Yksityisen maanomistajan on ilmoitettava viipymättä metsäkeskukselle sellaisen alueen omistajan tai erityisen oikeuden haltijan vaihdoksesta, josta on tehty ympäristötukisopimus. Lisäksi yksityisen maanomistajan on ilmoitettava metsäkeskukselle luonnontuhosta tai muusta maanomistajasta riippumattomasta syystä aiheutuneesta olosuhteiden muutoksesta ympäristötukisopimusalueella.
+
+### 44 § Metsäkeskuksen valvontatehtävä ja valtiontukeen liittyvät asiakirjat
+
+Metsäkeskuksen tehtävänä on valvoa tukien myöntämiseen, maksamiseen ja käyttöön liittyviä edellytyksiä ja tukiin liittyvien velvoitteiden noudattamista noudattaen, mitä valtionavustuslain 15–17 §:ssä säädetään. Metsäkeskuksella on lisäksi oikeus tarkastaa, onko tuettavan hankkeen toteuttaja täyttänyt tukeen liittyvät velvoitteet. Metsäkeskuksen tarkastusoikeuteen ja tarkastusten suorittamiseen sovelletaan edellä mainittuja valtionavustuslain säännöksiä. Tarkastuksessa noudatettavasta menettelystä säädetään lisäksi hallintolain 39 §:ssä. Tarkastusta ei saa suorittaa pysyväisluonteiseen asumiseen käytettävissä tiloissa.
+
+Metsäkeskuksen tulee antaa maanomistajalle mahdollisuus maastotarkastuksessa todettujen puutteiden korjaamiseen, jos puutteet ovat vähäisiä ja ilman kohtuutonta vaivaa korjattavissa. Jos yksityistien virkistyskäytön sallimista koskevan velvollisuuden laiminlyönti on vähäinen, metsäkeskuksen tulee neuvoa maanomistajaa mainitun velvollisuuden sisällöstä ja antaa maanomistajalle mahdollisuus laiminlyönnin korjaamiseen. Metsäkeskuksen tulee tällöin asettaa määräaika puutteiden tai laiminlyönnin korjaamiseen. (5.12.2024/711)
+
+Metsäkeskuksen on säilytettävä tämän lain nojalla myönnettyyn tukeen liittyvät tiedot 10 vuoden ajan tuen myöntämispäivästä. Tietoa, jonka säilyttäminen on välttämätöntä lakisääteisen tehtävän hoitamiseksi tai vireillä olevan asian takia, ei kuitenkaan poisteta. Tieto on poistettava, kun sen käsittelylle ei enää ole laissa säädettyä perustetta. Valtiontukeen liittyvät asiakirjat on salassapitosäännösten estämättä annettava komissiolle, jos Euroopan unionin lainsäädännössä sitä edellytetään.
+
+Maa- ja metsätalousministeriön asetuksella säädetään metsäkeskuksen tehtäviin kuuluvien tarkastusten määrästä ja kohdentamisesta sekä muista valvonnan järjestämisen teknisistä yksityiskohdista.
+
+## 7 luku Tuen palauttaminen ja takaisinperintä sekä sopimuksen purkaminen ja irtisanominen
+
+### 45 § Tuen palauttaminen ja takaisinperintä
+
+Tuen palauttamisen ja takaisinperinnän perusteista säädetään valtionavustuslaissa. Tuki, joka tulee valtionavustuslain 20 §:n nojalla palauttaa, tulee maksaa takaisin metsäkeskukselle. Jos tuki on maksettu useassa erässä, valtionavustuslain 24 §:ssä tarkoitettua korkoa palautettavalle tai takaisinperittävälle määrälle on maksettava tuen loppuun maksamisesta lukien. Mainitun lainkohdan mukaista korkoa on maksettava tukea takaisin perittäessä siihen päivään, kun metsäkeskus tekee tämän pykälän 2 momentissa tarkoitetun esityksen Ruokavirastolle.
+
+Metsäkeskuksen tulee tehdä Ruokavirastolle esitys tuen takaisinperimiseksi, jos sen tietoon tulee valtionavustuslain 21 tai 22 §:ssä säädetty takaisinperinnän peruste. Sen jälkeen Ruokavirasto päättää tuen takaisinperinnästä. Metsäkeskuksen tulee tehdä Ruokavirastolle esitys tuen takaisinperinnästä viipymättä tai erityisestä syystä 12 kuukauden kuluessa siitä, kun se on saanut valtionavustuslain 28 §:n 1 momentissa tarkoitetulla tavalla tietoonsa takaisinperinnän perusteen. Ruokaviraston tulee tehdä asiassa päätös viipymättä tai erityisestä syystä 18 kuukauden kuluessa metsäkeskuksen esityksen tekemisestä. Jos kyse on hoito- ja kunnossapitovelvoitteen tai tien virkistyskäytön sallimista koskevan velvoitteen rikkomisesta, valtionavustuslain 28 §:n 2 momentissa tarkoitettu määräaika lasketaan velvoitteen voimassaoloajan päättymisestä.
+
+Jos tuen myöntämiseen on sovellettu yhteisomistuksessa olevia kiinteistöjä koskevia menettelysäännöksiä, tukea ei voida periä takaisin sellaiselta yhteisomistajalta, joka ei ole ottanut vastaan tukea, ellei tällainen yhteisomistaja tai uusi yhteisomistaja ole itse osallistunut tuen takaisinperimisen perusteena olevaan toimintaan.
+
+### 46 § Eräiden tukien takaisinperintä
+
+Tuki tai sen osa peritään takaisin tuensaajalta, jollei jäljempänä tässä pykälässä toisin säädetä. Taimikon ja nuoren metsän hoitoon, terveyslannoitukseen, suometsän vesiensuojelutoimenpiteiden ja piennarteiden tekemiseen, yksityistien perusparannukseen, metsäluonnon hoitoon, kulotukseen, suojavyöhykkeen jättämiseen, suon ennallistamiseen ja lehdon luonnonhoitoon myönnetty tuki peritään takaisin siltä uudelta yksityiseltä maanomistajalta, joka on rikkonut hoito- ja kunnossapitovelvollisuutensa. Yksityistien perusparannukseen myönnetty tuki peritään takaisin myös siltä uudelta yksityiseltä maanomistajalta, joka ei ole noudattanut tien virkistyskäytön sallimista koskevaa velvollisuutta. Ympäristötuki peritään takaisin siltä yksityiseltä maanomistajalta, joka ei ole noudattanut ympäristötukisopimukseen liittyviä velvoitteita. (22.12.2025/1373)
+
+Silloin, kun tuki peritään takaisin hoito- ja kunnossapitovelvoitteen rikkomisen takia, tuen takaisinmaksun jälkeen lakkaa alueen tai tien hoito- ja kunnossapitovelvoite ja yksityistien perusparannuksen tuen osalta myös tien virkistyskäytön sallimista koskeva velvoite. Jos yksityistien perusparannuksen tuki peritään takaisin tien virkistyskäytön sallimista koskevan velvoitteen rikkomisen takia, tuen takaisinmaksun jälkeen lakkaa virkistyskäytön sallimista koskeva velvoite ja hoito- ja kunnossapitovelvoite. Jos ympäristötuki peritään takaisin sopimusvelvoitteiden laiminlyönnin vuoksi, velvoitteet lakkaavat, kun ympäristötuki on maksettu takaisin. (5.12.2024/711)
+
+Suometsän hoitosuunnitelman tuki peritään takaisin niiltä yksityisiltä maanomistajilta, jotka eivät ole noudattaneet 15 §:n 3 momentin 8 kohdassa tarkoitettua sitoumusta. Takaisinperittävä määrä on enintään kyseisten yksityisten maanomistajien kiinteistön osuus hoitosuunnitelman tuesta. Jos sitoumusta on noudatettu vain osittain, tuki peritään takaisin siltä osin kuin vesiensuojelutoimenpiteitä on jätetty toteuttamatta.
+
+### 47 § Ympäristötuen palauttaminen ja sopimuksen irtisanominen metsätuhotilanteissa
+
+Jos ympäristötukikohteella tapahtunut metsätuho edellyttää metsätuhojen torjunnasta annetun lain (1087/2013) mukaan vahingoittuneen puuston korjaamista alueelta, yksityisen maanomistajan tulee hakea puuston korjaamiseen metsäkeskuksen lupa. Metsäkeskuksen on myönnettävä lupa ja tarvittaessa liitettävä lupapäätökseen luontoarvojen säilyttämisen ja metsätuhojen ehkäisyn kannalta tarpeelliset ehdot. Yksityisen maanomistajan tulee palauttaa korjattavaa puustoa vastaava laskennallinen osuus ympäristötuesta takaisin metsäkeskukselle.
+
+Metsäkeskuksen tulee irtisanoa sopimus, jos ympäristötukikohde on niin tuhoutunut, ettei sopimuksen voimassaolon jatkaminen ole enää perusteltua. Yksityisen maanomistajan tulee tällöin palauttaa sopimuskaudesta jäljellä olevia kalenterikuukausia vastaavan osan maksetusta tuesta metsäkeskukselle. Yksityinen maanomistaja ei ole velvollinen maksamaan valtionavustuslain 24 §:ssä säädettyä korkoa palautettavalle määrälle. Jos yksityinen maanomistaja vastustaa ympäristötukisopimuksen irtisanomista, tulee metsäkeskuksen tehdä esitys Ruokavirastolle sopimuksen irtisanomiseksi.
+
+### 48 § Sopimuksen purkaminen
+
+Ruokavirasto voi metsäkeskuksen esityksestä päätöksellään määrätä ympäristötukisopimuksen purettavaksi ja jo maksetun tuen takaisinperittäväksi, jos yksityinen maanomistaja on omalla menettelyllään tietoisesti heikentänyt ympäristötukikohteen biologista monimuotoisuutta tai muutoin olennaisesti rikkonut sopimusehtoja. Yksityinen maanomistaja on tällöin velvollinen palauttamaan maksetun tuen Ruokavirastolle.
+
+Tuki voidaan periä takaisin myös sopimuksen voimassaoloajan jälkeen, jos sopimusta on rikottu 1 momentissa tarkoitetulla tavalla sopimuksen voimassaoloaikana.
+
+### 49 § Ruokaviraston oikeus irtisanoa sopimus
+
+Ruokavirasto voi metsäkeskuksen esityksestä tai maanomistajan hakemuksesta päätöksellään määrätä ympäristötukisopimuksen irtisanottavaksi ja jo maksetun tuen osittain takaisinperittäväksi, jos kohteen biologista monimuotoisuutta koskevat olosuhteet tai muut sopimusvelvoitteiden täyttämiseen vaikuttavat olosuhteet ovat muuttuneet niin, ettei sopimuksen voimassaololle enää ole perusteita tai sopimuksen voimassaolon jatkaminen olisi kohtuutonta.
+
+Yksityinen maanomistaja on 1 momentissa tarkoitetuissa tilanteissa velvollinen palauttamaan sopimuskaudesta jäljellä olevia kalenterikuukausia vastaavan osan maksetusta tuesta Ruokavirastolle. Jos alueen omistaja tai erityisen oikeuden haltija on vaihtunut, palautusvelvollinen on alueen uusi yksityinen maanomistaja. Yksityinen maanomistaja ei ole 1 momentissa tarkoitetuissa tilanteissa velvollinen maksamaan valtionavustuslain 24 §:ssä säädettyä korkoa palautettavalle määrälle.
+
+### 50 § Yksityisen maanomistajan oikeus irtisanoa sopimus
+
+Jos sopimuksen kohteena olevan alueen omistaja tai erityisen oikeuden haltija vaihtuu, uudella yksityisellä maanomistajalla on oikeus irtisanoa sopimus ilmoittamalla irtisanomisesta kirjallisesti metsäkeskukselle kuuden kuukauden kuluessa omistusoikeuden siirtymisestä. Irtisanominen tulee voimaan, kun uusi yksityinen omistaja on maksanut metsäkeskukselle takaisin sopimuskaudesta jäljellä olevia täysiä kalenterikuukausia vastaavan osan maksetusta ympäristötuesta.
+
+Yksityisellä maanomistajalla on oikeus irtisanoa sopimus myös muussa kuin 1 momentissa tarkoitetussa tilanteessa, jos hän maksaa metsäkeskukselle takaisin 1 momentissa tarkoitetun määrän 10 prosentilla korotettuna. Irtisanominen tulee voimaan, kun mainittu määrä on maksettu.
+
+Yksityisen maanomistajan tulee irtisanoa ympäristötukisopimus, jos sopimuksen kohteena olevasta alueesta tehdään luonnonsuojelualue. Tällöin yksityisen maanomistajan tulee maksaa metsäkeskukselle takaisin 1 momentissa tarkoitettu määrä. Yksityinen maanomistaja ei ole velvollinen maksamaan valtionavustuslain 24 §:ssä säädettyä korkoa palautettavalle määrälle. Ympäristötukisopimuksen velvoitteet lakkaavat siitä päivästä, kun metsäkeskus on saanut ympäristötuen palautuksen.
+
+### 51 § Takaisinperintään liittyvät Euroopan unionin lainsäädännöstä johtuvat velvoitteet
+
+Sen estämättä, mitä tässä laissa tai valtionavustuslaissa säädetään takaisinperinnästä, Euroopan komissiolle ilmoitettuun tukiohjelmaan sisältyvä tuki on perittävä takaisin, jos se ei täytä komission hyväksymispäätöksen vaatimuksia. Tuki on perittävä takaisin myös, jos vähämerkityksisen tuen myöntämisessä ei ole noudatettu 5 §:n 4 momentissa tarkoitettua Euroopan unionin säädöstä. Takaisinperittävän määrän tai sille maksettavan koron kohtuullistaminen on mahdollista vain, jos kyse on poikkeuksellisista olosuhteista, joihin tuensaaja tai tämän valtuuttama taho ei olisi huolellisella toiminnalla voinut vaikuttaa. Tuki on kuitenkin perittävä kokonaan takaisin, jos Euroopan unionin lainsäädännössä sitä edellytetään. Takaisinperittävälle määrälle maksettavasta korosta säädetään valtionavustuslaissa. (15.12.2023/1129)
+
+Komission takaisinperintää koskevasta päätöksestä säädetään eräiden valtion tukea koskevien Euroopan unionin säännösten soveltamisesta annetussa laissa (300/2001).
+
+### 52 § Varojen kohdentaminen
+
+Maa- ja metsätalousministeriö päättää tämän lain toimeenpanoon valtion talousarviossa osoitetun myöntämisvaltuuden ja määrärahan rajoissa varojen kohdentamisesta tässä laissa tarkoitettuihin toimenpiteisiin ottaen huomioon kansallisen metsästrategian tavoitteet. Metsäkeskuksen on laadittava vuosittain maa- ja metsätalousministeriölle myöntämisvaltuutta ja määrärahan suuntaamista koskeva esitys ottaen huomioon metsälain 26 §:ssä tarkoitetuissa alueellisissa metsäohjelmissa esitetyt tavoitteet.
+
+## 8 luku Erinäiset säännökset
+
+### 53 § Maa- ja metsätalousministeriön valvontatehtävä
+
+Maa- ja metsätalousministeriön tehtävänä on valvoa metsäkeskuksen ja Ruokaviraston toimintaa niiden hoitaessa tässä laissa säädettyjä tehtäviä. Ministeriöllä on oikeus saada metsäkeskukselta ja Ruokavirastolta valvontatehtäväänsä liittyviä yleisiä käyttö- ja seurantatietoja ja tehdä tämän lain noudattamisen valvonnassa tarpeellisia metsäkeskuksen ja Ruokaviraston toimintaan kohdistuvia tarkastuksia. Mainitut tarkastukset voivat sisältää asiakirjatarkastuksia ja paikan päällä tehtäviä tarkastuksia, jos niillä on olennaista merkitystä tämän lain noudattamisen varmistamiseksi tuen myöntämisessä, maksamisessa ja käytön valvonnassa. Ministeriön tarkastusoikeudesta ja tarkastusten suorittamisesta säädetään valtionavustuslain 16 ja 17 §:ssä.
+
+Maa- ja metsätalousministeriöllä on salassapitosäännösten estämättä oikeus saada metsäkeskukselta ja Ruokavirastolta sellaisia tehtävänsä hoitamiseksi välttämättömiä tietoja tuen hakijaa ja saajaa koskevista seikoista, joilla on olennaista merkitystä tämän lain noudattamisen varmistamiseksi tuen myöntämisessä, maksamisessa ja käytön valvonnassa.
+
+### 54 § Ruokaviraston valvontatehtävä
+
+Ruokaviraston tehtävänä on suorittaa tämän lain noudattamisen valvonnassa tarpeellisia metsäkeskuksen toimintaan kohdistuvia tarkastuksia sen mukaan kuin maa- ja metsätalousministeriö tarkemmin määrää. Ruokaviraston valvontatehtävän osalta noudatetaan tällöin, mitä 53 §:ssä säädetään maa- ja metsätalousministeriön valvontatehtävästä.
+
+Ruokavirastolla on salassapitosäännösten estämättä oikeus saada metsäkeskukselta sellaisia tehtävänsä hoitamiseksi välttämättömiä tietoja tuen hakijaa ja saajaa koskevista seikoista, joilla on olennaista merkitystä tämän lain noudattamisen varmistamiseksi tuen myöntämisessä, maksamisessa ja käytön valvonnassa.
+
+Maa- ja metsätalousministeriön asetuksella säädetään Ruokaviraston tehtäviin kuuluvien tarkastusten määrästä ja kohdentamisesta sekä muista valvonnan järjestämisen teknisistä yksityiskohdista.
+
+### 55 § Muutoksenhaku
+
+Tämän lain nojalla tehtyä päätöstä koskevaan muutoksenhakuun sovelletaan valtion-avustuslain muutoksenhakua koskevia säännöksiä. Takaisinperintää, sopimuksen purkamista ja irtisanomista sekä asiamiehelle tai avustajalle määrättyä väliaikaista kieltoa koskevassa asiassa muutosta haetaan kuitenkin valittamalla hallinto-oikeuteen ilman oikaisuvaatimusmenettelyä.
+
+### 56 § Maastomittaukset
+
+Tähän lakiin liittyvissä maastossa tehtävissä mittauksissa käytetään metsätaloudessa yleisesti käytettäviä mittaus- ja arviointimenetelmiä.
+
+### 57 § Luonnonvarakeskuksen tehtävä
+
+Luonnonvarakeskuksen tulee vuosittain elokuun loppuun mennessä toimittaa maa- ja metsätalousministeriölle tiedot kolmen edellisen kalenterivuoden puukuutiometrin keskikantohinnan aritmeettisesta keskiarvosta maakunnittain.
+
+Lisäksi Luonnonvarakeskuksen tulee toimittaa maa- ja metsätalousministeriölle muut tässä laissa tarkoitettujen tukien toimeenpanossa tarvittavat tiedot.
+
+## 9 luku Voimaantulo
+
+### 58 § Voimaantulo
+
+Tämän lain voimaantulosta säädetään valtioneuvoston asetuksella. Tämä laki on voimassa 31 päivään joulukuuta 2029.
+
+> Tämä laki on voimassa A:n 1020/2023 mukaisesti 1.1.2024 alkaen.
+
+Tämän lain muita kuin tuen myöntämistä koskevia säännöksiä sovelletaan kuitenkin tämän lain nojalla myönnettyyn tukeen lain voimassaoloajan päätyttyä. Lain voimassaolon päätyttyä ei kuitenkaan voida myöntää lisäaikaa toteuttamissuunnitelmaan perustuvan työn loppuunsaattamiseen. Metsäkeskus voi lain voimassaolon päätyttyä erityisestä syystä pidentää lain voimassaoloaikana myöntämäänsä lisäaikaa enintään kaksi vuotta. Kyseinen päätös on tehtävä ennen 1 päivää lokakuuta 2030. Tämän lain nojalla myönnetty tuki tulee maksaa viimeistään 31 päivänä joulukuuta 2032.
+
+Tämän lain mukaista rahoitusta voidaan hakea 1 päivästä maaliskuuta 2024 ja sitä tulee hakea viimeistään 1 päivänä lokakuuta 2029. Suomen metsäkeskuksen on pyydettävä hakemuksen lähettäjää toimittamaan hallintolain 22 §:n 1 momentissa tarkoitetut puuttuvat selvitykset viimeistään 1 päivänä marraskuuta 2029. Hakijan on toimitettava mainitut ja muut hakemusta täydentävät selvitykset metsäkeskukselle viimeistään 1 päivänä joulukuuta 2029. Taimikon ja nuoren metsän hoidon tukea voidaan myöntää tämän lain nojalla vain tämän lain voimaantultua aloitettuun toimenpiteeseen. Taimikon ja nuoren metsän tukea voidaan myöntää toimenpiteelle, joka on saatettu loppuun viimeistään 31 päivänä syyskuuta 2029. (15.12.2023/1129)
+
+Sen estämättä, mitä 6 §:n 2 momentissa säädetään, taimikon ja nuoren metsän hoitoon voidaan myöntää 13 §:n nojalla tukea, vaikka metsänuudistamiseen liittyvä hoito- ja kunnossapitovelvoite on vielä voimassa. Taimikon ja nuoren metsän hoitoon ei voida myöntää tukea 13 §:n nojalla, ellei samalla kohteella rahoitetun kestävän metsätalouden määräaikaisen rahoituslain (34/2015) mukaisen nuoren metsän hoidon tuen tai taimikon varhaishoidon tuen loppuun maksamisesta ole kulunut viittä vuotta.
+
+Terveyslannoitukseen ei voida 14 §:n nojalla myöntää tukea, ellei samalla kohteella rahoitetun kestävän metsätalouden rahoituksesta annetun lain (1094/1996) mukaisen terveyslannoituksen tuen loppuun maksamisesta ole kulunut 20:tä vuotta tai kestävän metsätalouden määräaikaisen rahoituslain mukaisen terveyslannoituksen tuen loppuun maksamisesta ole kulunut kymmentä vuotta. (5.12.2024/711)
+
+Suometsän hoitosuunnitelman laatimiseen tai suometsän vesiensuojelutoimenpiteiden ja piennarteiden tekemiseen ei voida 15 ja 16 §:n nojalla myöntää tukea, ellei kestävän metsätalouden rahoituksesta annetun lain mukaisen kunnostusojituksen rahoituksen loppuun maksamisesta ole kulunut vähintään 20:tä vuotta tai kestävän metsätalouden määräaikaisen rahoituslain mukaisen suometsän hoidon tuen loppuun maksamisesta ole kulunut kymmentä vuotta. Suometsän vesiensuojelutoimenpiteiden ja piennarteiden tekemiseen voidaan myöntää 16 §:n nojalla tukea, jos toimenpiteiden toteutus perustuu kestävän metsätalouden määräaikaisen rahoituslain 9 §:n mukaiseen toteuttamissuunnitelmaan. Tuen myöntämisen edellytyksenä on, että toteuttamissuunnitelman laatiminen on aloitettu ennen tämän lain voimaantuloa ja valmis suunnitelma toimitetaan metsäkeskuksen hyväksyttäväksi yhdeksän kuukauden kuluessa tämän lain voimaantulosta.
+
+Yksityistien perusparannukseen ei voida 17 §:n nojalla myöntää tukea, ellei kestävän metsätalouden rahoituksesta annetun lain mukaisesta tiehankkeen rahoituksen loppuun maksamisesta ole kulunut vähintään 20:tä vuotta tai kestävän metsätalouden määräaikaisen rahoituslain mukaisen tiehankkeen tuen loppuun maksamisesta ole kulunut kymmentä vuotta. Tästä edellytyksestä voidaan kuitenkin poiketa, jos tien käyttö on olennaisesti muuttunut metsätalouden kuljetusten laajenemisen tai muuttuu arvioidun laajenemisen vuoksi taikka jos tie ei enää rakenteeltaan sovellu nykyisen puutavarankuljetuskaluston, hakkeenkuljetuskaluston tai työkoneiden kuljetuskaluston käyttöön. Lisäksi edellytyksenä on, että tien tekemisen tai sen perusparannuksen edellisen rahoituksen loppuun maksamisesta julkisin varoin on kulunut vähintään kymmenen vuotta. (5.12.2024/711)
+
+Terveyslannoituksen, yksityistien perusparannuksen ja metsäluonnon hoitohankkeen toteuttamissuunnitelmana voidaan hyväksyä kestävän metsätalouden määräaikaisen rahoituslain nojalla rahoitettu terveyslannoituksen, yksityistien perusparannuksen ja metsäluonnon hoitohankkeen suunnitelma, jos suunnitelma sellaisenaan tai täydennettynä täyttää 10 §:ssä säädetyt vaatimukset ja jos työn toteuttamiseen suunnitelman perusteella voidaan myöntää terveyslannoituksen, yksityistien perusparannuksen ja metsäluonnon hoitohankkeen tukea. Suunnitelman täydentämiseen ei myönnetä tukea. (5.12.2024/711)
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+HE 167/2022
+
+MmVM 18/2022
+
+EV 181/2022
+
+## Muutossäädösten voimaantulo ja soveltaminen
+
+### 15.12.2023/1129:
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2024.
+
+HE 16/2023, MmVM 1/2023, EV 15/2023
+
+### 5.12.2024/711:
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2025.
+
+Jos hakemus, jolla tukea haetaan samanaikaisesti uuden metsätien tekemistä tai uuden metsätien tekemistä sisältävää yksityistien perusparannusta koskevan toteuttamissuunnitelman laatimiseen ja sellaisen hankkeen toteuttamiseen, on tullut vireille ennen tämän lain voimaantuloa, siihen sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä.
+
+Jos hakemus, jolla tukea haetaan uuden metsätien tekemistä tai uuden metsätien tekemistä sisältävää yksityistien perusparannusta koskevan hankkeen toteuttamiseen, on tullut vireille tällä lailla muutettavan lain 32 §:n 2 momentissa tarkoitetussa, ennen tämän lain voimaatuloa asetetussa määräajassa ennen tämän lain voimaantuloa tai tämän lain tultua voimaan, siihen sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä.
+
+Jos hakemus, jolla tukea haetaan uuden metsätien tekemistä tai uuden metsätien tekemistä sisältävää yksityistien perusparannusta koskevan toteuttamissuunnitelman laatimiseen, on tullut vireille ennen tämän lain voimaantuloa, siihen sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä. Tällöin myös toteutuksen tukea koskevaan hakemukseen joka on tullut vireille tämän lain tultua voimaan, sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä. Metsäkeskus ei saa asettaa tällä lailla muutettavan lain 32 §:n 2 momentissa tarkoitettua määräaikaa myöhemmäksi kuin 30 päivä kesäkuuta 2025. Metsäkeskuksen tulee ratkaista hakemukset viimeistään 30 päivänä syyskuuta 2025.
+
+HE 115/2024, MmVM 10/2024, EV 123/2024
+
+### 27.6.2025/665:
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2026.
+
+HE 13/2025, HaVM 15/2025, EV 74/2025
+
+### 22.12.2025/1373:
+
+Tämä laki tulee voimaan 1 päivänä heinäkuuta 2026.
+
+Tämän lain 25 d §:ää sovelletaan ensimmäisen kerran hankehakuun, joka on avattu tämän lain voimaantulon jälkeen.
+
+Tukea, joka liittyy keskimääräistä isomman lehtipuuosuuden jättämiseen taimikon ja nuoren metsän hoitotyössä, ja suojavyöhykkeen jättämisen tukea voidaan hakea 1 päivästä tammikuuta 2027.
+
+Tuki, joka liittyy keskimääräistä isomman lehtipuuosuuden jättämiseen taimikon ja nuoren metsän hoitotyössä, tulee maksaa viimeistään 31 päivänä joulukuuta 2032. Muut tämän lain nojalla myönnetyt tuet tulee maksaa viimeistään 31 päivänä joulukuuta 2041.
+
+Suojavyöhykkeen jättämiseen, suon ennallistamiseen ja lehdon luonnonhoitoon ei voida myöntää tukea tämän lain nojalla, jos samalla kohteella on rahoitettu työ tai toimenpide tai ympäristötukisopimus kestävän metsätalouden määräaikaisen rahoituslain (34/2015) nojalla.
+
+HE 104/2025, MmVM 5/2025, EV 143/2025

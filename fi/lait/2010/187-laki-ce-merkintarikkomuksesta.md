@@ -1,0 +1,61 @@
+---
+title: "Laki CE-merkintärikkomuksesta"
+identifier: "187/2010"
+eli: "http://data.finlex.fi/eli/sd/2010/187/ajantasa"
+type: act
+jurisdiction: fi
+language: fi
+date: 2010-03-19
+entry_into_force: 2010-04-01
+last_amended: 2010-03-19
+status: in_force
+administrative_branch: "Työ- ja elinkeinoministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2010/187"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2010/187/fin@"
+retrieved: 2026-10-11
+---
+
+# Laki CE-merkintärikkomuksesta
+
+*187/2010*
+
+Eduskunnan päätöksen mukaisesti säädetään:
+
+## 1 § Lain soveltamisala
+
+Tässä laissa säädetään tuotteiden kaupan pitämiseen liittyvää akkreditointia ja markkinavalvontaa koskevista vaatimuksista ja neuvoston asetuksen (ETY) N:o 339/93 kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 765/2008 tarkoitetun CE-merkinnän mainitun asetuksen vastaisen käytön seuraamuksista.
+
+## 2 § Suhde muuhun lainsäädäntöön
+
+Tätä lakia sovelletaan CE-merkintärikkomuksiin, jollei muualla laissa toisin säädetä.
+
+## 3 § CE-merkintärikkomus
+
+Joka tahallaan tai törkeästä huolimattomuudesta 1 §:ssä mainitun asetuksen 30 artiklan vastaisesti
+
+- 1\) kiinnittää CE-merkinnän, vaikka ei ole tuotteen valmistaja eikä hänen valtuuttamansa,
+- 2\) kiinnittää CE-merkinnän sellaiseen tuotteeseen, johon sen kiinnittämisestä ei säädetä yhteisön yhdenmukaistamislainsäädännössä,
+- 3\) tuotteen valmistajana kiinnittää tai kiinnityttää CE-merkinnän tuotteeseen, joka ei ole CE-merkinnän kiinnittämistä koskevassa yhteisön lainsäädännössä säädettyjen vaatimusten mukainen taikka
+- 4\) kiinnittää CE-merkittyyn tuotteeseen merkkejä, merkintöjä tai kirjoituksia, jotka voivat johtaa harhaan CE-merkinnän tarkoituksen tai graafisen esitystavan suhteen,
+
+on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta tai teko ole vähäinen, *CE-merkintärikkomuksesta* sakkoon.
+
+## 4 § Voimaantulo
+
+Tämä laki tulee voimaan 1 päivänä huhtikuuta 2010.
+
+Tällä lailla kumotaan tiettyjen tuotteiden varustamisesta CE-merkinnällä 22 päivänä joulukuuta 1994 annettu laki (1376/1994).
+
+Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin.
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+HE 289/2009
+
+TaVM 1/2010
+
+EV 20/2010
+
+Euroopan parlamentin ja neuvoston asetus (EY) N:o 765/2008 (32008R0765); EYVL N:o L 218, 13.8.2008, s. 30

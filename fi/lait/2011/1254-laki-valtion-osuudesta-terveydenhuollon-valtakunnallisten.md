@@ -1,0 +1,62 @@
+---
+title: "Laki valtion osuudesta terveydenhuollon valtakunnallisten tietojärjestelmäpalvelujen kustannuksista"
+identifier: "1254/2011"
+eli: "http://data.finlex.fi/eli/sd/2011/1254/ajantasa"
+type: act
+jurisdiction: fi
+language: fi
+date: 2011-12-09
+entry_into_force: 2012-01-01
+last_amended: 2011-12-09
+status: in_force
+administrative_branch: "Sosiaali- ja terveysministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2011/1254"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2011/1254/fin@"
+retrieved: 2026-10-11
+---
+
+# Laki valtion osuudesta terveydenhuollon valtakunnallisten tietojärjestelmäpalvelujen kustannuksista
+
+*1254/2011*
+
+Eduskunnan päätöksen mukaisesti säädetään:
+
+## 1 § Lain tarkoitus
+
+Tässä laissa säädetään valtion rahoitusosuudesta sosiaali- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetussa laissa (159/2007), jäljempänä *asiakastietolaki*, ja sähköisestä lääkemääräyksestä annetussa laissa (61/2007), jäljempänä *e-reseptilaki*, tarkoitettujen tietojärjestelmien suunnittelusta, rakentamisesta, ylläpidosta ja käytöstä aiheutuviin kuluihin.
+
+## 2 § Valtion rahoitus
+
+Valtio rahoittaa vuosittain valtion talousarvioissa vahvistettavalla määrällä kustannukset, jotka aiheutuvat Kansaneläkelaitokselle seuraavien terveydenhuollon valtakunnallisten tietojärjestelmäpalvelujen edellyttämien toimintojen suunnittelusta ja rakentamisesta:
+
+- 1\) asiakastietolain 14 §:n 1 momentissa tarkoitetut arkistointipalvelu, hakemistopalvelu ja potilaan tiedonhallintapalvelu;
+- 2\) e-reseptilain 3 §:ssä tarkoitetut reseptikeskus, reseptiarkisto ja lääketietokanta; sekä
+- 3\) asiakastietolain 19 §:ssä ja e-reseptilain 17 §:ssä tarkoitettu katseluyhteys.
+
+Valtio voi osallistua 1 momentissa tarkoitettujen toimintojen tarpeellisista uusimisista aiheutuvien kustannusten rahoitukseen valtion talousarviossa vahvistettavalla määrällä. Terveydenhuollon valtakunnallisiin tietojärjestelmäpalveluihin lainsäädäntöön perustuen liitettävien uusien tehtävien ja ominaisuuksien toteuttamisesta Kansaneläkelaitokselle aiheutuvien kustannusten rahoituksesta päätetään erikseen.
+
+## 3 § Valtion osuuden maksaminen
+
+Valtion osuuden maksamisesta ja sitä varten tarvittavista tiedoista annetaan tarvittaessa tarkempia säännöksiä sosiaali- ja terveysministeriön asetuksella.
+
+## 4 § Voimaantulo
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2012.
+
+Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.
+
+## 5 § Siirtymäsäännökset
+
+Valtio osallistuu vuoden 2015 loppuun saakka vuosittain valtion talousarviossa vahvistettavalla määrällä kustannuksiin, jotka aiheutuvat 2 §:n 1 momentissa tarkoitettujen palvelujen ja toimintojen ylläpidosta Kansaneläkelaitokselle sekä asiakastietolain 14 §:n 3 momentissa tarkoitetusta varmennepalvelusta Väestörekisterikeskukselle ja joita asiakastietolain 22 §:ssä ja e-reseptilain 25 §:ssä tarkoitetut käyttäjämaksut eivät kata.
+
+Valtio voi sijoittaa Kansaneläkelaitoksesta annetun lain (731/2001) 12 e §:ssä tarkoitettuun palvelurahastoon rahaston maksuvalmiuden turvaamiseksi euromäärän, jonka suuruudesta päätetään valtion talousarviossa vuosina 2012–2015.
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+HE 68/2011
+
+StVM 6/2011
+
+EV 26/2011

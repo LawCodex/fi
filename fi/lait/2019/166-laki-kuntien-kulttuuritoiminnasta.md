@@ -1,0 +1,129 @@
+---
+title: "Laki kuntien kulttuuritoiminnasta"
+identifier: "166/2019"
+eli: "http://data.finlex.fi/eli/sd/2019/166/ajantasa"
+type: act
+jurisdiction: fi
+language: fi
+date: 2019-02-08
+entry_into_force: 2019-03-01
+last_amended: 2025-06-27
+status: in_force
+administrative_branch: "Opetus- ja kulttuuriministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2019/166"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2019/166/fin@20250609"
+retrieved: 2026-10-11
+---
+
+# Laki kuntien kulttuuritoiminnasta
+
+*166/2019*
+
+Eduskunnan päätöksen mukaisesti säädetään:
+
+## 1 § Soveltamisala
+
+Tässä laissa säädetään kunnan kulttuuritoiminnan järjestämisestä sekä siihen liittyvistä tavoitteista, tehtävistä, yhteistyöstä, asukkaiden osallistumisesta, tiedon tuottamisesta ja toiminnan arvioinnista, valtionrahoituksesta sekä kehittämistehtävästä.
+
+Kunnan kulttuuritoiminnalla tarkoitetaan toimintaa, jolla kunta edistää kulttuurin ja taiteen tekemistä, harrastamista, saatavuutta ja käyttöä sekä taide- ja kulttuurikasvatusta ja kulttuuriperintöä.
+
+## 2 § Lain tavoite
+
+Tämän lain tavoitteena on:
+
+- 1\) tukea ihmisten mahdollisuuksia luovaan ilmaisuun ja toimintaan sekä kulttuurin ja taiteen tekemiseen ja kokemiseen;
+- 2\) edistää kaikkien väestöryhmien yhdenvertaisia mahdollisuuksia ja osallistumista kulttuuriin, taiteeseen ja sivistykseen;
+- 3\) vahvistaa väestön hyvinvointia ja terveyttä sekä osallisuutta ja yhteisöllisyyttä kulttuurin ja taiteen keinoin;
+- 4\) luoda edellytyksiä paikallisen ja alueellisen elinvoiman kehittymiselle ja sitä tukevalle luovalle toiminnalle kulttuurin ja taiteen keinoin.
+
+Tavoitteiden toteuttamisen lähtökohtina ovat demokratia, asukaslähtöisyys, tasa-arvo, kestävä kehitys sekä kulttuurinen moninaisuus ja vuoropuhelu.
+
+## 3 § Kunnan tehtävät
+
+Kunnan tehtävänä on järjestää kulttuuritoimintaa. Tämän tehtävän toteuttamiseksi kunnan tulee:
+
+- 1\) edistää kulttuurin ja taiteen yhdenvertaista saatavuutta ja monipuolista käyttöä;
+- 2\) luoda edellytyksiä ammattimaiselle taiteelliselle työlle ja toiminnalle;
+- 3\) edistää kulttuurin ja taiteen harrastamista sekä niihin liittyvää kansalaistoimintaa;
+- 4\) tarjota mahdollisuuksia kulttuurin ja taiteen eri muotojen ja alojen tavoitteelliseen taide- ja kulttuurikasvatukseen;
+- 5\) edistää kulttuuriperinnön ylläpitämistä ja käyttöä sekä paikallista identiteettiä tukevaa ja kehittävää toimintaa;
+- 6\) edistää kulttuuria ja taidetta osana asukkaiden hyvinvointia ja terveyttä, osallisuutta ja yhteisöllisyyttä sekä paikallista ja alueellista elinvoimaa;
+- 7\) edistää kulttuurista vuorovaikutusta ja kansainvälistä toimintaa ja toteuttaa muita kulttuuriin ja taiteeseen liittyviä toimia.
+
+Kunnan tulee 1 momentin mukaisia tehtäviä ja niihin liittyviä palveluita järjestäessään ottaa huomioon paikalliset olosuhteet ja voimavarat sekä eri väestöryhmien tarpeet.
+
+Kunta voi järjestää kulttuuritoiminnan itse taikka yhteistyössä toisten kuntien kanssa tai muulla tavoin. Kuntien kulttuuritoiminnan järjestämisessä tulee olla riittävää ja monipuolista asiantuntijaosaamista.
+
+Kunnan tulee kulttuuritoimintaa järjestäessään ottaa huomioon toiminta, joka perustuu yleisistä kirjastoista annettuun lakiin (1492/2016), taiteen perusopetuksesta annettuun lakiin (633/1998), museolakiin (729/1992), teatteri- ja orkesterilakiin (730/1992) ja vapaasta sivistystyöstä annettuun lakiin (632/1998).
+
+## 4 § Valtion viranomaisten tehtävät
+
+Opetus- ja kulttuuriministeriö ja muut valtion viranomaiset luovat edellytyksiä kuntien kulttuuritoiminnalle. Opetus- ja kulttuuriministeriö on kulttuuriin ja taiteeseen liittyvissä asioissa toimivaltainen ministeriö.
+
+Kulttuurin ja taiteen edistämisen tehtäviä alueilla hoitavat Museovirasto, Taiteen edistämiskeskus ja elinvoimakeskukset niitä koskevan lainsäädännön mukaisesti. (27.6.2025/609)
+
+## 5 § Kunnan asukkaiden osallistuminen
+
+Kunnan asukkailla tulee olla mahdollisuus osallistua ja vaikuttaa kunnan kulttuuritoimintaan ja sitä koskevan päätöksenteon valmisteluun. Kunnan asukkaiden oikeudesta osallistua ja vaikuttaa kunnan toimintaan säädetään kuntalain (410/2015) 22 §:ssä.
+
+Kuntien kulttuuritoiminnan järjestämisessä on huolehdittava, että kaksikielisessä kunnassa otetaan huomioon molempien kieliryhmien tarpeet samanlaisten perusteiden mukaan. Saamelaisten kotiseutualueen kunnissa on huolehdittava, että saamenkielisen ja suomenkielisen väestöryhmän tarpeet otetaan huomioon samanlaisten perusteiden mukaan.
+
+Toiminnan järjestämisessä on lisäksi otettava huomioon paikallisten kieliryhmien tarpeet.
+
+## 6 § Kehittämistehtävä
+
+Opetus- ja kulttuuriministeriö voi osoittaa hakemuksesta kunnalle tai muulle toimijalle kehittämistehtävän, jolla luodaan edellytyksiä kuntien kulttuuritoiminnalle. Kehittämistehtävällä tuetaan kuntien kulttuuritoiminnan laatua, vaikuttavuutta, henkilöstön osaamista, asukkaiden yhdenvertaisuutta ja kuntien keskinäistä yhteistoimintaa.
+
+Kehittämistehtävä on kunnille tai muille toimijoille vapaaehtoinen. Kehittämistehtävän toteuttajalla tulee olla tehtävän hoitamisen kannalta monipuolista valtakunnallista tai alueellista kulttuuritoiminnan tuntemusta sekä riittävä osaaminen.
+
+## 7 § Yhteistyö
+
+Tämän lain tavoitteiden edistämiseksi ja kunnan tehtävien toteuttamiseksi kunnassa tulee tehdä yhteistyötä kunnan eri toimialojen välillä.
+
+Kunnan tulee paikalliset olosuhteet ja voimavarat huomioon ottaen edistää tämän lain tavoitteiden ja tehtävien mukaista toimintaa yhteistyössä muiden kuntien, hyvinvointialueiden, viranomaisten ja maakunnan sekä kulttuuri- ja taidealan ja muiden toimialojen toimijoiden kanssa. (8.7.2022/641)
+
+## 8 § Tiedon tuottaminen ja toiminnan arviointi
+
+Tämän lain tavoitteiden ja tehtävien toteuttamiseksi sekä kunnan kulttuuritoiminnan kehittämiseksi tuotetaan tietoa ja arvioidaan toimintaa.
+
+Valtakunnallisen tiedon tuottamisen ja toiminnan arvioinnin kehittämisestä päättää opetus- ja kulttuuriministeriö. Kunnat osallistuvat peruspalvelujen arviointiin ja tarpeen mukaan muuhun tiedon tuottamiseen.
+
+Kunta vastaa kulttuuritoimintaansa koskevan tiedon tuottamisesta ja kulttuuritoiminnan arvioinnista. Kunnan tulee arvioida kulttuuritoiminnan toteutumista osana kuntastrategiansa arviointia ja seurantaa kuntalain 37 §:ssä säädetyllä tavalla sekä osana terveydenhuoltolain (1326/2010) 12 §:ssä tarkoitettua terveyden ja hyvinvoinnin edistämistä.
+
+Arvioinnin keskeiset tulokset tulee julkistaa.
+
+## 9 § Valtionrahoitus
+
+Valtionosuuden myöntämisestä kuntien kulttuuritoimen käyttökustannuksiin säädetään kunnan peruspalvelujen valtionosuudesta annetussa laissa (1704/2009).
+
+Kunnalle sekä kunnassa toimivalle kulttuuritoimintaa harjoittavalle ja edistävälle yhteisölle tai säätiölle voidaan valtion talousarvioon otetun määrärahan rajoissa myöntää valtionavustusta kulttuuritoimintaa tai 6 §:ssä tarkoitetun kehittämistehtävän toteuttamista varten siten kuin opetus- ja kulttuuritoimen rahoituksesta annetussa laissa (1705/2009) säädetään. Kunnalle tai kunnan määräysvallassa olevalle yhteisölle voidaan lisäksi myöntää valtionavustusta kulttuuritoiminnassa tarvittavien tilojen perustamishankkeisiin siten kuin edellä mainitussa laissa säädetään.
+
+## 10 § Voimaantulo
+
+Tämä laki tulee voimaan 1 päivänä maaliskuuta 2019.
+
+Tällä lailla kumotaan kuntien kulttuuritoiminnasta annettu laki (728/1992).
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+HE 195/2018
+
+SiVM 14/2018
+
+EV 204/2018
+
+## Muutossäädösten voimaantulo ja soveltaminen
+
+### 8.7.2022/641:
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2023.
+
+HE 56/2021, HE 18/2022, StVM 9/2022, EV 66/2022
+
+### 27.6.2025/609:
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2026.
+
+HE 13/2025, HaVM 15/2025, EV 74/2025

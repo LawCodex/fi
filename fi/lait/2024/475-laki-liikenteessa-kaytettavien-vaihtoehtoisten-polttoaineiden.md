@@ -1,0 +1,72 @@
+---
+title: "Laki liikenteessä käytettävien vaihtoehtoisten polttoaineiden jakeluinfrastruktuurista"
+identifier: "475/2024"
+eli: "http://data.finlex.fi/eli/sd/2024/475/ajantasa"
+type: act
+jurisdiction: fi
+language: fi
+date: 2024-07-05
+entry_into_force: 2024-07-15
+last_amended: 2024-07-05
+status: in_force
+administrative_branch: "Liikenne- ja viestintäministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2024/475"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2024/475/fin@"
+retrieved: 2026-10-11
+---
+
+# Laki liikenteessä käytettävien vaihtoehtoisten polttoaineiden jakeluinfrastruktuurista
+
+*475/2024*
+
+Eduskunnan päätöksen mukaisesti säädetään:
+
+## 1 § Lain tarkoitus
+
+Tällä lailla täsmennetään ja täydennetään vaihtoehtoisten polttoaineiden infrastruktuurin käyttöönotosta ja direktiivin 2014/94/EU kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2023/1804 (*jakeluinfra-asetus*) ja sen kansallista soveltamista.
+
+## 2 § Polttoaineiden hintojen näyttäminen
+
+Jos jakeluinfra-asetuksen 2 artiklan 40 alakohdassa tarkoitettu tankkauspisteen ylläpitäjä näyttää polttoaineiden hintoja niitä vertailemalla, vertailussa tulee noudattaa jakeluinfra-asetuksen liitteen II 10.3 kohdassa tarkoitettua yhteistä menetelmää.
+
+Liikenne- ja viestintävirasto voi antaa tarkempia määräyksiä 1 momentissa tarkoitettujen vertailuhintojen määrittelystä ja näyttämisestä.
+
+## 3 § Valvonta
+
+Jakeluinfra-asetuksen 5 artiklan 1–5, 7, 8, 10 ja 11 kohdan, 6 artiklan 3 kohdan, 7, 19 ja 21 artiklan sekä niiden nojalla annettujen Euroopan unionin säädösten mukaisten velvoitteiden noudattamista valvoo Liikenne- ja viestintävirasto.
+
+Tämän lain ja sen nojalla annettujen määräysten noudattamista valvoo Liikenne- ja viestintävirasto.
+
+## 4 § Tiedonsaantioikeus
+
+Liikenne- ja viestintävirastolla on oikeus liikesalaisuutta koskevien salassapitosäännösten estämättä saada pyynnöstä tämän lain mukaisten valvontatehtäviensä suorittamiseksi välttämättömät tiedot maksutta niiltä toimijoilta, joiden velvollisuuksista säädetään tässä laissa tai siinä tarkoitettua toimintaa koskevissa Euroopan unionin säädöksissä taikka määrätään tämän lain nojalla annetuissa määräyksissä.
+
+## 5 § Tarkastusoikeus
+
+Liikenne- ja viestintävirastolla on oikeus päästä alueelle, huoneistoon ja muuhun sellaiseen tilaan, jonne pääsy on tässä laissa tarkoitetun valvonnan kannalta tarpeen, tehdä siellä tarkastuksia ja ryhtyä muihin valvonnan edellyttämiin toimenpiteisiin. Tarkastusta ei kuitenkaan saa toimittaa pysyväisluonteiseen asumiseen käytetyissä tiloissa.
+
+Tarkastuksissa on noudatettava, mitä hallintolain (434/2003) 39 §:ssä säädetään.
+
+## 6 § Uhkasakko, teettämisuhka ja keskeyttämisuhka
+
+Liikenne- ja viestintävirasto voi velvoittaa sen, joka toimii vastoin tämän lain säännöksiä tai siinä tarkoitettua toimintaa koskevia Euroopan unionin säännöksiä taikka tämän lain nojalla annettuja määräyksiä, korjaamaan virheensä tai laiminlyöntinsä. Päätöksen tehosteeksi voidaan asettaa uhkasakko tai uhka, että toiminta keskeytetään osaksi tai kokonaan taikka että tekemättä jätetty toimenpide teetetään asianomaisen kustannuksella.
+
+## 7 § Muutoksenhaku
+
+Liikenne- ja viestintäviraston tämän lain nojalla tekemään päätökseen saa vaatia oikaisua. Oikaisuvaatimuksesta säädetään hallintolaissa. Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
+
+## 8 § Voimaantulo
+
+Tämä laki tulee voimaan 15 päivänä heinäkuuta 2024.
+
+Tällä lailla kumotaan liikenteessä käytettävien vaihtoehtoisten polttoaineiden jakelusta annettu laki (478/2017).
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+HE 52/2024
+
+LiVM 8/2024
+
+EV 55/2024

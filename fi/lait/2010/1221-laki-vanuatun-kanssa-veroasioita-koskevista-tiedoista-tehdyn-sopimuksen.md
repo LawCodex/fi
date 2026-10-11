@@ -1,0 +1,44 @@
+---
+title: "Laki Vanuatun kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta"
+identifier: "1221/2010"
+eli: "http://data.finlex.fi/eli/sd/2010/1221/ajantasa"
+type: act
+jurisdiction: fi
+language: fi
+date: 2010-12-21
+entry_into_force: 2011-03-08
+last_amended: 2010-12-21
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2010/1221"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2010/1221/fin@"
+retrieved: 2026-10-11
+---
+
+# Laki Vanuatun kanssa veroasioita koskevista tiedoista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+
+*1221/2010*
+
+Eduskunnan päätöksen mukaisesti säädetään:
+
+## 1 §
+
+Veroasioita koskevista tiedoista Canberrassa 13 päivänä lokakuuta 2010 Suomen tasavallan hallituksen ja Vanuatun tasavallan hallituksen välillä tehdyn sopimuksen lainsäädännön alaan kuuluvat määräykset ovat lakina voimassa sellaisina kuin Suomi on niihin sitoutunut.
+
+## 2 §
+
+Tarkempia säännöksiä tämän lain täytäntöönpanosta voidaan antaa valtioneuvoston asetuksella.
+
+## 3 §
+
+Tämän lain voimaantulosta säädetään tasavallan presidentin asetuksella.
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+HE 233/2010
+
+VaVM 50/2010
+
+EV 250/2010

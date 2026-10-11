@@ -1,0 +1,80 @@
+---
+title: "Laki Pariisin pöytäkirjan täydentämisestä Suomen tasavallan hallituksen sekä Naton operaatiojohtoportaan johtoesikunnan ja Naton transformaatiojohtoportaan johtoesikunnan välillä tehdystä sopimuksesta"
+identifier: "576/2026"
+eli: "http://data.finlex.fi/eli/sd/2026/576/ajantasa"
+type: act
+jurisdiction: fi
+language: fi
+date: 2026-06-26
+entry_into_force: 2026-07-14
+last_amended: 2026-06-26
+status: in_force
+administrative_branch: "Puolustusministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2026/576"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2026/576/fin@"
+retrieved: 2026-10-11
+---
+
+# Laki Pariisin pöytäkirjan täydentämisestä Suomen tasavallan hallituksen sekä Naton operaatiojohtoportaan johtoesikunnan ja Naton transformaatiojohtoportaan johtoesikunnan välillä tehdystä sopimuksesta
+
+*576/2026*
+
+Eduskunnan päätöksen mukaisesti säädetään:
+
+## 1 § Lainsäädännön alaan kuuluvat määräykset
+
+Pariisin pöytäkirjan täydentämisestä Suomen tasavallan hallituksen sekä Naton operaatiojohtoportaan johtoesikunnan ja Naton transformaatiojohtoportaan johtoesikunnan välillä Belgiassa, Casteaussa 8 päivänä joulukuuta 2025 ja 21 päivänä tammikuuta 2026 sekä Helsingissä 12 päivänä joulukuuta 2025 ja 18 päivänä joulukuuta 2025 tehdyn sopimuksen lainsäädännön alaan kuuluvat määräykset ovat lakina voimassa sellaisina kuin Suomi on niihin sitoutunut.
+
+## 2 § Liittokunnan esikunnan tunnus
+
+Liittokunnan esikunnan tunnuksen käyttäminen ilman liittokunnan esikunnan lupaa on kielletty.
+
+Joka tahallaan ilman tai vastoin 1 momentissa tarkoitettua lupaa oikeudettomasti käyttää liittokunnan esikunnan tunnusta, joko sellaisenaan tai sitä erehdyttävästi muistuttavaa merkkiä, on tuomittava *liittokunnan esikunnan tunnuksen luvattomasta käytöstä* sakkoon.
+
+Liittokunnan esikunnan tunnuksesta säädetään valtioneuvoston asetuksella.
+
+## 3 § Toimivalta antaa alueita liittokunnan esikunnan käyttöön
+
+Puolustusvoimat ja Rajavartiolaitos voivat käytössään olevalla alueella antaa sopimuksen 26 artiklan 1 kohdassa tarkoitettuja tiloja ja alueita liittokunnan esikunnan käyttöön.
+
+## 4 § Pyynnöt lainkäytöllisestä koskemattomuudesta luopumiseksi
+
+Sopimuksen 7 artiklan 8 kohdassa tarkoitetut pyynnöt tekee valtakunnansyyttäjä.
+
+## 5 § Henkilöllisyystodistusten myöntäminen
+
+Sopimuksen 9 artiklan 3 kohdassa tarkoitetut henkilöllisyystodistukset myöntää Pääesikunta. Henkilöllisyystodistus toimii osoituksena ulkomaalaislain (301/2004) 40 §:n 1 momentin 10 kohtaan perustuvasta laillisesta oleskeluoikeudesta Suomessa.
+
+Edellä 1 momentissa tarkoitetun henkilöllisyystodistuksen sisällöstä ja ulkoasusta säädetään valtioneuvoston asetuksella.
+
+## 6 § Vahingonkorvausasioiden yhteystaho
+
+Sopimuksen 11 artiklan 4 kohdassa tarkoitettuna yhteystahona toimii Pääesikunta.
+
+## 7 § Toimivalta tehdä ilmoitus pidättämisestä tai muusta vapaudenmenetyksestä
+
+Sopimuksen 26 artiklan 3 kohdan mukaisen ilmoituksen pidättämisestä tai muusta rikosasian käsittelyyn liittyvästä vapaudenmenetyksestä liittokunnan esikunnan päällikölle tai määrätylle edustajalle tekee valtakunnansyyttäjä.
+
+Muusta kuin 1 momentissa tarkoitetusta vapaudenmenetyksestä ilmoituksen tekee poliisi.
+
+## 8 § Liittokunnan esikunnan henkilöstöilmoitukset
+
+Sopimuksen 1 artiklan 13 ja 19 kohdassa, 7 artiklan 7 kohdassa, 8 artiklan 1 kohdassa, 13 artiklan 6 kohdassa, 19 artiklan 3 kohdassa ja 30 artiklan 1 kohdassa tarkoitetut ilmoitukset ottaa vastaan Pääesikunta.
+
+## 9 § Muut kuin lainsäädännön alaan kuuluvat määräykset
+
+Sopimuksen muiden kuin lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta säädetään valtioneuvoston asetuksella.
+
+## 10 § Voimaantulo
+
+Tämän lain voimaantulosta säädetään valtioneuvoston asetuksella.
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+HE 73/2026
+
+UaVM 5/2026
+
+EV 101/2026

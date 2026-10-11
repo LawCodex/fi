@@ -1,0 +1,47 @@
+---
+title: "Laki pintataistelualusten alumiinirakennesuunnittelusta Suomen, Saksan liittotasavallan ja Amerikan yhdysvaltojen välillä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta"
+identifier: "311/2010"
+eli: "http://data.finlex.fi/eli/sd/2010/311/ajantasa"
+type: act
+jurisdiction: fi
+language: fi
+date: 2010-04-23
+last_amended: 2010-04-23
+status: in_force
+administrative_branch: "Puolustusministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2010/311"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2010/311/fin@"
+retrieved: 2026-10-11
+---
+
+# Laki pintataistelualusten alumiinirakennesuunnittelusta Suomen, Saksan liittotasavallan ja Amerikan yhdysvaltojen välillä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta
+
+*311/2010*
+
+Eduskunnan päätöksen mukaisesti säädetään:
+
+## 1 §
+
+Pintataistelualusten alumiinirakennesuunnittelusta Suomen tasavallan hallituksen puolesta toimivan Suomen tasavallan puolustusministeriön Arlingtonissa 7 päivänä lokakuuta 2009, Saksan liittotasavallan puolustusministeriön Koblenzissa 28 päivänä lokakuuta 2009 ja Amerikan yhdysvaltojen puolustusministeriön Arlingtonissa 1 päivänä lokakuuta 2009 allekirjoittaman sopimuksen lainsäädännön alaan kuuluvat määräykset ovat lakina voimassa sellaisina kuin Suomi on niihin sitoutunut.
+
+## 2 §
+
+Edellä 1 §:ssä tarkoitetun sopimuksen mukaisesti siinä tarkoitettua kehittämistyötä varten Suomen viranomaiselle annetut ja sen laatimat asiakirjat on pidettävä salassa eikä niitä saa luovuttaa tai käyttää muuhun kuin siihen tarkoitukseen, mitä varten ne on annettu, ellei asiakirjan luovuttaja ole antanut siihen suostumustaan.
+
+Suomen viranomaisella on salassapitovelvollisuuden estämättä oikeus antaa sopimuksessa tarkoitettua toimintaa varten sopimuksen osapuolille asiakirjoja ja tietoja.
+
+Viranomaisen oikeuteen ja elinkeinonharjoittajan velvollisuuteen sallia sopimuksessa tarkoitetut vierailut sovelletaan vastaavasti, mitä kansainvälisistä tietoturvallisuusvelvoitteista annetun lain (588/2004) 18 §:ssä säädetään vierailuista kansainvälisen tietoturvallisuusvelvoitteen toteuttamiseksi.
+
+## 3 §
+
+Tämän lain voimaantulosta säädetään tasavallan presidentin asetuksella.
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+HE 12/2010
+
+PuVM 2/2010
+
+EV 43/2010

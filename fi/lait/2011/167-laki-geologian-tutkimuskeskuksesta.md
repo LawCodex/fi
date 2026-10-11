@@ -1,0 +1,98 @@
+---
+title: "Laki Geologian tutkimuskeskuksesta"
+identifier: "167/2011"
+eli: "http://data.finlex.fi/eli/sd/2011/167/ajantasa"
+type: act
+jurisdiction: fi
+language: fi
+date: 2011-02-11
+entry_into_force: 2011-02-28
+last_amended: 2015-03-20
+status: in_force
+administrative_branch: "Työ- ja elinkeinoministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2011/167"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2011/167/fin@20150288"
+retrieved: 2026-10-11
+---
+
+# Laki Geologian tutkimuskeskuksesta
+
+*167/2011*
+
+Eduskunnan päätöksen mukaisesti säädetään:
+
+## 1 § Organisatorinen asema
+
+Geologian tutkimuskeskus on työ- ja elinkeinoministeriön hallinnonalaan kuuluva virasto. Tutkimuskeskus on puolueeton ja voittoa tavoittelematon asiantuntijaorganisaatio, joka toimii asiakkaisiinsa nähden riippumattomasti.
+
+## 2 § Toiminnan tavoite
+
+Tutkimuskeskuksen toiminnan tavoitteena on luoda ja ylläpitää kansainvälisesti korkeatasoista tieteellistä geologian alan tietoa ja osaamista sekä tuottaa innovaatioita yhteiskunnan ja elinkeinoelämän tarpeisiin. Toiminnallaan tutkimuskeskus edistää elinkeinoelämän ja alueiden kilpailukykyä ja tukee yhteiskuntapolitiikan suunnittelua ja toimeenpanoa.
+
+## 3 § Tehtävät
+
+Tutkimuskeskuksen tehtävänä on tehdä tutkimusta ja tuottaa asiantuntijapalveluita toimialallaan. Toiminta voi olla myös maksullista.
+
+Tutkimuskeskus suorittaa lisäksi muut tutkimukseen ja innovaatiotoimintaan liittyvät tehtävät, jotka työ- ja elinkeinoministeriö sille tulosohjauksessa antaa.
+
+Tutkimuskeskuksen tehtävistä säädetään tarkemmin valtioneuvoston asetuksella.
+
+## 4 § Johtokunta
+
+Tutkimuskeskuksella on johtokunta, joka ohjaa, seuraa ja valvoo tutkimuskeskuksen toimintaa.
+
+Valtioneuvosto nimittää tutkimuskeskuksen johtokunnan jäsenet kolmeksi vuodeksi kerrallaan. Johtokuntaan kuuluu vähintään viisi ja enintään seitsemän jäsentä, joista yksi edustaa työ- ja elinkeinoministeriötä. Valtioneuvosto määrää johtokunnan puheenjohtajan ja varapuheenjohtajan. Johtokunnan jäseneksi ei voida valita tutkimuskeskukseen palvelussuhteessa olevaa henkilöä. Henkilöstön keskuudestaan valitsemalla edustajalla on läsnäolo- ja puheoikeus johtokunnan kokouksissa lukuun ottamatta nimitysasioita.
+
+Työ- ja elinkeinoministeriö vahvistaa johtokunnan jäsenten palkkiot.
+
+Johtokunnan tehtävistä, ratkaisuvallasta ja päätösvaltaisuudesta säädetään valtioneuvoston asetuksella.
+
+## 5 § Pääjohtaja (20.3.2015/288)
+
+Tutkimuskeskuksessa on pääjohtaja, jonka nimittää valtioneuvosto. Pääjohtaja johtaa ja kehittää tutkimuskeskuksen toimintaa sekä vastaa toiminnan tuloksellisuudesta ja tavoitteiden saavuttamisesta työ- ja elinkeinoministeriölle ja tutkimuskeskuksen johtokunnalle.
+
+## 6 § Pääjohtajan ratkaisuvalta
+
+Pääjohtaja ratkaisee tutkimuskeskuksessa ratkaistavat asiat, joista ei muualla erikseen säädetä.
+
+Pääjohtaja voi ottaa yksittäistapauksessa ratkaistavakseen asian, joka muutoin olisi muun tutkimuskeskukseen palvelussuhteessa olevan henkilön ratkaistavissa.
+
+Pääjohtajan ratkaisuvaltaa voidaan työjärjestyksellä siirtää muulle tutkimuskeskukseen palvelussuhteessa olevalle henkilölle.
+
+## 7 § Työjärjestys
+
+Pääjohtaja vahvistaa tutkimuskeskuksen työjärjestyksen. Työjärjestyksellä määrätään tutkimuskeskuksen sisäisestä työnjaosta ja hallinnon järjestämisestä.
+
+## 8 § Edunvalvonta
+
+Tutkimuskeskus kantaa ja vastaa valtion puolesta sekä valvoo tuomioistuimissa ja virastoissa valtion etua ja oikeutta kaikissa tutkimuskeskukselle kuuluvissa asioissa, jollei muualla toisin säädetä.
+
+## 9 § Tarkemmat säännökset
+
+Tutkimuskeskuksen henkilöstöstä, johtajien ja tutkimusprofessorien kelpoisuusvaatimuksista ja pääjohtajan sijaisen määräämisestä säädetään valtioneuvoston asetuksella.
+
+## 10 § Voimaantulo
+
+Tämä laki tulee voimaan 28 päivänä helmikuuta 2011.
+
+Tällä lailla kumotaan geologian tutkimuskeskuksesta annettu laki (995/1983).
+
+Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin.
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+HE 249/2010
+
+TaVM 37/2010
+
+EV 279/2010
+
+## Muutossäädösten voimaantulo ja soveltaminen
+
+### 20.3.2015/288:
+
+Tämä laki tulee voimaan 1 päivänä toukokuuta 2015.
+
+HE 298/2014, HaVM 50/2014, EV 323/2014

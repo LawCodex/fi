@@ -1,0 +1,63 @@
+---
+title: "Laki vastuusta ja vahingonkorvauksesta vaarallisten ja haitallisten aineiden merikuljetusten yhteydessä vuonna 1996 tehdyn kansainvälisen yleissopimuksen vuoden 2010 pöytäkirjasta"
+identifier: "1400/2019"
+eli: "http://data.finlex.fi/eli/sd/2019/1400/ajantasa"
+type: act
+jurisdiction: fi
+language: fi
+date: 2019-12-19
+last_amended: 2019-12-19
+status: in_force
+administrative_branch: "Liikenne- ja viestintäministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2019/1400"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2019/1400/fin@"
+retrieved: 2026-10-11
+---
+
+# Laki vastuusta ja vahingonkorvauksesta vaarallisten ja haitallisten aineiden merikuljetusten yhteydessä vuonna 1996 tehdyn kansainvälisen yleissopimuksen vuoden 2010 pöytäkirjasta
+
+*1400/2019*
+
+Eduskunnan päätöksen mukaisesti säädetään:
+
+## 1 §
+
+Vastuusta ja vahingonkorvauksesta vaarallisten ja haitallisten aineiden merikuljetusten yhteydessä vuonna 1996 tehdyn kansainvälisen yleissopimuksen Lontoossa 30 päivänä huhtikuuta 2010 tehdyn vuoden 2010 pöytäkirjan, jäljempänä *vuoden 2010 HNS-yleissopimus*, lainsäädännön alaan kuuluvat määräykset ovat lakina voimassa sellaisina kuin Suomi on niihin sitoutunut.
+
+## 2 §
+
+Vuoden 2010 HNS-yleissopimuksen 1 artiklan 4 kohdan mukaisella vastaanottajalla tarkoitetaan henkilöä, joka tosiasiallisesti ottaa vastaan suomalaisessa satamassa tai terminaalissa purettavan mainitun artiklan 10 kohdassa tarkoitetun lastin. Jos lastin vastaanottamisen aikaan sen tosiasiallisesti vastaanottava henkilö toimii kuitenkin jonkin sopimusvaltion toimivaltaan kuuluvan henkilön edustajana, toimeksiantaja katsotaan lastin vastaanottajaksi, jos edustaja ilmoittaa toimeksiantajan vuoden 2010 HNS-yleissopimuksen 13 artiklassa tarkoitetulle kansainväliselle vaarallisia ja haitallisia aineita koskevalle rahastolle (*HNS-rahasto*).
+
+## 3 §
+
+HNS-rahasto saa vaatia takaisin merilain (674/1994) 11 luvun 4 §:ssä mainituilta henkilöiltä määrän, jonka se on maksanut korvauksena vuoden 2010 HNS-yleissopimuksen 14 artiklan nojalla, vain mainitussa pykälässä säädettyjen edellytysten täyttyessä. Muutoin rahasto saa vaatia takaisin maksetun korvauksen muulta kuin aluksen omistajalta tai tämän vakuutuksenantajalta tai vakuuden antajalta ainoastaan vakuutussopimuslain (543/1994) 75 §:n 1 momentissa tarkoitetuissa tapauksissa.
+
+## 4 §
+
+Vaarallisten ja haitallisten aineiden merikuljetuksessa aiheutuneen vahingon korvaamista koskeva kanne, joka vuoden 2010 HNS-yleissopimuksen 39 artiklan 1, 2 tai 4 kohdan nojalla voidaan nostaa Suomen tuomioistuimessa, on nostettava siinä tuomioistuimessa, joka on toimivaltainen käsittelemään vaarallisten ja haitallisten aineiden aiheuttamaa vahinkoa koskevan korvauskanteen merilain 21 luvun 3 e §:n mukaan.
+
+## 5 §
+
+Oikeudenkäynnin asianosaisilla on oikeus ilmoittaa vireillä olevasta oikeudenkäynnistä HNS-rahastolle. Ilmoitus on annettava tiedoksi todisteellisesti noudattaen muutoin vuoden 2010 HNS-yleissopimuksen 39 artiklan 7 kohtaa.
+
+## 6 §
+
+Vaarallisten ja haitallisten aineiden merikuljetuksen aiheuttaman vahingon korvaamista koskevan vuoden 2010 HNS-yleissopimuksen 40 artiklan 3 kohdan mukaisen tuomion täytäntöönpanoon sovelletaan merilain 22 luvun 9 §:ää.
+
+## 7 §
+
+Vuoden 2010 HNS-yleissopimuksen muiden kuin lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta säädetään valtioneuvoston asetuksella.
+
+## 8 §
+
+Tämän lain voimaantulosta säädetään valtioneuvoston asetuksella.
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+HE 50/2019
+
+LiVM 8/2019
+
+EV 32/2019

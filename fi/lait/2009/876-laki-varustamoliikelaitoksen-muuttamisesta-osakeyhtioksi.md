@@ -1,0 +1,90 @@
+---
+title: "Laki Varustamoliikelaitoksen muuttamisesta osakeyhtiöksi"
+identifier: "876/2009"
+eli: "http://data.finlex.fi/eli/sd/2009/876/ajantasa"
+type: act
+jurisdiction: fi
+language: fi
+date: 2009-11-13
+entry_into_force: 2010-01-01
+last_amended: 2009-11-13
+status: in_force
+administrative_branch: "Liikenne- ja viestintäministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2009/876"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2009/876/fin@"
+retrieved: 2026-10-11
+---
+
+# Laki Varustamoliikelaitoksen muuttamisesta osakeyhtiöksi
+
+*876/2009*
+
+Eduskunnan päätöksen mukaisesti säädetään:
+
+## 1 § Perustettava osakeyhtiö
+
+Varustamoliikelaitoksen toiminta siirretään perustettavalle osakeyhtiölle lukuun ottamatta väyläpalveluliiketoimintaa. Valtio merkitsee osakeyhtiötä perustettaessa kaikki sen osakkeet.
+
+Yhtiön toimialana on jäänmurtopalvelujen, monitoimialusten erikoispalvelujen ja yhteysalusliikennepalvelujen tuottaminen sekä muu vesiliikennettä palveleva toiminta Suomessa ja ulkomailla. Lisäksi osakeyhtiö harjoittaa alusten hoitopalvelu- ja rahtaustoimintaa kotimaassa ja ulkomailla.
+
+## 2 § Luovutusvaltuutus
+
+Valtioneuvosto oikeutetaan luovuttamaan Varustamoliikelaitoksen hallinnassa oleva omaisuus, immateriaaliset oikeudet ja liiketoiminta 1 §:n 1 momentissa tarkoitetulle osakeyhtiölle ja väyläpalveluliiketoiminnan osalta Merenkulkulaitoksen tuotantotoiminnan muuttamisesta osakeyhtiöksi annetun lain (875/2009) mukaiselle perustettavalle osakeyhtiölle.
+
+## 3 § Luovutuksen ehdot
+
+Valtioneuvosto määrää luovutettavan omaisuuden ja sen arvon sekä ehdot, joilla luovutus tapahtuu. Valtioneuvosto määrää myös muista omaisuuden luovuttamiseen ja osakeyhtiön muodostamiseen liittyvistä järjestelyistä.
+
+Valtioneuvosto määrää, mikä osa omaisuudesta luovutetaan osakeyhtiöön osakkeita vastaan.
+
+Valtion laina yhtiölle voi olla vakuudeton pääomamäärään saakka, joka vastaa valtion lainaa Varustamoliikelaitoksen omaisuudesta luovutusajankohtana.
+
+## 4 § Verotus
+
+Edellä 2 §:ssä tarkoitetut osakeyhtiöt eivät ole velvollisia suorittamaan varainsiirtoveroa kiinteistön tai arvopaperin luovutuksesta mainitussa pykälässä tarkoitettujen luovutusten yhteydessä.
+
+Tuloverotuksessa noudatetaan soveltuvin osin elinkeinotulon verottamisesta annetun lain (360/1968) 52 d §:ssä tarkoitettua liiketoimintasiirtoa koskevia säännöksiä.
+
+## 5 § Vastuu liikelaitoksen sitoumuksista
+
+Edellä 2 §:ssä tarkoitetut osakeyhtiöt vastaavat laina-, takaus-, hankinta- ja toimitussopimuksista sekä muista sitoumuksista, joihin Varustamoliikelaitos on toimintansa aikana sitoutunut ja jotka koskevat osakeyhtiölle luovutettua omaisuutta ja liiketoimintaa.
+
+Valtion toissijainen vastuu Varustamoliikelaitoksen ottamista lainoista ja sitoumuksista jää voimaan.
+
+## 6 § Toiminnan jatkuvuus hallintoasioissa
+
+Varustamoliikelaitoksen perustettaville osakeyhtiöille luovutettuun omaisuuteen ja liiketoimintaan kohdistuvat oikeutta, etua tai velvollisuutta koskevat hallinto- ja hallintolainkäyttöpäätökset ovat voimassa siten, että ne kohdistuvat luovutettavaa omaisuutta ja liiketoimintaa koskevilta osin perustettaviin osakeyhtiöihin ilman eri päätöstä.
+
+Vireillä olevissa hallintoasioissa perustettavat osakeyhtiöt tulevat hallinto- ja hallintolainkäyttömenettelyssä Varustamoliikelaitoksen sijaan ilman eri päätöstä.
+
+## 7 § Henkilöstön asema
+
+Varustamoliikelaitoksen palveluksessa tämän lain voimaan tullessa oleva henkilöstö siirtyy 1 §:ssä tarkoitetun osakeyhtiön palvelukseen työsuhteeseen lukuun ottamatta väyläpalveluliiketoimintaa.
+
+Varustamoliikelaitoksen väyläpalveluliiketoiminnan palveluksessa tämän lain voimaan tullessa oleva henkilöstö siirtyy Merenkulkulaitoksen tuotantotoiminnan muuttamisesta osakeyhtiöksi annetun lain mukaisen osakeyhtiön palvelukseen työsuhteeseen.
+
+Määräajaksi Varustamoliikelaitoksen palvelukseen otetut henkilöt siirtyvät 1 §:n 1 momentissa tarkoitetun osakeyhtiön tai väyläpalveluliiketoiminnan osalta Merenkulkulaitoksen tuotantotoiminnan muuttamisesta osakeyhtiöksi annetun lain mukaisen perustettavan osakeyhtiön palvelukseen vastaavaksi määräajaksi.
+
+Työntekijöihin ja palvelussuhteen ehtoihin yhtiöissä sovelletaan, mitä laissa säädetään tai sen nojalla säädetään tai määrätään ja mitä yhtiötä sitovassa työehtosopimuksessa ja työsopimuksessa sovitaan.
+
+## 8 § Tilintarkastus ja tilinpäätös
+
+Varustamoliikelaitoksen viimeisen toimintakauden tilintarkastukseen ja tilinpäätökseen sovelletaan, mitä valtion liikelaitoksista annetussa laissa (1185/2002) säädetään. Tämän lain 1 §:ssä tarkoitettu osakeyhtiö hoitaa näiltä osin liikelaitoksen tehtävät.
+
+## 9 § Voimaantulo
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2010.
+
+Tällä lailla kumotaan Varustamoliikelaitoksesta 21 päivänä marraskuuta 2003 annettu laki (937/2003).
+
+Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin. Valtioneuvosto voi tehdä ennen lain voimaantuloa 1 ja 2 §:ssä tarkoitettuja toimenpiteitä, joihin sovelletaan myös 4 §:ää.
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+HE 143/2009
+
+LiVM 15/2009
+
+EV 142/2009

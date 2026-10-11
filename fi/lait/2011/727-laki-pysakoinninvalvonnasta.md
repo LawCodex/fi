@@ -1,0 +1,254 @@
+---
+title: "Laki pysäköinninvalvonnasta"
+identifier: "727/2011"
+eli: "http://data.finlex.fi/eli/sd/2011/727/ajantasa"
+type: act
+jurisdiction: fi
+language: fi
+date: 2011-06-17
+entry_into_force: 2012-01-01
+last_amended: 2025-06-27
+status: in_force
+administrative_branch: "Oikeusministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2011/727"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2011/727/fin@20250555"
+retrieved: 2026-10-11
+---
+
+# Laki pysäköinninvalvonnasta
+
+*727/2011*
+
+Eduskunnan päätöksen mukaisesti säädetään:
+
+## 1 § Soveltamisala
+
+Tämän lain nojalla saadaan määrätä pysäköintivirheestä pysäköintivirhemaksu. Pysäköintivirheitä ovat:
+
+- 1\) tieliikennelain (267/1981) tai sen nojalla annetun ajoneuvon pysäköintiä tai pysäyttämistä taikka pysäköintikiekon käyttöä koskevan säännöksen tai määräyksen vastainen menettely;
+- 2\) maastoliikennelain (1710/1995) tai sen nojalla annetun moottorikäyttöisen ajoneuvon pysäköintiä tai pysäyttämistä maa-alueella koskevan säännöksen tai määräyksen vastainen menettely;
+- 3\) pelastuslain (379/2011) 11 §:n 2 momentissa säädetyn pelastustielle pysäköintiä koskevan kiellon vastainen menettely.
+
+Pysäköintivirhemaksu saadaan myös määrätä tieliikennelain tai sen nojalla säädetyn taikka ympäristönsuojelulain (527/2014) tai sen nojalla säädetyn moottorikäyttöisen ajoneuvon joutokäyntiä koskevan kiellon tai rajoituksen rikkomisesta *(joutokäyntirikkomus)*. (27.6.2014/529)
+
+Pysäköintivirheen johdosta saadaan ajoneuvoon kiinnittää laite, joka estää ajoneuvon liikuttamisen (*rengaslukko*), tai antaa huomautus siten kuin jäljempänä säädetään. Ajoneuvon siirtämisestä pysäköimistä koskevan säännöksen vastaisen menettelyn perusteella säädetään ajoneuvojen siirtämisestä annetussa laissa (828/2008). Joutokäyntirikkomuksesta saadaan antaa huomautus siten kuin jäljempänä säädetään.
+
+## 2 § Soveltamisalan rajoitukset
+
+Pysäköintivirhemaksua ei saa määrätä, jos:
+
+- 1\) pysäköintivirhe tai joutokäyntirikkomus käsitellään rikosasioista säädetyssä järjestyksessä;
+- 2\) pysäköintivirheen tai joutokäyntirikkomuksen tekijä ei tekohetkellä ole täyttänyt viittätoista vuotta.
+
+Jos pysäköintivirhe on tehty yksityisellä alueella tai maastossa, pysäköintivirhemaksua ei saa määrätä eikä rengaslukkoa käyttää ilman kiinteistön omistajan tai haltijan pyyntöä tai valtuutusta.
+
+## 3 § Pysäköintivirhemaksu
+
+Pysäköintivirhemaksu on pysäköintivirheen laadusta riippumatta 20 euroa. Sisäasiainministeriön asetuksella voidaan kuitenkin säätää korkeammasta pysäköintivirhemaksusta kunnassa tai sen osassa, jos liikennetiheys, paikoitustilojen niukkuus, pysäköintivirheiden määrä, liikenteen sujuvuus tai muut liikenteelliset syyt sitä vaativat. Pysäköintivirhemaksun enimmäismäärä on 60 euroa. Jos kunnan eri osissa peritään erisuuruista pysäköintimaksua, pysäköintivirhemaksun enimmäismäärä on kuitenkin 80 euroa siinä osassa, jossa pysäköintimaksu on suurin. Jos kunnallinen pysäköinninvalvonta on järjestetty, sisäasiainministeriön on ennen asetuksen antamista pyydettävä lausunto kunnalta ja tarvittaessa asianomaiselta poliisilaitokselta.
+
+Jatkuvasta pysäköintivirheestä saadaan määrätä enintään kolme pysäköintivirhemaksua. Uutta pysäköintivirhemaksua ei saa määrätä ennen kuin on kulunut vuorokausi edellisen maksun määräämisestä. Rengaslukon kiinnittämisen jälkeen ei saa määrätä pysäköintivirhemaksua.
+
+Pysäköintivirhemaksu joutokäyntirikkomuksesta on sama kuin vastaavalla alueella tehdystä pysäköintivirheestä määrättävä maksu, kuitenkin enintään 35 euroa.
+
+Samalla teolla tehdyistä useista pysäköintivirheistä määrätään yksi pysäköintivirhemaksu. Samalla teolla tehdyistä pysäköintivirheestä ja joutokäyntirikkomuksesta määrätään kummastakin pysäköintivirhemaksu.
+
+## 4 § Rengaslukko
+
+Ajoneuvoon saadaan pysäköintivirheen johdosta kiinnittää rengaslukko, jos ajoneuvo voitaisiin siirtää ajoneuvojen siirtämisestä annetun lain 5 §:n 1–3 momentin perusteella. Samalla on kiellettävä ajoneuvon liikuttaminen. Viranomainen saa siirtää ajoneuvon, vaikka siihen olisi kiinnitetty rengaslukko.
+
+Rengaslukkoa ei tarvitse irrottaa ennen kuin tämän pykälän 3 momentissa tarkoitettu korvaus ja ajoneuvojen siirtämisestä annetun lain 5 §:n 3 momentissa tarkoitetut pysäköintivirhemaksut on suoritettu, ellei muutoksenhakutuomioistuin toisin määrää.
+
+Rengaslukon käyttämisestä aiheutuneista kustannuksista määrätään kiinteä euromääräinen korvaus. Korvaus määrätään kunnan osalta kunnallisen viranomaisen hyväksymän taksan ja poliisin osalta valtion maksuperustelain (150/1992) mukaisesti.
+
+## 5 § Huomautus
+
+Jos pysäköintivirhe tai joutokäyntirikkomus on vähäinen, siitä voidaan antaa suullinen tai kirjallinen huomautus.
+
+## 6 § Toimenpiteistä luopuminen
+
+Seuraamus saadaan jättää määräämättä, jos pysäköintivirhe tai joutokäyntirikkomus on ilmeisesti johtunut anteeksi annettavasta huomaamattomuudesta tai ajattelemattomuudesta taikka jos seuraamuksen määrääminen muusta syystä olisi ilmeisen kohtuutonta.
+
+## 7 § Päätöksen sisältö
+
+Pysäköintivirhemaksua koskevassa päätöksessä on mainittava:
+
+- 1\) päätöksen tehnyt viranomainen ja käsittelijän nimi;
+- 2\) tiedossa olevan kuljettajan henkilötiedot ja ajoneuvon yksilöimiseksi tarvittavat tiedot;
+- 3\) virheen tai rikkomuksen tekoaika ja -paikka, laatu sekä muut virheen tai rikkomuksen kuvaamiseksi tarvittavat tiedot;
+- 4\) sovellettavat lainkohdat;
+- 5\) maksettava määrä, maksuaika ja muut maksamista varten tarvittavat tiedot;
+- 6\) seuraus maksun laiminlyönnistä;
+- 7\) maksun määräämispäivä ja kellonaika.
+
+Rengaslukkoa koskevassa päätöksessä on ilmoitettava 1 momentin 1–4 kohdassa tarkoitetut tiedot ja viranomaisen yhteystiedot, rengaslukon kiinnittämispäivä ja kellonaika, maksettavan korvauksen määrä ja rengaslukon irrottamisen edellytykset sekä kielto liikuttaa rengaslukossa olevaa ajoneuvoa.
+
+Pysäköintivirhemaksua ja rengaslukkoa koskevaan päätökseen on liitettävä oikaisuvaatimusohjeet.
+
+## 8 § Tiedoksianto
+
+Pysäköintivirhemaksua tai rengaslukkoa koskeva päätös annetaan henkilökohtaisesti ajoneuvon kuljettajalle tiedoksi kirjallisesti. Jollei kuljettajaa tavata, voidaan päätös antaa tiedoksi kiinnittämällä se ajoneuvoon näkyvälle paikalle.
+
+Jollei pysäköintivirhemaksua koskevaa päätöstä ole voitu antaa tiedoksi 1 momentissa tarkoitetulla tavalla tai jos maksua ei ole suoritettu 17 §:n 1 momentissa säädetyssä ajassa, pysäköinninvalvojan tai pysäköinnintarkastajan on viipymättä lähetettävä päätös maksusta vastuussa olevalle ajoneuvon omistajalle tai haltijalle tiedoksi kirjeellä. Asianosaisen katsotaan saaneen päätöksestä tiedon, jollei muuta näytetä, seitsemän päivän kuluttua kirjeen lähettämisestä.
+
+Pysäköintivirhemaksua koskeva päätös on annettava tiedoksi kuuden kuukauden kuluessa pysäköintivirheen tai joutokäyntirikkomuksen tekopäivästä.
+
+Rengaslukkoa koskeva päätös on seitsemän päivän kuluessa sen tekemisestä lähetettävä korvauksesta vastuussa olevalle ajoneuvon omistajalle tai haltijalle tiedoksi kirjeellä. Asianosaisen katsotaan saaneen päätöksestä tiedon, jollei muuta näytetä, seitsemän päivän kuluttua kirjeen lähettämisestä.
+
+## 9 § Vastuu pysäköintivirhemaksusta ja rengaslukkokorvauksista
+
+Pysäköintivirhemaksu on pysäköintivirheen tai joutokäyntirikkomuksen tehneen kuljettajan suoritettava.
+
+Pysäköintivirheen johdosta määrätystä pysäköintivirhemaksusta vastaa myös ajoneuvon rekisteriin merkitty omistaja tai haltija. Ajoneuvon omistaja tai haltija on kuitenkin vastuusta vapaa, jos hän saattaa todennäköiseksi, että hän ei tehnyt pysäköintivirhettä tai että pysäköintivirhemaksun määräämiselle ei ollut edellytyksiä.
+
+Vastuusta rengaslukon käyttämisestä aiheutuneesta korvauksesta on voimassa, mitä 1 ja 2 momentissa säädetään pysäköintivirheen tehneen ajoneuvon kuljettajan sekä omistajan ja haltijan vastuusta pysäköintivirhemaksusta.
+
+## 10 § Toimivaltaiset viranomaiset
+
+Poliisi huolehtii pysäköintiä ja pysäyttämistä sekä joutokäyntiä koskevien säännösten noudattamisen valvonnasta sekä pysäköintivirhemaksujen ja muiden tässä laissa säädettyjen seuraamusten määräämisestä.
+
+Poliisilaitoksen päällikkö tai hänen määräämänsä laitoksen päällystöön kuuluva poliisimies johtaa ja valvoo 1 momentissa tarkoitettua toimintaa ja toimii pysäköinninvalvojana. Pysäköinninvalvoja huolehtii myös tässä laissa tarkoitettujen päätösten ja niiden tehneiden viranhaltijoiden luetteloon merkitsemisestä ja antaa tarvittaessa tietoja niistä.
+
+Lupa- ja valvontavirasto voi kunnanvaltuuston esityksestä tai sen suostumuksella ja saatuaan asianomaisen poliisilaitoksen päällikön lausunnon antaa 11 §:ssä tarkoitetun luvan siihen, että kunta alueellaan tai sen tietyllä osalla poliisin ohella huolehtii pysäköintiä ja pysäyttämistä sekä joutokäyntiä koskevien kieltojen ja rajoitusten noudattamisen valvonnasta sekä pysäköintivirhemaksujen ja muiden tässä laissa säädettyjen seuraamusten määräämisestä. (27.6.2025/555)
+
+Jos valvonta järjestetään 3 momentissa mainitulla tavalla, kunnan on 2 momentissa tarkoitetun pysäköinninvalvojan sijaan asetettava kunnallinen pysäköinninvalvoja, jolla on oltava apunaan tarpeellinen määrä pysäköinnintarkastajia. Kunnallinen pysäköinninvalvoja on valvonnan yleistä järjestelyä koskevissa asioissa poliisilaitoksen päällikön johdon ja valvonnan alainen.
+
+## 11 § Lupa kunnalliseen pysäköinninvalvontaan
+
+Lupa- ja valvontaviraston tulee kunnallista pysäköinninvalvontaa koskevan luvan myöntämistä harkitessaan ottaa huomioon alueen liikennetiheys, valvonnan tarve ja muut paikalliset olosuhteet sekä kunnan edellytykset asianmukaisesti huolehtia valvontatoimesta. (27.6.2025/555)
+
+Lupa voidaan antaa määräajaksi tai toistaiseksi. Luvassa voidaan myös vahvistaa pysäköinnintarkastajien vähimmäismäärä ja asettaa muitakin tarpeellisiksi katsottuja ehtoja.
+
+Lupa- ja valvontavirasto voi kunnanvaltuustoa kuultuaan ja saatuaan asianomaisen poliisilaitoksen päällikön lausunnon peruuttaa luvan tai muuttaa sen ehtoja, jos olosuhteissa on tapahtunut olennainen muutos tai asetettuja ehtoja ei ole noudatettu taikka valvontatointa ei muutoin ole hoidettu asianmukaisella tavalla. Ennen luvan peruuttamista Lupa- ja valvontaviraston on kuitenkin kehotettava kuntaa kohtuullisessa määräajassa korjaamaan havaitut puutteet. Kunnanvaltuusto voi tehdä esityksen luvan peruuttamisesta tai ehtojen muuttamisesta. (27.6.2025/555)
+
+## 12 § Kunnallisen pysäköinninvalvojan ja -tarkastajan kelpoisuusvaatimukset ja virkasuhde
+
+Kunnallisen pysäköinninvalvojan kelpoisuusvaatimuksena kunnassa on muu oikeustieteen ylempi korkeakoulututkinto kuin kansainvälisen ja vertailevan oikeustieteen maisterin tutkinto ja perehtyneisyys liikennekysymyksiin.
+
+Pysäköinnintarkastajan kelpoisuusvaatimuksena on hänelle kuuluvien tehtävien hoitamiseen tarpeellinen liikennettä ja joutokäyntiä koskevien sääntöjen tuntemus.
+
+Kunnallisen pysäköinninvalvojan ja pysäköinnintarkastajan on oltava virkasuhteessa julkisyhteisöön.
+
+## 13 § Kunnallisen pysäköinninvalvojan ja -tarkastajan tehtävät
+
+Pysäköinnintarkastajan tehtävänä on valvoa pysäköintiä ja pysäyttämistä koskevien säännösten noudattamista sekä määrätä pysäköintivirhemaksuja ja muita seuraamuksia pysäköintivirheiden ja joutokäyntirikkomusten johdosta. Pysäköinnintarkastajat ovat kunnallisen pysäköinninvalvojan johdon ja valvonnan alaisia.
+
+Kunnallisella pysäköinninvalvojalla ja pysäköinnintarkastajalla tulee valvontatehtävässä olla tunnusmerkki sekä asu, josta ilmenee hänen asemansa. Kunnallisella pysäköinninvalvojalla ja pysäköinnintarkastajalla tulee valvontatehtävässä olla mukana virkamerkki, joka on esitettävä tarvittaessa tai vaadittaessa.
+
+Ajoneuvon kuljettaja on velvollinen vaadittaessa ilmoittamaan nimensä, henkilötunnuksensa ja osoitteensa pysäköinninvalvojalle tai pysäköinnintarkastajalle. Kuljettajan on myös pysäytettävä ajoneuvo pysäköinninvalvojan tai pysäköinnintarkastajan antamasta merkistä sekä noudatettava tämän antamaa muuta pysäköinninvalvontatehtävän toteuttamiseksi tarpeellista merkkiä tai kehotusta.
+
+## 14 § Muutoksenhakukielto
+
+Huomautuksen tai toimenpiteistä luopumisen johdosta ei saa tehdä oikaisuvaatimusta eikä valitusta.
+
+2 momentti on kumottu L:lla 27.11.2020/880. (27.11.2020/880)
+
+## 15 § Oikaisuvaatimus
+
+Pysäköintivirhemaksua tai rengaslukkoa koskevaan päätökseen voidaan vaatia oikaisua pysäköinninvalvojalta. Oikaisuvaatimus on tehtävä 30 päivän kuluessa siitä, kun päätös on kiinnitetty ajoneuvoon tai annettu muutoin tiedoksi. Määräajan jälkeen tehty oikaisuvaatimus tutkitaan, jos myöhästymiseen on ollut erityinen syy ja oikaisuvaatimus on tehty niin pian kuin se on ollut mahdollista.
+
+Oikaisuvaatimuksen käsittelemisestä säädetään lisäksi hallintolaissa (434/2003). Oikaisuvaatimuksesta annettu päätös annetaan tiedoksi kirjeellä. Asianosaisen katsotaan saaneen päätöksestä tiedon, jollei muuta näytetä, seitsemän päivän kuluttua kirjeen lähettämisestä.
+
+## 16 § Valitus (27.11.2020/880)
+
+Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019). Valitus ei kuitenkaan estä päätöksen täytäntöönpanoa, ellei valitusviranomainen toisin määrää.
+
+## 17 § Maksuaika ja viivästysseuraamus
+
+Pysäköintivirhemaksu on suoritettava 30 päivän kuluessa päätöksen tekemispäivästä. Jos päätös on kuitenkin annettu tiedoksi 8 §:n 2 momentissa tarkoitetulla tavalla, maksu on suoritettava 30 päivän kuluessa päätöksen tiedoksisaannista. Pysäköinninvalvoja voi myöntää maksuajan pidennystä.
+
+Jollei pysäköintivirhemaksua ole suoritettu 1 momentissa tarkoitetussa määräajassa tai maksuajassa, maksu on suoritettava saatavien perinnästä annetun lain (513/1999) 10 a §:n 1 momentin 3 kohdassa säädetyllä määrällä korotettuna.
+
+## 18 § Maksun palauttaminen
+
+Jos pysäköintivirhemaksu on määrätty 2 §:n 1 momentissa tarkoitetusta esteestä huolimatta, pysäköinninvalvojan on hakemuksesta määrättävä suoritettu pysäköintivirhemaksu palautettavaksi asianomaiselle. Hakemus on tehtävä kuuden kuukauden kuluessa rikosoikeudellisen menettelyn aloittamisesta tai pysäköintivirhemaksun määräämisestä.
+
+Jos sama pysäköintivirhemaksu on suoritettu kahdesti, pysäköinninvalvojan on määrättävä liikaa suoritettu määrä palautettavaksi. Jos sekä kuljettaja että omistaja tai haltija ovat suorittaneet maksun, on liikaa suoritettu määrä palautettava omistajalle tai haltijalle.
+
+## 19 § Takautumisoikeus
+
+Ajoneuvon omistajalla tai haltijalla on oikeus saada suorittamansa pysäköintivirhemaksun ja rengaslukon käyttämisestä aiheutuneen korvauksen määrä pysäköintivirheen tehneeltä kuljettajalta, jollei maksua ole palautettu 18 §:n 2 momentin nojalla.
+
+## 20 § Pysäköintivirhemaksun saaja ja valvontakustannukset
+
+Pysäköintivirhemaksut saa valtio.
+
+Kunnallisessa valvonnassa olevalla alueella tehdyistä pysäköintivirheistä ja joutokäyntirikkomuksista perittävät maksut saa kuitenkin asianomainen kunta riippumatta siitä, onko pysäköintivirhemaksun määrännyt poliisi vai kunnallinen pysäköinninvalvoja tai pysäköinnintarkastaja.
+
+Kunnallisessa valvonnassa olevalla alueella kunta suorittaa valvontatoimen järjestämisestä ja hoitamisesta sekä pysäköinninvalvontaa koskevien ehtojen täyttämisestä aiheutuvat kustannukset.
+
+## 21 § (10.8.2018/735)
+
+21 § on kumottu L:lla 10.8.2018/735.
+
+## 22 § Täytäntöönpano
+
+Pysäköintivirhemaksun ja sen korotuksen sekä rengaslukon käyttämisestä aiheutuneen korvauksen perimisestä ulosottotoimin sovelletaan, mitä verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007) säädetään.
+
+## 23 § Tarkemmat säännökset
+
+Sisäasiainministeriön asetuksella säädetään tarkemmin:
+
+- 1\) rengaslukolta vaadittavista ominaisuuksista;
+- 2\) käytettävistä asiakirjoista sekä niihin tehtävistä merkinnöistä ja niiden säilyttämisestä;
+- 3\) tämän lain nojalla määrättyjen seuraamusten täytäntöönpanoon liittyvistä ja muista viranomaisten välisistä ilmoituksista;
+- 4\) kunnallisen pysäköinninvalvonnan järjestämistä koskevassa hakemuksessa esitettävästä selvityksestä;
+- 5\) kunnallisen valvontahenkilöstön virkamerkistä sekä virkapuvusta ja tunnusmerkistä.
+
+## 24 § Voimaantulo
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2012.
+
+Tällä lailla kumotaan pysäköintivirhemaksusta annettu laki (248/1970).
+
+Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin.
+
+## 25 § Voimaan jäävät säädökset
+
+Seuraavat säädökset jäävät voimaan:
+
+- 1\) kunnallisen pysäköinninvalvojan ja hänen apulaisensa tunnusmerkistä annettu sisäasiainministeriön päätös (136/1971);
+- 2\) kunnallisen pysäköinninvalvojan virkapuvusta annettu sisäasiainministeriön päätös (512/1987).
+
+## 26 § Siirtymäsäännös
+
+Jos pysäköintivirhemaksua koskeva maksukehotus on annettu ennen tämän lain voimaantuloa, asian käsittelyssä, muutoksenhaussa ja seuraamusten määräämisessä noudatetaan tämän lain voimaan tullessa voimassa olleita säännöksiä.
+
+Lääninhallituksen tai aluehallintoviraston kumottavan lain nojalla antamat määräykset jäävät edelleen voimaan.
+
+Se, joka on tämän lain voimaan tullessa nimitettynä kunnallisen pysäköinninvalvojan tai valvonta-apulaisen virkaan tai määräaikaiseen virkasuhteeseen, säilyttää kelpoisuutensa vastaaviin tehtäviin myös tämän lain tultua voimaan.
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+HE 223/2010
+
+LaVM 42/2010
+
+EV 354/2010
+
+## Muutossäädösten voimaantulo ja soveltaminen
+
+### 27.6.2014/529:
+
+Tämä laki tulee voimaan 1 päivänä syyskuuta 2014.
+
+HE 214/2013, YmVM 3/2014, EV 67/2014
+
+### 10.8.2018/735:
+
+Tämä laki tulee voimaan 1 päivänä kesäkuuta 2020.
+
+HE 180/2017, LiVM 16/2018, EV 65/2018
+
+### 27.11.2020/880:
+
+Tämä laki tulee voimaan 1 päivänä joulukuuta 2020.
+
+HE 109/2020, LaVM 10/2020, EV 136/2020
+
+### 27.6.2025/555:
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2026.
+
+HE 13/2025, HaVM 15/2025, EV 74/2025
