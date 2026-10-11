@@ -1,0 +1,81 @@
+---
+title: "Valtioneuvoston asetus maksuhyvityksestä audiovisuaalisiin tuotantoihin vuosina 2024–2026"
+identifier: "1203/2023"
+eli: "http://data.finlex.fi/eli/sd/2023/1203/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2023-12-21
+entry_into_force: 2024-01-01
+last_amended: 2023-12-21
+status: in_force
+administrative_branch: "Työ- ja elinkeinoministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2023/1203"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2023/1203/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus maksuhyvityksestä audiovisuaalisiin tuotantoihin vuosina 2024–2026
+
+*1203/2023*
+
+Valtioneuvoston päätöksen mukaisesti säädetään valtionavustuslain (688/2001) 8 §:n nojalla:
+
+## 1 § Soveltamisala
+
+Tässä asetuksessa säädetään Innovaatiorahoituskeskus Business Finlandin, jäljempänä *Business Finland*, audiovisuaalisiin tuotantoihin myöntämän valtion talousarvion mukaisen maksuhyvityksen myöntämisestä, maksamisesta ja käytöstä.
+
+Maksuhyvitys on tiettyjen tukimuotojen toteamisesta sisämarkkinoille soveltuviksi perussopimuksen 107 ja 108 artiklan mukaisesti annetun komission asetuksen (EU) N:o 651/2014, jäljempänä *yleinen ryhmäpoikkeusasetus*, 54 artiklan mukaisesti sisämarkkinoille soveltuvaa tukea. Tuen myöntämisestä, maksamisesta ja käytöstä säädetään mainitussa asetuksessa.
+
+## 2 § Määritelmät
+
+Tässä asetuksessa tarkoitetaan:
+
+- 1\) *maksuhyvityksellä* sitä tämän asetuksen mukaista osuutta tuotantokustannuksista, joka maksetaan saajalle jälkikäteen toteutuneiden kustannusten perusteella;
+- 2\) *tuki-intensiteetillä* tuen bruttomäärää ilmaistuna suhteellisena osuutena hankkeen tukikelpoisista kustannuksista.
+
+## 3 § Maksuhyvityksen myöntämisen yleiset edellytykset
+
+Maksuhyvitystä voidaan myöntää, maksaa ja käyttää niihin Suomessa toteutettuihin audiovisuaalisiin tuotantoihin, joiden toteuttamiseksi on laadittu hankkeen luotettavan seurannan kannalta riittävän yksityiskohtainen tuotanto- ja rahoitussuunnitelma. Maksuhyvityksen saajan on etukäteen saatava Business Finlandin suostumus olennaiseen tuotanto- ja rahoitussuunnitelmasta poikkeamiseen.
+
+Maksuhyvitystä ei voida myöntää yleisen ryhmäpoikkeusasetuksen 2 artiklan 18 alakohdassa tarkoitetulle vaikeuksissa olevalle yritykselle.
+
+Maksuhyvitystä ei makseta yritykselle, jolle on annettu sellaiseen komission aikaisempaan päätökseen perustuva maksamaton perintämääräys, jossa tuki on julistettu sääntöjenvastaiseksi ja sisämarkkinoille soveltumattomaksi.
+
+Maksuhyvitystä voidaan myöntää vain toimintaan, joka tapahtuu rahoitushakemuksen jättämisen jälkeen.
+
+## 4 § Maksuhyvityksen saaja
+
+Maksuhyvitykseen oikeuttavalla tuotannolla tulee olla sopimus, joka takaa jakelun tai levityksen.
+
+Maksuhyvitystä ei myönnetä valtion, kunnan tai seurakunnan viranomaisille tai laitoksille, valtioenemmistöisille yhtiöille tai edellä mainittuihin verrattaville yhteisöille tai laitoksille.
+
+Maksuhyvitystä ei voida varata tiettyihin tuotantotoimiin tai tuotantoarvoketjun yksittäisiin osiin. Maksuhyvitystä ei myönnetä elokuvastudioinfrastruktuureille.
+
+Maksuhyvitystä ei myönnetä luonnolliselle henkilölle.
+
+## 5 § Maksuhyvityksen kohde
+
+Maksuhyvitys on suunnattava kulttuurituotteelle. Tukikelpoisena kulttuurituotteena pidetään elokuvaa ja muuta kuvaohjelmaa, kun:
+
+- 1\) se muodostaa taiteellisen kokonaisuuden;
+- 2\) sen sisältö perustuu kulttuuriarvoihin, joiden alkuperä on kulttuuri-identiteetissä; ja
+- 3\) siihen sisältyy merkittävä luovien tekijöiden ja esittävien taiteilijoiden panos ja kun heille maksettavien palkkojen ja palkkioiden osuus tuotantokustannuksista on merkittävä.
+
+## 6 § Hyväksyttävät kustannukset
+
+Tukikelpoisia ovat suoraan audiovisuaalisten teosten tuotantoa edeltävästä vaiheesta, tuotannosta ja jälkituotannosta Suomessa syntyneet kustannukset. Suomessa syntyneiksi kustannuksiksi katsotaan tavara- ja palveluostot Suomessa verovelvollisilta yrityksiltä sekä Suomessa verovelvollisille työntekijöille maksetut palkat ja työkorvaukset. Tukikelpoisia kustannuksia ovat myös Suomessa syntyneet kustannukset, jotka aiheutuvat teosten tuomisesta paremmin vammaisten henkilöiden saataville. Kustannuksiin sisältyvä arvonlisävero ei ole tukikelpoinen kustannus.
+
+## 7 § Tuotannon vähimmäiskulutus Suomessa ja kokonaisbudjetin vähimmäismäärä
+
+Maksuhyvityksen saamisen edellytyksenä on, että tuettava tuotanto täyttää Business Finlandin määrittelemät vaatimukset vähimmäiskulutuksesta Suomessa ja tuotannon kokonaisbudjetin vähimmäismäärästä. Suomessa syntyneiden 6 §:ssä tarkoitettujen hyväksyttävien kustannusten määrä saa olla enintään 80 prosenttia tuotannon kokonaisbudjetista.
+
+## 8 § Maksuhyvityksen enimmäismäärä
+
+Maksuhyvitys voi olla audiovisuaalisten teosten tuotannon, tuotantoa edeltävän vaiheen ja jälkituotannon osalta enintään 25 prosenttia Suomessa toteutetun tuotannon tai sen osa-alueen tukikelpoisista kustannuksista. Jos tuotantoa edeltävän vaiheen tuloksena olevasta käsikirjoituksesta tai hankkeesta tehdään elokuva tai muu audiovisuaalinen teos, tuotantoa edeltävän vaiheen kustannukset on sisällytettävä kokonaisbudjettiin ja otettava huomioon laskettaessa tuki-intensiteettiä.
+
+Jos audiovisuaalisen teoksen tuotantoon on myönnetty muuta valtiontukea, muun tuen ja tämän asetuksen perusteella myönnetyn maksuhyvityksen yhteenlaskettu tuki-intensiteetti ei saa ylittää yleisen ryhmäpoikkeusasetuksen 54 artiklan perusteella määräytyvää tuki-intensiteetin enimmäismäärää samojen tukikelpoisten kustannusten osalta. Tuen kasautumisesta säädetään mainitun asetuksen 8 artiklassa.
+
+## 9 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2024 ja on voimassa 31 päivään joulukuuta 2026.

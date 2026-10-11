@@ -1,0 +1,38 @@
+---
+title: "Tasavallan presidentin asetus Iranin kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta"
+identifier: "493/2004"
+eli: "http://data.finlex.fi/eli/sd/2004/493/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2004-06-16
+entry_into_force: 2004-06-25
+last_amended: 2004-06-16
+status: in_force
+administrative_branch: "Ulkoministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2004/493"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2004/493/fin@"
+retrieved: 2026-10-11
+---
+
+# Tasavallan presidentin asetus Iranin kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen voimaansaattamisesta ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain voimaantulosta
+
+*493/2004*
+
+Tasavallan presidentin päätöksen mukaisesti, joka on tehty ulkoasiainministeriön toimialaan kuuluvia asioita käsittelemään määrätyn ulkomaankauppa- ja kehitysministerin esittelystä, säädetään:
+
+## 1 §
+
+Teheranissa 4 päivänä marraskuuta 2002 Suomen tasavallan hallituksen ja Iranin islamilaisen tasavallan hallituksen välillä tehty, eduskunnan 21 päivänä tammikuuta 2003 hyväksymä ja tasavallan presidentin 7 päivänä maaliskuuta 2003 hyväksymä sijoitusten edistämistä ja suojaamista koskeva sopimus, jonka hyväksymistä koskevat nootit on vaihdettu 26 päivänä toukokuuta 2004, tulee Suomen osalta kansainvälisesti voimaan 25 päivänä kesäkuuta 2004 niin kuin siitä on sovittu.
+
+## 2 §
+
+Iranin kanssa tehdyn sijoitusten edistämistä ja suojaamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta 7 päivänä maaliskuuta 2003 annettu laki (196/2003) tulee voimaan 25 päivänä kesäkuuta 2004.
+
+## 3 §
+
+Sopimuksen muut kuin lainsäädännön alaan kuuluvat määräykset ovat asetuksena voimassa.
+
+## 4 §
+
+Tämä asetus tulee voimaan 25 päivänä kesäkuuta 2004.

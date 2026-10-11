@@ -1,0 +1,32 @@
+---
+title: "Maa- ja metsätalousministeriön asetus tuettavaa rakentamista koskevien rakentamismääräyksien ja suositusten soveltamisesta"
+identifier: "763/2009"
+eli: "http://data.finlex.fi/eli/sd/2009/763/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2009-10-13
+entry_into_force: 2009-10-21
+last_amended: 2009-10-13
+status: in_force
+administrative_branch: "Maa- ja metsätalousministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2009/763"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2009/763/fin@"
+retrieved: 2026-10-11
+---
+
+# Maa- ja metsätalousministeriön asetus tuettavaa rakentamista koskevien rakentamismääräyksien ja suositusten soveltamisesta
+
+*763/2009*
+
+Maa- ja metsätalousministeriön päätöksen mukaisesti säädetään maatalouden rakennetuesta 28 päivänä joulukuuta 2007 annetun lain (1476/2007) 13 §:n 4 momentin sekä 21 päivänä tammikuuta 2000 annetun porotalouden ja luontaiselinkeinojen rahoituslain (45/2000) 7 §:n 2 momentin nojalla, sellaisena kuin niistä viimeksi mainittu on laissa 275/2004:
+
+## 1 §
+
+Maatalouden rakennetuesta annetun lain (1476/2007) ja porotalouden ja luontaiselinkeinojen rahoituslain (45/2000) mukaisessa rakentamista koskevassa tukitoiminnassa sovelletaan maa- ja metsätalousministeriön ilmoituksen (6/2002) mukaista tuettavaa rakentamista koskevista rakentamismääräyksistä ja suosituksista 7 päivänä tammikuuta 2002 annettua maa- ja metsätalousministeriön asetusta siihen myöhemmin tehtyine muutoksineen. Lisäksi kyseisessä tukitoiminnassa sovelletaan tuettavaa rakentamista koskevista paloteknisistä vaatimuksista 13 päivänä toukokuuta 2004 annettua maa- ja metsätalousministeriön asetusta (391/2004) sekä tuettavaa rakentamista koskevista sikaloiden rakennusteknisistä ja toiminnallisista vaatimuksista 2 päivänä marraskuuta 2005 annettua maa- ja metsätalousministeriön asetusta (848/2005) niihin myöhemmin tehtyine muutoksineen.
+
+## 2 §
+
+Tämä asetus tulee voimaan 21 päivänä lokakuuta 2009.
+
+Tällä asetuksella kumotaan 29 päivänä lokakuuta 2008 annettu maa- ja metsätalousministeriön asetus tuettavaa rakentamista koskevien rakentamismääräyksien ja suositusten soveltamisesta (657/2008).

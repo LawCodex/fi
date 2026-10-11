@@ -1,0 +1,64 @@
+---
+title: "Valtiovarainministeriön asetus Aleksis Kiven ja kirjallisuuden juhlarahasta"
+identifier: "810/2000"
+eli: "http://data.finlex.fi/eli/sd/2000/810/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2000-09-20
+entry_into_force: 2000-10-02
+last_amended: 2000-09-20
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2000/810"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2000/810/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtiovarainministeriön asetus Aleksis Kiven ja kirjallisuuden juhlarahasta
+
+*810/2000*
+
+Valtiovarainministeriön päätöksen mukaisesti säädetään 16 päivänä huhtikuuta 1993 annetun rahalain (358/1993) 7 §:n 2 momentin nojalla:
+
+## 1 §
+
+Aleksis Kiven päivän 50-vuotisjuhlan ja Seitsemän veljestä -teoksen 130-vuotisjuhlan johdosta lyödään Aleksis Kiven ja suomalaisen kirjallisuuden 100 markan juhlaraha.
+
+## 2 §
+
+Juhlaraha on hopeaseosta, jonka painosta 925 promillea on hopeaa ja 75 promillea kuparia. Pitoisuudet saavat vaihdella enintään ± 10 promilleyksikköä.
+
+## 3 §
+
+Juhlarahan halkaisija on 35,0 ± 0,1 millimetriä ja paino 22,00 ± 0,40 grammaa.
+
+Enintään 5 prosenttia rahoista saa poiketa halkaisijastaan enemmän kuin ± 0,1 millimetriä.
+
+## 4 §
+
+Juhlarahat ovat ympyrän muotoisia. Kuvat ja kirjoitukset laakapinnoilla on sijoitettu siten, että rahoja kirjan lehden tavoin käännettäessä kumpikin puoli on oikein päin.
+
+Rahassa on sen suunnitelleen taiteilijan ja Rahapaja Oy:n toimitusjohtajan sukunimien alkukirjaimet T ja M.
+
+## 5 §
+
+Juhlarahojen leimat ovat seuraavan selitelmän ja kuvien mukaiset.
+
+Rahan tunnuspuolen vasemmalla on kaaren muotoisena kohokuviona alhaalta ylös teksti ALEKSIS KIVI. Sanojen välillä vaakasuoraan on vuosiluku 2000. Oikealla on kohokuviona vasemmalle katsova Aleksis Kiven kasvokuva.
+
+Rahan arvopuolella vasemmalla ylhäällä ja keskellä alhaalla on kohokuviona tyylitelty kirjahylly, oikealla kaaren muotoisena kohokuviona ylhäältä alas teksti SUOMI FINLAND ja vasemmalla alhaalla vaakasuoraan arvomerkintä 100 MK.
+
+![](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2000/810/fin@/media/2957.gif)
+
+## 6 §
+
+Osa 100 markan juhlarahan lyöntimäärästä lyödään erikoislyöntinä, jolloin rahoissa on peilikiiltoinen pohja ja mattapintainen kuvio.
+
+## 7 §
+
+Juhlarahan leimojen tarkemmat yksityiskohdat ilmenevät Rahapaja Oy:n hallussa olevista perusmalleista ja -työkaluista.
+
+## 8 §
+
+Tämä asetus tulee voimaan 2 päivänä lokakuuta 2000.

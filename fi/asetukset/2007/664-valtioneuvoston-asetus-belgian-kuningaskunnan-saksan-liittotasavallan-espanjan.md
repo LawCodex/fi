@@ -1,0 +1,52 @@
+---
+title: "Valtioneuvoston asetus Belgian kuningaskunnan, Saksan liittotasavallan, Espanjan kuningaskunnan, Ranskan tasavallan, Luxemburgin suurherttuakunnan, Alankomaiden kuningaskunnan ja Itävallan tasavallan välillä rajat ylittävän yhteistyön tehostamisesta erityisesti terrorismin, rajat ylittävän rikollisuuden ja laittoman muuttoliikkeen torjumiseksi tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta sekä sopimuksen soveltamisesta annetun lain voimaantulosta"
+identifier: "664/2007"
+eli: "http://data.finlex.fi/eli/sd/2007/664/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2007-06-07
+entry_into_force: 2007-06-17
+last_amended: 2007-06-07
+status: in_force
+administrative_branch: "Sisäministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2007/664"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2007/664/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus Belgian kuningaskunnan, Saksan liittotasavallan, Espanjan kuningaskunnan, Ranskan tasavallan, Luxemburgin suurherttuakunnan, Alankomaiden kuningaskunnan ja Itävallan tasavallan välillä rajat ylittävän yhteistyön tehostamisesta erityisesti terrorismin, rajat ylittävän rikollisuuden ja laittoman muuttoliikkeen torjumiseksi tehdyn sopimuksen voimaansaattamisesta sekä sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta sekä sopimuksen soveltamisesta annetun lain voimaantulosta
+
+*664/2007*
+
+Valtioneuvoston päätöksen mukaisesti, joka on tehty sisäasiainministeriön esittelystä, säädetään:
+
+## 1 §
+
+Prümissä 27 päivänä toukokuuta 2005 Belgian kuningaskunnan, Saksan liittotasavallan, Espanjan kuningaskunnan, Ranskan tasavallan, Luxemburgin suurherttuakunnan, Alankomaiden kuningaskunnan ja Itävallan tasavallan välillä tehty sopimus rajat ylittävän yhteistyön tehostamisesta erityisesti terrorismin, rajat ylittävän rikollisuuden ja laittoman muuttoliikkeen torjumiseksi, jonka eduskunta on hyväksynyt 13 päivänä helmikuuta 2007 ja jonka tasavallan presidentti on hyväksynyt 16 päivänä maaliskuuta 2007 ja jota koskeva liittymiskirja on talletettu Saksan liittotasavallan hallituksen huostaan 19 päivänä maaliskuuta 2007, tulee voimaan 17 päivästä kesäkuuta 2007 niin kuin siitä on sovittu.
+
+## 2 §
+
+Belgian kuningaskunnan, Saksan liittotasavallan, Espanjan kuningaskunnan, Ranskan tasavallan, Luxemburgin suurherttuakunnan, Alankomaiden kuningaskunnan ja Itävallan tasavallan välillä rajat ylittävän yhteistyön tehostamisesta erityisesti terrorismin, rajat ylittävän rikollisuuden ja laittoman muuttoliikkeen torjumiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta sekä sopimuksen soveltamisesta 16 päivänä maaliskuuta 2007 annettu, myös Ahvenanmaan maakuntapäivien osaltaan hyväksymä laki (277/2007), tulee voimaan 17 päivänä kesäkuuta 2007.
+
+## 3 §
+
+Suomi on ilmoittanut liittymiskirjan tallettamisen yhteydessä seuraavat kansalliset yhteyspisteet:
+
+- 1\) Sopimuksen 6 artiklan 1 kohdassa tarkoitettuna kansallisena yhteyspisteenä DNA-tunnisteiden vaihtoa varten toimii keskusrikospoliisi.
+- 2\) Sopimuksen 11 artiklan 1 kohdassa tarkoitettuna kansallisena yhteyspisteenä sormenjälkitietojen vaihtoa varten toimii keskusrikospoliisi.
+- 3\) Sopimuksen 12 artiklan 2 kohdassa tarkoitettuna kansallisena yhteyspisteenä ajoneuvorekisteritietojen vaihtoa varten toimii keskusrikospoliisi.
+- 4\) Sopimuksen 15 artiklassa tarkoitettuna kansallisena yhteyspisteenä suuria joukkotapahtumia koskevaa tietojenvaihtoa varten toimii keskusrikospoliisi.
+- 5\) Sopimuksen 16 artiklassa tarkoitettuna kansallisena yhteyspisteenä terrorismirikoksia koskevaa tietojenvaihtoa varten toimii suojelupoliisi.
+- 6\) Sopimuksen 19 artiklassa tarkoitettuna kansallisena yhteys- ja koordinaatiopisteenä lennon turvahenkilöitä koskevissa asioissa toimii liikkuva poliisi.
+- 7\) Sopimuksen 22 artiklassa tarkoitettuna kansallisena yhteys- ja koordinaatiopisteenä asiakirja-asiantuntijoita koskevissa asioissa toimii keskusrikospoliisi.
+- 8\) Sopimuksen 23 artiklan 3 kohdassa tarkoitettuna kansallisena yhteyspisteenä palauttamistoimenpiteiden suunnittelua ja täytäntöönpanoa varten toimii rajavartiolaitos.
+- 9\) Sopimuksen 24―27 artiklassa tarkoitettua muuta sopimuksen mukaista yhteistyötä sovittaa yhteen poliisin ylijohto.
+
+## 4 §
+
+Sopimuksen muut kuin lainsäädännön alaan kuuluvat määräykset ovat asetuksena voimassa.
+
+## 5 §
+
+Tämä asetus tulee voimaan 17 päivänä kesäkuuta 2007.

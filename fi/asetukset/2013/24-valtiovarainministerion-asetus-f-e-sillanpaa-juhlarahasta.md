@@ -1,0 +1,60 @@
+---
+title: "Valtiovarainministeriön asetus F.E. Sillanpää -juhlarahasta"
+identifier: "24/2013"
+eli: "http://data.finlex.fi/eli/sd/2013/24/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2013-01-17
+entry_into_force: 2013-01-23
+last_amended: 2013-01-17
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2013/24"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2013/24/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtiovarainministeriön asetus F.E. Sillanpää -juhlarahasta
+
+*24/2013*
+
+Valtiovarainministeriön päätöksen mukaisesti säädetään metallirahasta 27 päivänä maaliskuuta 1998 annetun lain (216/1998) 1 §:n 2 momentin nojalla, sellaisena kuin se on laissa 378/2002:
+
+## 1 §
+
+Kirjailija Frans Emil Sillanpään syntymästä tulee vuonna 2013 kuluneeksi 125 vuotta, minkä johdosta lyödään 10 euron nimellisarvoinen juhlaraha.
+
+## 2 §
+
+Juhlaraha on hopeaseosta, jonka painosta 925 promillea on hopeaa ja 75 promillea kuparia. Pitoisuudet saavat vaihdella enintään ± 10 promilleyksikköä.
+
+## 3 §
+
+Juhlarahan halkaisija on 33,0 ± 0,1 millimetriä ja paino 17,0 ± 0,5 grammaa.
+
+Enintään 5 prosenttia rahoista saa poiketa halkaisijastaan enemmän kuin ± 0,1 millimetriä.
+
+## 4 §
+
+Juhlarahan kuvat ja kirjoitukset laakapinnoilla on sijoitettu siten, että rahoja kirjan lehden tavoin käännettäessä kumpikin puoli on oikein päin.
+
+Rahassa on Suomen Rahapaja Oy:n tunnus sekä Eurooppa-yhteistunnus.
+
+## 5 §
+
+Juhlaraha on seuraavan selitelmän ja kuvan mukainen.
+
+Rahan tunnuspuolella on Taatan kasvokuva. Rahan yläreunassa on kaarevasti teksti F.E.SILLANPÄÄ. Kasvokuvan vasemmalla puolella on vaakasuorassa vuosiluku 1888. Kasvokuvan oikealla puolella on vuosiluku 1964, jonka yläpuolella pystysuunnassa on vuosiluku 2013. Taiteilijan tunnus P on sijoitettu vuosiluvun 1964 alapuolelle.
+
+Rahan arvopuolella on kuvattuna maalaismaisema sekä talo, jonka savupiipusta nousevasta savusta muodostuu Pegasos runoratsun hahmo. Savuvanojen vasemmalla puolella pystysuunnassa on teksti SUOMI ja oikealla puolella vastaavasti FINLAND. Arvomerkintä 10 € on sijoitettu vaakasuoraan sanan FINLAND viereen. Taiteilijan tunnus R on sijoitettu rahan oikeaan alalaitaan.
+
+![](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2013/24/fin@/media/6173.gif)
+
+## 6 §
+
+Osa juhlarahoista lyödään erikoislyöntinä, jolloin rahoissa on peilikiiltoinen pohja ja mattapintainen kuvio.
+
+## 7 §
+
+Tämä asetus tulee voimaan 23 päivänä tammikuuta 2013.

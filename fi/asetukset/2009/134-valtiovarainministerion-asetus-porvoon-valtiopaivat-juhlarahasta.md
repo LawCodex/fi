@@ -1,0 +1,64 @@
+---
+title: "Valtiovarainministeriön asetus Porvoon valtiopäivät -juhlarahasta"
+identifier: "134/2009"
+eli: "http://data.finlex.fi/eli/sd/2009/134/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2009-03-13
+entry_into_force: 2009-03-20
+last_amended: 2009-03-13
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2009/134"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2009/134/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtiovarainministeriön asetus Porvoon valtiopäivät -juhlarahasta
+
+*134/2009*
+
+Valtiovarainministeriön päätöksen mukaisesti säädetään metallirahasta 27 päivänä maaliskuuta 1998 annetun lain (216/1998) 1 §:n 2 momentin nojalla, sellaisena kuin se on laissa 378/2002:
+
+## 1 §
+
+Suomen valtiopäivät kokoontuivat ensimmäisen kerran vuonna 1809 Porvoossa. Ensimmäisten valtiopäivien 200-vuotisjuhlien johdosta lyödään 100 euron juhlaraha.
+
+## 2 §
+
+Juhlaraha on kultaseosta, jonka painosta 917 promillea on kultaa, 43 promillea kuparia ja 40 promillea hopeaa.
+
+Pitoisuudet saavat vaihdella enintään ± 10 promilleyksikköä.
+
+## 3 §
+
+Juhlarahan halkaisija on 22,0 ± 0,1 millimetriä ja paino 6,78 ± 0,10 grammaa.
+
+Enintään 5 prosenttia rahoista saa poiketa halkaisijastaan enemmän kuin ± 0,1 millimetriä.
+
+## 4 §
+
+Juhlarahat ovat ympyrän muotoisia. Kuvat ja kirjoitukset laakapinnoilla on sijoitettu siten, että rahoja kirjan lehden tavoin käännettäessä kumpikin puoli on oikein päin.
+
+Rahassa on sen suunnitelleen taiteilijan sukunimen alkukirjain P ja Rahapaja Oy:n tunnus.
+
+## 5 §
+
+Juhlaraha on seuraavan selitelmän ja kuvan mukainen.
+
+Juhlarahan tunnuspuolella on kehänmuotoisena kohokuviona teksti PORVOON VALTIOPÄIVÄT 200 VUOTTA. Rahan keskiosassa on kohokuviona vuosiluku 2009. Alaosassa on kohokuviona tyylitelty kruunu.
+
+Juhlarahan arvopuolella on tyylitelty Porvoon kirkon profiili. Rahan yläreunaan on kirjoitettu kehänmuotoisena kohokuviona teksti SUOMI FINLAND sekä arvomerkintä 100 EURO.
+
+Ruotsinkielinen teksti BORGÅ LANTDAG 200 ÅR on rahan syrjässä. Osa rahoista numeroidaan siten, että numerointi sijaitsee rahan syrjässä.
+
+![](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2009/134/fin@/media/5656.gif)
+
+## 6 §
+
+Juhlarahojen tarkemmat yksityiskohdat ilmenevät Rahapaja Oy:n hallussa olevista perusmalleista ja -työkaluista.
+
+## 7 §
+
+Tämä asetus tulee voimaan 20 päivänä maaliskuuta 2009.

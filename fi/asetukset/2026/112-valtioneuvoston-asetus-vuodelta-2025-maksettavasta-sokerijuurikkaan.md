@@ -1,0 +1,57 @@
+---
+title: "Valtioneuvoston asetus vuodelta 2025 maksettavasta sokerijuurikkaan kuljetustuesta"
+identifier: "112/2026"
+eli: "http://data.finlex.fi/eli/sd/2026/112/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2026-02-05
+entry_into_force: 2026-02-11
+last_amended: 2026-02-05
+status: in_force
+administrative_branch: "Maa- ja metsätalousministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2026/112"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2026/112/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus vuodelta 2025 maksettavasta sokerijuurikkaan kuljetustuesta
+
+*112/2026*
+
+Valtioneuvoston päätöksen mukaisesti säädetään maa- ja puutarhatalouden kansallisista tuista annetun lain (1559/2001) 7 §:n 1 momentin ja 15 §:n 3 momentin nojalla:
+
+## 1 § Soveltamisala
+
+Maa- ja puutarhatalouden kansallisista tuista annetun lain (1559/2001) 6 §:n 3 kohdassa tarkoitettuna muuna kansallisena tukena voidaan maksaa sokerijuurikkaan viljelijöille sokerijuurikkaan kuljetustukea vuodelta 2025 siten kuin tässä asetuksessa säädetään.
+
+## 2 § Tuen määräytyminen
+
+Tuki myönnetään tuen hakijalle, joka on viljellyt sokerijuurikasta kasvukaudella 2025. Tuki määräytyy liitteen mukaisesti määräytyvän pinta-alaluokan sekä kuljetusmatkan perusteella. Kuljetusmatka on tuenhakijan sokerijuurikkaan eri toimituspaikkojen keskimääräinen kuljetusetäisyys tehtaalle lyhintä liikennöitävissä olevaa tiereittiä pitkin. Tuen hakijan pinta-alaluokka lasketaan liitteen mukaisesti täysinä alkavina hehtaareina viljelijän sellaisen sokerintuotantoon käytetyn sokerijuurikasalan perusteella, joka on ollut hakijan hallinnassa viimeistään vuoden 2025 viimeisenä tukihakupäivänä ja vähintään 2 päivään lokakuuta 2025.
+
+## 3 § Tuen myöntäminen ja maksaminen
+
+Tuki myönnetään Euroopan unionin toiminnasta tehdyn sopimuksen 107 ja 108 artiklan soveltamisesta vähämerkityksiseen tukeen maatalousalalla annetun komission asetuksen (EU) N:o 1408/2013 3 artiklassa tarkoitettuna vähämerkityksisenä tukena. Tuen myöntämisen edellytyksenä on, että hakijalle vähämerkityksisenä tukena maatalousalalla myönnettyjen tukien yhteismäärä ei ylitä sen vuoden, jolloin vähämerkityksinen tuki myönnetään, ja sitä edeltäneen kahden vuoden ajanjaksolla (viitekausi) mainitun artiklan 2 kohdan mukaista enimmäismäärää. Edellytyksenä on lisäksi, että kaikkien hakijalle viitekaudella myönnettyjen vähämerkityksisten tukien yhteismäärä ei ylitä Euroopan unionin toiminnasta tehdyn sopimuksen 107 ja 108 artiklan soveltamisesta vähämerkityksiseen tukeen annetun komission asetuksen (EU) N:o 2023/2831 3 artiklan 2 kohdan mukaista enimmäismäärää.
+
+Sokerijuurikkaan kuljetustuki katsotaan myönnetyksi 1 momentissa ensiksi mainitun asetuksen 3 artiklan 4 kohdassa säädetyllä tavalla, kun tuen maksamisesta on annettu maksulupa.
+
+## 4 § Voimaantulo
+
+Tämä asetus tulee voimaan 11 päivänä helmikuuta 2026.
+
+## Liite
+
+SOKERIJUURIKKAAN KULJETUSTUEN MÄÄRÄ
+
+| Kuljetusmatka kilometreinä\* | Tuki euroina/pinta-alaluokan alkavaa hehtaaria kohti |
+|---|---|
+| enintään 40 | 103,00 |
+| yli 40 ja enintään 80 | 123,00 |
+| yli 80 ja enintään 120 | 147,00 |
+| yli 120 ja enintään 160 | 177,00 |
+| yli 160 ja enintään 200 | 213,00 |
+| yli 200 ja enintään 240 | 234,00 |
+| yli 240 ja enintään 280 | 258,00 |
+| yli 280 | 284,00 |
+
+\* Jos yhteen hakemukseen liittyy useampia erillisiä toimitussopimuksia eri etäisyyksillä tehtaasta, käytettään sopimusmäärällä painotettua keskimääräistä kilometrimäärää kilometriluokan määräytymiseksi.

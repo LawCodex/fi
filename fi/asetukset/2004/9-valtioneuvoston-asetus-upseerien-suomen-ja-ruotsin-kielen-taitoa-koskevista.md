@@ -1,0 +1,48 @@
+---
+title: "Valtioneuvoston asetus upseerien suomen ja ruotsin kielen taitoa koskevista kelpoisuusvaatimuksista"
+identifier: "9/2004"
+eli: "http://data.finlex.fi/eli/sd/2004/9/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2004-01-15
+entry_into_force: 2004-01-20
+last_amended: 2004-01-15
+status: in_force
+administrative_branch: "Puolustusministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2004/9"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2004/9/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus upseerien suomen ja ruotsin kielen taitoa koskevista kelpoisuusvaatimuksista
+
+*9/2004*
+
+Valtioneuvoston päätöksen mukaisesti, joka on tehty puolustusministeriön esittelystä, säädetään julkisyhteisöjen henkilöstöltä vaadittavasta kielitaidosta 6 päivänä kesäkuuta 2003 annetun lain (424/2003) 6 §:n 2 momentin nojalla:
+
+## 1 § Soveltamisala
+
+Tässä asetuksessa säädetään upseerin virkaan tai määräaikaiseen virkasuhteeseen nimitettäessä ja tehtävään määrättäessä vaadittavista suomen ja ruotsin kielen taitoa koskevista kelpoisuusvaatimuksista puolustusministeriön hallinnonalalla.
+
+## 2 § Upseerit puolustusministeriössä
+
+Kielitaitoa koskevana kelpoisuusvaatimuksena puolustusministeriön vanhemman osastoesiupseerin ja osastoesiupseerin virkaan tai määräaikaiseen virkasuhteeseen on suomen kielen erinomainen suullinen ja kirjallinen taito sekä ruotsin kielen tyydyttävä suullinen ja kirjallinen taito.
+
+## 3 § Upseerit puolustusvoimien suomenkielisissä ja kaksikielisissä viranomaisissa
+
+Kielilain (423/2003) mukaan määräytyvässä puolustusvoimien suomenkielisessä joukko-osastossa, muussa suomenkielisessä viranomaisessa ja kaksikielisessä viranomaisessa, jonka enemmistön kieli on suomi, on kielitaitoa koskevana kelpoisuusvaatimuksena everstin ja kommodorin ja niitä ylempään virkaan tai määräaikaiseen virkasuhteeseen nimitettäessä ja tehtävään määrättäessä suomen kielen erinomainen suullinen ja kirjallinen taito sekä ruotsin kielen tyydyttävä suullinen ja kirjallinen taito.
+
+Mitä 1 momentissa säädetään kelpoisuusvaatimuksesta, koskee myös muuhun upseerin virkaan tai määräaikaiseen virkasuhteeseen nimitettävää tai tehtävään määrättävää upseeria, joka on suorittanut maanpuolustuskorkeakoulusta annetussa asetuksessa (668/1992) säädetyn sotatieteiden kandidaatin tai sotatieteiden maisterin tutkinnon.
+
+Kielitaitoa koskevana kelpoisuusvaatimuksena upseerin virkaan tai määräaikaiseen virkasuhteeseen nimitettäessä ja tehtävään määrättäessä on muiden kuin 1 ja 2 momentissa tarkoitettujen upseerien osalta suomen kielen erinomainen suullinen ja kirjallinen taito ja puolustusvoimien kaksikielisessä viranomaisessa, jonka enemmistön kieli on suomi, lisäksi ruotsin kielen hyvä ymmärtämisen taito.
+
+## 4 § Upseerit puolustusvoimien ruotsinkielisessä viranomaisessa
+
+Kielitaitoa koskevana kelpoisuusvaatimuksena puolustusvoimien ruotsinkielisen joukko-osaston upseerin virkaan tai määräaikaiseen virkasuhteeseen nimitettäessä ja tehtävään määrättäessä on ruotsin kielen hyvä suullinen ja kirjallinen taito sekä suomen kielen tyydyttävä suullinen ja kirjallinen taito.
+
+Sen estämättä, mitä 1 momentissa säädetään, suomen kielen taitoa koskevana kelpoisuusvaatimuksena on hyvä suullinen taito everstiluutnantin ja komentajan ja niitä alempaan virkaan tai määräaikaiseen virkasuhteeseen nimitettäessä ja tehtävään määrättäessä, jos nimitettävä tai tehtävään määrättävä ei ole suorittanut 3 §:n 2 momentissa tarkoitettua tutkintoa.
+
+## 5 § Voimaantulo
+
+Tämä asetus tulee voimaan 20 päivänä tammikuuta 2004.

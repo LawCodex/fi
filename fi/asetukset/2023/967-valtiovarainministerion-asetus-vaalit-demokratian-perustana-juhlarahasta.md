@@ -1,0 +1,60 @@
+---
+title: "Valtiovarainministeriön asetus Vaalit demokratian perustana -juhlarahasta"
+identifier: "967/2023"
+eli: "http://data.finlex.fi/eli/sd/2023/967/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2023-10-10
+entry_into_force: 2023-10-12
+last_amended: 2023-10-10
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2023/967"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2023/967/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtiovarainministeriön asetus Vaalit demokratian perustana -juhlarahasta
+
+*967/2023*
+
+Valtiovarainministeriön päätöksen mukaisesti säädetään metallirahasta annetun lain (216/1998) 1 §:n 2 momentin nojalla, sellaisena kuin se on laissa 378/2002:
+
+## 1 §
+
+Vuonna 2024 julkaistaan Vaalit demokratian perustana -aiheinen 100 euron kultainen juhla-raha.
+
+## 2 §
+
+Juhlaraha on kultaseosta, jonka painosta 917 promillea on kultaa, 43 promillea kuparia ja 40 promillea hopeaa. Pitoisuudet saavat vaihdella enintään ± 10 promilleyksikköä.
+
+## 3 §
+
+Juhlarahan halkaisija on 22,0 mm ± 0,1 mm ja paino 5,65 g ± 0,10 g. Enintään 5 prosenttia rahoista saa poiketa halkaisijastaan enemmän kuin ±0,1 millimetriä. Rahassa on kulutusreuna.
+
+## 4 §
+
+Juhlaraha lyödään erikoislyöntinä, jolloin rahassa on peilikiiltoinen pohja. Kuviot ovat peilikiiltoisella pohjalla mattapintaisia. Juhlarahassa on täysin sileä syrjä.
+
+Juhlarahoista voidaan numeroida täysin satamäärin enintään 500 ensimmäistä kappaletta.
+
+## 5 §
+
+Juhlarahan kuvat ja kirjoitukset laakapinnoilla on sijoitettu siten, että rahoja kirjan lehden tavoin käännettäessä kumpikin puoli on oikein päin.
+
+Rahassa on sen suunnitelleen taiteilijan sukunimen alkukirjain V sekä Liettuan raha-pajan tunnus.
+
+## 6 §
+
+Juhlaraha on seuraavan selitelmän ja kuvan mukainen.
+
+Rahan tunnuspuolella on kuvattu ympyröistä ja epäkkään eli epäsäännöllisen nelikulmion muodoista muotoutuvia äänestyslippuja. Jokaisen epäkkään keskellä on ympyrä. Äänestyslippuja on yhteensä kahdeksan kappaletta ja ne on osittain asetettu päällekkäin rahan pinnalle luoden pienempiä geometrisia muotoja päällekkäisten lippujen leikkauspisteiden kohdalla. Vuosiluku 2024 on rahan keskellä alhaalla. Vuosiluvun yläpuolella on taiteilijan sukunimen alkukirjan V. Teksti VAALIT ♦ DEMOKRATIA kiertää rahan kehällä oikealla. Teksti VAL ♦ DEMOKRATI kiertää rahan kehällä vasemmalla.
+
+Rahan arvopuolella on kuvattu ympyröistä ja epäkkään muodoista muotoutuvia abstrakteja ihmishahmoja. Hahmoja on yhteensä kuusi ja ne muodostavat yhdessä tiiviin ryhmän, jossa geometriset muodot ovat päällekkäin ryhmän keskellä luoden pienempiä geometrisia muotoja päällekkäisten muotoja leikkauspisteiden kohdalla. Ihmisjoukon keskellä on myös kaksi epäkkään muotoa sekä yksi soikio. Teksti SUOMI kulkee pystysuunnassa alaspäin rahan vasemmalla puolella. Teksti FINLAND kulkee vaakasuoraan rahan alemmalla puoliskolla. Arvomerkintä 100 € on rahan keskellä alhaalla. Liettuan rahapajan tunnus on rahan keskilinjalla vasemmalla puolella.
+
+![](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2023/967/fin@/media/8143.gif)
+
+## 7 §
+
+Tämä asetus tulee voimaan 12. päivänä lokakuuta 2023.

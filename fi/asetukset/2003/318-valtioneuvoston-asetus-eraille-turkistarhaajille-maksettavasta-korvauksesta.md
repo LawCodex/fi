@@ -1,0 +1,63 @@
+---
+title: "Valtioneuvoston asetus eräille turkistarhaajille maksettavasta korvauksesta"
+identifier: "318/2003"
+eli: "http://data.finlex.fi/eli/sd/2003/318/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2003-04-16
+entry_into_force: 2003-04-23
+last_amended: 2003-04-16
+status: in_force
+administrative_branch: "Maa- ja metsätalousministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2003/318"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2003/318/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus eräille turkistarhaajille maksettavasta korvauksesta
+
+*318/2003*
+
+Valtioneuvoston päätöksen mukaisesti, joka on tehty maa- ja metsätalousministeriön esittelystä, säädetään 27 päivänä heinäkuuta 2001 annetun valtionavustuslain (688/2001) 8 §:n nojalla:
+
+## 1 § Soveltamisala
+
+Tätä asetusta sovelletaan valtion vuoden 2003 talousarvion momentissa 30.01.49 tarkoitettuihin kuolleista turkiseläimistä turkistarhaajille aiheutuneiden menetysten korvauksena myönnettäviin valtionavustuksiin, jäljempänä *korvaus*.
+
+## 2 § Korvauksen saajat
+
+Korvausta voidaan myöntää sellaisille turkiseläinten tarhausta vuonna 2002 harjoittaneille yksityisille henkilöille, yksityisten henkilöiden yhteenliittymille ja yhteisöille, jotka ovat kärsineet Ab Terjärv Frys Oy:n 4 ja 5 päivänä lokakuuta 2002 toimittaman saastuneen rehun aiheuttaman turkiseläinten lopettamisen vuoksi taloudellisia menetyksiä.
+
+## 3 § Korvauksen suuruus
+
+Korvausta myönnetään talousarvioon myönnetyn määrärahan puitteissa lopetetuista eläimistä enintään 68,50 euroa lopetettua sinikettua kohti ja enintään 21,50 euroa lopetettua minkkiä kohti. Jos hyväksyttävien hakemusten perusteella laskettava korvaus on mainittua määrää suurempi, korvausta alennetaan.
+
+Jos korvauksen hakijalle tämän asetuksen perusteella ja muuten maksetun tai maksettavan korvauksen yhteismäärä olisi suurempi kuin 92,95 euroa lopetettua sinikettua kohti tai 28,83 euroa lopetettua minkkiä kohti, tässä asetuksessa säädettyä korvausta ei ylittävältä osalta makseta. Muuten maksetun tai maksettavan korvauksen katsotaan sisältävän kaikki 2 §:ssä tarkoitetusta vahinkotapahtumasta aiheutuneiden välittömien ja välillisten vahinkojen perusteella maksettavat korvaukset niiden korvausperusteesta riippumatta.
+
+## 4 § Korvauksen myöntämisen edellytykset
+
+Korvauksen myöntämisen edellytyksenä on, että:
+
+- 1\) korvaushakemuksen liitteenä toimitetaan korvauksen myöntämisen edellytysten olemassaolon toteamiseksi tarvittavat asiakirjat;
+- 2\) määräys korvaushakemuksen perusteena olevien turkiseläinten lopettamiseksi on seurannut Ab Terjärv Frys Oy:n 4 ja 5 päivänä lokakuuta 2002 toimittaman *Clostridium botulinum* -bakteerin saastuttaman rehun aiheuttamasta botulismista;
+- 3\) korvaushakemuksen perusteena olevien minkkien ehkäisevistä rokotuksista on huolehdittu;
+- 4\) hoitava eläinlääkäri on määrännyt korvaushakemuksen perusteena olevat turkiseläimet lopetettaviksi eläinsuojeluasetuksen (396/1996) 11 §:n perusteella;
+- 5\) korvauksen hakija sitoutuu korvaushakemuksessaan palauttamaan muun korvauksen myöntämisen vuoksi 3 §:n 2 momentissa säädetyn määrän ylittävän määrän; sekä
+- 6\) korvauksen hakija antaa korvaushakemuksessaan suostumuksensa siihen, että tukea valvovalla viranomaisella on oikeus korvaushakemuksen ratkaisemista, korvauksen maksamista, valvontaa ja seurantaa varten saada hakijaa ja hänen hakemustaan koskevat tarpeelliset tiedot myös yksityisiltä henkilöiltä, yksityisten henkilöiden yhteenliittymiltä, yrityksiltä ja yhteisöiltä.
+
+## 5 § Korvauksen hakeminen
+
+Tässä asetuksessa tarkoitettua korvausta on haettava Pohjanmaan työvoima- ja elinkeinokeskukselta viimeistään 30 päivänä toukokuuta 2003.
+
+Korvaushakemus on tehtävä maa- ja metsätalousministeriön lomakkeella numero 180\_02.
+
+## 6 § Ilmoitusvelvollisuus
+
+Korvauksen saaja on velvollinen kirjallisesti ilmoittamaan samasta vahinkotapahtumasta hakemuksen jättämisen jälkeen hakemistaan ja saamistaan muista korvauksista Pohjanmaan työvoima- ja elinkeinokeskukselle.
+
+## 7 § Voimaantulo
+
+Tämä asetus tulee voimaan 23 päivänä huhtikuuta 2003.
+
+Ennen asetuksen voimaantuloa voidaan ryhtyä asetuksen täytäntöönpanon edellyttämiin toimenpiteisiin.

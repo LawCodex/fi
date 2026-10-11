@@ -1,0 +1,136 @@
+---
+title: "Ulkoministeriön asetus Euroopan unionin tilapäisen matkustusasiakirjan yhtenäisestä mallista"
+identifier: "584/2024"
+eli: "http://data.finlex.fi/eli/sd/2024/584/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2024-11-01
+entry_into_force: 2025-12-08
+last_amended: 2024-11-15
+status: in_force
+administrative_branch: "Ulkoministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2024/584"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2024/584/fin@20240636"
+retrieved: 2026-10-11
+---
+
+# Ulkoministeriön asetus Euroopan unionin tilapäisen matkustusasiakirjan yhtenäisestä mallista
+
+*584/2024*
+
+Ulkoministeriön päätöksen mukaisesti säädetään Euroopan unionin tilapäisestä matkustusasiakirjasta annetun lain (2/2024) 11 §:n 3 momentin nojalla:
+
+## 1 § EU:n tilapäisen matkustusasiakirjan yhtenäinen lomake
+
+EU:n tilapäisen matkustusasiakirjan yhtenäisen lomakkeen on oltava liitteen 1 mukaisten teknisten eritelmien mukainen.
+
+## 2 § EU:n tilapäisen matkustusasiakirjan yhtenäinen tarra
+
+EU:n tilapäisen matkustusasiakirjan yhtenäisen tarran on oltava liitteen 2 mukaisten teknisten eritelmien mukainen.
+
+## Voimaantulo ja soveltaminen
+
+Tämä asetus tulee voimaan 8 päivänä joulukuuta 2025.
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+Neuvoston direktiivi (EU) 2019/997, (32019L0997); EUVL L 163, 20.6.2019, s.1
+
+## Liite 1
+
+EU:N TILAPÄISEN MATKUSTUSASIAKIRJAN YHTENÄINEN LOMAKE
+
+EU:n tilapäisen matkustusasiakirjan yhtenäisen lomakkeen on oltava seuraavien eritelmien mukainen:
+
+1\. Malli ja koko
+
+EU:n tilapäisen matkustusasiakirjan yhtenäisen lomakkeen on oltava malliltaan kolmitaitteinen (yksi molemmin puolin painettu arkki, joka taitetaan kolmeen osaan). Taitettuna lomakkeen on oltava kooltaan ISO/IEC 7810 ID-3 -standardin mukainen.
+
+2\. Sivu yksi: Etusivu
+
+EU:n tilapäisen matkustusasiakirjan yhtenäisen lomakkeen etusivulla on oltava, tässä järjestyksessä, ilmaus
+
+”EUROOPAN UNIONI” kaikilla unionin virallisilla kielillä sekä tekstit ”EMERGENCY TRAVEL DOCUMENT” ja ”TITRE DE VOYAGE PROVISOIRE”. Siinä on oltava myös 12 kultaisen tähden muodostama ympyrä.
+
+3\. Sivu kaksi: EU:n tilapäisen matkustusasiakirjan yhtenäisen tarran kiinnittäminen
+
+EU:n tilapäisen matkustusasiakirjan yhtenäinen tarra on kiinnitettävä lujasti EU:n tilapäisen matkustusasiakirjan yhtenäisen lomakkeen toiselle sivulle siten, että sitä ei voi poistaa helposti. EU:n tilapäisen matkustusasiakirjan yhtenäinen tarra on kiinnitettävä sivun reunaan, reunan suuntaisesti. EU:n tilapäisen matkustusasiakirjan yhtenäisen tarran koneluettava alue on sijoitettava sivun ulkoreunan suuntaisesti.
+
+Asiakirjan myöntävien viranomaisten leima on sijoitettava EU:n tilapäisen matkustusasiakirjan yhtenäiseen tarraan siten, että se ulottuu sivulle.
+
+4\. Sivut kolme ja neljä: Tiedot
+
+Kolmannella ja neljännellä sivulla on oltava ilmauksen ”Emergency Travel Document” ja EU:n tilapäisen matkustusasiakirjan yhtenäisen tarran otsikoiden käännökset kaikilla unionin virallisilla kielillä englantia ja ranskaa lukuun ottamatta. Lisäksi niillä on oltava seuraava teksti:
+
+”This EU Emergency Travel Document is a travel document issued by a Member State of the European Union for a single journey to the holder's Member State of nationality or residence or, exceptionally, to another destination. Authorities of non-EU countries are hereby requested to allow the holder to pass freely without hindrance.
+
+Le présent titre de voyage provisoire de l'UE est un titre de voyage délivré par un État membre de l'Union européenne aux fins d'un trajet unique vers l'État membre de nationalité ou de résidence du détenteur, ou, à titre exceptionnel, vers une autre destination. Les autorités des pays tiers sont priées d'autoriser le détenteur du titre de voyage provisoire à circuler sans entraves.”
+
+5\. Sivut viisi ja kuusi: Viisumit sekä maahantulo- ja maastalähtöleimat
+
+Viidennellä ja kuudennella sivulla on oltava otsikko ”VISA/VISA” ja sivut on jätettävä muutoin tyhjiksi. Nämä sivut on varattu viisumeille sekä maahantulo- ja maastalähtöleimoille.
+
+6\. EU:n tilapäisen matkustusasiakirjan yhtenäisen lomakkeen numero
+
+Seitsemännumeroinen numero on painettava valmiiksi EU:n tilapäisen matkustusasiakirjan yhtenäiseen lomakkeeseen.
+
+## Liite 2 (15.11.2024/636)
+
+EU:N TILAPÄISEN MATKUSTUSASIAKIRJAN YHTENÄINEN TARRA
+
+EU:n tilapäisen matkustusasiakirjan yhtenäisen tarran on oltava seuraavien eritelmien mukainen:
+
+EU:n tilapäisen matkustusasiakirjan yhtenäisen tarran ominaisuudet
+
+1\. EU:n tilapäisen matkustusasiakirjan yhtenäisessä tarrassa on oltava korkeiden turvallisuusvaatimusten mukaisesti painettu haltijan kasvokuva, paitsi jos käytetään valokuvaa 8 artiklan 5 kohdan mukaisesti. Kasvokuvan tai valokuvan on oltava 4 artiklan 2 kohdan mukaisissa tarkoituksissa käytetty kuva.
+
+2\. EU:n tilapäisen matkustusasiakirjan yhtenäisessä tarrassa on oltava turvatekijät, joilla varmistetaan riittävä suoja väärentämistä vastaan ottaen erityisesti huomioon yhtenäisessä viisumin kaavassa käytetyt turvatekijät.
+
+3\. Samoja turvatekijöitä on käytettävä kaikkien jäsenvaltioiden osalta.
+
+4\. EU:n tilapäisen matkustusasiakirjan yhtenäisessä tarrassa on oltava
+
+a) lyhenne ”EU ETD/TVP UE”;
+
+b) teksti ”European Union/Union européenne”;
+
+c) ICAOn asiakirjassa 9303 vahvistettu kolmikirjaiminen tunnus ”EUE”.
+
+5\. EU:n tilapäisen matkustusasiakirjan yhtenäisessä tarrassa on oltava vaakasuunnassa seitsemännumeroinen EU:n tilapäisen matkustusasiakirjan yhtenäisen tarran numero, joka on valmiiksi painettu mustalla. On käytettävä erikoiskirjasinlajia. Tämän numeron edellä on oltava ICAOn asiakirjassa 9303 vahvistettu asiakirjan myöntävän jäsenvaltion kaksikirjaiminen maatunnus, joka voi olla valmiiksi painettu tai joka voidaan lisätä EU:n tilapäisen matkustusasiakirjan yhtenäistä tarraa täytettäessä. Sama seitsemännumeroinen numero voidaan turvallisuussyistä painaa valmiiksi useita kertoja EU:n tilapäisen matkustusasiakirjan yhtenäiseen tarraan.
+
+Täytettävät kentät
+
+6\. EU:n tilapäisen matkustusasiakirjan yhtenäisessä tarrassa on oltava kentät seuraavia tietoja varten:
+
+a) määränpäänä oleva maa ja mahdollinen kauttakulkumaa, joihin matkustamista varten EU:n tilapäinen matkustusasiakirja myönnetään;
+
+b) myöntävä jäsenvaltio ja myöntävän viranomaisen sijaintipaikka;
+
+c) myöntämispäivä ja voimassaolon päättymispäivä;
+
+d) EU:n tilapäisen matkustusasiakirjan saajan sukunimi ja etunimi tai etunimet, kansalaisuus, syntymäaika ja sukupuoli;
+
+e) sen EU:n tilapäisen matkustusasiakirjan yhtenäisen lomakkeen numero, johon EU:n tilapäisen matkustusasiakirjan yhtenäinen tarra kiinnitetään liitteessä I olevan 6 kohdan mukaisesti.
+
+7\. Täytettävien kenttien otsikoiden on oltava englanniksi ja ranskaksi, ja ne on numeroitava.
+
+8\. Päivämäärät on merkittävä seuraavasti: päivä kahdella numerolla, joista ensimmäinen on nolla päivien 1–9 osalta; kuukausi kahdella numerolla, joista ensimmäinen on nolla kuukausien 1–9 osalta; vuosi neljällä numerolla. Päivän ja kuukauden jälkeen on lisättävä välilyönti. Esimerkki: 20 01 2018 = 20. tammikuuta 2018.
+
+9\. EU:n tilapäisen matkustusasiakirjan yhtenäisessä tarrassa on oltava ”Huomautuksia”-kenttä, jota myöntävän viranomaisen on käytettävä tarvittavien lisätietojen, esimerkiksi korvattavan asiakirjan tyypin ja numeron ilmoittamiseen.
+
+Koneluettavat tiedot
+
+10\. EU:n tilapäisen matkustusasiakirjan yhtenäisen tarran on sisällettävä ICAOn asiakirjan 9303 mukaiset asiaankuuluvat koneluettavat tiedot ulkorajoilla tapahtuvien tarkastusten helpottamiseksi. Koneluettavan alueen ensimmäisinä merkkeinä on käytettävä suuraakkosia ”PU”, jotka osoittavat, että kyseessä on EU:n tilapäinen matkustusasiakirja. Koneluettavan alueen näkyvässä taustapainatuksessa on oltava painettuna teksti ”Euroopan unioni” kaikilla unionin virallisilla kielillä. Teksti ei saa vaikuttaa koneluettavan alueen teknisiin ominaisuuksiin tai sen luettavuuteen.
+
+11\. Yhteisen kaksiulotteisen viivakoodin mahdollista lisäämistä varten on varattava tilaa.
+
+## Muutossäädösten voimaantulo ja soveltaminen
+
+### 15.11.2024/636:
+
+Tämä asetus tulee voimaan 8 päivänä joulukuuta 2025.
+
+Neuvoston direktiivi (EU) 2019/997, (32019L0997); EUVL L 163, 20.6.2019, s.1, Komission delegoitu direktiivi (EU) 2024/1986, neuvoston direktiivin (EU) 2019/997 muuttamisesta EU:n tilapäisen matkustusasiakirjan koneluettavan alueen osalta (32024L1986); EUVL L, 2024/1986, 16.7.2024

@@ -1,0 +1,106 @@
+---
+title: "Valtioneuvoston asetus pohjaveden suojeluun myönnettävästä valtionavustuksesta"
+identifier: "881/2025"
+eli: "http://data.finlex.fi/eli/sd/2025/881/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2025-09-11
+entry_into_force: 2026-01-01
+last_amended: 2025-09-11
+status: in_force
+administrative_branch: "Ympäristöministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2025/881"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2025/881/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus pohjaveden suojeluun myönnettävästä valtionavustuksesta
+
+*881/2025*
+
+Valtioneuvoston päätöksen mukaisesti säädetään valtionavustuslain (688/2001) 8 §:n nojalla:
+
+## 1 § Soveltamisala ja tavoite
+
+Tässä asetuksessa säädetään valtion varoista myönnettävästä valtionavustuslain (688/2001) 5 §:n 3 momentin mukaisesta valtionavustuksesta pohjaveden suojelua edistäviin selvityksiin, hankkeisiin ja investointeihin.
+
+Asetuksen tavoitteena on edistää pohjaveden hyvän tilan saavuttamista ja ylläpitämistä sekä vähentää pohjavedelle ihmistoiminnasta aiheutuvaa haittaa tai sen vaaraa.
+
+## 2 § Valtiontukena myönnettävän avustuksen oikeusperusta
+
+Taloudelliseen toimintaan myönnettävästä avustuksesta säädetään tämän asetuksen lisäksi Euroopan unionin toiminnasta tehdyn sopimuksen 107 ja 108 artiklan soveltamisesta vähämerkityksiseen tukeen annetussa komission asetuksessa (EU) N:o 2023/2831.
+
+> 2 § on voimassa 1.1.2026–31.12.2030.
+
+## 3 § Valtionapuviranomainen
+
+Valtionapuviranomaisena tämän asetuksen nojalla myönnettävässä avustuksessa toimii elinvoimakeskus.
+
+## 4 § Avustettavat hankkeet
+
+Valtionavustusta voidaan myöntää:
+
+- 1\) vesienhoidon ja merenhoidon järjestämisestä annetun lain (1299/2004) 10 e §:ssä tarkoitetun pohjavesialueen suojelusuunnitelman laatimiseen tai päivittämiseen;
+- 2\) muuhun kuin 1 kohdassa tarkoitettuun selvitykseen, jolla lisätään tietoa pohjavesien suojelun edistämiseksi;
+- 3\) hankkeeseen ja investointiin, jolla parannetaan tai ylläpidetään pohjavesien tilaa; tai
+- 4\) hankkeeseen ja investointiin, jolla edistetään pohjaveden riskinhallintaa.
+
+## 5 § Avustuksen hakeminen
+
+Avustusta haetaan kirjallisesti ennen selvityksen laatimisen aloittamista taikka hankkeen tai investoinnin aloittamista.
+
+## 6 § Harkinta
+
+Avustuksen myöntäminen perustuu kokonaisharkintaan sekä arviointiin hankkeen tai selvityksen kustannustehokkuudesta, laadusta ja toteuttamiskelpoisuudesta. Arvioinnissa huomioidaan erityisesti hankkeen, selvityksen tai investoinnin odotettu vaikuttavuus pohjaveden hyvän tilan saavuttamiseksi ja ylläpitämiseksi tai pohjavedelle ihmistoiminnasta aiheutuvan haitan tai sen vaaran vähentämiseksi.
+
+Harkinnassa otetaan huomioon lisäksi se, minkälaisia pohjaveden suojelutoimia vesienhoidon ja merenhoidon järjestämisviranomainen on esittänyt vesienhoidon toimenpideohjelmassa kyseiselle pohjavesialueelle sekä se, onko pohjaveden tila alueella muutoin uhattuna ihmistoiminnan vuoksi.
+
+## 7 § Avustuksen myöntämisen rajoitukset
+
+Avustusta ei saa myöntää eikä myönnettyä avustusta maksaa, jos hakija ei ole noudattanut eräiden valtion tukea koskevien Euroopan unionin säännösten soveltamisesta annetun lain (300/2001) 1 §:ssä tarkoitettua tuen takaisinperintäpäätöstä.
+
+Avustusta taloudelliseen toimintaan ei myönnetä, jos hanke, selvitys tai investointi on aloitettu jo ennen avustuksen hakemista.
+
+## 8 § Avustuksen enimmäismäärä
+
+Myönnettävän avustuksen osuus hyväksyttävistä kustannuksista voi olla enintään 80 prosenttia, jos kyse on ei-taloudelliseen toimintaan myönnettävästä avustuksesta. Taloudelliseen toimintaan myönnettävän avustuksen osuus hyväksyttävistä kustannuksista voi olla enintään 55 prosenttia.
+
+> Pykälän (881/2025) sanamuotoa on oikaistu.
+
+## 9 § Selvityksen ja hankkeen hyväksyttävät kustannukset
+
+Avustusta voidaan myöntää seuraaviin suojelusuunnitelman tai selvityksen taikka hankkeen välttämättömiin ja kohtuullisiin kustannuksiin:
+
+- 1\) henkilöstökustannukset;
+- 2\) matkakustannukset;
+- 3\) toteuttamisen välittömät hankintakustannukset;
+- 4\) vaikutusten seurannan kustannukset; sekä
+- 5\) muut kuin 1–4 kohdassa tarkoitetut hankkeen toteuttamisen kustannukset.
+
+## 10 § Kohtuulliset investointikustannukset
+
+Avustusta voidaan myöntää laitteiden, koneiden ja rakenteiden hankinnasta ja asennuksesta aiheutuviin kohtuullisiin kustannuksiin sekä muihin kohtuullisiin investointikustannuksiin.
+
+Avustuksen myöntämisen edellytyksenä on, että:
+
+- 1\) avustettava hanke johtaa tehokkaampaan pohjaveden tilan parantamiseen tai tilan ylläpitämiseen; tai
+- 2\) avustettavalla hankkeella edistetään tehokkaammin pohjaveden riskinhallintaa, kuin toimilla, jotka toteutettaisiin ilman kyseistä avustusta.
+
+Hyväksyttäviä kustannuksia eivät ole:
+
+- 1\) palkat;
+- 2\) yleiskustannukset;
+- 3\) edustusmenot;
+- 4\) korot ja muut rahoituskustannukset;
+- 5\) valtion maksuperustelakiin (150/1992) ja eritysmaksulainsäädäntöön perustuvat maksut;
+- 6\) kustannusvaraukset;
+- 7\) avustukseen oikeutetun yrityksen maksamat tai korvaamat matkakustannukset;
+- 8\) avustukseen oikeutetun yrityksen osana tavaroiden tai palvelujen hankintahintaa maksamat arvonlisäverot;
+- 9\) sakot ja sanktiomaksut sekä niiden luonteiset muut vastaavat maksut.
+
+## 11 § Voimaantulo
+
+Tämä asetus tulee voimaan 1.1.2026.
+
+Asetuksen 2 § on voimassa vuoden 2030 loppuun.

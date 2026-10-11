@@ -1,0 +1,48 @@
+---
+title: "Valtioneuvoston asetus Metsähallituksen lainanoton rajoista ja ehdoista"
+identifier: "248/2016"
+eli: "http://data.finlex.fi/eli/sd/2016/248/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2016-04-08
+entry_into_force: 2016-04-15
+last_amended: 2016-04-08
+status: in_force
+administrative_branch: "Maa- ja metsätalousministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2016/248"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2016/248/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus Metsähallituksen lainanoton rajoista ja ehdoista
+
+*248/2016*
+
+Valtioneuvoston päätöksen mukaisesti säädetään Metsähallituksesta annetun lain (234/2016) 27 §:n 4 momentin ja 41 §:n nojalla:
+
+## 1 §
+
+Metsähallitus saa ottaa lainaa seuraavin ehdoin ja rajoituksin:
+
+- 1\) lyhytaikaista lainaa saa yleensä käyttää vain maksuvalmiuden hoitoon;
+- 2\) ilman erityistä syytä lyhytaikaisella lainalla ei tule rahoittaa sellaisen käyttöomaisuuden hankkimista, jonka taloudellinen käyttöaika on vähintään kolme vuotta, tai muita tähän verrattavia pitkävaikutteisia menoja;
+- 3\) pitkäaikaista lainaa saa ottaa vain investointeja ja muita pitkävaikutteisia menoja varten sekä käyttöpääoman pysyvän lisätarpeen rahoittamiseksi;
+- 4\) ulkomaanrahan määräistä lainaa saa ottaa vain valtiovarainministeriön suostumuksella;
+- 5\) lainaa ei saa ottaa suoraan yleisöltä joukkovelkakirjoilla.
+
+## 2 §
+
+Metsähallituksen ottamista pitkäaikaisista lainoista ja sen antamista pitkäaikaisista takauksista peritään valtiolle takausmaksu valtiontakauksesta perittävistä maksuista annetun valtioneuvoston asetuksen (20/2003) mukaisesti.
+
+## 3 §
+
+Metsähallituksen tulee toimittaa lainanotostaan ja veloistaan sekä myöntämistään takauksista Valtiokonttorille sen tarvitsemat tiedot.
+
+## 4 §
+
+Valtion liikelaitosten lainanoton rajoista ja ehdoista annetun valtioneuvoston asetuksen (21/2003) soveltaminen Metsähallitukseen päättyy 15 päivänä huhtikuuta 2016.
+
+## 5 §
+
+Tämä asetus tulee voimaan 15 päivänä huhtikuuta 2016.

@@ -1,0 +1,51 @@
+---
+title: "Valtioneuvoston asetus kiinteistötietojärjestelmän neuvottelukunnasta"
+identifier: "963/2002"
+eli: "http://data.finlex.fi/eli/sd/2002/963/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2002-11-21
+entry_into_force: 2003-01-01
+last_amended: 2002-11-21
+status: in_force
+administrative_branch: "Maa- ja metsätalousministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2002/963"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2002/963/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus kiinteistötietojärjestelmän neuvottelukunnasta
+
+*963/2002*
+
+Valtioneuvoston päätöksen mukaisesti, joka on tehty maa- ja metsätalousministeriön esittelystä, säädetään kiinteistötietojärjestelmästä ja siitä tuotettavasta tietopalvelusta 31 päivänä toukokuuta 2002 annetun lain (453/2002) 12 §:n nojalla:
+
+## 1 § Neuvottelukunta
+
+Kiinteistötietojärjestelmän toteuttamista, ylläpitoa ja tietopalvelua ohjaava kiinteistötietojärjestelmän neuvottelukunta toimii maa- ja metsätalousministeriön yhteydessä.
+
+Jollei tässä asetuksessa säädetä toisin, neuvottelukunnasta on voimassa, mitä komiteoista annetussa valtioneuvoston päätöksessä (218/1988) säädetään.
+
+## 2 § Kokoonpano
+
+Neuvottelukuntaan kuuluvat jäseninä edustaja oikeusministeriöstä, maa- ja metsätalousministeriöstä, Suomen Kuntaliitosta, Maanmittauslaitoksesta ja kiinteistörekisterin pitäjänä toimivasta kunnasta.
+
+Tarvittaessa neuvottelukuntaan voidaan 1 momentissa tarkoitettujen jäsenten lisäksi nimetä enintään neljä muuta jäsentä, jotka edustavat tiedon tuottajia tai käyttäjiä.
+
+Maa- ja metsätalousministeriö asettaa neuvottelukunnan kolmeksi vuodeksi kerrallaan ja määrää yhden 1 momentissa tarkoitetuista jäsenistä neuvottelukunnan puheenjohtajaksi.
+
+## 3 § Tehtävät
+
+Neuvottelukunnan tehtävänä on:
+
+- 1\) toimia kiinteistötietojärjestelmän ylläpitäjän ja tiedon tuottajien välisenä yhteistyöelimenä;
+- 2\) tehdä esityksiä kiinteistötietojärjestelmän kehittämiseksi ja kehittämisperiaatteiksi;
+- 3\) tehdä esityksiä maa- ja metsätalousministeriölle kiinteistötietojärjestelmästä ja siitä tuotettavasta tietopalvelusta annetun lain (453/2002) 5 §:n 2 ja 3 momentissa tarkoitettujen tulojen jakamiseksi sekä 7 §:n 2 momentissa tarkoitettujen maksujen suuruudeksi;
+- 4\) seurata ja edistää kiinteistötietojärjestelmän tietojen yhteensovittamista ja järjestelmän käyttöä.
+
+## 4 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2003.
+
+Ennen asetuksen voimaantuloa voidaan ryhtyä asetuksen täytäntöönpanon edellyttämiin toimenpiteisiin.

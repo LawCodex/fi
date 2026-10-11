@@ -1,0 +1,52 @@
+---
+title: "Maa- ja metsätalousministeriön asetus metsähanhen metsästyksen kieltämisestä metsästysvuonna 2026–2027"
+identifier: "742/2026"
+eli: "http://data.finlex.fi/eli/sd/2026/742/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2026-07-15
+entry_into_force: 2026-08-20
+last_amended: 2026-07-15
+status: in_force
+administrative_branch: "Maa- ja metsätalousministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2026/742"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2026/742/fin@"
+retrieved: 2026-10-11
+---
+
+# Maa- ja metsätalousministeriön asetus metsähanhen metsästyksen kieltämisestä metsästysvuonna 2026–2027
+
+*742/2026*
+
+Maa- ja metsätalousministeriön päätöksen mukaisesti säädetään metsästyslain (615/1993) 38 §:n 4 momentin nojalla, sellaisena kuin se on laissa 504/2017:
+
+## 1 § Metsähanhen metsästys
+
+Sen lisäksi, mitä metsästysasetuksen (666/1993) 24 §:n 1 momentin 16 kohdassa säädetään, metsähanhen metsästys on kielletty Kainuun, Lapin ja Pohjois-Pohjanmaan maakunnissa, Pohjois-Karjalan maakuntaan kuuluvissa Juuan, Lieksan ja Nurmeksen kunnissa sekä Pohjois-Savon maakuntaan kuuluvissa Rautavaaran ja Sonkajärven kunnissa:
+
+- 1\) elokuun 28 päivästä joulukuun 31 päivään;
+- 2\) elokuun 20 päivän kello 12.00:sta elokuun 27 päivään pellolla;
+- 3\) elokuun 20 päivän kello 12.00:sta elokuun 27 päivään Enontekiön, Inarin ja Utsjoen kunnissa sekä valtatien E8 merenpuoleisella alueella lukuun ottamatta seututien 813 ja valtatien E8 välistä aluetta.
+
+Sen lisäksi mitä 1 momentissa säädetään, metsähanhen metsästys on kielletty Pohjois-Karjalan maakuntaan kuuluvassa Ilomantsin kunnassa:
+
+- 1\) elokuun 20 päivän klo 12.00:sta elokuun 27 päivään pellolla;
+- 2\) elokuun 28 päivästä syyskuun 30 päivään;
+- 3\) joulukuun 1 päivästä joulukuun 31 päivään.
+
+Sen lisäksi mitä 1 ja 2 momentissa säädetään, metsähanhen metsästys on kielletty elokuun 20 päivän kello 12.00:sta syyskuun 30 päivään ja joulukuun 1 päivästä joulukuun 31 päivään Etelä-Karjalan ja Kymenlaakson maakunnissa, Etelä-Savon maakuntaan kuuluvissa Enonkosken, Hirvensalmen, Juvan, Mikkelin, Mäntyharjun, Puumalan, Rantasalmen, Savonlinnan ja Sulkavan kunnissa, Pohjois-Karjalan maakuntaan kuuluvissa Heinäveden, Joensuun, Kiteen, Kontiolahden, Liperin, Rääkkylän ja Tohmajärven kunnissa, Pohjois-Savon maakuntaan kuuluvissa Joroisten ja Varkauden kunnissa, Päijät-Hämeen maakuntaan kuuluvissa Iitin ja Orimattilan kunnissa sekä Uudenmaan maakuntaan kuuluvissa Askolan, Lapinjärven, Loviisan, Myrskylän, Porvoon ja Pukkilan kunnissa.
+
+Sen lisäksi, mitä 1–3 momentissa säädetään, metsähanhen metsästys on kielletty muualla maassa elokuun 20 päivän kello 12.00:sta joulukuun 31 päivään.
+
+## 2 § Metsästäjäkohtainen saaliskiintiö
+
+Edellä 1 §:n 1 ja 2 momentissa tarkoitetulla alueella metsähanhen metsästyksen metsästäjäkohtainen saaliskiintiö on enintään yksi metsähanhi elokuun 20 päivän kello 12.00:sta elokuun 27 päivään.
+
+## 3 § Kielletty pyyntimenetelmä
+
+Edellä 1 §:n 1 ja 2 momentissa tarkoitetulla alueella ravintohoukuttimen käyttö metsähanhen metsästyksessä on kielletty elokuun 20 päivän kello 12.00:sta elokuun 27 päivään.
+
+## 4 § Voimaantulo
+
+Tämä asetus tulee voimaan 20 päivänä elokuuta 2026 ja se on voimassa 31 päivään heinäkuuta 2027.

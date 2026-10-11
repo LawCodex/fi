@@ -1,0 +1,44 @@
+---
+title: "Valtioneuvoston asetus nimetylle katsastajalle ja aluksenmittaajalle sekä nimetylle tarkastajalle maksettavien palkkioiden suuruudesta"
+identifier: "799/2022"
+eli: "http://data.finlex.fi/eli/sd/2022/799/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2022-09-01
+entry_into_force: 2022-09-05
+last_amended: 2022-09-01
+status: in_force
+administrative_branch: "Liikenne- ja viestintäministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2022/799"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2022/799/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus nimetylle katsastajalle ja aluksenmittaajalle sekä nimetylle tarkastajalle maksettavien palkkioiden suuruudesta
+
+*799/2022*
+
+Valtioneuvoston päätöksen mukaisesti säädetään aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain (1686/2009) 85 §:n 3 momentin ja merenkulun ympäristönsuojelulain (1672/2009) 13 luvun 1 §:n 2 momentin nojalla:
+
+## 1 § Soveltamisala
+
+Tässä asetuksessa säädetään aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain (1686/2009) 85 §:ssä tarkoitetun nimetyn katsastajan ja aluksenmittaajan sekä merenkulun ympäristönsuojelulain (1672/2009) 13 luvun 1 §:ssä tarkoitetun nimetyn tarkastajan palkkion suuruudesta.
+
+## 2 § Nimetyn katsastajan palkkio aluksen katsastuksesta
+
+Aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetun lain 48 ja 49 §:ssä tarkoitetusta katsastuksesta maksetaan tuntiperusteinen palkkio, joka on arkipäivinä kello 06–18 välisenä aikana suoritettavasta työstä suuruudeltaan enintään 380 euroa tunnilta. Muina aikoina ja pyhäpäivinä tuntiperusteisen palkkion suuruus on enintään 550 euroa tunnilta. Tuntiveloitus on katsastajakohtainen.
+
+## 3 § Nimetyn aluksenmittaajan palkkio
+
+Aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetussa laissa tarkoitetusta aluksenmittauksesta maksetaan tuntiperusteinen palkkio, joka on arkipäivinä kello 06–18 välisenä aikana suoritettavasta työstä suuruudeltaan enintään 380 euroa tunnilta. Muina aikoina ja pyhäpäivinä tuntiperusteisen palkkion suuruus on enintään 550 euroa tunnilta. Tuntiveloitus on mittaajakohtainen.
+
+## 4 § Nimetyn tarkastajan palkkio kemikaalisäiliöaluksen tarkastuksesta
+
+Merenkulun ympäristönsuojelulain 4 luvun 9 §:n 2 momentin mukaisesta tarkastuksesta maksetaan tuntiperusteinen palkkio, joka on arkipäivinä kello 06–18 välisenä aikana suoritettavasta työstä suuruudeltaan enintään 380 euroa tunnilta. Muina aikoina ja pyhäpäivinä tuntiperusteisen palkkion suuruus on enintään 550 euroa tunnilta. Tuntiveloitus on tarkastajakohtainen.
+
+## 5 § Voimaantulo
+
+Tämä asetus tulee voimaan 5 päivänä syyskuuta 2022.
+
+Tällä asetuksella kumotaan valtioneuvoston asetus nimetylle katsastajalle ja aluksenmittaajalle sekä nimetylle tarkastajalle maksettavien palkkioiden suuruudesta (143/2013).

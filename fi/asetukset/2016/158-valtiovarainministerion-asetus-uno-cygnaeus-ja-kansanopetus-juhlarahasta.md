@@ -1,0 +1,68 @@
+---
+title: "Valtiovarainministeriön asetus Uno Cygnaeus ja kansanopetus -juhlarahasta"
+identifier: "158/2016"
+eli: "http://data.finlex.fi/eli/sd/2016/158/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2016-03-03
+entry_into_force: 2016-03-07
+last_amended: 2016-03-03
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2016/158"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2016/158/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtiovarainministeriön asetus Uno Cygnaeus ja kansanopetus -juhlarahasta
+
+*158/2016*
+
+Valtiovarainministeriön päätöksen mukaisesti säädetään metallirahasta annetun lain (216/1998) 1 §:n 2 momentin nojalla, sellaisena kuin se on laissa 378/2002:
+
+## 1 §
+
+Vuonna 2016 julkaistaan Uno Cygnaeus ja kansanopetus -aiheiset 20 euron ja 10 euron hopeiset juhlarahat.
+
+## 2 §
+
+Nimellisarvoltaan 20 euron juhlaraha on hopeaseosta, jonka painosta 925 promillea on hopeaa ja 75 promillea kuparia. Pitoisuudet saavat vaihdella enintään ± 10 promilleyksikköä.
+
+Nimellisarvoltaan 10 euron juhlaraha on hopeaseosta, jonka painosta 500 promillea on hopeaa ja 500 promillea kuparia. Pitoisuudet saavat vaihdella enintään ± 10 promilleyksikköä.
+
+## 3 §
+
+Nimellisarvoltaan 20 euron juhlarahan halkaisija on 38,6 ± 0,1 millimetriä ja paino 25,5 ± 0,5 grammaa.
+
+Nimellisarvoltaan 10 euron juhlarahan halkaisija on 28,5 ± 0,1 millimetriä ja paino 10 ± 0,15 grammaa.
+
+Enintään 5 prosenttia rahoista saa poiketa halkaisijastaan enemmän kuin ± 0,1 millimetriä. Rahoissa on kulutusreuna.
+
+## 4 §
+
+Juhlarahat lyödään erikoislyöntinä, jolloin rahoissa on osin mattapintainen ja osin peilikiiltoinen pohja. Kuviot ovat mattapintaisella pohjalla peilikiiltoisia ja peilikiiltoisella pohjalla mattapintaisia.
+
+Nimellisarvoltaan sekä 20 euron että 10 euron juhlarahoista voidaan kummastakin numeroida 200 ensimmäistä kappaletta.
+
+## 5 §
+
+Juhlarahojen kuvat ja kirjoitukset laakapinnoilla on sijoitettu siten, että rahoja kirjan lehden tavoin käännettäessä kumpikin puoli on oikein päin.
+
+Rahoissa on ne suunnitelleen taiteilijan sukunimen alkukirjain N sekä Suomen Rahapaja Oy:n tunnus.
+
+![](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2016/158/fin@/media/6586.gif)
+
+## 6 §
+
+Juhlarahat ovat seuraavan selitelmän ja kuvan mukaiset.
+
+Rahojen tunnuspuolella on kolmio, jonka huipulla seisoo kukko karttakepin kanssa. Kolmion sisällä on eri oppiaineisiin liittyviä symboleja. Teksti UNO CYGNAEUS on vaakasuorassa keskellä rahaa siten, että etu- ja sukunimi ovat eri puolilla kolmiota.
+
+Rahojen arvopuolen keskellä on ikkuna, josta näkyy kaksi ihmishahmoa. Ikkunassa roikkuvat numerot 1, 8, 6, 6 muodostaen vuosiluvun, jolloin ensimmäinen kansakouluasetus annettiin. Vuosiluku 2016 on vaakatasossa ikkunan yläreunan yläpuolella, teksti FINLAND on vaakatasossa ikkunan alareunan alapuolella ja teksti SUOMI on pystyssä ikkunan vasemman reunan ulkopuolella. Arvomerkintä 20 EURO tai 10 EURO on pystyssä ikkunan oikean reunan ulkopuolella.
+
+## 7 §
+
+Tämä asetus tulee voimaan 4 päivänä maaliskuuta 2016
+
+> Asetus tuli voimaan julkaisupäivänä 7.3.2016.

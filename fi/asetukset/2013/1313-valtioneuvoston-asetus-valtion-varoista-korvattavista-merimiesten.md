@@ -1,0 +1,57 @@
+---
+title: "Valtioneuvoston asetus valtion varoista korvattavista merimiesten matkakustannuksista"
+identifier: "1313/2013"
+eli: "http://data.finlex.fi/eli/sd/2013/1313/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2013-12-30
+entry_into_force: 2014-01-01
+last_amended: 2013-12-30
+status: in_force
+administrative_branch: "Työ- ja elinkeinoministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2013/1313"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2013/1313/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus valtion varoista korvattavista merimiesten matkakustannuksista
+
+*1313/2013*
+
+Valtioneuvoston päätöksen mukaisesti säädetään valtion varoista korvattavista merimiesten matkakustannuksista annetun lain (1068/2013) 3 §:n 2 momentin ja 5 §:n 2 momentin nojalla:
+
+## 1 § Korvauskelpoiset matkakustannukset
+
+Valtion varoista korvattavista matkakustannuksista annetun lain 3 §:ssä (1068/2013) tarkoitettuja välittömiä matkakustannuksia ovat lento-, juna- ja linja-autolippujen kustannukset, taksin ja vuokra-auton käytöstä aiheutuvat kustannukset sekä korvaus oman auton käytöstä. Työntekijän ylläpitokustannuksia ovat matkan aikana yöpymisestä aiheutuvat kustannukset ja ateriakustannukset. Matkan järjestämisestä syntyneitä kustannuksia ovat matkojen käytännön järjestelyistä huolehtivan matkatoimiston, matka-agentin tai vastaavan tahon kustannukset.
+
+Arvonlisävero ei ole korvauskelpoinen kustannus, jos hakijalla on mahdollisuus vähentää arvonlisävero omassa verotuksessaan.
+
+## 2 § Hakemuksessa ilmoitettavat tiedot
+
+Hakemuksessa merimiesten matkakustannusten korvaamiseksi on ilmoitettava:
+
+- 1\) hakijan yhteystiedot, yritys- ja yhteisötunnus, pankkiyhteys ja yhteyshenkilö;
+- 2\) alus, jolla työskenteleviä työntekijöitä hakemus koskee;
+- 3\) korvauskelpoiset kustannukset euroina ilman arvonlisäveroa;
+- 4\) haettavan korvauksen määrä euroina.
+
+Hakemukseen on liitettävä luettelo työntekijöistä, joiden matka- ja ylläpitokustannuksia hakemus koskee. Luettelosta on käytävä ilmi työntekijän nimi, syntymäaika ja kotimaa, aluksen sijaintivaltio matkan alkaessa sekä korvauskelpoiset matkakustannukset euroina työntekijäkohtaisesti.
+
+Hakemukseen on liitettävä ote hakijan kirjanpidosta, josta haetut kustannukset ilmenevät. Kustannuksilla, joista korvausta haetaan, on oltava kirjanpidossa oma seurantatunnuksensa, alatilinsä, kustannuspaikkansa tai muu vastaava menetelmänsä, jolla voidaan erottaa kustannukset, joista korvausta haetaan, hakijan muista kuluista. Kirjanpidon otteen on oltava kirjanpidosta vastaavan henkilön allekirjoittama.
+
+Hakijan on hakemuksessa vakuutettava, että korvausta haetaan vain työsuhteisten työntekijöiden matkakustannuksista.
+
+## 3 § Kauppa-alusluetteloon merkitty alus
+
+Jos korvausta haetaan valtion varoista korvattavista merimiesten matkakustannuksista annetun lain 1 §:n perusteella, hakijan on hakemuksessa vakuutettava, ettei alus liikennöi Suomeen säännöllisesti suuntautuvassa linjaliikenteessä ja että alus liikennöi pääasiassa ulkomaan meriliikenteessä. Hakemukseen on liitettävä ote kauppa-alusluettelosta.
+
+Jos korvausta haetaan valtion varoista korvattavista merimiesten matkakustannuksista annetun lain 1 §:n 4 momentin perusteella, hakemuksessa on lisäksi mainittava työsuhteen alkamis- ja päättymispäivä. Hakijan on myös ilmoitettava kuluvana vuonna ja kahtena edellisenä vuonna saamansa Euroopan unionin lainsäädännössä tarkoitettu vähämerkityksinen tuki.
+
+## 4 § Muu kuin kauppa-alusluetteloon merkitty alus
+
+Jos korvausta haetaan valtion varoista korvattavista merimiesten matkakustannuksista annetun lain 2 §:n perusteella, hakemuksessa on 2 §:ssä mainittujen tietojen lisäksi ilmoitettava, että kyseessä ovat merimiesten vuosilomalain (433/1984) mukaiset matkat. Vuosilomamatkoja koskeva hakemus tehdään kerran kalenterivuodessa.
+
+## 5 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2014.

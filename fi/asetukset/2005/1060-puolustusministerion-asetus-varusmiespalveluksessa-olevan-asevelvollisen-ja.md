@@ -1,0 +1,58 @@
+---
+title: "Puolustusministeriön asetus varusmiespalveluksessa olevan asevelvollisen ja vapaaehtoista asepalvelusta suorittavan naisen maksuttomien lomamatkojen lukumääristä ja matkakorvauksista"
+identifier: "1060/2005"
+eli: "http://data.finlex.fi/eli/sd/2005/1060/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2005-12-15
+entry_into_force: 2006-01-01
+last_amended: 2005-12-15
+status: in_force
+administrative_branch: "Puolustusministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2005/1060"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2005/1060/fin@"
+retrieved: 2026-10-11
+---
+
+# Puolustusministeriön asetus varusmiespalveluksessa olevan asevelvollisen ja vapaaehtoista asepalvelusta suorittavan naisen maksuttomien lomamatkojen lukumääristä ja matkakorvauksista
+
+*1060/2005*
+
+Puolustusministeriön päätöksen mukaisesti säädetään 15 päivänä syyskuuta 1950 annetun asevelvollisuuslain (452/1950) 50 b §:n nojalla, sellaisena kuin se on laissa 1169/1988:
+
+## 1 § Lomamatkat Suomessa
+
+Suomessa asuvalla, varusmiespalveluksessa olevalla asevelvollisella ja vapaaehtoista asepalvelusta suorittavalla naisella on oikeus palvelusaikanaan saada maksuton edestakainen matka tai maksuttoman matkan sijasta matkakorvaus lomamatkaa varten koti- tai asuinpaikkakunnalleen taikka erityisestä syystä myös muulle paikkakunnalle seuraavasti:
+
+- 1\) 180 päivää palvelevalla 13 matkaa;
+- 2\) 270 päivää palvelevalla 23 matkaa;
+- 3\) 330 päivää palvelevalla 29 matkaa;
+- 4\) 362 päivää palvelevalle 32 matkaa.
+
+## 2 § Lomamatkat ulkomaille
+
+Pysyvästi ulkomailla asuvalla ja sieltä palvelukseen saapuneella asevelvollisella ja vapaaehtoista asepalvelusta suorittavalla naisella on oikeus saada maksuton edestakainen matka tai maksuttoman matkan sijasta matkakorvaus lomamatkaa varten koti- tai asuinpaikkakunnalleen taikka erityisestä syystä myös muulle paikkakunnalle seuraavasti:
+
+- 1\) 180 päivää palvelevalla Euroopassa asuvalla kaksi matkaa ja Euroopan ulkopuolella asuvalla yksi matka;
+- 2\) 270 päivää palvelevalla Euroopassa asuvalla kolme matkaa ja Euroopan ulkopuolella asuvalla yksi matka;
+- 3\) 330 päivää palvelevalla Pohjoismaissa asuvalla neljä matkaa, muualla Euroopassa asuvalla kolme matkaa ja Euroopan ulkopuolella asuvalla yksi matka;
+- 4\) 362 päivää palvelevalla Pohjoismaissa asuvalla neljä matkaa, muualla Euroopassa asuvalla kolme matkaa ja Euroopan ulkopuolella asuvalla kaksi matkaa.
+
+## 3 § Korvauksen maksaminen
+
+Edellä 1 ja 2 pykälässä tarkoitettuun lomamatkaan palvelus- ja lomapaikkakunnalla liittyvä paikallisliikenteen käyttö korvataan yleisen taksan mukaan.
+
+## 4 § Matkan tekotapa
+
+Lomamatka on tehtävä olosuhteet huomioon ottaen valtiolle edullisimmalla tavalla.
+
+Puolustusvoimien järjestäessä lomakuljetuksia noudatetaan valtion taloudenhoidosta, hankinnoista ja palvelusturvallisuudesta annettuja määräyksiä.
+
+## 5 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2006.
+
+Tällä asetuksella kumotaan varusmiespalveluksessa oleville asevelvollisille myönnettävistä vapaista lomamatkoista ja matkakustannusten korvauksista 22 päivänä tammikuuta 1998 annettu puolustusministeriön päätös.
+
+Tämän asetuksen voimaan tullessa palveluksessa olevaan sovelletaan kuitenkin edelleen asetuksen voimaan tullessa voimassa olleita määräyksiä.

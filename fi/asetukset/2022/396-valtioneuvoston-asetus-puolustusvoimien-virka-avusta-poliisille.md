@@ -1,0 +1,37 @@
+---
+title: "Valtioneuvoston asetus Puolustusvoimien virka-avusta poliisille"
+identifier: "396/2022"
+eli: "http://data.finlex.fi/eli/sd/2022/396/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2022-05-25
+entry_into_force: 2022-06-15
+last_amended: 2022-05-25
+status: in_force
+administrative_branch: "Sisäministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2022/396"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2022/396/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus Puolustusvoimien virka-avusta poliisille
+
+*396/2022*
+
+Valtioneuvoston päätöksen mukaisesti säädetään Puolustusvoimien virka-avusta poliisille annetun lain (342/2022) 5 §:n 2 momentin ja 10 §:n 3 momentin nojalla:
+
+## 1 § Sotilaan henkilökohtainen aseistus virka-aputehtävissä
+
+Puolustusvoimien virka-avusta poliisille annetun lain (342/2022) 5 §:ssä tarkoitettuja sotilaan henkilökohtaisia ampuma-aseita virka-aputehtävissä ovat:
+
+- 1\) lippaallisella tai itselataavalla kertatulella toimivat pistoolit ja niihin soveltuvat patruunat; sekä
+- 2\) haulikko, konepistooli, rynnäkkökivääri, tarkkuuskivääri, kevyt konekivääri ja ampuma-aselain (1/1998) 6 §:n 2 momentin 12 kohdassa tarkoitettu muu ampuma-ase sekä niihin soveltuvat patruunat.
+
+## 2 § Vaativaa virka-apua tukeva aseistus
+
+Puolustusvoimien virka-avusta poliisille annetun lain 10 §:n 3 momentissa tarkoitettuun vaativaa virka-apua tukevaan aseistukseen kuuluvat kranaattipistooli, kevyt kertasinko, raskas tarkkuuskivääri ja 12,7 millimetrin kaliiperin konekivääri sekä niihin soveltuvat patruunat ja ammukset sekä käsikranaatti.
+
+## 3 § Voimaantulo
+
+Tämä asetus tulee voimaan 15 päivänä kesäkuuta 2022.

@@ -1,0 +1,65 @@
+---
+title: "Valtioneuvoston asetus korkeakouluopiskelijoiden opiskeluterveydenhuollon neuvottelukunnasta"
+identifier: "274/2021"
+eli: "http://data.finlex.fi/eli/sd/2021/274/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2021-04-08
+entry_into_force: 2021-04-09
+last_amended: 2021-04-08
+status: in_force
+administrative_branch: "Sosiaali- ja terveysministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2021/274"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2021/274/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus korkeakouluopiskelijoiden opiskeluterveydenhuollon neuvottelukunnasta
+
+*274/2021*
+
+Valtioneuvoston päätöksen mukaisesti säädetään korkeakouluopiskelijoiden opiskeluterveydenhuollosta annetun lain (695/2019) 11 §:n 4 momentin nojalla:
+
+## 1 § Tehtävät
+
+Korkeakouluopiskelijoiden opiskeluterveydenhuollosta annetun lain (695/2019) 11 §:ssä säädettyjen tehtävien hoitamiseksi korkeakouluopiskelijoiden opiskeluterveydenhuollon neuvottelukunnan on:
+
+- 1\) arvioitava korkeakouluopiskelijoiden opiskeluterveydenhuollon palvelujen saatavuutta ja saavutettavuutta;
+- 2\) seurattava ja arvioitava Ylioppilaiden terveydenhoitosäätiön tuottaman opiskeluterveydenhuollon sekä muun terveydenhuollon välistä yhteistyötä ja yhteensovittamista;
+- 3\) seurattava opiskeluterveydenhuollon kustannuksia ja voimavarojen kohdentumista;
+- 4\) edistettävä toisen asteen opiskelijoiden sekä korkeakouluopiskelijoiden opiskeluterveydenhuollon ja muun terveydenhuollon yhteensovittamista.
+
+Neuvottelukunta voi käsitellä sille tehtyjä, opiskeluterveydenhuoltoa koskevia esityksiä. Neuvottelukunta voi myös antaa opiskeluterveydenhuoltoa koskevia lausuntoja.
+
+Neuvottelukunta voi tehtäviensä hoitamiseksi tehdä esityksiä opiskeluterveydenhuoltoa koskevissa asioissa ministeriöille, muille viranomaisille sekä Ylioppilaiden terveydenhoitosäätiölle.
+
+## 2 § Kokoonpano
+
+Neuvottelukunnassa on puheenjohtaja, varapuheenjohtaja sekä 11 muuta jäsentä.
+
+Puheenjohtajan ja varapuheenjohtajan tulee olla sosiaali- ja terveysministeriön virkamies.
+
+Neuvottelukunnan muun jäsenistön osalta kokoonpanossa ovat edustettuina sosiaali- ja terveysministeriö, valtiovarainministeriö, opetus- ja kulttuuriministeriö, Kansaneläkelaitos, Terveyden ja hyvinvoinnin laitos, Ylioppilaiden terveydenhoitosäätiö, Suomen Kuntaliitto, yliopistolain (558/2009) 1 §:ssä tarkoitetut yliopistot ja 46 §:ssä tarkoitetut ylioppilaskunnat sekä ammattikorkeakoululain (932/2014) 2 §:ssä tarkoitetut ammattikorkeakoulut ja 41 §:ssä tarkoitetut opiskelijakunnat.
+
+## 3 § Neuvottelukunnan asettaminen
+
+Valtioneuvosto määrää neuvottelukunnan puheenjohtajan, varapuheenjohtajan ja muut jäsenet sekä kullekin henkilökohtaisen varajäsenen.
+
+Jos puheenjohtaja, varapuheenjohtaja tai muu jäsen taikka varajäsen eroaa kesken toimikauden tai on pysyvästi estynyt osallistumaan neuvottelukunnan toimintaan, sosiaali- ja terveysministeriö määrää hänen tilalleen uuden henkilön jäljellä olevaksi toimikaudeksi.
+
+## 4 § Sihteeristö ja jaostot
+
+Neuvottelukunta voi asettaa sihteeristön ja jaostoja.
+
+Jaoston puheenjohtajan ja varapuheenjohtajan määrää neuvottelukunta. Jaostojen jäseninä voi olla myös neuvottelukunnan varajäseniä ja neuvottelukunnan ulkopuolisia asiantuntijoita.
+
+## 5 § Asioiden käsittely
+
+Neuvottelukunta kokoontuu puheenjohtajan tai tämän estyneenä ollessa varapuheenjohtajan kutsusta. Neuvottelukunta on päätösvaltainen, kun saapuvilla on puheenjohtajan tai varapuheenjohtajan lisäksi vähintään puolet muista jäsenistä.
+
+Neuvottelukunnalla ja jaostoilla on oikeus kuulla asiantuntijoita asioiden valmistelussa.
+
+## 6 § Voimaantulo
+
+Tämä asetus tulee voimaan 9 päivänä huhtikuuta 2021.

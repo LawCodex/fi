@@ -1,0 +1,56 @@
+---
+title: "Valtioneuvoston asetus kansainvälisten veroriitojen ratkaisumenettelystä"
+identifier: "661/2019"
+eli: "http://data.finlex.fi/eli/sd/2019/661/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2019-05-16
+entry_into_force: 2019-06-30
+last_amended: 2019-05-16
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2019/661"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2019/661/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus kansainvälisten veroriitojen ratkaisumenettelystä
+
+*661/2019*
+
+Valtioneuvoston päätöksen mukaisesti säädetään kansainvälisten veroriitojen ratkaisumenettelystä annetun lain (530/2019) 4 §:n 4 momentin, 7 §:n 3 momentin ja 12 §:n 6 momentin nojalla:
+
+## 1 § Soveltamisala
+
+Tässä asetuksessa säädetään sellaisista kansainvälisten veroriitojen ratkaisumenettelystä annetun lain (530/2019) mukaisen EU-riitojenratkaisumenettelyn velvoitteista, jotka asetetaan muille kuin asianomaiselle henkilölle ja jotka koskevat:
+
+- 1\) mainitun lain 2 §:ssä tarkoitettuun hakemukseen liittyviä ilmoituksia;
+- 2\) mainitun lain 12 §:ssä tarkoitettua riippumattomien ja pätevien henkilöiden luetteloa;
+- 3\) mainitun lain 12 §:ssä tarkoitettujen riippumattomien ja pätevien henkilöiden nimittämistä mainitussa pykälässä tarkoitettuun riidanratkaisutoimikuntaan.
+
+## 2 § Hakemusta koskevat ilmoitukset
+
+Sen lisäksi, mitä kansainvälisten veroriitojen ratkaisumenettelystä annetun lain 2–6 §:ssä säädetään hakemuksen käsittelystä, toimivaltaisen viranomaisen on kahden kuukauden kuluessa hakemuksen vastaanottamisesta ilmoitettava muiden asianomaisten valtioiden toimivaltaisille viranomaisille sen vastaanottamisesta sekä siitä, mitä kieltä tai kieliä se aikoo käyttää yhteydenpidossaan asian käsittelyä koskevien menettelyjen aikana.
+
+Kun toimivaltainen viranomainen vastaanottaa 1 momentissa mainitun lain 7 §:ssä tarkoitetun hakemuksen peruutusilmoituksen asianomaiselta henkilöltä, sen on viipymättä ilmoitettava menettelyjen päättämisestä muiden asianomaisten valtioiden toimivaltaisille viranomaisille.
+
+## 3 § Riippumattomien ja pätevien henkilöiden luettelo
+
+Sen lisäksi, mitä kansainvälisten veroriitojen ratkaisumenettelystä annetun lain 12 §:ssä säädetään riippumattomista ja pätevistä henkilöistä, valtiovarainministeriön on ilmoitettava mainitussa lainkohdassa tarkoitettuun riippumattomien ja pätevien henkilöiden luetteloon kaikki nimeämänsä riippumattomat ja pätevät henkilöt. Valtiovarainministeriön on nimettävä luetteloon vähintään kolme luonnollista henkilöä, jotka ovat päteviä ja riippumattomia ja jotka pystyvät toimimaan puolueettomasti ja rehellisesti.
+
+Valtiovarainministeriön on ilmoitettava Euroopan komissiolle nimeämänsä riippumattomat ja pätevät henkilöt sekä täydelliset ja ajantasaiset tiedot heidän ammatillisesta ja akateemisesta taustastaan, pätevyydestään, asiantuntemuksestaan ja mahdollisista eturistiriidoistaan. Ilmoituksessa voidaan täsmentää, ketkä henkilöistä voidaan nimittää puheenjohtajaksi.
+
+Valtiovarainministeriön on ilmoitettava komissiolle viipymättä muutoksista riippumattomien ja pätevien henkilöiden luetteloon. Valtiovarainministeriön on otettava käyttöön menettelyt nimeämänsä henkilön poistamiseksi luettelosta, jos kyseinen henkilö lakkaa olemasta riippumaton.
+
+Kun valtiovarainministeriöllä on perusteltu syy vastustaa jotakuta luettelossa edelleen olevaa riippumatonta ja pätevää henkilöä riippumattomuuden puutteen vuoksi, sen on ilmoitettava asiasta komissiolle ja esitettävä asianmukaiset todisteet epäilynsä tueksi. Jos jokin toinen jäsenvaltio on tehnyt vastaavan ilmoituksen valtiovarainministeriön nimeämän henkilön osalta ja komissio on antanut tiedon vastustamisesta ja sitä tukevista todisteista, valtiovarainministeriön on tutkittava asia kuuden kuukauden kuluessa ja tehtävä päätös siitä, pidetäänkö henkilö edelleen luettelossa vai poistetaanko hänet siitä sekä annettava päätös viipymättä tiedoksi komissiolle.
+
+## 4 § Riippumattomien ja pätevien henkilöiden nimittäminen riidanratkaisutoimikuntaan
+
+Sen lisäksi, mitä kansainvälisten veroriitojen ratkaisumenettelystä annetun lain 12 §:ssä säädetään riippumattomien ja pätevien henkilöiden nimittämisestä riidanratkaisutoimikuntaan tai vaihtoehtoiseen riidanratkaisutoimikuntaan, riippumattomien ja pätevien henkilöiden ja näiden varajäsenten nimittämistä koskevista säännöistä sovitaan asianomaisten valtioiden toimivaltaisten viranomaisten kesken. Jos näin ei ole tehty, nimittäminen suoritetaan arpomalla.
+
+Jos kansalliset nimityselimet ovat asianomaisen henkilön pyynnöstä nimittäneet riippumattomat ja pätevät henkilöt sen johdosta, että mikään asianomaisten valtioiden toimivaltaisista viranomaisista ei ole nimittänyt vähintään yhtä riippumatonta ja pätevää henkilöä riidanratkaisutoimikuntaan tai vaihtoehtoiseen riidanratkaisutoimikuntaan, on näin nimitettyjen riippumattomien ja pätevien henkilöiden nimitettävä puheenjohtaja. Puheenjohtaja valitaan tällöin arpomalla riippumattomien ja pätevien henkilöiden luettelosta edellyttäen, että riippumattomien ja pätevien henkilöiden nimittämistä koskevista säännöistä ei ole sovittu asianomaisten valtioiden toimivaltaisten viranomaisten kesken.
+
+## 5 § Voimaantulo
+
+Tämä asetus tulee voimaan 30 päivänä kesäkuuta 2019.

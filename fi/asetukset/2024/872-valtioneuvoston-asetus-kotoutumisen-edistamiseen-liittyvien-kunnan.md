@@ -1,0 +1,54 @@
+---
+title: "Valtioneuvoston asetus kotoutumisen edistämiseen liittyvien kunnan, hyvinvointialueen ja Ahvenanmaan maakunnan terveys- ja sairaanhoitoviranomaisen kustannusten korvaamisesta valtion varoista"
+identifier: "872/2024"
+eli: "http://data.finlex.fi/eli/sd/2024/872/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2024-12-19
+entry_into_force: 2025-01-01
+last_amended: 2024-12-19
+status: in_force
+administrative_branch: "Työ- ja elinkeinoministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2024/872"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2024/872/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus kotoutumisen edistämiseen liittyvien kunnan, hyvinvointialueen ja Ahvenanmaan maakunnan terveys- ja sairaanhoitoviranomaisen kustannusten korvaamisesta valtion varoista
+
+*872/2024*
+
+Valtioneuvoston päätöksen mukaisesti säädetään kotoutumisen edistämisestä annetun lain (681/2023) 61, 62 ja 65 §:n nojalla:
+
+## 1 § Laskennallinen korvaus kunnalle
+
+Valtion varoista maksetaan laskennallista korvausta kotoutumisen edistämisestä annetun lain (681/2023) 61 §:ssä tarkoitetun toiminnan järjestämisestä aiheutuvista kustannuksista muulle kuin Ahvenanmaan maakuntaan kuuluvalle kunnalle alle 7-vuotiaasta henkilöstä 2 741 euroa vuodessa ja 7 vuotta täyttäneestä 2 052 euroa vuodessa. Lisäksi 18 vuotta täyttäneestä henkilöstä maksetaan edellä mainitun laskennallisen korvauksen lisäksi laskennallista korvausta 7 741 euroa ensimmäiseltä täysi-ikäisenä maksettavalta vuodelta.
+
+Valtion varoista maksetaan laskennallista korvausta Ahvenanmaan maakuntaan kuuluvalle kunnalle kotoutumisen edistämisestä annetun lain 2 §:n 3 ja 4 momentissa tarkoitetuista henkilöistä mainitun lain 61 §:ssä tarkoitetun toiminnan järjestämisestä aiheutuvista kustannuksista alle 7-vuotiaasta 3 157 euroa ja 7 vuotta täyttäneestä henkilöstä 2 609 euroa vuodessa. Lisäksi 18 vuotta täyttäneestä henkilöstä maksetaan edellä mainitun laskennallisen korvauksen lisäksi laskennallista korvausta 76 euroa ensimmäiseltä täysi-ikäisenä maksettavalta vuodelta.
+
+## 2 § Laskennallinen korvaus hyvinvointialueelle, Helsingin kaupungille ja Ahvenanmaan maakunnan terveys- ja sairaanhoitoviranomaiselle
+
+Valtion varoista maksetaan hyvinvointialueelle ja Helsingin kaupungille laskennallista korvausta kotoutumisen edistämisestä annetun lain 62 §:ssä tarkoitetun toiminnan järjestämisestä aiheutuvista kustannuksista alle 7-vuotiaasta henkilöstä 948 euroa vuodessa ja 7 vuotta täyttäneestä henkilöstä 1 097 euroa vuodessa. Lisäksi 18 vuotta täyttäneestä henkilöstä maksetaan edellä mainitun laskennallisen korvauksen lisäksi laskennallista korvausta 73 euroa ensimmäiseltä täysi-ikäisenä maksettavalta vuodelta.
+
+Valtion varoista maksetaan Ahvenanmaan maakunnan terveys- ja sairaanhoitoviranomaiselle laskennallista korvausta kotoutumisen edistämisestä annetun lain 62 §:ssä tarkoitetun toiminnan järjestämisestä aiheutuvista kustannuksista alle 7-vuotiaasta henkilöstä 532 euroa vuodessa ja 7 vuotta täyttäneestä henkilöstä 540 euroa.
+
+## 3 § Laskennallinen erityiskustannuskorvaus Ahvenanmaan maakuntaan kuuluvalle kunnalle
+
+Valtion varoista maksetaan Ahvenanmaan maakuntaan kuuluvalle kunnalle laskennallista korvausta kotoutumisen edistämisestä annetun lain 65 §:n 3 momentissa tarkoitetun toiminnan järjestämisestä aiheutuvista kustannuksista seuraavasti:
+
+- 1\) ohjauksen ja neuvonnan järjestäminen maakunnassa asuville maahanmuuttajille 11 800 euroa vuodessa;
+- 2\) muun kuin työnhakijan tai kotoutumisen edistämisestä annetun lain 2 §:ssä 3 ja 4 momentissa tarkoitetun henkilön osalta kotoutumisen edistämisestä annetun maakuntalain 9 §:ssä tarkoitetun alkukartoituksen laatiminen (Ålands författningssamling 2012:74), kotoutumisen edistämisestä annetun maakuntalain 11 §:ssä tarkoitetun kotoutumissuunnitelman laatiminen sekä suunnitelman tarkistaminen 700 euroa henkilöä kohden;
+- 3\) muun kuin kotoutumisen edistämisestä annetun lain 2 §:ssä 3 ja 4 momentissa tarkoitetun henkilön osalta monikielisen yhteiskuntaorientaation järjestäminen 500 euroa henkilöä kohden;
+- 4\) kotona lapsia hoitavien maahanmuuttajavanhempien kotoutumisen edistäminen 2 857 euroa henkilöä kohden; ja
+- 5\) kotoutumisen edistämisestä annetun maakuntalain 25 §:ssä tarkoitettu kotoutumista edistävä monialainen yhteistyö 560 euroa henkilöä kohden.
+
+Korvauksen maksamisen edellytyksenä on, että Ahvenanmaan maakuntaan kuuluva kunta on järjestänyt edellä 1 momentissa tarkoitetun palvelun.
+
+## 4 § Maksatuksen perusteet
+
+Mikäli kunta tai hyvinvointialue hakee ja sille maksetaan laskennallista korvausta ennen tämän asetuksen voimaantuloa syntyneistä kustannuksista kotoutumisen edistämisestä annetun lain 70 §:n nojalla, maksetaan valtion varoista muulle kuin Ahvenanmaan maakuntaan kuuluvalle kunnalle laskennallista korvausta alle 7-vuotiaasta henkilöstä 2 185 euroa vuodessa ja 7 vuotta täyttäneestä 1 496 euroa vuodessa, Ahvenanmaan maakuntaan kuuluvalle kunnalle alle 7-vuotiaasta henkilöstä 2 300 euroa vuodessa ja 7 vuotta täyttäneestä 1 760 euroa vuodessa ja hyvinvointialueelle sekä Helsingin kaupungille laskennallista korvausta alle 7-vuotiaasta henkilöstä 115 euroa vuodessa ja 7 vuotta täyttäneestä 264 euroa vuodessa.
+
+## 5 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2025.

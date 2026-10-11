@@ -1,0 +1,94 @@
+---
+title: "Asetus ammatillisesta opettajankoulutuksesta"
+identifier: "455/1996"
+eli: "http://data.finlex.fi/eli/sd/1996/455/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 1996-06-20
+entry_into_force: 1996-08-01
+last_amended: 1996-06-20
+status: in_force
+administrative_branch: "Opetus- ja kulttuuriministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/1996/455"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1996/455/fin@"
+retrieved: 2026-10-11
+---
+
+# Asetus ammatillisesta opettajankoulutuksesta
+
+*455/1996*
+
+Opetusministerin esittelystä säädetään ammatillisesta opettajankoulutuksesta 20 päivänä kesäkuuta 1996 annetun lain (452/96) nojalla:
+
+## 1 luku Opettajankoulutusopinnot
+
+### 1 § Opintojen rakenne
+
+Ammatillisiin opettajankoulutusopintoihin kuuluu:
+
+- 1\) kasvatustieteellisiä perusopintoja;
+- 2\) ammattipedagogisia opintoja;
+- 3\) opetusharjoittelua; sekä
+- 4\) muita opintoja.
+
+### 2 § Opintojen laajuus
+
+Ammatillisten opettajankoulutusopintojen laajuus on 35 opintoviikkoa.
+
+### 3 § Opettajankoulutusohjelma
+
+Ammatilliset opettajankoulutusopinnot järjestetään opettajankoulutusohjelmana.
+
+Opetusministeriö vahvistaa opettajankoulutusohjelman siten, että päätöksestä käy ilmi kasvatustieteellisten perusopintojen, ammattipedagogisten opintojen ja muiden opintojen sekä opetusharjoittelun laajuudet.
+
+### 4 § Opintojen tavoitteet
+
+Opettajankoulutuksen tavoitteena on antaa opiskelijalle:
+
+- 1\) tiedot ja taidot ohjata erilaisten opiskelijoiden oppimista; sekä
+- 2\) valmiudet kehittää opetusalaansa ottaen huomioon työelämän ja ammattien kehittyminen.
+
+### 5 § Opiskeluaika
+
+Ammatillisen opettajakorkeakoulun on järjestettävä ammatilliset opettajankoulutusopinnot niin, että kokopäiväinen opiskelija voi suorittaa opinnot niiden laajuutta vastaavassa ajassa.
+
+Opinnot on suoritettava viimeistään vuotta niiden laajuutta pitemmässä ajassa, jollei opettajakorkeakoulu erityisestä syystä myönnä opiskelijalle tästä poikkeusta.
+
+Osa-aikaisesti suoritettaviksi tarkoitetut opettajankoulutusopinnot on suoritettava kolmessa vuodessa.
+
+## 2 luku Opettajankoulutuksen henkilöstö
+
+### 6 § Kielitaitovaatimukset
+
+Johtajalta ja yliopettajalta sekä tuntiopettajalta vaaditaan, että hän hallitsee opettajankoulutuksen opetuskielen tai sen kielen, jolla hänet on määrätty antamaan opetusta.
+
+### 7 § Kelpoisuusvaatimukset
+
+Johtajalta vaaditaan soveltuva jatkotutkintona suoritettu lisensiaatin tutkinto tai tohtorin tutkinto ja perehtyneisyyttä ammatilliseen opettajankoulutukseen.
+
+Yliopettajalta vaaditaan soveltuva jatkotutkintona suoritettu lisensiaatin tutkinto tai tohtorin tutkinto.
+
+Erityisestä syystä johtajan tai yliopettajan virkaan tai toimeen voidaan 1 ja 2 momentin estämättä nimittää ylemmän korkeakoulututkinnon suorittanut henkilö, jos nimitettävä henkilö on erittäin hyvin perehtynyt viran tai toimen tehtäväalaan.
+
+Yliopettajalta vaaditaan lisäksi ammattikorkeakoulun tai ammatillisen oppilaitoksen opettajan kelpoisuus ja vähintään kolmen vuoden opettajakokemus ammattikorkeakoulussa tai ammatillisessa oppilaitoksessa.
+
+Tuntiopettajalta vaaditaan, mikäli mahdollista, vastaava kelpoisuus kuin viran tai toimen haltijalta.
+
+### 8 § Opettajien ammattitaidon ylläpitäminen
+
+Ammatillisesta opettajankoulutuksesta annetun lain 12 §:ssä tarkoitettu virkavapaus on käytettävä neljän vuoden kuluessa virkavapauden edellytyksenä olevan seitsemän vuoden palvelusjakson päättymisestä. Virkavapautta on haettava viimeistään vuotta ennen mainitun neljän vuoden määräajan päättymistä.
+
+Uusi 1 momentissa tarkoitettu palvelusjakso alkaa heti edellisen palvelusjakson päättymisestä.
+
+Edellä 1 momentissa tarkoitettu palvelusjakso lasketaan samalla tavalla kuin valtion virkamiesten ikälisään oikeuttava palvelusaika.
+
+## 3 luku Voimaantulosäännökset
+
+### 9 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä elokuuta 1996.
+
+Ammatillisen opettajankoulutuslaitoksen rehtori, johtaja ja yliopettaja, joka on nimitetty virkaansa tai toimeensa ennen tämän asetuksen voimaantuloa ja joka on täyttänyt aikaisemmin voimassa olleiden säännösten mukaiset kelpoisuusvaatimukset, voi tämän asetuksen 7 §:n estämättä tulla nimitetyksi vastaavaan tai lähinnä vastaavaan virkaan tai toimeen ammattikorkeakoulussa.
+
+Ennen tämän asetuksen voimaantuloa voidaan ryhtyä sen täytäntöönpanon edellyttämiin toimenpiteisiin.

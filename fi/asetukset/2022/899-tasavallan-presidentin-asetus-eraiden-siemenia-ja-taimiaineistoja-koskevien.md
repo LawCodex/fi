@@ -1,0 +1,53 @@
+---
+title: "Tasavallan presidentin asetus eräiden siemeniä ja taimiaineistoja koskevien hallintotehtävien hoitamisesta Ahvenanmaalla"
+identifier: "899/2022"
+eli: "http://data.finlex.fi/eli/sd/2022/899/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2022-11-11
+entry_into_force: 2022-12-01
+last_amended: 2022-11-11
+status: in_force
+administrative_branch: "Oikeusministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2022/899"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2022/899/fin@"
+retrieved: 2026-10-11
+---
+
+# Tasavallan presidentin asetus eräiden siemeniä ja taimiaineistoja koskevien hallintotehtävien hoitamisesta Ahvenanmaalla
+
+*899/2022*
+
+Tasavallan presidentin päätöksen mukaisesti säädetään Ahvenanmaan itsehallintolain (1144/1991) 32 §:n nojalla, sellaisena kuin se on osaksi laeissa 1556/1994 ja 68/2004, ja Ahvenanmaan maakunnan hallituksen suostumuksella:
+
+## 1 § Tehtävien siirtäminen Ruokavirastolle, kasvilajikelautakunnalle ja Luonnonvarakeskukselle
+
+Osan niistä hallintotehtävistä, jotka siemenlain soveltamisesta Ahvenanmaan maakunnassa annetun maakuntalain (Ålands författningssamling 2021:48) 4 §:n ja taimiaineistolain soveltamisesta Ahvenanmaan maakunnassa annetun maakuntalain (Ålands författningssamling 2013:97) 2 §:n mukaan kuuluvat Ahvenanmaan maakunnan hallitukselle tai muulle maakuntalaissa säädetylle viranomaiselle, hoitaa Ahvenanmaalla Ruokavirasto, kasvilajikelautakunta tai Luonnonvarakeskus.
+
+## 2 § Ruokaviraston vastuualue
+
+Ruokavirasto vastaa Ahvenanmaan maakunnan osalta:
+
+- 1\) siemenlain (600/2019) 6 §:n mukaisesta kasvilajikkeen erottuvuuden, pysyvyyden ja yhtenäisyyden testaamisesta;
+- 2\) siemenlain 8 §:n ja taimiaineistolain (1205/1994) 5 a §:n mukaisesta kasvilajikeluettelojen ylläpitämisestä;
+- 3\) taimiainestolain 5 b §:n mukaisesta lajikkeiden hyväksymisestä kasvilajikeluetteloon;
+- 4\) taimiaineistolain 5 c §:n mukaisesta viljelykokeiden järjestämisestä tietyn lajikkeen erottuvuuden, pysyvyyden ja yhtenäisyyden selvittämiseksi;
+- 5\) taimiaineistolain 5 d §:n mukaisesta lajikkeen kasvilajikeluetteloon hyväksymisen voimassaoloajasta ja lajikkeen luettelosta poistamisesta;
+- 6\) taimiaineistolain 5 e §:n mukaisista puutarhakasvien taimiaineistoa koskevan Euroopan unionin lainsäädännön mukaisista ilmoituksista muille Euroopan unionin jäsenvaltioille ja komissiolle.
+
+## 3 § Kasvilajikelautakunnan vastuualue
+
+Kasvilajikelautakunta hyväksyy siemenlain 7 ja 9 §:n mukaisesti Ahvenanmaan maakunnan osalta kasvilajikeluetteloon otettavat lajikkeet sekä peruuttaa lajikkeiden hyväksymiset.
+
+## 4 § Luonnonvarakeskuksen vastuualue
+
+Luonnonvarakeskus vastaa Ahvenanmaan maakunnassa siemenlain 6 §:n mukaisesti viljelyarvokokeista lajikkeen soveltuvuuden selvittämiseksi. Ahvenanmaalaisilla toimijoilla on oikeus toimittaa lajikkeiden viljelyarvokokeita koskevia hakemuksia Luonnonvarakeskukselle.
+
+## 5 § Laboratoriot
+
+Valtakunnassa siemenlain 19 §:n nojalla hyväksytty yksityinen laboratorio on hyväksytty myös Ahvenanmaalla.
+
+## 6 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä joulukuuta 2022.

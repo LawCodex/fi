@@ -1,0 +1,64 @@
+---
+title: "Valtiovarainministeriön asetus Mannerheim ja Pietari 2003 -juhlarahasta"
+identifier: "781/2003"
+eli: "http://data.finlex.fi/eli/sd/2003/781/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2003-09-02
+entry_into_force: 2003-09-05
+last_amended: 2003-09-02
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2003/781"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2003/781/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtiovarainministeriön asetus Mannerheim ja Pietari 2003 -juhlarahasta
+
+*781/2003*
+
+Valtiovarainministeriön päätöksen mukaisesti säädetään metallirahasta 27 päivänä maaliskuuta 1998 annetun lain (216/1998) 1 §:n 2 momentin nojalla, sellaisena kuin se on laissa 378/2002:
+
+## 1 §
+
+Pietarin kaupungin 300-vuotisjuhlan johdosta lyödään 10 euron Mannerheim ja Pietari 2003 -juhlaraha.
+
+## 2 §
+
+Juhlaraha on hopeaseosta, jonka painosta 925 promillea on hopeaa ja 75 promillea kuparia. Pitoisuudet saavat vaihdella enintään ± 10 promilleyksikköä.
+
+## 3 §
+
+Juhlarahan halkaisija on 38,6 ± 0,1 millimetriä ja paino 27,4 ± 0,5 grammaa.
+
+Enintään 5 prosenttia rahoista saa poiketa halkaisijastaan enemmän kuin ± 0,1 millimetriä.
+
+## 4 §
+
+Juhlarahat ovat ympyrän muotoisia. Kuvat ja kirjoitukset laakapinnoilla on sijoitettu siten, että rahoja kirjan lehden tavoin käännettäessä kumpikin puoli on oikein päin.
+
+Rahassa on sen suunnitelleen taiteilijan ja Rahapaja Oy:n johtajan sukunimien alkukirjaimet S ja M.
+
+## 5 §
+
+Juhlarahojen leimat ovat seuraavan selitelmän ja kuvan mukaiset.
+
+Rahan tunnuspuolella on kohokuviona Suomen marsalkka Carl Gustaf Emil Mannerheimin kasvot edestä. Vasemmalla on kaaren muotoisena kohokuviona alhaalta ylös teksti SUOMI FINLAND ja oikealla kaaren muotoisena kohokuviona ylhäältä alas teksti C.G.E. MANNERHEIM.
+
+Rahan arvopuolella on kohokuviona Pietari-Paavalin linnoitus kolmine torneineen. Vasemmalla on alhaalta ylös kaaren muotoisena kohokuviona teksti ST.PETERSBURG 1703-2003 ja sen sisäpuolella kaaren muotoisena jonona 12 eurotähteä. Linnoituksen alapuolella on vaakasuoraan kohokuviona vuosiluku 2003 ja oikealla puolella vaakasuoraan kohokuviona arvomerkintä 10 ja sen alla EURO.
+
+![](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2003/781/fin@/media/4665.gif)
+
+## 6 §
+
+Osa 10 euron juhlarahoista voidaan lyödä erikoislyöntinä, jolloin rahoissa on peilikiiltoinen pohja ja mattapintainen kuvio.
+
+## 7 §
+
+Juhlarahan leimojen tarkemmat yksityiskohdat ilmenevät Rahapaja Oy:n hallussa olevista perusmalleista ja -työkaluista.
+
+## 8 §
+
+Tämä asetus tulee voimaan 5 päivänä syyskuuta 2003.

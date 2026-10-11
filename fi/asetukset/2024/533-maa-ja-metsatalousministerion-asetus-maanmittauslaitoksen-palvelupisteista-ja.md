@@ -1,0 +1,58 @@
+---
+title: "Maa- ja metsätalousministeriön asetus Maanmittauslaitoksen palvelupisteistä ja niiden sijainnista"
+identifier: "533/2024"
+eli: "http://data.finlex.fi/eli/sd/2024/533/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2024-09-18
+entry_into_force: 2025-01-01
+last_amended: 2024-09-18
+status: in_force
+administrative_branch: "Maa- ja metsätalousministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2024/533"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2024/533/fin@"
+retrieved: 2026-10-11
+---
+
+# Maa- ja metsätalousministeriön asetus Maanmittauslaitoksen palvelupisteistä ja niiden sijainnista
+
+*533/2024*
+
+Maa- ja metsätalousministeriön päätöksen mukaisesti säädetään Maanmittauslaitoksesta annetun lain (1025/2018) 3 §:n 3 momentin nojalla:
+
+## 1 § Maanmittauslaitoksen palvelupisteet
+
+Maanmittauslaitoksen palvelupisteet ja niiden sijainnit ovat seuraavat:
+
+- 1\) Helsingin palvelupiste, Helsinki;
+- 2\) Hämeenlinnan palvelupiste, Hämeenlinna;
+- 3\) Iisalmen palvelupiste, Iisalmi;
+- 4\) Ivalon palvelupiste, Ivalo;
+- 5\) Joensuun palvelupiste, Joensuu;
+- 6\) Jyväskylän palvelupiste, Jyväskylä;
+- 7\) Kajaanin palvelupiste, Kajaani;
+- 8\) Kokkolan palvelupiste, Kokkola;
+- 9\) Kouvolan palvelupiste, Kouvola;
+- 10\) Kuusamon palvelupiste, Kuusamo;
+- 11\) Kuopion palvelupiste, Kuopio;
+- 12\) Lahden palvelupiste, Lahti;
+- 13\) Lappeenrannan palvelupiste, Lappeenranta;
+- 14\) Lohjan palvelupiste, Lohja;
+- 15\) Mikkelin palvelupiste, Mikkeli;
+- 16\) Oulun palvelupiste, Oulu;
+- 17\) Porin palvelupiste, Pori;
+- 18\) Porvoon palvelupiste, Porvoo;
+- 19\) Rovaniemien palvelupiste, Rovaniemi;
+- 20\) Savonlinnan palvelupiste, Savonlinna;
+- 21\) Seinäjoen palvelupiste, Seinäjoki;
+- 22\) Tampereen palvelupiste, Tampere;
+- 23\) Tornion palvelupiste, Tornio;
+- 24\) Turun palvelupiste, Turku;
+- 25\) Vaasan palvelupiste, Vaasa.
+
+## 2 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2025.
+
+Tällä asetuksella kumotaan Maanmittauslaitoksen palvelupisteistä ja niiden sijainnista annettu maa- ja metsätalousministeriön asetus (1088/2018).

@@ -1,0 +1,77 @@
+---
+title: "Valtioneuvoston asetus sokerialan väliaikaisesta rakenneuudistustuesta"
+identifier: "940/2006"
+eli: "http://data.finlex.fi/eli/sd/2006/940/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2006-11-02
+entry_into_force: 2007-01-01
+last_amended: 2008-06-19
+status: in_force
+administrative_branch: "Maa- ja metsätalousministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2006/940"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2006/940/fin@20080417"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus sokerialan väliaikaisesta rakenneuudistustuesta
+
+*940/2006*
+
+Valtioneuvoston päätöksen mukaisesti, joka on tehty maa- ja metsätalousministeriön esittelystä, säädetään maaseutuelinkeinojen tukitehtäviä hoidettaessa noudatettavasta menettelystä 18 päivänä joulukuuta 1992 annetun lain (1336/1992) 13 §:n nojalla:
+
+## 1 § Soveltamisala
+
+Tätä asetusta sovelletaan myönnettäessä yhteisön sokerialan väliaikaisesta rakenneuudistusjärjestelmästä ja yhteisen maatalouspolitiikan rahoituksesta annetun asetuksen (EY) N:o 1290/2005 muuttamisesta annetussa neuvoston asetuksessa (EY) N:o 320/2006, jäljempänä *neuvoston asetus*, 3 artiklassa tarkoitettua sokerialan väliaikaista rakenneuudistustukea.
+
+## 2 § Määritelmät
+
+Tässä asetuksessa tarkoitetaan:
+
+- 1\) *yrityksellä* yritystä, joka luopuu kokonaan tai osittain sokerin tuotantokiintiöstään ja purkaa asianomaiseen tuotantoon liittyvät tuotantovälineet;
+- 2\) *viitekaudella* sokerialan markkinointivuotta 2006/2007;
+- 3\) *perustoimitusoikeudella* viljelijälle viitekaudelle myönnettyä oikeutta tuottaa kiintiösokeria;
+- 4\) *viljelijällä* luonnollista henkilöä tai oikeushenkilöä taikka luonnollisten ja oikeushenkilöiden yhteenliittymää, jolla on viitekaudella sokerin perustoimitusoikeus;
+- 5\) *koneurakoitsijalla* luonnollista henkilöä tai oikeushenkilöä taikka luonnollisten ja oikeushenkilöiden yhteenliittymää, joka on viitekaudella rahallista korvausta vastaan sopimuksen perusteella omistamillaan maatalouskoneilla urakoinut viljelijälle sokerijuurikkaan viljelytöitä;
+- 6\) *rakenneuudistusrahastolla* neuvoston asetuksen 1 artiklassa tarkoitettua rahastoa.
+
+## 3 § Yrityksen tuotantovälineiden purkaminen sekä sosiaalisten ja ympäristöä koskevien sitoumusten täyttäminen
+
+Yrityksen on purettava tuotantovälineet sekä täytettävä neuvoston asetuksen 3 artiklan 3 kohdan c alakohdassa ja 4 kohdan c alakohdassa tarkoitetut sosiaaliset ja ympäristöä koskevat vaatimukset 30 päivään syyskuuta 2010 mennessä.
+
+## 4 § Viljelijöille ja koneurakoitsijoille maksettava osuus rakenneuudistustuesta
+
+Viljelijöille ja koneurakoitsijoille maksetaan rakenneuudistustuen kokonaismäärästä 17 prosenttia, josta koneurakoitsijoiden osuus on enintään 10 prosenttia eli enintään 1,7 prosenttia tuen kokonaismäärästä. Viljelijöille ja koneurakoitsijoille maksettavan tuen kokonaismäärä on enintään 6,96 miljoonaa euroa.
+
+Tuen maksamisen edellytyksenä on, että rakenneuudistusrahastossa on käytettävissä varat tuen maksamiseen.
+
+## 5 § Viljelijöille ja koneurakoitsijoille maksettavan tuen määräytymisperusteet
+
+Viljelijälle maksettava tuki määräytyy viitekauden perustoimitusoikeuden perusteella siten, että tukea maksetaan 38 prosentille viitekauden perustoimitusoikeuden määrästä. Tuen määrä on 113,50 euroa tonnilta. Tuen maksamisesta viljelijälle takautuvasti säädetään neuvoston asetuksen 3 artiklan 8 kohdassa. Takautuvan tuen määrä on 178,80 euroa tonnilta. (19.6.2008/417)
+
+Koneurakoitsijalle maksettava tuki määräytyy kasvukautta 2006 koskevan sopimuksen perusteella urakoidun sokerijuurikkaan kylvö- ja korjuualan perusteella siten, että tukea maksetaan 30 prosentille urakoitujen kylvö- ja korjuuhehtaarien määrästä. Koneurakoitsijan tukea ei kuitenkaan makseta sellaiselta juurikasalalta, joka on koneurakoitsijan tai kylvö- taikka korjuukoneen omistajan tai omistajien hallinnassa. Tuen määrä on 370 euroa hehtaarilta. (19.6.2008/417)
+
+Edellä 1 ja 2 momentissa tarkoitettua yksikkötukea voidaan alentaa, jos tukikelpoisten hakemusten perusteella laskettu tuen määrä ylittää 4 §:n 1 momentissa säädetyn enimmäismäärän.
+
+Koneurakoitsijan tukea hakevan tulee liittää hakemukseensa kirjallinen sopimus urakoinnista tai muu luotettava selvitys urakoinnista.
+
+## 6 § Viljelijöille ja koneurakoitsijoille maksettavan tuen hakeminen ja myöntäminen
+
+Viljelijän tulee jättää tukihakemus sen kunnan maaseutuelinkeinoviranomaiselle, jonka alueella tilan talouskeskus sijaitsee. Jos maatilalla ei ole talouskeskusta, hakemus jätetään sen kunnan maaseutuelinkeinoviranomaiselle, jonka alueella pääosa maatilan pelloista sijaitsee. Tuen myöntämisestä päättää kunnan maaseutuelinkeinoviranomainen.
+
+Koneurakoitsijan tulee jättää tukihakemus sen kunnan maaseutuelinkeinoviranomaiselle, jossa sillä on kotipaikka. Tuen myöntämisestä päättää kunnan maaseutuelinkeinoviranomainen.
+
+## 7 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2007.
+
+Ennen asetuksen voimaantuloa voidaan ryhtyä asetuksen täytäntöönpanon edellyttämiin toimenpiteisiin.
+
+## Muutossäädösten voimaantulo ja soveltaminen
+
+### 19.6.2008/417:
+
+Tämä asetus tulee voimaan 25 päivänä kesäkuuta 2008.
+
+Ennen asetuksen voimaantuloa voidaan ryhtyä asetuksen täytäntöönpanon edellyttämiin toimenpiteisiin.

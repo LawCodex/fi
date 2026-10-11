@@ -1,0 +1,54 @@
+---
+title: "Valtioneuvoston asetus toimivaltaisen eläkelaitoksen määräytymisestä"
+identifier: "1399/2006"
+eli: "http://data.finlex.fi/eli/sd/2006/1399/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2006-12-28
+entry_into_force: 2007-01-01
+last_amended: 2006-12-28
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2006/1399"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2006/1399/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus toimivaltaisen eläkelaitoksen määräytymisestä
+
+*1399/2006*
+
+Valtioneuvoston päätöksen mukaisesti, joka on tehty valtiovarainministeriön esittelystä, säädetään 22 päivänä joulukuuta 2006 annetun valtion eläkelain (1295/2006) 114 §:n 3 momentin nojalla:
+
+## 1 § Soveltamisala
+
+Tässä asetuksessa annetaan valtion eläkelakia (1295/2006) täydentävät säännökset valtion eläkelain 109 §:ssä tarkoitetun viimeisen eläkelaitoksen määräytymisestä.
+
+## 2 § Toimivaltainen viimeinen eläkelaitos
+
+Jos työntekijälle oli viimeksi ennen eläketapahtumaa järjestetty samanaikaisesti sekä valtion eläkelain että valtion eläkelain 109 §:n 1 momentissa tarkoitetun muun eläkelain mukainen eläketurva, valtion eläkelain 109 §:ssä tarkoitettu viimeinen eläkelaitos on se eläkelaitos, joka on järjestänyt eläketurvan ensiksi alkaneesta työ- tai virkasuhteesta taikka yrittäjätoiminnasta. Jos edellä tarkoitetut työ- tai virkasuhteet taikka yrittäjätoiminta ovat alkaneet samanaikaisesti eikä työntekijällä tällöin ole kunnallisen eläkelain mukaista palvelua, viimeinen eläkelaitos on Valtiokonttori. Kuitenkin jos työntekijälle oli viimeksi ennen eläketapahtumaa järjestetty samanaikaisesti sekä yksityisten alojen eläkelain että valtion eläkelain mukainen eläketurva, viimeinen eläkelaitos on Valtiokonttori, jos työkyvyttömyyseläkettä määrättäessä ei oteta huomioon tulevaa aikaa ja työntekijä tulee työkyvyttömäksi valtion palveluksen jatkuessa.
+
+Jos eläkettä määrättäessä otetaan huomioon tuleva aika ja työntekijän eläketurva oli eläketapahtumavuotta edeltävän vuoden lopussa tai viimeksi sitä ennen järjestetty samanaikaisesti yksityisten alojen ja julkisten alojen eläkelaitoksessa, valtion eläkelain 110 §:n 1 momentissa tarkoitettu viimeinen eläkelaitos on se eläkelaitos, joka on järjestänyt työntekijän eläketurvan näistä ensiksi alkaneesta työ- tai virkasuhteesta taikka yrittäjätoiminnasta. Jos kuitenkin työntekijä tulee työkyvyttömäksi julkisten alojen työ- tai virkasuhteen jatkuessa ja viimeinen eläkelaitos olisi yksityisten alojen tai muu julkisten alojen eläkelaitos ensiksi alkaneen työ- tai virkasuhteen taikka yrittäjätoiminnan perusteella, yksityisten alojen ja julkisten alojen eläkelaitokset ratkaisevat eläkeasian erikseen.
+
+Yksityisten alojen ja julkisten alojen eläkelaitokset ratkaisevat eläkeasian erikseen myös silloin, jos eläke lasketaan työkyvyttömyyseläkkeenä mutta myönnetään vanhuuseläkkeenä valtion eläkelain 50 §:n 3 momentin mukaisesti ja työntekijän eläketurva oli järjestetty eläketapahtumavuotta edeltävän kalenterivuoden lopussa tai viimeksi sitä ennen yksityisten alojen eläkelakien mukaan.
+
+## 3 § Toimivaltainen viimeinen eläkelaitos osa-aikaeläkeasioissa
+
+Osa-aikaeläkettä haettaessa viimeinen eläkelaitos on se eläkelaitos, joka on järjestänyt eläketurvan siitä työ- tai virkasuhteesta taikka yrittäjätoiminnasta, josta työntekijä siirtyy osa-aikaeläkkeelle.
+
+Jos osa-aikaeläkettä on maksettu samanaikaisesti sekä valtion eläkelain että valtion eläkelain 109 §:n 1 momentissa tarkoitetun muun eläkelain mukaan, vanhuuseläkettä myönnettäessä viimeinen eläkelaitos on se osa-aikaeläkettä maksanut eläkelaitos, josta myönnettävä uusi eläke alkaa aikaisemmin. Jos uusi eläke alkaa samanaikaisesti eikä työntekijälle ole ollut maksussa osa-aikaeläkettä kunnallisen eläkelain mukaan, viimeinen eläkelaitos on Valtiokonttori.
+
+## 4 § Toimivaltainen viimeinen eläkelaitos perhe-eläkeasioissa
+
+Perhe-eläkettä haettaessa valtion eläkelain 109 §:ssä tarkoitettu viimeinen eläkelaitos on se eläkelaitos, jossa edunjättäjän oma eläkeasia olisi valtion eläkelain 109 ja 110 §:n 1 momentin sekä tämän asetuksen 2 §:n mukaan käsitelty, jos työntekijä olisi tullut työkyvyttömäksi kuolinpäivänään.
+
+Jos jokin julkisten alojen eläkelaitos tai yksityisten alojen eläkelaitos maksoi edunjättäjälle ennen hänen kuolemaansa vanhuus-, työkyvyttömyys-, työttömyys- tai osa-aikaeläkettä taikka sukupolvenvaihdoseläkettä, luopumiskorvausta tai luopumistukea valtion eläkelain 109 §:n mukaan, tämä eläkelaitos käsittelee ja ratkaisee myös hänen jälkeensä myönnettävää perhe-eläkettä koskevan hakemuksen ja hoitaa muut viimeiselle eläkelaitokselle kuuluvat eläkelaitoksen tehtävät.
+
+## 5 § Eläkehakemuksen siirtäminen toimivaltaiselle eläkelaitokselle
+
+Jos eläkehakemus on tehty muulle kuin valtion eläkelain 109 §:n tai tämän asetuksen 2–4 §:n mukaan toimivaltaiselle eläkelaitokselle, on hakemus siirrettävä toimivaltaiselle eläkelaitokselle. Samoin on meneteltävä, jos eläkehakemus on toimitettu sellaiseen eläkelaitokseen, jossa vakuutettu työ- tai virkasuhde taikka yrittäjätoiminta ei oikeuta eläkkeeseen.
+
+## 6 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2007.

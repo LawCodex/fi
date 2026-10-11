@@ -1,0 +1,49 @@
+---
+title: "Valtioneuvoston kanslian asetus valtioneuvoston kanslian suoritteiden maksullisuudesta vuosina 2024 ja 2025"
+identifier: "1174/2023"
+eli: "http://data.finlex.fi/eli/sd/2023/1174/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2023-12-18
+entry_into_force: 2024-01-01
+last_amended: 2023-12-18
+status: in_force
+administrative_branch: "Valtioneuvoston kanslia"
+source: "https://www.finlex.fi/fi/lainsaadanto/2023/1174"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2023/1174/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston kanslian asetus valtioneuvoston kanslian suoritteiden maksullisuudesta vuosina 2024 ja 2025
+
+*1174/2023*
+
+Valtioneuvoston kanslian päätöksen mukaisesti säädetään valtion maksuperustelain (150/1992) 8 §:n nojalla, sellaisena kuin se on laissa 348/1994:
+
+## 1 § Soveltamisala
+
+Tässä asetuksessa säädetään valtioneuvoston kanslian suoritteista perittävistä maksuista.
+
+## 2 § Maksulliset liiketaloudellisin perustein hinnoiteltavat suoritteet
+
+Suoritteita, jotka valtioneuvoston kanslia hinnoittelee liiketaloudellisin perustein, ovat seuraavat tilaukseen tai muuhun toimeksiantoon perustuvat palvelut tai muut suoritteet:
+
+- 1\) valtioneuvoston kanslian hallinnassa olevien laitteiden käyttö sekä käyttöön liittyvät muut palvelut, jos näitä suoritteita tuotetaan valtionhallinnon ulkopuolisille;
+- 2\) julkaisut ja vastaavat muut suoritteet;
+- 3\) asiantuntija-, koulutus- ja tietopalvelut;
+- 4\) valokopiot, tulosteet, pöytäkirjanotteet ja muut jäljennökset, lukuun ottamatta 3 §:n 2 momentissa tarkoitettuja kopioita ja tulosteita;
+- 5\) muut toimeksiantoon perustuvat tai siihen verrattavat kanslian toimialaan liittyvät palvelut.
+
+## 3 § Muut maksulliset suoritteet
+
+Muita valtioneuvoston kanslian tuottamia maksullisia suoritteita, jotka hinnoitellaan valtion maksuperustelain (150/1992) 7 §:n 2 momentin mukaisesti, ovat:
+
+- 1\) valtioneuvoston kanslian hallinnassa olevien laitteiden käyttö sekä käyttöön liittyvät muut palvelut muissa kuin 2 §:n 1 kohdassa tarkoitetuissa tilanteissa;
+- 2\) valtioneuvoston hallintoyksikön erillisen sopimuksen perusteella tuottamat virasto-, kuljetus-, toimisto- ja tietohallintopalvelut sekä muut vastaavat tukipalvelut.
+
+Viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 34 §:n 2 momentissa tarkoitetusta tiedon esille hakemisesta sekä 3 momentissa tarkoitettujen kopioiden ja tulosteiden antamisesta perittävistä maksuista päättää valtioneuvoston kanslia ottaen huomioon, mitä mainitun lain 34 §:ssä säädetään.
+
+## 4 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2024 ja on voimassa 31 päivään joulukuuta 2025.

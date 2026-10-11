@@ -1,0 +1,58 @@
+---
+title: "Valtiovarainministeriön asetus julkisen notaarin suoritteiden maksuista"
+identifier: "1685/2009"
+eli: "http://data.finlex.fi/eli/sd/2009/1685/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2009-12-21
+entry_into_force: 2010-01-01
+last_amended: 2009-12-21
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2009/1685"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2009/1685/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtiovarainministeriön asetus julkisen notaarin suoritteiden maksuista
+
+*1685/2009*
+
+Valtiovarainministeriön asetuksen mukaisesti säädetään 21 päivänä helmikuuta 1992 annetun valtion maksuperustelain (150/1992) 8 §:n, sellaisena kuin se on laissa 348/1994, nojalla:
+
+## 1 § Soveltamisala
+
+Tässä asetuksessa määrätään maistraateissa toimivan julkisen notaarin suoritteiden maksullisuudesta lukuun ottamatta julkisen notaarin kaupanvahvistuksesta ja tiedoksiannosta perimiä maksuja, joista on säädetty erikseen.
+
+## 2 § Maksuttomat suoritteet
+
+Isyyslain (700/1975) 15 §:n mukaisesta tunnustamislausuman vastaanottamisesta ja isyyslain 18 §:n mukaisesta kuulemisen toimittamisesta sekä hyväksymisen vastaanottamisesta ei peritä maksua.
+
+## 3 § Maksulliset julkisoikeudelliset suoritteet
+
+Julkisen notaarin suoritteista peritään seuraavat kiinteät maksut:
+
+- 1\) protesti 25 euroa;
+- 2\) tallelokeron avaaminen ja sulkeminen 42 euroa ensimmäiseltä lokerolta ja jokaiselta seuraavalta lokerolta 6 euroa;
+- 3\) ansioluettelon todistaminen 35 euroa;
+- 4\) täysivaraisuustodistus 20 euroa;
+- 5\) allekirjoituksen oikeaksi todistaminen 7 euroa kultakin allekirjoitukselta;
+- 6\) asiakirjajäljennöksen oikeaksi todistaminen 3,50 euroa sivulta, kuitenkin enintään 100 euroa asiakirjalta; sekä
+- 7\) ulkomaisten asiakirjojen laillistamisvaatimusten poistamisesta tehdyssä yleissopimuksessa (SopS 46/1985) tarkoitettu todistus (apostille) 10 euroa.
+
+Allekirjoituksen oikeaksi todistamisen yhteydessä suoritettavasta tarkistuksesta julkisesta rekisteristä peritään tarkistuksesta aiheutuneita kustannuksia vastaava maksu.
+
+Muista suoritteista peritään yksittäisen suoritteen omakustannusarvoa vastaava maksu.
+
+Viranomaisten toiminnan julkisuudesta annetun lain 34 §:n 2 momentissa tarkoitetusta tiedon esille hakemisesta sekä saman lain 34 §:n 3 momentissa tarkoitettujen kopioiden ja tulosteiden antamisesta perittävistä maksuista päättää maistraatti ottaen huomioon, mitä viranomaisten toiminnan julkisuudesta annetun lain 34 §:ssä säädetään.
+
+Tallelokeron avaamisesta ja sulkemisesta tai muusta toimenpiteestä aiheutuvat matkakustannukset korvataan julkiselle notaarille valtion varoista matkustussäännön mukaan, jos asiassa vastaavasti peritään matkakustannukset valtiolle.
+
+## 4 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2010 ja on voimassa vuoden 2010 loppuun.
+
+Ennen tämän asetuksen voimaantuloa voidaan ryhtyä sen täytäntöönpanon edellyttämiin toimenpiteisiin.
+
+Suoritteesta, joka on tilattu ennen tämän asetuksen voimaantuloa, peritään maksu ennen tämän asetuksen voimaantuloa voimassa olleen maksuasetuksen mukaan.

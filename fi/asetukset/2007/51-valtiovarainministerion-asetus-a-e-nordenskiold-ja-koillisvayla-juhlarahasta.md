@@ -1,0 +1,64 @@
+---
+title: "Valtiovarainministeriön asetus A. E. Nordenskiöld ja Koillisväylä -juhlarahasta"
+identifier: "51/2007"
+eli: "http://data.finlex.fi/eli/sd/2007/51/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2007-01-23
+entry_into_force: 2007-02-01
+last_amended: 2007-01-23
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2007/51"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2007/51/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtiovarainministeriön asetus A. E. Nordenskiöld ja Koillisväylä -juhlarahasta
+
+*51/2007*
+
+Valtiovarainministeriön päätöksen mukaisesti säädetään metallirahasta 27 päivänä maaliskuuta 1998 annetun lain (216/1998) 1 §:n 2 momentin nojalla, sellaisena kuin se on laissa 378/2002:
+
+## 1 §
+
+Adolf Erik Nordenskiöldin syntymän 175-vuotispäivän johdosta lyödään 10 euron A. E. Nordenskiöld ja Koillisväylä -juhlaraha.
+
+## 2 §
+
+Juhlaraha on hopeaseosta, jonka painosta 925 promillea on hopeaa ja 75 promillea kuparia. Pitoisuudet saavat vaihdella enintään ± 10 promilleyksikköä.
+
+## 3 §
+
+Juhlarahan halkaisija on 38,6 ± 0,1 millimetriä ja paino 25,5 ± 0,5 grammaa.
+
+Enintään 5 prosenttia rahoista saa poiketa halkaisijastaan enemmän kuin ± 0,1 millimetriä.
+
+## 4 §
+
+Juhlarahat ovat ympyrän muotoisia. Kuvat ja kirjoitukset laakapinnoilla on sijoitettu siten, että rahoja kirjan lehden tavoin käännettäessä kumpikin puoli on oikein päin.
+
+Rahassa on sen suunnitelleen taiteilijan sukunimen alkukirjain P, Rahapaja Oy:n tunnus ja Eurooppa-yhteistunnus.
+
+## 5 §
+
+Juhlaraha on seuraavan selitelmän ja kuvan mukainen.
+
+Rahan tunnuspuolella on keskellä kohokuvioina henkilöhahmo, jonka kädet pitelevät laivan ruoria. Alhaalla vasemmalla on plastinen pinta, jossa on kohokuviona vuosiluku 2007 ja oikeassa alakulmassa kirjain P. Ylhäällä on kaaren muotoisena kohokuviona vasemmalta oikealle teksti A. E. NORDENSKIÖLD ja vasemmalla kaaren muotoisena kohokuviona alhaalta ylös vuosiluvat 1832 - 1901.
+
+Rahan arvopuolella on plastinen pinta, jossa ylhäällä vasemmalla on syvennyskuviona labyrintti. Vasemmalta alas on kaaren muotoisena kohokuviona teksti SUOMI FINLAND, ja yläpuolella kohokuviona arvomerkintä 10 €. Oikealla ylhäällä, labyrinttikuviossa on kohokuviona Rahapaja Oy:n tunnus ja labyrintin vieressä kohokuviona Eurooppa-yhteistunnus. Oikeassa laidassa on ohuena syvennyskuviona riimukirjainten tapaisina kirjaimina ja kolmelle riville jaettuna teksti NORTH-/EAST/ PASSAGE.
+
+![](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2007/51/fin@/media/5337.gif)
+
+## 6 §
+
+Osa juhlarahoista lyödään erikoislyöntinä, jolloin rahoissa on peilikiiltoinen pohja ja mattapintainen kuvio.
+
+## 7 §
+
+Juhlarahojen tarkemmat yksityiskohdat ilmenevät Rahapaja Oy:n hallussa olevista perusmalleista ja -työkaluista.
+
+## 8 §
+
+Tämä asetus tulee voimaan 1 päivänä helmikuuta 2007.

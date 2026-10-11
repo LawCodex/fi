@@ -1,0 +1,74 @@
+---
+title: "Ympäristöministeriön asetus biosidivalmisteita ja niiden tehoaineita koskevista hakemuksista ja ilmoituksista"
+identifier: "419/2014"
+eli: "http://data.finlex.fi/eli/sd/2014/419/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2014-06-05
+entry_into_force: 2014-06-15
+last_amended: 2014-06-05
+status: in_force
+administrative_branch: "Ympäristöministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2014/419"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2014/419/fin@"
+retrieved: 2026-10-11
+---
+
+# Ympäristöministeriön asetus biosidivalmisteita ja niiden tehoaineita koskevista hakemuksista ja ilmoituksista
+
+*419/2014*
+
+Ympäristöministeriön päätöksen mukaisesti säädetään kemikaalilain (599/2013) 28 §:n 3 momentin ja 34 §:n 3 momentin nojalla:
+
+## 1 § Biosidivalmisteen hyväksymishakemus
+
+Sen lisäksi, mitä kemikaalilain (599/2013) 28 §:n 3 momentissa säädetään, biosidivalmisteen hyväksymistä koskevaan hakemukseen on liitettävä seuraavat tiedot:
+
+- 1\) jokaisesta kemiallisesta biosidivalmisteen tehoaineesta tämän asetuksen liitteen 1 mukaiset tiedot;
+- 2\) kemiallisesta biosidivalmisteesta liitteen 2 mukaiset tiedot;
+- 3\) valmisteesta, jonka tehoaine on mikro-organismi, biosidiasetuksen liitteessä II olevan 2 osaston ja liitteessä III olevan 2 osaston mukaiset tiedot.
+
+## 2 § Tutkimukset
+
+Biosidivalmisteiden tehoaineista ja biosidivalmisteista vaadittavien liitteissä 1 ja 2 mainittujen tietojen on perustuttava luotettaviin ja hyvin dokumentoituihin tutkimuksiin tai selvityksiin. Tietoihin on liitettävä yksityiskohtainen ja täydellinen kuvaus suoritetuista tutkimuksista ja käytetyistä menetelmistä sekä kirjallisuusviittaukset näihin menetelmiin.
+
+Kemiallisten biosidivalmisteiden ja niiden sisältämien tehoaineiden fysikaalisia ja kemiallisia ominaisuuksia sekä terveys- ja ympäristövaikutuksia koskevien tietojen on perustuttava tutkimuksiin, jotka on tehty testimenetelmien vahvistamisesta kemikaalien rekisteröinnistä, arvioinnista, lupamenettelyistä ja rajoituksista (REACH) annetun Euroopan parlamentin ja neuvoston asetuksen asetuksen (EY) N:o 1907/2006 nojalla annetussa komission asetuksessa (EY) N:o 440/2008 kuvatuilla menetelmillä tai Taloudellisen yhteistyön ja kehityksen järjestön OECD:n testiohjeiden mukaisesti (OECD:n päätös C(81)30 Annex 1) noudattaen kemikaalilain 24 §:n mukaisia vaatimuksia testauslaboratorioista. Jos yhtä luotettavat tiedot voidaan saada muilla kuin mainituilla testimenetelmillä, on niiden käyttö perusteltava hakemuksessa.
+
+## 3 § Poikkeukset tietojen toimittamisesta
+
+Liitteissä 1 ja 2 mainittuja tietoja, jotka eivät ole tarpeen biosidivalmisteelle ehdotetuista käyttötarkoituksista aiheutuvan altistumisen vuoksi, ei tarvitse toimittaa. Sama koskee tietoja, joiden hankkiminen ei ole tieteellisesti perusteltua tai teknisesti mahdollista. Tällaisissa tapauksissa on hakemuksessa esitettävä perustelut.
+
+## 4 § Toisen hakijan toimittamien tietojen käyttäminen
+
+Jos hakemuksessa viitataan toisen hakijan toimittamiin tietoihin, hakemukseen on liitettävä tietojen omistajan antama kirjallinen tietojen käyttölupa. Turvallisuus- ja kemikaaliviraston oikeudesta käyttää tällaisia tietoja hakemuksen käsittelyssä säädetään kemikaalilain 33 §:ssä.
+
+Viitattaessa toisen hakijan toimittamiin tietoihin, hakijan on osoitettava, että hakijan on osoitettava, että biosidivalmiste on koostumukseltaan samanlainen kuin aiemmin hyväksytty valmiste ja että sen tehoaineet, mukaan lukien puhtausaste ja epäpuhtaudet, ovat samat.
+
+Tehoainetta koskevan tutkimusaineiston osalta voidaan viitata myös asiakirja-aineistoon, joka on toimitettu viranomaiselle biosidiasetuksen 89 artiklassa tarkoitettua biosiditehoaineiden työohjelmaa varten.
+
+## 5 § Koetoimintaa koskevat tietovaatimukset
+
+Kemikaalilain 34 §:n 1 momentissa tarkoitetussa tuotannollisesta tutkimus- ja kehittämistyöstä tehtävässä ilmoituksessa on Turvallisuus- ja kemikaalivirastolle toimitettava ennen kokeen aloittamista koesuunnitelma, josta käy ilmi:
+
+- 1\) kokeesta vastaavan ja kokeen tekijän nimi ja yhteystiedot;
+- 2\) kokeen tarkoitus ja kokeen suorituspaikka;
+- 3\) kokeen suunniteltu ajankohta ja kesto;
+- 4\) käytettävien biosidivalmisteiden ja tehoaineiden nimet ja määrät ja tiedot niiden valmistajasta tai maahantuojasta sekä biosidivalmisteiden ja tehoaineiden tunnistetiedot liitteiden 1 ja 2 mukaisesti lukuun ottamatta tietoja valmistusmenetelmästä ja altistumisesta;
+- 5\) käytettävien biosidivalmisteiden tai tehoaineiden turvallisen käytön edellyttämät päällysmerkinnät;
+- 6\) käyttöturvallisuustiedote tai muut saatavilla olevat vastaavat tiedot käytettävien biosidivalmisteiden ja tehoaineiden terveys- ja ympäristövaikutuksista;
+- 7\) muut kokeen hyväksyttävyyden taikka biosidivalmisteiden tai tehoaineiden vaarallisuuden arvioinnin kannalta tarpeelliset tiedot.
+
+Vastaavat tiedot on pyydettäessä toimitettava myös kemikaalilain 34 §:n 1 momentissa tarkoitetuista kirjanpitoa edellyttävistä tieteellisistä kokeista.
+
+## 6 § Lupaa edellyttävä koe
+
+Haettaessa biosidivalmisteelle kemikaalilain 34 §:n 2 momentissa tarkoitettua lupaa on Turvallisuus- ja kemikaalivirastolle toimitettava 5 §:n 1 momentissa luetellut tiedot vähintään 60 päivää ennen kokeen aloittamista. Lisäksi hakemukseen on liitettävä tiedot kokeen turvallisen suorittamisen edellyttämistä varotoimista.
+
+## 7 § Voimaantulo
+
+Tämä asetus tulee voimaan 15 päivänä kesäkuuta 2014.
+
+Tällä asetuksella kumotaan biosidivalmisteita ja niiden tehoaineita koskevista hakemuksista ja ilmoituksista annettu ympäristöministeriön asetus (467/2000).
+
+[Liitteet 1 ja 2: YMa biosidivalmisteita ja niiden tehoaineita koskevista hakemuksista ja ilmoituksista](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2014/419/fin@/media/6374.pdf)

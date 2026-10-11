@@ -1,0 +1,40 @@
+---
+title: "Sosiaali- ja terveysministeriön asetus yhteisesti kustannettavien kulujen jakamisesta eläkelaitosten kesken"
+identifier: "963/2016"
+eli: "http://data.finlex.fi/eli/sd/2016/963/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2016-11-14
+entry_into_force: 2017-01-01
+last_amended: 2016-11-14
+status: in_force
+administrative_branch: "Sosiaali- ja terveysministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2016/963"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2016/963/fin@"
+retrieved: 2026-10-11
+---
+
+# Sosiaali- ja terveysministeriön asetus yhteisesti kustannettavien kulujen jakamisesta eläkelaitosten kesken
+
+*963/2016*
+
+Sosiaali- ja terveysministeriön päätöksen mukaisesti säädetään työntekijän eläkelain (395/2006) 179 §:n 4 momentin ja merimieseläkelain (1290/2006) 159 §:n 4 momentin nojalla, sellaisena kuin niistä on työntekijän eläkelain 179 §:n 4 momentti laissa 69/2016:
+
+## 1 §
+
+Tässä asetuksessa eläkelaitoksella tarkoitetaan työntekijän eläkelain (395/2006) 1 §:n 3 momentissa tarkoitettua työeläkevakuutusyhtiötä, eläkekassaa ja eläkesäätiötä sekä Merimieseläkekassaa.
+
+## 2 §
+
+Työntekijän eläkelain voimaanpanolain (396/2006) 5 §:n 5 momentissa tarkoitettu erityisen kuolevuusperusteen yli- tai alijäämä otetaan huomioon määrättäessä työntekijän eläkelain 179 §:n 3 momentin sekä merimieseläkelain 159 §:n 3 momentin mukaisesti eläkelaitosten kuluja työntekijän eläkelain 179 §:n 1 momentin 1, 2 ja 4 kohdan ja merimieseläkelain 159 §:n 1 momentin 1, 2 ja 4 kohdan mukaisista vanhuuseläkkeistä, lukuun ottamatta työkyvyttömyyseläkkeiden yhteydessä kertasuorituksina maksettuja vanhuuseläkkeitä, sekä työntekijän eläkelain 179 §:n 1 momentin 8 kohdan mukaisista vajauksista.
+
+Eläkelaitokset vastaavat työntekijän eläkelain 179 §:n 1 momentin 1–5 ja 10 kohdan mukaisista ja merimieseläkelain 159 §:n 1 momentin 1–5 ja 9 kohdan mukaisista muista kuin tämän pykälän 1 momentissa mainituista kuluista, työntekijän eläkelain voimaanpanolain 30 a §:n 1 momentissa tarkoitetun rekisteröidyn lisäeläketurvan ja mainitun pykälän 2 momentissa tarkoitetun työnantajan eläkevakuutuksen mukaisien etuuksien aiheuttamista kuluista ja 5 §:n 1 momentissa tarkoitetusta täydennysmäärästä yhteismäärällä, joka saadaan mainitun lain 30 c §:n 2 momentissa tarkoitetulla osuudella mainitun pykälän 3 momentissa tarkoitetusta tasausvastuusta ja mahdollisista muista kuin työntekijän eläkelain mukaisesta turvasta saatavista eristä. Siltä osin kuin kuluja ei saada katetuksi edellä mainitulla tavalla, eläkelaitokset vastaavat niistä eläkelaitoksessa vakuutettujen työansioiden suhteessa.
+
+## 3 §
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2017.
+
+Tällä asetuksella kumotaan sosiaali- ja terveysministeriön asetus perusteista, joiden mukaan eläkelaitokset vastaavat työntekijän eläkelain 179 §:n 1 momentissa ja merimieseläkelain 159 §:n 1 momentissa tarkoitetuista kuluista (1423/2006).
+
+Tätä asetusta sovelletaan ensimmäisen kerran vuoden 2017 kustannustenjakoon.

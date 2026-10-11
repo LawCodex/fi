@@ -1,0 +1,88 @@
+---
+title: "Valtioneuvoston asetus vapaaehtoisen maanpuolustuksen neuvottelukunnasta"
+identifier: "960/2007"
+eli: "http://data.finlex.fi/eli/sd/2007/960/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2007-11-01
+entry_into_force: 2008-01-01
+last_amended: 2017-06-08
+status: in_force
+administrative_branch: "Puolustusministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2007/960"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2007/960/fin@20170335"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus vapaaehtoisen maanpuolustuksen neuvottelukunnasta
+
+*960/2007*
+
+Valtioneuvoston päätöksen mukaisesti, joka on tehty puolustusministeriön esittelystä, säädetään vapaaehtoisesta maanpuolustuksesta 11 päivänä toukokuuta 2007 annetun lain (556/2007) 4 §:n 3 momentin nojalla:
+
+## 1 § Neuvottelukunnan tehtävät
+
+Vapaaehtoisen maanpuolustuksen neuvottelukunnan tehtävänä on:
+
+- 1\) yhteensovittaa ja ohjata vapaaehtoisen maanpuolustuksen järjestämistä;
+- 2\) vahvistaa vapaaehtoisen maanpuolustuksen asemaa yhteiskunnassa;
+- 3\) seurata ja arvioida vapaaehtoista maanpuolustusta koskevien järjestelyjen toimivuutta ja vaikuttavuutta sekä tehdä esityksiä ja aloitteita vapaaehtoisen maanpuolustuksen kehittämiseksi;
+- 4\) antaa lausuntoja vapaaehtoisen maanpuolustuksen kannalta tärkeistä suunnitelmista ja ehdotuksista;
+- 5\) ylläpitää maanpuolustukseen liittyvää keskustelua ja kehittää kansalaisten maanpuolustustietoisuutta;
+- 6\) edistää kansalaisten vapaaehtoista maanpuolustustoimintaa ja maanpuolustusvalmiutta;
+- 7\) ohjata ja valvoa alueellisten ja toimialakohtaisten neuvottelukuntien toimintaa.
+
+Neuvottelukunta toimittaa vuosittain puolustusministeriölle työsuunnitelman ja toimintakertomuksen.
+
+## 2 § Kokoonpano
+
+Neuvottelukunnassa on puheenjohtaja ja varapuheenjohtaja sekä vähintään 10 ja enintään 15 muuta jäsentä. Kullakin jäsenellä puheenjohtajaa ja varapuheenjohtajaa lukuun ottamatta on henkilökohtainen varajäsen.
+
+Jos neuvottelukunnan puheenjohtaja tai varapuheenjohtaja taikka muu jäsen tai varajäsen eroaa tai kuolee kesken toimikauden, puolustusministeriö nimeää hänen tilalleen jäljellä olevaksi toimikaudeksi uuden henkilön.
+
+## 3 § Sihteerit
+
+Neuvottelukunnalla on pääsihteeri, joka on virkasuhteessa puolustusministeriöön.
+
+Neuvottelukunnalla voi olla myös sivutoimisia sihteereitä.
+
+## 4 § Alueelliset ja toimialakohtaiset neuvottelukunnat (8.6.2017/335)
+
+Vapaaehtoisen maanpuolustuksen neuvottelukunta voi asettaa maavoimiin alueellisia ja puolustushaaroihin toimialakohtaisia neuvottelukuntia sen omaa toimikautta vastaavaksi ajaksi.
+
+## 5 § Alueellisten ja toimialakohtaisten neuvottelukuntien kokoonpano
+
+Alueellisessa ja toimialakohtaisessa neuvottelukunnassa on puheenjohtajan ja varapuheenjohtajan lisäksi enintään 15 muuta jäsentä ja heillä henkilökohtaiset varajäsenet. Jos neuvottelukunnan puheenjohtaja tai varapuheenjohtaja taikka muu jäsen tai varajäsen eroaa tai kuolee kesken toimikauden, vapaaehtoisen maanpuolustuksen neuvottelukunta nimeää neuvottelukuntaan hänen tilalleen jäljellä olevaksi toimikaudeksi uuden henkilön.
+
+Alueellisessa neuvottelukunnassa tulee olla ainakin puolustusvoimien, rajavartiolaitoksen, valtion aluehallinnon viranomaisten sekä maanpuolustusjärjestöjen edustus. Jäsenten nimeämisessä tulee ottaa huomioon alueellinen kattavuus ja neuvottelukunnan tehtävien kannalta oleellinen asiantuntemus sekä kielelliset näkökohdat.
+
+Alueellisilla ja toimialakohtaisilla neuvottelukunnilla voi olla sivutoimisia sihteereitä.
+
+## 6 § Alueellisten ja toimialakohtaisten neuvottelukuntien tehtävät
+
+Alueellisten ja toimialakohtaisten neuvottelukuntien tehtävänä on toimia toimialueellaan tai -alallaan eri tahoja yhdistävänä aloitteellisena asiantuntija-, yhteistyö- ja vuorovaikutuselimenä.
+
+Neuvottelukuntien tulee toimittaa vuosittain vapaaehtoisen maanpuolustuksen neuvottelukunnalle työsuunnitelma ja toimintakertomus.
+
+## 7 § Palkkiot ja korvaukset
+
+Vapaaehtoisen maanpuolustuksen neuvottelukunnan sekä alueellisten ja toimialakohtaisten neuvottelukuntien puheenjohtajalle, varapuheenjohtajalle ja muille jäsenille, varajäsenille, sihteereille sekä asiantuntijoille maksettavista palkkioista ja kustannusten korvaamisesta päättää puolustusministeriö.
+
+Matkakustannusten korvaamiseen sovelletaan valtion virka- ja työehtosopimusta matkakustannusten korvaamisesta.
+
+## 8 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2008.
+
+Tällä asetuksella kumotaan vapaaehtoisen maanpuolustustyön neuvottelukunnasta 12 päivänä helmikuuta 1996 annettu asetus (85/1996).
+
+Ennen asetuksen voimaantuloa voidaan ryhtyä asetuksen täytäntöönpanon edellyttämiin toimenpiteisiin.
+
+Ensimmäinen tämän asetuksen nojalla asetettava neuvottelukunta asetetaan eduskunnan jäljellä olevaksi toimikaudeksi.
+
+## Muutossäädösten voimaantulo ja soveltaminen
+
+### 8.6.2017/335:
+
+Tämä asetus tulee voimaan 1 päivänä heinäkuuta 2017.

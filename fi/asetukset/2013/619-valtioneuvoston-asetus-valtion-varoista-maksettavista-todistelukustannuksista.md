@@ -1,0 +1,84 @@
+---
+title: "Valtioneuvoston asetus valtion varoista maksettavista todistelukustannuksista"
+identifier: "619/2013"
+eli: "http://data.finlex.fi/eli/sd/2013/619/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2013-08-21
+entry_into_force: 2013-09-01
+last_amended: 2013-08-21
+status: in_force
+administrative_branch: "Oikeusministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2013/619"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2013/619/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus valtion varoista maksettavista todistelukustannuksista
+
+*619/2013*
+
+Valtioneuvoston päätöksen mukaisesti, joka on tehty oikeusministeriön esittelystä, säädetään valtion varoista maksettavista todistelukustannuksista annetun lain (666/1972) 7 ja 19 §:n nojalla, sellaisina kuin ne ovat laissa 439/2013:
+
+## Korvausmäärät
+
+### 1 §
+
+Tässä asetuksessa säädetään tuomioistuimeen saapuneelle todistajalle, asianomistajalle, hänen lailliselle edustajalleen ja heidän saattajalleen matka- ja toimeentulokustannuksista sekä taloudellisesta menetyksestä valtion varoista maksettavien korvausten määristä.
+
+### 2 §
+
+Korvauksia määrättäessä matkan katsotaan alkavan silloin, kun korvaukseen oikeutettu lähtee oleskelupaikastaan ja viivytyksettä saapuu kuulemiseen ja päättyvän silloin, kun hän saapuu tai olisi voinut kuulemisensa päätyttyä viivytyksettä saapua oleskelupaikkaansa.
+
+### 3 §
+
+Matkakustannusten korvauksena suoritetaan määrä, joka vastaa kustannuksia yhdestä paikasta alimmassa luokassa lyhintä tietä ja halvinta matkustustapaa käyttäen. Jos rautatiematkalla joudutaan käyttämään makuuvaunupaikkaa tai maksullista istumapaikkaa taikka laivamatkalla hyttipaikkaa, myös siitä aiheutuva maksu korvataan.
+
+Muutakin kuin lyhintä tietä ja halvinta matkustustapaa käyttäen aiheutuneet matkakustannukset korvataan, jos niistä sekä toimeentulokustannuksista ja taloudellisesta menetyksestä maksettavien korvausten yhteismäärä muodostuu valtiolle edullisimmaksi. Matkakustannusten korvauksena voidaan tällöin kuitenkin suorittaa enintään se määrä, joka valtion virkamiehelle suoritettaisiin vastaavasta virkamatkasta.
+
+### 4 §
+
+Toimeentulokustannusten korvauksena suoritettava päiväraha maksetaan jokaiselta matkan alkamisesta lasketulta vuorokaudelta, joka kokonaan tai osaksi on käytetty matkaan. Majoittumiskorvaus maksetaan jokaisesta muualla kuin kulkuneuvossa matkan aikana tapahtuneesta aiheellisesta majoittumisesta.
+
+### 5 §
+
+Päiväraha matkavuorokaudelta on valtion virkamiehille maksettavan kokopäivärahan suuruinen ja, jos matka matkavuorokauden aikana kestää enintään 8 tuntia, osapäivärahan suuruinen.
+
+### 6 §
+
+Majoittumiskorvausta suoritetaan se määrä, jonka korvaukseen oikeutettu osoittaa uskottavasti maksaneensa tai joutuvansa maksamaan majoittumisestaan matkan aikana, kuitenkin enintään korvaus, joka valtion virkamiehelle suoritettaisiin valtion virkaehtosopimuksen mukaan.
+
+### 7 §
+
+Taloudellisesta menetyksestä suoritettavan korvauksen enimmäismäärä on 80 euroa vuorokaudelta.
+
+## Korvausten maksaminen
+
+### 8 §
+
+Todistelukustannusten korvaus maksetaan tilisiirtona tai maksuosoituksena. Tuomioistuimessa läsnä olevalle maksu voidaan erityisestä syystä suorittaa käteisenä rahana.
+
+## Ennakkomaksut
+
+### 9 §
+
+Pyyntö saada ennakolta korvaus matka- ja toimeentulokustannuksista tuomioistuimeen tehtävää matkaa varten voidaan tehdä suullisesti tai kirjallisesti.
+
+### 10 §
+
+Oikeusministeriö vahvistaa kaavan, jonka mukaisesti päätös ennakosta tehdään kolmena kappaleena. Yksi päätöskappale toimitetaan tuomioistuimelle, yksi annetaan ennakkoa saavalle ja yksi jää ennakon myöntäjälle.
+
+### 11 §
+
+Ennakkomaksu suoritetaan tilisiirtona tai maksuosoituksena taikka, jos ennakko ei tällä tavoin olisi ajoissa pyytäjän käytettävissä, käteisenä rahana.
+
+### 12 §
+
+Ennakon saajalle on tehtävä ennakon maksamisen yhteydessä selkoa siitä, että saatu maksu tai osa siitä on suoritettava takaisin valtiolle, jos saaja ei täytä sitä tehtävää, jota varten ennakko on myönnetty. Hänelle on myös annettava menettelyohjeet sen varalta, että tehtävä jää täyttämättä laillisen esteen takia tai muusta syystä tai että sen täyttäminen keskeytyy.
+
+## Voimaantulo
+
+### 13 §
+
+Tämä asetus tulee voimaan 1 päivänä syyskuuta 2013.

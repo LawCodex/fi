@@ -1,0 +1,60 @@
+---
+title: "Valtiovarainministeriön asetus Suomen museot – Museoliitto 100 vuotta -juhlarahasta"
+identifier: "872/2023"
+eli: "http://data.finlex.fi/eli/sd/2023/872/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2023-06-15
+entry_into_force: 2023-06-19
+last_amended: 2023-06-15
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2023/872"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2023/872/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtiovarainministeriön asetus Suomen museot – Museoliitto 100 vuotta -juhlarahasta
+
+*872/2023*
+
+Valtiovarainministeriön päätöksen mukaisesti säädetään metallirahasta annetun lain (216/1998) 1 §:n 2 momentin nojalla, sellaisena kuin se on laissa 378/2002:
+
+## 1 §
+
+Vuonna 2023 julkaistaan Suomen museot – Museoliitto 100 vuotta -aiheinen 20 euron hopeinen juhlaraha.
+
+## 2 §
+
+Juhlaraha on hopeaseosta, jonka painosta 925 promillea on hopeaa ja 75 promillea kuparia. Pitoisuudet saavat vaihdella enintään ± 10 promilleyksikköä.
+
+## 3 §
+
+Juhlarahan halkaisija on 38,6 ± 0,1 millimetriä ja paino 25,5 ± 0,5 grammaa. Enintään 5 prosenttia rahoista saa poiketa halkaisijastaan enemmän kuin ± 0,1 millimetriä. Rahassa on kulutusreuna.
+
+## 4 §
+
+Juhlaraha lyödään erikoislyöntinä, jolloin rahassa on peilikiiltoinen pohja. Kuviot ovat peilikiiltoisella pohjalla mattapintaisia. Juhlarahassa on täysin sileä syrjä.
+
+Juhlarahoista voidaan numeroida täysin satamäärin enintään 500 ensimmäistä kappaletta.
+
+## 5 §
+
+Juhlarahan kuvat ja kirjoitukset laakapinnoilla on sijoitettu siten, että rahoja kirjan lehden tavoin käännettäessä kumpikin puoli on oikein päin.
+
+Rahassa on sen suunnitelleen taiteilijan sukunimen alkukirjain K sekä Liettuan rahapajan tunnus.
+
+## 6 §
+
+Juhlaraha on seuraavan selitelmän ja kuvan mukainen.
+
+Rahan tunnuspuolen keskellä on m-kirjan. M-kirjaimesta alkaa keskustasta kohti reunoja spiraalina kasvava tyylitelty kasviornamentti, joka kiertää myötäpäivään. Spiraali muodostuu sydämen muotoisista lehdistä. Teksti ja vuosiluku SUOMI FINLAND 2023 kiertää rahan kehällä ylhäällä. Taiteilijan sukunimen alkukirjain K on rahan kehällä keskellä oikealla ja sen yläpuolella on Liettuan rahapajan tunnus.
+
+Rahan arvopuolella on hirvieläimen pää. Hirvieläimen sarvet rakentuvat seisovan ihmisjoukon ääriviivoista. Teksti SUOMEN MUSEOT FINLANDS MUSEER kiertää rahan kehällä ylhäällä ja oikealla. Arvomerkintä 20 € on rahan kehällä keskellä alhaalla.
+
+![](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2023/872/fin@/media/8084.gif)
+
+## 7 §
+
+Tämä asetus tulee voimaan 19 päivänä kesäkuuta 2023.

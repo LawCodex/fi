@@ -1,0 +1,42 @@
+---
+title: "Asetus yksinoikeudesta integroidun piirin piirimalliin annetun lain pysyvästä soveltamisesta eräistä valtioista peräisin oleviin piirimalleihin"
+identifier: "1794/1995"
+eli: "http://data.finlex.fi/eli/sd/1995/1794/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 1995-12-29
+entry_into_force: 1996-01-01
+last_amended: 1995-12-29
+status: in_force
+administrative_branch: "Työ- ja elinkeinoministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/1995/1794"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1995/1794/fin@"
+retrieved: 2026-10-11
+---
+
+# Asetus yksinoikeudesta integroidun piirin piirimalliin annetun lain pysyvästä soveltamisesta eräistä valtioista peräisin oleviin piirimalleihin
+
+*1794/1995*
+
+Kauppa- ja teollisuusministerin esittelystä säädetään yksinoikeudesta integroidun piirin piirimalliin 11 päivänä tammikuuta 1991 annetun lain (32/91) 4 §:n 2 momentin nojalla:
+
+## 1 §
+
+Yksinoikeudesta integroidun piirin piirimalliin annettua lakia (32/91) sovelletaan pysyvästi piirimalliin, jonka luoja tai se, jolle piirimallin luojan oikeus on siirtynyt, on Maailman kauppajärjestön perustamissopimukseen (SopS 5/95) liittyneen valtion kansalainen tai jolla on vakinainen asuin- taikka toimipaikka mainittuun sopimukseen liittyneessä valtiossa.
+
+## 2 §
+
+Yksinoikeudesta integroidun piirin piirimalliin annettua lakia sovelletaan myös piirimalliin, joka on ensimmäisen kerran levitetty yleisölle 1 §:ssä tarkoitetussa valtiossa.
+
+## 3 §
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 1996.
+
+Tällä asetuksella kumotaan yksinoikeudesta integroidun piirin piirimalliin annetun lain pysyvästä soveltamisesta eräistä valtioista peräisin oleviin piirimalleihin 17 päivänä syyskuuta 1993 annettu asetus (824/93) siihen myöhemmin tehtyine muutoksineen.
+
+## Esityöt ja allekirjoitukset
+
+### Esityöt
+
+Neuvoston päätös 94/824/EY; EYVL N:o L 349, 31.12.1994, s. 201

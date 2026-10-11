@@ -1,0 +1,71 @@
+---
+title: "Sosiaali- ja terveysministeriön asetus vakuutusyhtiön omaisuuden luovutusta ja panttausta sekä vakuutuksen takaisinostoarvon suorittamista koskevan päätöksen ilmoittamisesta viranomaisille ja rekisteröinnistä"
+identifier: "620/2008"
+eli: "http://data.finlex.fi/eli/sd/2008/620/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2008-09-24
+entry_into_force: 2008-10-01
+last_amended: 2008-09-24
+status: in_force
+administrative_branch: "Sosiaali- ja terveysministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2008/620"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2008/620/fin@"
+retrieved: 2026-10-11
+---
+
+# Sosiaali- ja terveysministeriön asetus vakuutusyhtiön omaisuuden luovutusta ja panttausta sekä vakuutuksen takaisinostoarvon suorittamista koskevan päätöksen ilmoittamisesta viranomaisille ja rekisteröinnistä
+
+*620/2008*
+
+Sosiaali- ja terveysministeriön päätöksen mukaisesti säädetään 18 päivänä heinäkuuta 2008 annetun vakuutusyhtiölain (521/2008) 25 luvun 23 §:n nojalla:
+
+## 1 § Ilmoitukset Patentti- ja rekisterihallitukselle ja ulosottoviranomaiselle
+
+Vakuutusyhtiöön asetetun asiamiehen on viipymättä ilmoitettava Vakuutusvalvontaviraston päättämästä omaisuuden luovutus- ja panttauskiellosta sekä vakuutuksen takaisinostoarvon suorittamista koskevasta kiellosta:
+
+- 1\) Patentti- ja rekisterihallitukselle kaupparekisteriin merkitsemistä varten; ja
+- 2\) vakuutusyhtiön kotipaikan sekä yhtiön kiinteistöjen sijaintipaikkakuntien ulosottoviranomaisille.
+
+Ilmoituksessa on mainittava:
+
+- 1\) vakuutusyhtiön toiminimi, kotipaikka ja osoite sekä yritys- ja yhteisötunnus;
+- 2\) omaisuuden luovutus- ja panttauskiellon sekä vakuutuksen takaisinostoarvon suorittamista koskevan kiellon alkamisen tai peruuttamisen taikka muun lakkaamisen ajankohta sekä Vakuutusvalvontaviraston päätöksen tunnistetiedot;
+- 3\) vakuutusyhtiöön asetetun asiamiehen täydellinen nimi, henkilötunnus, osoite ja kansalaisuus; jos asiamiehellä ei ole suomalaista henkilötunnusta, ilmoituksessa on mainittava syntymäaika;
+- 4\) mihin omaisuuteen luovutus- ja panttauskielto kohdistuu;
+- 5\) omaisuuden luovutus- ja panttauskiellon sekä vakuutuksen takaisinarvon suorittamista koskevan kiellon voimassaoloaika; ja
+- 6\) mikä on ollut kiellon peruuttamisen tai muun lakkaamisen syy.
+
+Asiamiehen on ilmoitettava Patentti- ja rekisterihallitukselle ja ulosottoviranomaisille myös kiellon aikana tehdystä Vakuutusvalvontaviraston päätöksestä, joka merkitsee muutosta 2 momentin 4 ja 5 kohdassa tarkoitettuihin seikkoihin tai joka koskee asiamiehen määräämistä tai vapauttamista tehtävästään.
+
+## 2 § Ilmoitustapa
+
+Edellä 1 §:ssä tarkoitetut ilmoitukset voidaan tehdä postitse tai telekopiolaitteella. Ulosottoviranomaiselle ilmoitus voidaan tehdä myös puhelimitse tai sähköisenä viestinä. Muuten kuin postitse tehty ilmoitus on kuitenkin ilman aiheetonta viivytystä lähetettävä myös postitse alkuperäisenä.
+
+## 3 § Merkintä kaupparekisteriin
+
+Patentti- ja rekisterihallituksen on viipymättä tehtävä kaupparekisteriin merkintä vakuutusyhtiön omaisuuden luovutus- ja panttauskiellon sekä vakuutuksen takaisinostoarvon suorittamista koskevan kiellon alkamisesta ja peruuttamisesta ja muusta lakkaamisesta. Merkinnästä tulee ilmetä kiellon alkamisen tai peruuttamisen taikka muun lakkaamisen ajankohta sekä asiamiehen täydellinen nimi, henkilötunnus, osoite ja kansalaisuus. Jos asiamiehellä ei ole suomalaista henkilötunnusta, merkitään rekisteriin syntymäaika.
+
+Kaupparekisteriin on tehtävä merkintä myös kiellon aikana tehdystä Vakuutusvalvontaviraston päätöksestä, joka merkitsee muutosta 1 §:n 2 momentin 4 ja 5 kohdassa tarkoitettuihin seikkoihin tai joka koskee asiamiehen määräämistä tai vapauttamista tehtävästään.
+
+## 4 § Muut ilmoitukset ja kirjaamistoimet
+
+Jos omaisuuden luovutus- ja panttauskielto kohdistuu omaisuuteen, jota varten on olemassa erityinen kirjaamisjärjestelmä, kiellon alkamisesta, peruuttamisesta ja muusta lakkaamisesta on tehtävä merkintä:
+
+- 1\) kiinteistön sekä kiinteistöön kohdistuvan vuokraoikeuden tai muun kirjatun oikeuden osalta lainhuuto- ja kiinnitysrekisteriin;
+- 2\) kiinnityskelpoisen irtaimen omaisuuden osalta asianomaiseen kiinnityksistä pidettävään rekisteriin;
+- 3\) arvo-osuuksien osalta arvo-osuustilille; ja
+- 4\) patentin, rekisteröidyn tavaramerkin, mallioikeuden, hyödyllisyysmallin ja integroidun piirimallin osalta asianomaiseen rekisteriin.
+
+Asiamiehen on viipymättä tehtävä ilmoitus omaisuuden luovutus- ja panttauskiellon alkamisesta ja peruuttamisesta sekä muusta lakkaamisesta asianomaiselle rekisterinpitäjälle, jonka on viipymättä huolehdittava asiaa koskevan merkinnän tekemisestä rekisteriin.
+
+Jos vakuutusyhtiö harjoittaa arvopaperi-, johdannais- tai valuuttakauppaa, asiamiehen on viipymättä ilmoitettava selvitysyhteisölle omaisuuden luovutus- ja panttauskiellon alkamisesta ja peruuttamisesta sekä muusta lakkaamisesta sekä siitä, jatkaako yhtiö arvopaperi-, johdannais- tai valuuttakauppaa.
+
+## 5 § Vakuutusyhdistykset ja kolmannen maan vakuutusyhtiöt
+
+Mitä edellä tässä asetuksessa säädetään vakuutusyhtiön omaisuuden luovutus- ja panttauskiellon sekä vakuutuksen takaisinostoarvon suorittamista koskevan kiellon ilmoittamisesta viranomaisille ja rekisteröinnistä, sovelletaan myös vakuutusyhdistystä ja kolmannen maan vakuutusyhtiön Suomessa olevaa omaisuutta koskevan vastaavan kiellon ilmoittamiseen ja rekisteröintiin.
+
+## 6 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä lokakuuta 2008.

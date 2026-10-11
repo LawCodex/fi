@@ -1,0 +1,38 @@
+---
+title: "Tasavallan presidentin asetus eCall-hätäpuhelujärjestelmän vaatimustenmukaisuuden arviointiin liittyvien tehtävien hoitamisesta Ahvenanmaalla"
+identifier: "813/2022"
+eli: "http://data.finlex.fi/eli/sd/2022/813/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2022-09-09
+entry_into_force: 2022-09-15
+last_amended: 2022-09-09
+status: in_force
+administrative_branch: "Oikeusministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2022/813"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2022/813/fin@"
+retrieved: 2026-10-11
+---
+
+# Tasavallan presidentin asetus eCall-hätäpuhelujärjestelmän vaatimustenmukaisuuden arviointiin liittyvien tehtävien hoitamisesta Ahvenanmaalla
+
+*813/2022*
+
+Tasavallan presidentin päätöksen mukaisesti säädetään Ahvenanmaan itsehallintolain (1144/1991) 32 §:n nojalla, sellaisena kuin se on osaksi laeissa 1556/1994 ja 68/2004, ja Ahvenanmaan maakunnan hallituksen suostumuksella:
+
+## 1 § Soveltamisala
+
+Tässä asetuksessa säädetään Ahvenanmaan tieliikennelain (Ålands författningssamling 1983:27) 74 §:n nojalla Ahvenanmaan maakunnan hallitukselle kuuluvien Euroopan parlamentin ja neuvoston direktiivin 2010/40/EU täydentämisestä yhteentoimivan EU:n laajuisen eCall-hätäpuhelujärjestelmän yhtenäisen tarjonnan osalta annetussa komission delegoidussa asetuksessa (EU) N:o 305/2013, jäljempänä *eCall-asetus*, tarkoitettujen toimivaltaisen viranomaisen tehtävien siirtämisestä Liikenne ja viestintävirastolle.
+
+## 2 § Arviointitehtävät
+
+Liikenne- ja viestintävirasto toimii Ahvenanmaan tieliikennelain 74 §:ssä tarkoitettuna toimivaltaisena viranomaisena asioissa, jotka koskevat eCall-asetuksen 4 artiklassa tarkoitettua vaatimustenmukaisuuden arviointia Ahvenanmaan eCall-hätäkeskuksen osalta.
+
+## 3 § Kulujen korvaaminen
+
+Ahvenanmaan maakunta maksaa 2 §:ssä tarkoitetuista tehtävien hoitamisesta aiheutuvat kulut. Ahvenanmaan maakunnan hallitus ja Liikenne- ja viestintävirasto sopivat keskenään kulujen maksamisesta.
+
+## 4 § Voimaantulo
+
+Tämä asetus tulee voimaan 15.9.2022.

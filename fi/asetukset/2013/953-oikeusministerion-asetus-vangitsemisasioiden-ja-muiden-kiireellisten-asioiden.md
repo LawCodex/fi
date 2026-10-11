@@ -1,0 +1,125 @@
+---
+title: "Oikeusministeriön asetus vangitsemisasioiden ja muiden kiireellisten asioiden käsittelystä käräjäoikeuksissa eräissä tapauksissa"
+identifier: "953/2013"
+eli: "http://data.finlex.fi/eli/sd/2013/953/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2013-12-13
+entry_into_force: 2014-01-01
+last_amended: 2026-08-13
+status: in_force
+administrative_branch: "Oikeusministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2013/953"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2013/953/fin@20260753"
+retrieved: 2026-10-11
+---
+
+# Oikeusministeriön asetus vangitsemisasioiden ja muiden kiireellisten asioiden käsittelystä käräjäoikeuksissa eräissä tapauksissa
+
+*953/2013*
+
+Oikeusministeriön päätöksen mukaisesti säädetään pakkokeinolain (806/2011) 3 luvun 1 §:n 1 momentin, ulkomaalaislain (301/2004) 124 §:n 1 momentin ja konkurssilain (120/2004) 7 luvun 3 §:n 3 momentin nojalla, sellaisena kuin niistä on konkurssilain 7 luvun 3 §:n 3 momentti laissa 867/2011:
+
+## 1 § Soveltamisala (26.3.2018/184)
+
+Tässä asetuksessa säädetään käräjäoikeuksista, jotka kiireellisissä tapauksissa:
+
+- 1\) saavat päättää pidätetyn vangitsemisesta, laite-etsinnästä sekä salaisista pakko- ja tiedonhankintakeinoista pakkokeinolain (806/2011) 3 luvun 1 §:n 1 momentin, 8 luvun 29 §:n 1 momentin ja 10 luvun 43 §:n 1 momentin, poliisilain (872/2011) 5 luvun 45 §:n 1 momentin, rikostorjunnasta Tullissa annetun lain (623/2015) 3 luvun 44 §:n 1 momentin sekä rikostorjunnasta Rajavartiolaitoksessa annetun lain (108/2018) 39 §:n 1 momentin mukaisissa asioissa; (5.12.2025/1121)
+- 2\) ovat toimivaltaisia käsittelemään ulkomaalaislain (301/2004) 124 §:n 1 momentin mukaisia asioita; sekä
+- 3\) ovat toimivaltaisia käsittelemään konkurssilain (120/2004) 7 luvun 3 §:n mukaisia asioita; (13.8.2026/753)
+- 4\) ovat toimivaltaisia käsittelemään eurooppalaisista esittämismääräyksistä ja eurooppalaisista säilyttämismääräyksistä sähköisten todisteiden hankkimiseksi rikosoikeudellisissa menettelyissä annetun lain (436/2026) 2 luvun 11 ja 14 §:n mukaisia asioita. (13.8.2026/753)
+
+## 2 § Päivystys (27.1.2017/80)
+
+Päivystyksellä tarkoitetaan käräjäoikeuden valmiutta päivystysalueellaan vapunpäivänä, juhannusaattona, itsenäisyyspäivänä, jouluaattona sekä lauantaina, sunnuntaina ja muuksi päiväksi sattuvana kirkollisena juhlapäivänä:
+
+- 1\) vastaanottaa pidätettyä koskevia vangitsemisvaatimuksia sekä käsitellä vangitsemisasioita;
+- 2\) vastaanottaa vaatimuksia ja esityksiä salaisia pakkokeinoja ja salaisia tiedonhankintakeinoja sekä laite-etsintää koskevissa lupa-asioissa ja ratkaisuissa sekä käsitellä näitä asioita; (5.12.2025/1121)
+- 3\) vastaanottaa ilmoituksia ulkomaalaisen säilöönotosta, poikkeuksellisesta sijoittamisesta ja lapsen asumisvelvollisuudesta sekä käsitellä näitä asioita;
+- 4\) vastaanottaa ilmoituksia niskoittelun vuoksi vangittavaksi määrätyn velallisen asioissa sekä käsitellä näitä asioita; (13.8.2026/753)
+- 5\) vastaanottaa ilmoituksia eurooppalaisista esittämismääräyksistä sekä käsitellä ja ratkaista niitä koskevia asioita eurooppalaisista esittämismääräyksistä ja eurooppalaisista säilyttämismääräyksistä sähköisten todisteiden hankkimiseksi rikosoikeudellisissa menettelyissä ja rikosoikeudellisten menettelyjen perusteella annettujen vapaudenmenetyksen käsittävien rangaistusten täytäntöönpanoa varten annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2023/1543 ja eurooppalaisista esittämismääräyksistä ja eurooppalaisista säilyttämismääräyksistä sähköisten todisteiden hankkimiseksi rikosoikeudellisissa menettelyissä annetun lain mukaisesti. (13.8.2026/753)
+
+Päivystys 1 momentin 2 kohdassa tarkoitetuissa asioissa ulottuu muuhunkin kuin 1 momentissa mainittuun käräjäoikeuksien kanslioiden aukioloajan ulkopuoliseen aikaan.
+
+## 3 § Päivystysalueet
+
+Kukin hovioikeuspiiri muodostaa yhden päivystysalueen. Helsingin hovioikeuspiirin päivystysalueeseen ei kuitenkaan kuulu Helsingin kaupunki. Helsingin kaupunki muodostaa Helsingin käräjäoikeuden päivystysalueen, johon 2 §:n 2 momentissa tarkoitetuissa asioissa kuuluu momentissa tarkoitettuna aikana koko maa.
+
+## 4 § Päivystävät käräjäoikeudet (19.12.2017/1033)
+
+Hovioikeuspiirien päivystysalueilla päivystävät 2 §:n 1 momentissa mainittuna aikana seuraavat käräjäoikeudet:
+
+- 1\) Turun hovioikeuspiirin päivystysalueella Ahvenanmaan, Kanta-Hämeen, Pirkanmaan ja Varsinais-Suomen käräjäoikeudet;
+- 2\) Vaasan hovioikeuspiirin päivystysalueella Etelä-Pohjanmaan, Keski-Suomen, Pohjanmaan ja Satakunnan käräjäoikeudet;
+- 3\) Itä-Suomen hovioikeuspiirin päivystysalueella Etelä-Karjalan, Etelä-Savon, Kymenlaakson, Pohjois-Karjalan, Pohjois-Savon ja Päijät-Hämeen käräjäoikeudet;
+- 4\) Helsingin hovioikeuspiirin päivystysalueella Itä-Uudenmaan ja Länsi-Uudenmaan käräjäoikeudet;
+- 5\) Rovaniemen hovioikeuspiirin päivystysalueella Kainuun, Lapin ja Oulun käräjäoikeudet.
+
+Kuhunkin päivystysalueeseen kuuluvat käräjäoikeudet päivystävät vuorotellen. Helsingin käräjäoikeus päivystää jatkuvasti.
+
+Jokainen käräjäoikeus voi käsitellä omaan tuomiopiiriinsä kuuluvan asian, vaikkei olisi päivystysvuorossa.
+
+## 5 § Päivystävät tuomarit
+
+Käräjäoikeuksissa päivystävät laamannit ja käräjätuomarit.
+
+Jos päivystysalueen käräjäoikeuden päivystävä tuomari ei ole tavoitettavissa tai hän on muuten estynyt, toisen päivystysalueen käräjäoikeus on toimivaltainen käsittelemään asian.
+
+## 6 § Käräjäoikeuksien päivystysvuorot
+
+Hovioikeus päättää piirinsä päivystysalueen käräjäoikeuksien päivystysvuorot kalenterivuodeksi kerrallaan. Päivystysvuorojen tulee jakautua tasaisesti käräjäoikeuksien kesken. Päätös on lähetettävä tiedoksi päivystysalueen käräjäoikeuksille ja poliisilaitoksille, Poliisihallitukselle, keskusrikospoliisille, Tullille, rajavartiolaitokselle ja puolustusvoimille sekä Valtion talous- ja henkilöstöhallinnon palvelukeskukselle viimeistään kaksi kuukautta ennen päätöksen voimaantuloa. Samalla hovioikeuden on ilmoitettava puhelinnumero, josta päivystävä tuomari on tavoitettavissa.
+
+## 7 § Tuomareiden päivystysvuorot
+
+Viraston päällikkö määrää oman tuomioistuimensa tuomareiden päivystysvuorot.
+
+Päivystysvuorojen määräämisestä on ilmoitettava asianomaiselle hovioikeudelle viimeistään kuukausi ennen päätöksen voimaantuloa.
+
+Jos päivystysvuorossa oleva tuomari on estynyt hoitamasta päivystystä, hänen on välittömästi hankittava itselleen sijainen sekä ilmoitettava asiasta hovioikeudelle.
+
+## 8 § Päivystyksen järjestäminen
+
+Päivystys alkaa 2 §:n 1 momentissa tarkoitettuina päivinä vuorokauden alkaessa ja loppuu vuorokauden päättyessä. Tällainen päivystys voi käsittää myös yhtä useampia peräkkäisiä päiviä. Pykälän 2 momentissa tarkoitettu päivystys alkaa käräjäoikeuksien kanslioiden aukioloajan päättyessä ja loppuu aukioloajan seuraavan kerran alkaessa tai pykälän 1 momentissa tarkoitetun päivystysvuorokauden alkaessa.
+
+Käräjäoikeudessa päivystää kerrallaan yksi tuomari. Asioiden suuren lukumäärän tai pitkän päivystysvuoron vuoksi taikka muusta erityisestä syystä päivystäviä tuomareita voi olla useampia kuin yksi.
+
+Päivystävä tuomari ja pidättämiseen oikeutettu tai muu toimivaltainen virkamies sopivat asian käsittelypaikasta. Tällöin on otettava huomioon asian laatu, turvallisuusnäkökohdat sekä käsittelyn järjestämisestä aiheutuvat kustannukset.
+
+Päivystävän tuomarin on oltava päivystysaikoina tavoitettavissa ilmoitetusta puhelinnumerosta.
+
+Käräjäoikeus päättää muista päivystyksen järjestämiseen liittyvistä asioista.
+
+## 9 § Erinäiset säännökset
+
+Päivystyksestä ja päivystysaikana suoritetuista toimenpiteistä suoritetaan korvausta sen mukaan kuin oikeusministeriö siitä erikseen päättää.
+
+Käräjäoikeuden tulee toimittaa Valtion talous- ja henkilöstöhallinnon palvelukeskukselle korvausten maksamista varten tarvittavat tiedot.
+
+## 10 § Voimaantulo ja siirtymäsäännös
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2014.
+
+Poiketen siitä, mitä 4 §:ssä säädetään, Etelä-Karjalan, Hyvinkään, Kymenlaakson ja Päijät-Hämeen käräjäoikeudet päivystävät Kouvolan hovioikeuspiirin päivystysalueella ja Kainuun käräjäoikeus Itä-Suomen hovioikeuspiirin päivystysalueella 1 päivästä tammikuuta 31 päivään maaliskuuta 2014.
+
+## Muutossäädösten voimaantulo ja soveltaminen
+
+### 27.1.2017/80:
+
+Tämä asetus tulee voimaan 1 päivänä helmikuuta 2017.
+
+### 19.12.2017/1033:
+
+Tämä asetus tulee voimaan 1 päivänä tammikuuta 2019.
+
+### 26.3.2018/184:
+
+Tämä asetus tulee voimaan 1 päivänä huhtikuuta 2018.
+
+### 5.12.2025/1121:
+
+Tämä asetus tulee voimaan 15 päivänä joulukuuta 2025.
+
+### 13.8.2026/753:
+
+Tämä asetus tulee voimaan 18 päivänä elokuuta 2026.

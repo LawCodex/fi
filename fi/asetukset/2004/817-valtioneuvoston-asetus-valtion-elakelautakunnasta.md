@@ -1,0 +1,60 @@
+---
+title: "Valtioneuvoston asetus valtion eläkelautakunnasta"
+identifier: "817/2004"
+eli: "http://data.finlex.fi/eli/sd/2004/817/ajantasa"
+type: decree
+jurisdiction: fi
+language: fi
+date: 2004-08-26
+entry_into_force: 2004-09-01
+last_amended: 2004-08-26
+status: in_force
+administrative_branch: "Valtiovarainministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2004/817"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2004/817/fin@"
+retrieved: 2026-10-11
+---
+
+# Valtioneuvoston asetus valtion eläkelautakunnasta
+
+*817/2004*
+
+Valtioneuvoston päätöksen mukaisesti, joka on tehty valtiovarainministeriön esittelystä, säädetään 20 päivänä toukokuuta 1966 annetun valtion eläkelain (280/1966) 23 a §:n 8 momentin nojalla, sellaisena kuin se on laissa 114/2003:
+
+## 1 § Valtion eläkelautakunnan jäsenet ja henkilöstö
+
+Valtion eläkelain (280/1966) 23 a §:n 1 momentissa tarkoitetut valtion virkamiesten ja työntekijäin edustavimmat keskusjärjestöt ovat Julkisalan koulutettujen neuvottelujärjestö JUKO ry, Palkansaajajärjestö Pardia ry ja Valtion yhteisjärjestö VTY ry, joiden kunkin ehdottamista henkilöistä määrätään yksi valtion eläkelautakunnan jäsen.
+
+Valtion eläkelautakunnassa voi olla toimistopäällikkö, päätoimisia ja sivutoimisia esittelijöitä ja muuta henkilöstöä. Heidät nimittää valtion eläkelautakunta. Esittelijältä vaaditaan oikeustieteen kandidaatin tutkinto.
+
+Valtion eläkelautakunnan jäseniin ja esittelijöihin sovelletaan, mitä tuomarin esteellisyydestä säädetään.
+
+Valtion eläkelautakunnan puheenjohtajan ja jäsenten palkkiot vahvistaa valtiovarainministeriö.
+
+## 2 § Valtion eläkelautakunnan täysistunto
+
+Valtion eläkelautakunta ratkaisee valitusasiat täysistunnossa, jollei lautakunta päätä jakautua jaostoihin.
+
+Valtion eläkelautakunnan täysistunnossa käsiteltäviksi on siirrettävä valitusasiat, joissa ratkaisulla on periaatteellista merkitystä lain soveltamisen kannalta muissa vastaavanlaisissa tapauksissa, joissa jaoston ratkaisu tulisi poikkeamaan eläkelautakunnan aikaisemmasta käytännöstä ja jotka eläkelautakunnan puheenjohtaja tai jaoston puheenjohtaja määrää käsiteltäviksi täysistunnossa.
+
+Valtion eläkelautakunnan täysistunnossa on aina käsiteltävä hallintoasiat, jotka koskevat eläkelautakunnan työjärjestystä, lautakunnan jakaantumista jaostoihin sekä jaostojen kokoonpanoa, toimintakertomuksen hyväksymistä, talousarviota ja tilinpäätöksen hyväksymistä, toimistopäällikön palvelussuhteen ehtoja sekä toimistopäällikön ja esittelijöiden nimittämistä ja tehtävästä vapauttamista.
+
+## 3 § Valtion eläkelautakunnan hallintojaosto
+
+Valtion eläkelautakunnan hallintoasiat käsitellään hallintojaostossa, jos niitä ei ole määrätty erikseen täysistunnon käsiteltäväksi. Hallintojaosto voi siirtää hallintoasian käsittelyn puheenjohtajan tai toimistopäällikön tehtäväksi. Hallintojaosto valmistelee täysistunnossa käsiteltävät hallintoasiat, päättää toimistopäällikköä lukuun ottamatta henkilöstön palvelussuhteen ehdoista, nimittää ja vapauttaa lautakunnan muun kuin 2 §:n 3 momentissa mainitun henkilöstön sekä antaa eläkelautakunnalta pyydetyt lausunnot.
+
+Hallintojaostoon kuuluvat puheenjohtaja, toimistopäällikkö, yksi valtion työmarkkinalaitoksen ehdotuksesta määrätty jäsen ja yksi 1 §:n 1 momentissa mainittujen keskusjärjestöjen ehdotuksesta määrätty jäsen sen mukaan kuin täysistunto päättää. Hallintojaosto on päätösvaltainen, kun puheenjohtaja ja vähintään puolet muista jäsenistä ovat kokouksessa läsnä.
+
+## 4 § Valitusasioista päättäminen valtion eläkelautakunnassa ja sen jaostossa
+
+Valitusasiat päätetään valtion eläkelautakunnassa ja sen jaostossa esittelystä. Valitusasiat ratkaistaan erimielisyyden sattuessa ääntenenemmistöllä. Äänten mennessä tasan tulee ratkaisuksi se mielipide, johon puheenjohtaja on yhtynyt.
+
+Eläkelautakunnan päätökset allekirjoittaa esittelijä.
+
+## 5 § Voimaantulo
+
+Tämä asetus tulee voimaan 1 päivänä syyskuuta 2004.
+
+Tällä asetuksella kumotaan 9 päivänä joulukuuta 1966 annetun valtion eläkeasetuksen (611/1966) 7 a § siihen myöhemmin tehtyine muutoksineen.
+
+Ennen asetuksen voimaantuloa voidaan ryhtyä sen täytäntöönpanon edellyttämiin toimenpiteisiin.
