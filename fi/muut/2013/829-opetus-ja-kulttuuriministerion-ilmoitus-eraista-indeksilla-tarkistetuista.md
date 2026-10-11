@@ -1,0 +1,37 @@
+---
+title: "Opetus- ja kulttuuriministeriön ilmoitus eräistä indeksillä tarkistetuista lasten päivähoidon asiakasmaksuista"
+identifier: "829/2013"
+eli: "http://data.finlex.fi/eli/sd/2013/829/ajantasa"
+type: announcement
+jurisdiction: fi
+language: fi
+date: 2013-11-25
+last_amended: 2013-11-25
+status: in_force
+administrative_branch: "Opetus- ja kulttuuriministeriö"
+source: "https://www.finlex.fi/fi/lainsaadanto/2013/829"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2013/829/fin@"
+retrieved: 2026-10-11
+---
+
+# Opetus- ja kulttuuriministeriön ilmoitus eräistä indeksillä tarkistetuista lasten päivähoidon asiakasmaksuista
+
+*829/2013*
+
+Opetus- ja kulttuuriministeriö ilmoittaa lasten päivähoidosta annetun lain (36/1973) 13 §:n sekä sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain (734/1992) 7 a §:n 6 ja 11 momentin ja 14 b §:n nojalla, sellaisena kuin ne ovat, lasten päivähoidosta annetun lain 13 § laissa 909/2012, sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain 7 a §:n 6 ja 11 momentti laissa 387/2008 sekä 14 b § laissa 913/2012, seuraavaa:
+
+1\. Yleisellä ansiotasoindeksillä tarkistettu sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain 7 a §:n 3 momentissa tarkoitetut päivähoitomaksun määräämisessä käytettävät tulorajat ovat 1.8.2014 lähtien seuraavat:
+
+| Perheen koko, henkilöä | Tuloraja euroa/kuukausi | Korkein maksuprosentti |
+|---|---|---|
+| 2 | 1 355 | 11,5 |
+| 3 | 1 671 | 9,4 |
+| 4 | 1 983 | 7,9 |
+| 5 | 2 116 | 7,9 |
+| 6 | 2 248 | 7,9 |
+
+2\. Yleisellä ansiotasoindeksillä tarkistettu sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain 7 a §:n 4 momentissa tarkoitettu yli kuusihenkisen perheen maksun määräämisessä käytettävän tulorajan lisäys kustakin seuraavasta perheen alaikäisestä lapsesta on 1.8.2014 lähtien 133 euroa.
+
+3\. Sosiaali- ja terveystoimen hintaindeksillä tarkistettu sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain 7 a §:n 5 momentissa tarkoitettu ikäjärjestyksessä nuorimmasta seuraavasta lapsesta perittävä päivähoitomaksu on 1.8.2014 lähtien 255 euroa kuukaudessa.
+
+4\. Sosiaali- ja terveystoimen hintaindeksillä tarkistettu sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain 7 a §:n 9 momentissa tarkoitettu kokopäivähoidosta perittävä maksu on 1.8.2014 lähtien enintään 283 euroa kuukaudessa ja pienin perittävä maksu 26 euroa.
