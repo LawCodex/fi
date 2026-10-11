@@ -1,0 +1,523 @@
+---
+title: "Arbets- och näringsministeriets förordning om pendlingsregioner"
+identifier: "1153/2009"
+eli: "http://data.finlex.fi/eli/sd/2009/1153/ajantasa"
+type: decree
+jurisdiction: fi
+language: sv
+date: 2009-12-17
+entry_into_force: 2010-01-01
+last_amended: 2009-12-17
+status: in_force
+administrative_branch: "Arbets- och näringsministeriet"
+source: "https://www.finlex.fi/sv/lagstiftning/2009/1153"
+source_data: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2009/1153/swe@"
+retrieved: 2026-10-11
+---
+
+# Arbets- och näringsministeriets förordning om pendlingsregioner
+
+*1153/2009*
+
+I enlighet med arbets- och näringsministeriets beslut föreskrivs med stöd av 1 kap. 9 § i lagen av den 30 december 2002 om utkomstskydd för arbetslösa (1290/2002):
+
+## 1 § Tillämpningsområde
+
+I denna förordning föreskrivs om pendlingsregioner som avses i 1 kap. 9 § i lagen om utkomstskydd för arbetslösa (1290/2002).
+
+I fråga om pendlingsregionerna iakttas kommunindelningen sådan den var den 31 december 2008.
+
+## 2 § Pendlingsregioner
+
+Pendlingsregionerna är följande:
+
+- ***Närings-, trafik- och miljöcentralen i Nyland***
+  - **Askola**: Artsjö, Askola, Borgnäs, Borgå, Helsingfors, Kervo, Lappträsk, Liljendal, Lovisa, Mäntsälä, Mörskom, Orimattila, Pernå, Pukkila, Sibbo, Strömfors, Träskända, Tusby, Vanda
+  - **Borgnäs**: Askola, Borgnäs, Borgå, Esbo, Grankulla, Helsingfors, Hyvinge, Kervo, Mäntsälä, Mörskom, Nurmijärvi, Pernå, Pukkila, Sibbo, Träskända, Tusby, Vanda
+  - **Borgå**: Artsjö, Askola, Borgnäs, Borgå, Esbo, Grankulla, Helsingfors, Kervo, Lappträsk, Liljendal, Lovisa, Mäntsälä, Mörskom, Pernå, Pukkila, Pyttis, Sibbo, Strömfors, Träskända, Tusby, Vanda
+  - **Ekenäs**: Bjärnå, Ekenäs, Hangö, Ingå, Karis, Karislojo, Kisko, Kyrkslätt, Lojo, Muurla, Pojo, Salo, Sammatti, Sjundeå
+  - **Esbo**: Borgnäs, Borgå, Esbo, Grankulla, Helsingfors, Hyvinge, Ingå, Karis, Kervo, Kyrkslätt, Lojo, Mäntsälä, Nurmijärvi, Riihimäki, Sibbo, Sjundeå, Träskända, Tusby, Vanda, Vichtis
+  - **Grankulla**: Borgnäs, Borgå, Esbo, Grankulla, Helsingfors, Hyvinge, Ingå, Karis, Kervo, Kyrkslätt, Lojo, Mäntsälä, Nurmijärvi, Riihimäki, Sibbo, Sjundeå, Träskända, Tusby, Vanda, Vichtis
+  - **Hangö**: Bjärnå, Ekenäs, Hangö, Ingå, Karis, Karislojo, Kisko, Lojo, Pojo
+  - **Helsingfors**: Askola, Borgnäs, Borgå, Esbo, Grankulla, Hausjärvi, Helsingfors, Hyvinge, Ingå, Karis, Kervo, Kyrkslätt, Lojo, Mäntsälä, Nurmijärvi, Pukkila, Riihimäki, Sibbo, Sjundeå, Träskända, Tusby, Vanda, Vichtis
+  - **Hyvinge**: Borgnäs, Esbo, Grankulla, Hausjärvi, Helsingfors, Hyvinge, Janakkala, Kervo, Loppi, Mäntsälä, Nurmijärvi, Riihimäki, Sibbo, Tavastehus, Träskända, Tusby, Vanda, Vichtis
+  - **Högfors**: Esbo, Forssa, Grankulla, Helsingfors, Hyvinge, Högfors, Jockis, Karislojo, Kiikala, Kyrkslätt, Lojo, Loppi, Nummi-Pusula, Nurmijärvi, Riihimäki, Sammatti, Sjundeå, Somero, Suomusjärvi, Tammela, Vanda, Vichtis
+  - **Ingå**: Ekenäs, Esbo, Grankulla, Hangö, Helsingfors, Ingå, Karis, Kyrkslätt, Lojo, Pojo, Sjundeå, Vichtis
+  - **Karis**: Bjärnå, Ekenäs, Esbo, Grankulla, Hangö, Helsingfors, Ingå, Karis, Karislojo, Kisko, Kyrkslätt, Lojo, Pojo, Salo, Sammatti, Sjundeå, Suomusjärvi, Vanda
+  - **Karislojo**: Bjärnå, Ekenäs, Esbo, Grankulla, Högfors, Ingå, Karis, Karislojo, Kisko, Kyrkslätt, Lojo, Muurla, Nummi-Pusula, Pojo, Salo, Sammatti, Sjundeå, Suomusjärvi, Vichtis
+  - **Kervo**: Askola, Borgnäs, Borgå, Esbo, Grankulla, Hausjärvi, Helsingfors, Hyvinge, Kervo, Kyrkslätt, Mäntsälä, Nurmijärvi, Pukkila, Riihimäki, Sibbo, Träskända, Tusby, Vanda, Vichtis
+  - **Kyrkslätt**: Esbo, Grankulla, Helsingfors, Ingå, Karis, Kervo, Kyrkslätt, Lojo, Nurmijärvi, Sjundeå, Tusby, Vanda, Vichtis
+  - **Lappträsk**: Artsjö, Askola, Borgå, Elimäki, Iitti, Kouvola, Kuusankoski, Lahtis, Lappträsk, Liljendal, Lovisa, Mörskom, Nastola, Orimattila, Pernå, Pukkila, Pyttis, Strömfors
+  - **Liljendal**: Artsjö, Askola, Borgnäs, Borgå, Elimäki, Iitti, Kouvola, Kuusankoski, Lahtis, Lappträsk, Liljendal, Lovisa, Mörskom, Nastola, Orimattila, Pernå, Pukkila, Sibbo, Strömfors
+  - **Lojo**: Ekenäs, Esbo, Grankulla, Helsingfors, Högfors, Ingå, Karis, Karislojo, Kyrkslätt, Lojo, Nummi-Pusula, Nurmijärvi, Pojo, Sammatti, Sjundeå, Suomusjärvi, Vichtis
+  - **Lovisa**: Askola, Borgå, Elimäki, Kotka, Lappträsk, Liljendal, Lovisa, Mörskom, Pernå, Pyttis, Sibbo, Strömfors
+  - **Mäntsälä**: Artsjö, Askola, Borgnäs, Borgå, Esbo, Grankulla, Hausjärvi, Helsingfors, Hollola, Hyvinge, Kervo, Kärkölä, Lahtis, Mäntsälä, Mörskom, Nurmijärvi, Orimattila, Pukkila, Riihimäki, Sibbo, Träskända, Tusby, Vanda
+  - **Mörskom**: Artsjö, Askola, Borgnäs, Borgå, Helsingfors, Hollola, Kervo, Lahtis, Lappträsk, Liljendal, Lovisa, Mäntsälä, Mörskom, Nastola, Orimattila, Pernå, Pukkila, Sibbo, Strömfors, Träskända, Tusby, Vanda
+  - **Nummi-Pusula**: Esbo, Forssa, Grankulla, Helsingfors, Högfors, Ingå, Karis, Karislojo, Kiikala, Kisko, Kyrkslätt, Lojo, Loppi, Nummi-Pusula, Sammatti, Sjundeå, Somero, Suomusjärvi, Tammela, Vanda, Vichtis
+  - **Nurmijärvi**: Esbo, Grankulla, Hausjärvi, Helsingfors, Hyvinge, Kervo, Kyrkslätt, Lojo, Loppi, Mäntsälä, Nurmijärvi, Riihimäki, Sibbo, Träskända, Tusby, Vanda, Vichtis
+  - **Pernå**: Askola, Borgå, Elimäki, Lappträsk, Liljendal, Lovisa, Mörskom, Pernå, Pyttis, Sibbo, Strömfors
+  - **Pojo**: Bjärnå, Ekenäs, Esbo, Grankulla, Hangö, Ingå, Karis, Karislojo, Kisko, Kyrkslätt, Lojo, Muurla, Pojo, Salo, Sammatti, Sjundeå, Suomusjärvi
+  - **Pukkila**: Artsjö, Askola, Borgnäs, Borgå, Hausjärvi, Helsingfors, Hollola, Hyvinge, Kervo, Kärkölä, Lahtis, Lappträsk, Liljendal, Mäntsälä, Mörskom, Nastola, Nurmijärvi, Orimattila, Pukkila, Riihimäki, Sibbo, Träskända, Tusby, Vanda
+  - **Sammatti**: Ekenäs, Esbo, Grankulla, Helsingfors, Högfors, Ingå, Karis, Karislojo, Kiikala, Kisko, Kyrkslätt, Lojo, Muurla, Nummi-Pusula, Pojo, Salo, Sammatti, Sjundeå, Suomusjärvi, Vichtis
+  - **Sibbo**: Askola, Borgnäs, Borgå, Esbo, Grankulla, Helsingfors, Hyvinge, Kervo, Mäntsälä, Mörskom, Nurmijärvi, Pernå, Pukkila, Sibbo, Träskända, Tusby, Vanda
+  - **Sjundeå**: Ekenäs, Esbo, Grankulla, Helsingfors, Ingå, Karis, Karislojo, Kisko, Kyrkslätt, Lojo, Pojo, Sammatti, Sjundeå, Vichtis
+  - **Strömfors**: Anjalankoski, Borgå, Elimäki, Kotka, Kouvola, Kuusankoski, Lappträsk, Liljendal, Lovisa, Pernå, Pyttis, Strömfors
+  - **Träskända**: Askola, Borgnäs, Esbo, Grankulla, Hausjärvi, Helsingfors, Hyvinge, Kervo, Mäntsälä, Nurmijärvi, Pukkila, Riihimäki, Sibbo, Träskända, Tusby, Vanda, Vichtis
+  - **Tusby**: Askola, Borgnäs, Borgå, Esbo, Grankulla, Hausjärvi, Helsingfors, Hyvinge, Kervo, Kyrkslätt, Mäntsälä, Nurmijärvi, Pukkila, Riihimäki, Sibbo, Träskända, Tusby, Vanda, Vichtis
+  - **Vanda**: Askola, Borgnäs, Borgå, Esbo, Grankulla, Hausjärvi, Helsingfors, Hyvinge, Ingå, Karis, Kervo, Kyrkslätt, Lojo, Mäntsälä, Nurmijärvi, Pukkila, Riihimäki, Sibbo, Sjundeå, Träskända, Tusby, Vanda, Vichtis
+  - **Vichtis**: Esbo, Grankulla, Helsingfors, Hyvinge, Högfors, Ingå, Karis, Karislojo, Kervo, Kiikala, Kyrkslätt, Lojo, Loppi, Nummi-Pusula, Nurmijärvi, Sammatti, Sjundeå, Suomusjärvi, Träskända, Tusby, Vanda, Vichtis
+- ***Närings-, trafik- och miljöcentralen i Egentliga Finland***
+  - **Alastaro**: Alastaro, Eura, Huittinen, Humppila, Jockis, Kjulo, Koski, Loimaa, Mellilä, Oripää, Punkalaidun, Pöytyä, Säkylä, Vampula, Yläne, Ypäjä
+  - **Aura**: Aura, Halikko, Koski, Kuusjoki, Lemu, Loimaa, Lundo, Marttila, Masku, Mellilä, Merimasku, Mynämäki, Nousis, Nådendal, Oripää, Pemar, Pikis, Pöytyä, Reso, Rusko, Sagu, Salo, S:t Karins, Tarvasjoki, Villnäs, Yläne, Åbo
+  - **Bjärnå**: Bjärnå, Ekenäs, Finby, Halikko, Karis, Karislojo, Kiikala, Kimito, Kisko, Kuusjoki, Marttila, Muurla, Pemar, Pertteli, Pikis, Pojo, Sagu, Salo, Somero, Suomusjärvi
+  - **Brändö**: Brändö
+  - **Dragsfjärd**: Bjärnå, Dragsfjärd, Halikko, Kimito, Pemar, Pikis, Sagu, Salo, S:t Karins, Västanfjärd, Åbo
+  - **Eckerö**: Eckerö, Finström, Föglö, Geta, Hammarland, Jomala, Lemland, Lumparland, Mariehamn, Saltvik, Sund, Vårdö
+  - **Finby**: Bjärnå, Dragsfjärd, Ekenäs, Finby, Halikko, Karis, Karislojo, Kimito, Kisko, Muurla, Pertteli, Sagu, Salo, Västanfjärd
+  - **Finström**: Eckerö, Finström, Föglö, Geta, Hammarland, Jomala, Lemland, Lumparland, Mariehamn, Saltvik, Sund, Vårdö
+  - **Föglö**: Eckerö, Finström, Föglö, Geta, Hammarland, Jomala, Lemland, Lumparland, Mariehamn, Saltvik, Sund, Vårdö
+  - **Geta**: Eckerö, Finström, Föglö, Geta, Hammarland, Jomala, Lemland, Lumparland, Mariehamn, Saltvik, Sund, Vårdö
+  - **Gustavs**: Gustavs, Iniö, Lemu, Merimasku, Mynämäki, Nystad, Nådendal, Reso, Tövsala, Vehmaa, Velkua, Villnäs, Åbo
+  - **Halikko**: Aura, Bjärnå, Finby, Halikko, Kiikala, Kimito, Kisko, Koski, Kuusjoki, Lundo, Marttila, Mellilä, Muurla, Pemar, Pertteli, Pikis, Pöytyä, Reso, Rusko, Sagu, Salo, Somero, S:t Karins, Suomusjärvi, Tarvasjoki, Vahto, Åbo
+  - **Hammarland**: Eckerö, Finström, Föglö, Geta, Hammarland, Jomala, Lemland, Lumparland, Mariehamn, Saltvik, Sund, Vårdö
+  - **Houtskär**: Houtskär, Korpo, Nagu, Pargas, Reso, S:t Karins, Åbo
+  - **Iniö**: Gustavs, Iniö, Lemu, Masku, Merimasku, Mynämäki, Nådendal, Reso, Rimito, Tövsala, Velkua, Villnäs, Åbo
+  - **Jomala**: Eckerö, Finström, Föglö, Geta, Hammarland, Jomala, Lemland, Lumparland, Mariehamn, Saltvik, Sund, Vårdö
+  - **Kiikala**: Bjärnå, Forssa, Halikko, Högfors, Jockis, Karislojo, Kiikala, Kisko, Koski, Kuusjoki, Lojo, Muurla, Nummi-Pusula, Pemar, Pertteli, Salo, Sammatti, Somero, Suomusjärvi, Tammela, Vichtis
+  - **Kimito**: Bjärnå, Dragsfjärd, Finby, Halikko, Kimito, Lundo, Muurla, Pemar, Pertteli, Pikis, Sagu, Salo, S:t Karins, Västanfjärd, Åbo
+  - **Kisko**: Bjärnå, Ekenäs, Finby, Halikko, Karis, Karislojo, Kiikala, Kisko, Kuusjoki, Muurla, Nummi-Pusula, Pertteli, Pojo, Salo, Sammatti, Sjundeå, Somero, Suomusjärvi
+  - **Korpo**: Houtskär, Korpo, Nagu, Pargas, Reso, S:t Karins, Åbo
+  - **Koski**: Alastaro, Aura, Forssa, Halikko, Humppila, Jockis, Kiikala, Koski, Kuusjoki, Loimaa, Lundo, Marttila, Mellilä, Muurla, Oripää, Pemar, Pertteli, Pikis, Pöytyä, Rusko, Sagu, Salo, Somero, S:t Karins, Tammela, Tarvasjoki, Vahto, Yläne, Ypäjä, Åbo
+  - **Kumlinge**: Kumlinge
+  - **Kuusjoki**: Aura, Bjärnå, Forssa, Halikko, Jockis, Kiikala, Kisko, Koski, Kuusjoki, Loimaa, Lundo, Marttila, Mellilä, Muurla, Pemar, Pertteli, Pöytyä, Sagu, Salo, Somero, Suomusjärvi, Tammela, Tarvasjoki, Ypäjä
+  - **Kökar**: Kökar
+  - **Laitila**: Eura, Euraåminne, Kiukainen, Kjulo, Laitila, Lappi, Lemu, Masku, Merimasku, Mynämäki, Nousis, Nystad, Nådendal, Pyhäranta, Raumo, Reso, Rusko, Säkylä, Tövsala, Vahto, Vehmaa, Villnäs, Yläne, Åbo
+  - **Lemland**: Eckerö, Finström, Föglö, Geta, Hammarland, Jomala, Lemland, Lumparland, Mariehamn, Saltvik, Sund, Vårdö
+  - **Lemu**: Aura, Laitila, Lemu, Lundo, Masku, Merimasku, Mynämäki, Nousis, Nådendal, Pemar, Pikis, Pöytyä, Reso, Rimito, Rusko, S:t Karins, Sagu, Tövsala, Vahto, Vehmaa, Velkua, Villnäs, Åbo
+  - **Loimaa**: Alastaro, Aura, Forssa, Huittinen, Humppila, Jockis, Koski, Kuusjoki, Loimaa, Marttila, Mellilä, Oripää, Punkalaidun, Pöytyä, Somero, Säkylä, Tammela, Tarvasjoki, Urjala, Vampula, Yläne, Ypäjä
+  - **Lumparland**: Eckerö, Finström, Föglö, Geta, Hammarland, Jomala, Lemland, Lumparland, Mariehamn, Saltvik, Sund, Vårdö
+  - **Lundo**: Aura, Halikko, Koski, Kuusjoki, Lemu, Lundo, Marttila, Masku, Mellilä, Merimasku, Mynämäki, Nousis, Nådendal, Oripää, Pargas, Pemar, Pertteli, Pikis, Pöytyä, Reso, Rimito, Rusko, Sagu, Salo, S:t Karins, Tarvasjoki, Vahto, Villnäs, Yläne, Åbo
+  - **Mariehamn**: Eckerö, Finström, Föglö, Geta, Hammarland, Jomala, Lemland, Lumparland, Mariehamn, Saltvik, Sund, Vårdö
+  - **Marttila**: Aura, Bjärnå, Forssa, Halikko, Jockis, Koski, Kuusjoki, Loimaa, Lundo, Marttila, Mellilä, Muurla, Nousis, Oripää, Pemar, Pertteli, Pikis, Pöytyä, Reso, Rusko, Sagu, Salo, Somero, S:t Karins, Tarvasjoki, Vahto, Yläne, Ypäjä, Åbo
+  - **Masku**: Aura, Koski, Laitila, Lemu, Lundo, Masku, Merimasku, Mynämäki, Nousis, Nådendal, Pargas, Pemar, Pikis, Pöytyä, Reso, Rimito, Rusko, Sagu, S:t Karins, Tarvasjoki, Tövsala, Vahto, Vehmaa, Velkua, Villnäs, Yläne, Åbo
+  - **Mellilä**: Alastaro, Aura, Forssa, Halikko, Humppila, Jockis, Koski, Kuusjoki, Loimaa, Lundo, Marttila, Mellilä, Oripää, Pemar, Pertteli, Punkalaidun, Pöytyä, Somero, Tammela, Tarvasjoki, Vampula, Yläne, Ypäjä
+  - **Merimasku**: Aura, Gustavs, Laitila, Lemu, Lundo, Masku, Merimasku, Mynämäki, Nousis, Nystad, Nådendal, Pargas, Pemar, Pikis, Reso, Rimito, Rusko, Sagu, S:t Karins, Tövsala, Vahto, Vehmaa, Velkua, Villnäs, Åbo
+  - **Muurla**: Bjärnå, Ekenäs, Finby, Halikko, Karislojo, Kiikala, Kisko, Koski, Kuusjoki, Marttila, Muurla, Pemar, Pertteli, Pikis, Sagu, Salo, Sammatti, Somero, Suomusjärvi
+  - **Mynämäki**: Aura, Laitila, Lemu, Lundo, Masku, Merimasku, Mynämäki, Nousis, Nystad, Nådendal, Pemar, Pikis, Pyhäranta, Pöytyä, Reso, Rimito, Rusko, S:t Karins, Tarvasjoki, Tövsala, Vahto, Vehmaa, Velkua, Villnäs, Yläne, Åbo
+  - **Nagu**: Houtskär, Korpo, Nagu, Pargas, Pikis, Reso, S:t Karins, Åbo
+  - **Nousis**: Aura, Laitila, Lemu, Lundo, Marttila, Masku, Merimasku, Mynämäki, Nousis, Nådendal, Pargas, Pemar, Pikis, Pöytyä, Reso, Rimito, Rusko, Sagu, S:t Karins, Tarvasjoki, Tövsala, Vahto, Vehmaa, Velkua, Villnäs, Yläne, Åbo
+  - **Nystad**: Gustavs, Laitila, Lappi, Lemu, Masku, Merimasku, Mynämäki, Nousis, Nystad, Pyhäranta, Raumo, Tövsala, Vehmaa, Villnäs
+  - **Nådendal**: Aura, Laitila, Lemu, Lundo, Masku, Merimasku, Mynämäki, Nousis, Nådendal, Pargas, Pemar, Pikis, Pöytyä, Reso, Rimito, Rusko, Sagu, S:t Karins, Tarvasjoki, Tövsala, Vahto, Vehmaa, Villnäs, Åbo
+  - **Oripää**: Alastaro, Aura, Eura, Huittinen, Humppila, Jockis, Kjulo, Koski, Loimaa, Lundo, Marttila, Mellilä, Oripää, Pemar, Punkalaidun, Pöytyä, Rusko, Säkylä, Tarvasjoki, Vahto, Vampula, Yläne, Ypäjä, Åbo
+  - **Pargas**: Korpo, Lemu, Lundo, Masku, Merimasku, Nådendal, Nagu, Nousis, Pargas, Pemar, Pikis, Reso, Rimito, Rusko, Sagu, S:t Karins, Tarvasjoki, Vahto, Åbo
+  - **Pemar**: Aura, Bjärnå, Halikko, Kiikala, Kimito, Koski, Kuusjoki, Lemu, Lundo, Marttila, Masku, Mellilä, Merimasku, Muurla, Mynämäki, Nousis, Nådendal, Oripää, Pargas, Pemar, Pertteli, Pikis, Pöytyä, Reso, Rimito, Rusko, Sagu, Salo, Somero, S:t Karins, Tarvasjoki, Vahto, Villnäs, Yläne, Åbo
+  - **Pertteli**: Bjärnå, Finby, Halikko, Kiikala, Kimito, Kisko, Koski, Kuusjoki, Marttila, Mellilä, Muurla, Pemar, Pertteli, Pikis, Sagu, Salo, Somero, Suomusjärvi, Tarvasjoki, Ypäjä
+  - **Pikis**: Aura, Bjärnå, Halikko, Kimito, Koski, Lemu, Lundo, Marttila, Masku, Merimasku, Muurla, Mynämäki, Nousis, Nådendal, Pargas, Pemar, Pertteli, Pikis, Pöytyä, Reso, Rimito, Rusko, Sagu, Salo, S:t Karins, Tarvasjoki, Vahto, Villnäs, Åbo
+  - **Pyhäranta**: Eura, Euraåminne, Laitila, Lappi, Mynämäki, Nystad, Pyhäranta, Raumo, Säkylä, Vehmaa
+  - **Pöytyä**: Alastaro, Aura, Halikko, Humppila, Koski, Kuusjoki, Lemu, Loimaa, Lundo, Marttila, Masku, Mellilä, Mynämäki, Nousis, Nådendal, Oripää, Pemar, Pikis, Pöytyä, Reso, Rusko, Salo, Säkylä, S:t Karins, Tarvasjoki, Vahto, Vampula, Yläne, Ypäjä, Åbo
+  - **Reso**: Aura, Halikko, Laitila, Lemu, Lundo, Marttila, Masku, Merimasku, Mynämäki, Nousis, Nådendal, Pargas, Pemar, Pikis, Pöytyä, Reso, Rimito, Rusko, Sagu, Salo, S:t Karins, Tarvasjoki, Tövsala, Vahto, Vehmaa, Velkua, Villnäs, Yläne, Åbo
+  - **Rimito**: Aura, Lemu, Lundo, Masku, Merimasku, Mynämäki, Nousis, Nådendal, Pargas, Pemar, Pikis, Reso, Rimito, Rusko, Sagu, S:t Karins, Tarvasjoki, Tövsala, Vahto, Vehmaa, Velkua, Villnäs, Åbo
+  - **Rusko**: Aura, Halikko, Koski, Laitila, Lemu, Lundo, Marttila, Masku, Merimasku, Mynämäki, Nousis, Nådendal, Oripää, Pargas, Pemar, Pikis, Pöytyä, Reso, Rimito, Rusko, Sagu, Salo, S:t Karins, Tarvasjoki, Tövsala, Vahto, Vehmaa, Velkua, Villnäs, Yläne, Åbo
+  - **Sagu**: Aura, Bjärnå, Dragsjärd, Finby, Halikko, Kimito, Koski, Kuusjoki, Lemu, Lundo, Marttila, Masku, Merimasku, Muurla, Nousis, Nådendal, Pargas, Pemar, Pertteli, Pikis, Reso, Rimito, Rusko, Sagu, Salo, S:t Karins, Tarvasjoki, Vahto, Västanfjärd, Åbo
+  - **Salo**: Aura, Bjärnå, Ekenäs, Finby, Forssa, Halikko, Karis, Karislojo, Kiikala, Kimito, Kisko, Koski, Kuusjoki, Lundo, Marttila, Muurla, Pemar, Pertteli, Pikis, Pojo, Pöytyä, Reso, Rusko, Sagu, Salo, Sammatti, Somero, S:t Karins, Suomusjärvi, Tarvasjoki, Ypäjä, Åbo
+  - **Saltvik**: Eckerö, Finström, Föglö, Geta, Hammarland, Jomala, Lemland, Lumparland, Mariehamn, Saltvik, Sund, Vårdö
+  - **Somero**: Bjärnå, Forssa, Halikko, Humppila, Högfors, Jockis, Kiikala, Kisko, Koski, Kuusjoki, Loimaa, Marttila, Mellilä, Muurla, Nummi-Pusula, Pemar, Pertteli, Salo, Somero, Suomusjärvi, Tammela, Tarvasjoki, Ypäjä
+  - **Sottunga**: Sottunga
+  - **S:t Karins**: Aura, Halikko, Kimito, Koski, Lemu, Lundo, Marttila, Masku, Merimasku, Mynämäki, Nagu, Nousis, Nådendal, Pargas, Pemar, Pikis, Pöytyä, Reso, Rimito, Rusko, Sagu, Salo, S:t Karins, Tarvasjoki, Vahto, Villnäs, Åbo
+  - **Sund**: Eckerö, Finström, Föglö, Geta, Hammarland, Jomala, Lemland, Lumparland, Mariehamn, Saltvik, Sund, Vårdö
+  - **Suomusjärvi**: Bjärnå, Esbo, Grankulla, Halikko, Helsingfors, Högfors, Karis, Karislojo, Kiikala, Kisko, Kuusjoki, Lojo, Muurla, Nummi-Pusula, Pertteli, Pojo, Salo, Sammatti, Somero, Suomusjärvi, Vichtis
+  - **Tarvasjoki**: Aura, Halikko, Koski, Kuusjoki, Loimaa, Lundo, Marttila, Masku, Mellilä, Mynämäki, Nousis, Nådendal, Oripää, Pargas, Pemar, Pertteli, Pikis, Pöytyä, Reso, Rusko, Sagu, Salo, Somero, S:t Karins, Tarvasjoki, Vahto, Yläne, Åbo
+  - **Tövsala**: Gustavs, Iniö, Laitila, Lemu, Masku, Merimasku, Mynämäki, Nousis, Nystad, Nådendal, Reso, Rimito, Rusko, Tövsala, Vehmaa, Velkua, Villnäs, Åbo
+  - **Vahto**: Aura, Koski, Laitila, Lemu, Lundo, Marttila, Masku, Merimasku, Mynämäki, Nousis, Nådendal, Oripää, Pemar, Pikis, Pöytyä, Reso, Rimito, Rusko, Sagu, S:t Karins, Tarvasjoki, Vahto, Vehmaa, Velkua, Villnäs, Yläne, Åbo
+  - **Vehmaa**: Gustavs, Laitila, Lemu, Masku, Merimasku, Mynämäki, Nousis, Nystad, Nådendal, Pyhäranta, Reso, Rimito, Rusko, Tövsala, Vahto, Vehmaa, Velkua, Villnäs, Åbo
+  - **Velkua**: Gustavs, Lemu, Lundo, Masku, Merimasku, Mynämäki, Nousis, Nystad, Nådendal, Pikis, Reso, Rimito, Rusko, Tövsala, Vahto, Vehmaa, Velkua, Villnäs, Åbo
+  - **Villnäs**: Aura, Gustavs, Laitila, Lemu, Lundo, Masku, Merimasku, Mynämäki, Nousis, Nystad, Nådendal, Pemar, Pikis, Reso, Rimito, Rusko, S:t Karins, Tövsala, Vahto, Vehmaa, Velkua, Villnäs, Åbo
+  - **Vårdö**: Eckerö, Finström, Föglö, Geta, Hammarland, Jomala, Lemland, Lumparland, Mariehamn, Saltvik, Sund, Vårdö
+  - **Västanfjärd**: Bjärnå, Dragsfjärd, Finby, Halikko, Kimito, Pemar, Pikis, Sagu, Salo, S:t Karins, Västanfjärd, Åbo
+  - **Yläne**: Alastaro, Aura, Eura, Huittinen, Kjulo, Koski, Laitila, Lemu, Loimaa, Lundo, Marttila, Masku, Mellilä, Mynämäki, Nousis, Nådendal, Oripää, Pemar, Pöytyä, Reso, Rusko, Säkylä, Tarvasjoki, Vahto, Vampula, Yläne, Ypäjä, Åbo
+  - **Åbo**: Aura, Halikko, Kimito, Koski, Lemu, Lundo, Marttila, Masku, Merimasku, Mynämäki, Nousis, Nådendal, Oripää, Pargas, Pemar, Pikis, Pöytyä, Reso, Rimito, Rusko, Sagu, Salo, S:t Karins, Tarvasjoki, Tövsala, Vahto, Vehmaa, Velkua, Villnäs, Yläne, Åbo
+- ***Närings-, trafik- och miljöcentralen i Satakunta***
+  - **Björneborg**: Björneborg, Eura, Euraåminne, Harjavalta, Huittinen, Kankaanpää, Kiikoinen, Kiukainen, Kumo, Lappi, Lavia, Luvia, Nakkila, Norrmark, Påmark, Raumo, Sastmola, Siikainen, Ulvsby
+  - **Eura**: Alastaro, Björneborg, Eura, Euraåminne, Harjavalta, Huittinen, Kiukainen, Kjulo, Kumo, Laitila, Lappi, Luvia, Nakkila, Oripää, Pyhäranta, Raumo, Säkylä, Ulvsby, Vampula, Yläne, Äetsä
+  - **Euraåminne**: Björneborg, Eura, Euraåminne, Harjavalta, Kiukainen, Kjulo, Kumo, Laitila, Lappi, Luvia, Nakkila, Norrmark, Pyhäranta, Raumo, Säkylä, Ulvsby
+  - **Harjavalta**: Björneborg, Eura, Euraåminne, Harjavalta, Huittinen, Kiikoinen, Kiukainen, Kjulo, Kumo, Lappi, Lavia, Luvia, Nakkila, Norrmark, Påmark, Raumo, Säkylä, Ulvsby, Vammala, Äetsä
+  - **Honkajoki**: Bötom, Honkajoki, Jämijärvi, Kankaanpää, Karvia, Kauhajoki, Lavia, Påmark, Sastmola, Siikainen, Storå
+  - **Huittinen**: Alastaro, Björneborg, Eura, Harjavalta, Huittinen, Kiikoinen, Kiukainen, Kjulo, Kumo, Loimaa, Nakkila, Oripää, Punkalaidun, Säkylä, Ulvsby, Vammala, Vampula, Yläne, Äetsä
+  - **Jämijärvi**: Honkajoki, Ikalis, Jämijärvi, Kankaanpää, Karvia, Lavia, Parkano, Påmark, Tavastkyro, Ylöjärvi
+  - **Kankaanpää**: Björneborg, Honkajoki, Ikalis, Jämijärvi, Kankaanpää, Karvia, Kiikoinen, Lavia, Mouhijärvi, Norrmark, Parkano, Påmark, Siikainen, Storå, Vammala
+  - **Karvia**: Honkajoki, Jalasjärvi, Jämijärvi, Kankaanpää, Karvia, Kauhajoki, Kihniö, Parkano, Storå
+  - **Kiikoinen**: Björneborg, Harjavalta, Huittinen, Kankaanpää, Kiikoinen, Kiukainen, Kumo, Lavia, Mouhijärvi, Nakkila, Norrmark, Tavastkyro, Ulvsby, Vammala, Äetsä
+  - **Kiukainen**: Björneborg, Eura, Euraåminne, Harjavalta, Huittinen, Kiikoinen, Kiukainen, Kjulo, Kumo, Laitila, Lappi, Luvia, Nakkila, Raumo, Säkylä, Ulvsby, Vampula, Äetsä
+  - **Kjulo**: Alastaro, Eura, Euraåminne, Harjavalta, Huittinen, Kiukainen, Kjulo, Kumo, Laitila, Lappi, Nakkila, Oripää, Raumo, Säkylä, Ulvsby, Vammala, Vampula, Yläne, Äetsä
+  - **Kumo**: Björneborg, Eura, Euraåminne, Harjavalta, Huittinen, Kiikoinen, Kiukainen, Kjulo, Kumo, Lappi, Lavia, Luvia, Nakkila, Punkalaidun, Raumo, Säkylä, Ulvsby, Vammala, Vampula, Äetsä
+  - **Lappi**: Björneborg, Eura, Euraåminne, Harjavalta, Kiukainen, Kjulo, Kumo, Laitila, Lappi, Luvia, Nakkila, Nystad, Pyhäranta, Raumo, Säkylä, Ulvsby
+  - **Lavia**: Björneborg, Harjavalta, Honkajoki, Ikalis, Jämijärvi, Kankaanpää, Kiikoinen, Kumo, Lavia, Mouhijärvi, Nakkila, Norrmark, Påmark, Tavastkyro, Ulvsby, Vammala, Äetsä
+  - **Luvia**: Björneborg, Eura, Euraåminne, Harjavalta, Kiukainen, Kumo, Lappi, Luvia, Nakkila, Norrmark, Påmark, Raumo, Ulvsby
+  - **Nakkila**: Björneborg, Eura, Euraåminne, Harjavalta, Huittinen, Kiikoinen, Kiukainen, Kjulo, Kumo, Lappi, Lavia, Luvia, Nakkila, Norrmark, Påmark, Raumo, Säkylä, Ulvsby
+  - **Norrmark**: Björneborg, Euraåminne, Harjavalta, Kankaanpää, Kiikoinen, Lavia, Luvia, Nakkila, Norrmark, Påmark, Sastmola, Siikainen, Ulvsby
+  - **Påmark**: Björneborg, Harjavalta, Honkajoki, Jämijärvi, Kankaanpää, Lavia, Luvia, Nakkila, Norrmark, Påmark, Sastmola, Siikainen, Ulvsby
+  - **Raumo**: Björneborg, Eura, Euraåminne, Harjavalta, Kiukainen, Kjulo, Kumo, Laitila, Lappi, Luvia, Nakkila, Nystad, Pyhäranta, Raumo, Säkylä, Ulvsby
+  - **Sastmola**: Björneborg, Honkajoki, Kristinestad, Norrmark, Påmark, Sastmola, Siikainen, Storå
+  - **Siikainen**: Björneborg, Honkajoki, Kankaanpää, Kristinestad, Norrmark, Påmark, Sastmola, Siikainen, Storå
+  - **Säkylä**: Alastaro, Eura, Euraåminne, Harjavalta, Huittinen, Kiukainen, Kjulo, Kumo, Laitila, Lappi, Loimaa, Mynämäki, Nakkila, Oripää, Pöytyä, Raumo, Säkylä, Vammala, Vampula, Yläne, Äetsä
+  - **Ulvsby**: Björneborg, Eura, Euraåminne, Harjavalta, Huittinen, Kiikoinen, Kiukainen, Kjulo, Kumo, Lappi, Lavia, Luvia, Nakkila, Norrmark, Påmark, Raumo, Ulvsby
+  - **Vampula**: Alastaro, Eura, Huittinen, Humppila, Kiukainen, Kjulo, Kumo, Loimaa, Mellilä, Oripää, Punkalaidun, Pöytyä, Säkylä, Vammala, Vampula, Yläne, Äetsä
+- ***Närings-, trafik- och miljöcentralen i Tavastland***
+  - **Artsjö**: Artsjö, Askola, Borgå, Elimäki, Hollola, Iitti, Kouvola, Kuusankoski, Lahtis, Lappträsk, Liljendal, Mäntsälä, Mörskom, Nastola, Orimattila, Pukkila
+  - **Asikkala**: Asikkala, Heinola, Hollola, Hämeenkoski, Kuhmoinen, Kärkölä, Lahtis, Lammi, Nastola, Orimattila, Padasjoki, Sysmä
+  - **Forssa**: Akaa, Forssa, Humppila, Högfors, Jockis, Kalvola, Kiikala, Koski, Kuusjoki, Kylmäkoski, Loimaa, Loppi, Marttila, Mellilä, Nummi-Pusula, Punkalaidun, Renko, Salo, Somero, Tammela, Tavastehus, Urjala, Ypäjä
+  - **Hartola**: Hartola, Heinola, Joutsa, Luhanka, Pertunmaa, Sysmä
+  - **Hattula**: Akaa, Hattula, Hauho, Hämeenkoski, Janakkala, Kalvola, Kylmäkoski, Lammi, Loppi, Pälkäne, Renko, Riihimäki, Tavastehus, Tuulos, Valkeakoski
+  - **Hauho**: Hattula, Hauho, Hämeenkoski, Janakkala, Kalvola, Kangasala, Kuhmalahti, Lammi, Pälkäne, Renko, Tavastehus, Tuulos, Valkeakoski
+  - **Hausjärvi**: Hausjärvi, Helsingfors, Hollola, Hyvinge, Hämeenkoski, Janakkala, Kervo, Kärkölä, Lahtis, Lammi, Loppi, Mäntsälä, Nurmijärvi, Pukkila, Riihimäki, Tavastehus, Träskända, Tusby, Vanda
+  - **Heinola**: Asikkala, Hartola, Heinola, Hollola, Iitti, Jaala, Lahtis, Mäntyharju, Nastola, Orimattila, Pertunmaa, Sysmä
+  - **Hollola**: Artsjö, Asikkala, Hausjärvi, Heinola, Hollola, Hämeenkoski, Kärkölä, Lahtis, Lammi, Mäntsälä, Mörskom, Nastola, Orimattila, Padasjoki, Pukkila, Tuulos
+  - **Humppila**: Akaa, Alastaro, Forssa, Humppila, Jockis, Kalvola, Koski, Kylmäkoski, Loimaa, Mellilä, Oripää, Punkalaidun, Pöytyä, Somero, Tammela, Urjala, Vampula, Ypäjä
+  - **Hämeenkoski**: Asikkala, Hattula, Hauho, Hausjärvi, Hollola, Hämeenkoski, Janakkala, Kärkölä, Lahtis, Lammi, Nastola, Orimattila, Padasjoki, Riihimäki, Tavastehus, Tuulos
+  - **Janakkala**: Hattula, Hauho, Hausjärvi, Hyvinge, Hämeenkoski, Janakkala, Kalvola, Kärkölä, Lammi, Loppi, Renko, Riihimäki, Tavastehus, Tuulos
+  - **Jockis**: Alastaro, Forssa, Humppila, Högfors, Jockis, Kalvola, Kiikala, Koski, Kuusjoki, Kylmäkoski, Loimaa, Loppi, Marttila, Mellilä, Oripää, Punkalaidun, Renko, Salo, Somero, Tammela, Tavastehus, Urjala, Ypäjä
+  - **Kalvola**: Akaa, Forssa, Hattula, Hauho, Humppila, Janakkala, Jockis, Kalvola, Kylmäkoski, Lammi, Lempäälä, Pälkäne, Renko, Tammela, Tavastehus, Tuulos, Urjala, Valkeakoski, Vesilahti
+  - **Kärkölä**: Asikkala, Askola, Hausjärvi, Hollola, Hämeenkoski, Janakkala, Kärkölä, Lahtis, Lammi, Mäntsälä, Nastola, Orimattila, Pukkila, Riihimäki
+  - **Lahtis**: Artsjö, Asikkala, Hausjärvi, Heinola, Hollola, Hämeenkoski, Iitti, Jaala, Kouvola, Kuusankoski, Kärkölä, Lahtis, Lammi, Lappträsk, Liljendal, Mäntsälä, Mörskom, Nastola, Orimattila, Padasjoki, Pukkila, Tuulos
+  - **Lammi**: Asikkala, Hattula, Hauho, Hausjärvi, Hollola, Hämeenkoski, Janakkala, Kalvola, Kärkölä, Lahtis, Lammi, Padasjoki, Pälkäne, Renko, Riihimäki, Tavastehus, Tuulos
+  - **Loppi**: Forssa, Hattula, Hausjärvi, Hyvinge, Högfors, Janakkala, Jockis, Loppi, Nummi-Pusula, Nurmijärvi, Renko, Riihimäki, Tammela, Tavastehus, Vichtis
+  - **Nastola**: Artsjö, Asikkala, Elimäki, Heinola, Hollola, Hämeenkoski, Iitti, Jaala, Kouvola, Kuusankoski, Kärkölä, Lahtis, Lappträsk, Liljendal, Mörskom, Nastola, Orimattila, Pukkila
+  - **Orimattila**: Artsjö, Asikkala, Askola, Heinola, Hollola, Hämeenkoski, Iitti, Kärkölä, Lahtis, Lappträsk, Liljendal, Mäntsälä, Mörskom, Nastola, Orimattila, Pukkila
+  - **Padasjoki**: Asikkala, Hollola, Hämeenkoski, Kuhmalahti, Kuhmoinen, Lahtis, Lammi, Padasjoki, Pälkäne, Tuulos
+  - **Renko**: Forssa, Hattula, Hauho, Janakkala, Jockis, Kalvola, Lammi, Loppi, Renko, Riihimäki, Tammela, Tavastehus, Tuulos
+  - **Riihimäki**: Esbo, Grankulla, Hattula, Hausjärvi, Helsingfors, Hyvinge, Hämeenkoski, Högfors, Janakkala, Kervo, Kärkölä, Lammi, Loppi, Mäntsälä, Nurmijärvi, Pukkila, Renko, Riihimäki, Tavastehus, Träskända, Tusby, Vanda
+  - **Sysmä**: Asikkala, Hartola, Heinola, Joutsa, Luhanka, Pertunmaa, Sysmä
+  - **Tammela**: Forssa, Hattula, Humppila, Högfors, Jockis, Kalvola, Kiikala, Koski, Kuusjoki, Loimaa, Loppi, Mellilä, Nummi-Pusula, Renko, Somero, Tammela, Tavastehus, Urjala, Ypäjä
+  - **Tavastehus**: Akaa, Forssa, Hattula, Hauho, Hausjärvi, Hyvinge, Hämeenkoski, Janakkala, Jockis, Kalvola, Kylmäkoski, Lammi, Loppi, Pälkäne, Renko, Riihimäki, Tammela, Tavastehus, Tuulos, Valkeakoski
+  - **Tuulos**: Hattula, Hauho, Hollola, Hämeenkoski, Janakkala, Kalvola, Lahtis, Lammi, Padasjoki, Pälkäne, Renko, Tavastehus, Tuulos
+  - **Ypäjä**: Alastaro, Aura, Forssa, Humppila, Jockis, Koski, Kuusjoki, Loimaa, Marttila, Mellilä, Oripää, Pertteli, Punkalaidun, Pöytyä, Salo, Somero, Tammela, Urjala, Yläne, Ypäjä
+- ***Närings-, trafik- och miljöcentralen i Birkaland***
+  - **Akaa**: Akaa, Birkala, Hattula, Humppila, Kalvola, Kangasala, Kylmäkoski, Lempäälä, Nokia, Punkalaidun, Pälkäne, Tammerfors, Tavastehus, Urjala, Valkeakoski, Vesilahti
+  - **Birkala**: Akaa, Birkala, Ikalis, Kangasala, Kylmäkoski, Lempäälä, Mouhijärvi, Nokia, Orivesi, Pälkäne, Tammerfors, Tavastkyro, Urjala, Valkeakoski, Vammala, Vesilahti, Ylöjärvi
+  - **Ikalis**: Birkala, Ikalis, Jämijärvi, Kankaanpää, Kuru, Lavia, Mouhijärvi, Nokia, Parkano, Tammerfors, Tavastkyro, Vammala, Ylöjärvi
+  - **Juupajoki**: Juupajoki, Jämsä, Jämsänkoski, Kangasala, Kuhmalahti, Mänttä, Orivesi, Ruovesi, Vilppula
+  - **Kangasala**: Akaa, Birkala, Hauho, Juupajoki, Kangasala, Kuhmalahti, Kylmäkoski, Lempäälä, Nokia, Orivesi, Pälkäne, Tammerfors, Valkeakoski, Vesilahti, Ylöjärvi
+  - **Kihniö**: Ikalis, Karvia, Kihniö, Kuru, Parkano, Virdois
+  - **Kuhmalahti**: Hauho, Juupajoki, Kangasala, Kuhmalahti, Kuhmoinen, Orivesi, Padasjoki, Pälkäne, Tammerfors
+  - **Kuru**: Ikalis, Kihniö, Kuru, Parkano, Ruovesi, Tammerfors, Tavastkyro, Virdois, Ylöjärvi
+  - **Kylmäkoski**: Akaa, Birkala, Forssa, Hattula, Humppila, Kalvola, Kangasala, Kylmäkoski, Lempäälä, Nokia, Punkalaidun, Pälkäne, Tammerfors, Tavastehus, Urjala, Valkeakoski, Vesilahti
+  - **Lempäälä**: Akaa, Birkala, Kalvola, Kangasala, Kylmäkoski, Lempäälä, Nokia, Punkalaidun, Pälkäne, Tammerfors, Tavastehus, Urjala, Valkeakoski, Vesilahti, Ylöjärvi
+  - **Längelmäki**: Juupajoki, Jämsä, Jämsänkoski, Kangasala, Kuhmalahti, Kuhmoinen, Längelmäki, Mänttä, Orivesi
+  - **Mouhijärvi**: Birkala, Ikalis, Kiikoinen, Lavia, Mouhijärvi, Nokia, Tammerfors, Tavastkyro, Vammala, Ylöjärvi, Äetsä
+  - **Mänttä**: Juupajoki, Jämsä, Jämsänkoski, Keuruu, Multia, Mänttä, Orivesi, Ruovesi, Vilppula
+  - **Nokia**: Akaa, Birkala, Ikalis, Kangasala, Kylmäkoski, Lempäälä, Mouhijärvi, Nokia, Tammerfors, Tavastkyro, Valkeakoski, Vammala, Vesilahti, Ylöjärvi, Äetsä
+  - **Orivesi**: Birkala, Juupajoki, Jämsä, Jämsänkoski, Kangasala, Kuhmalahti, Mänttä, Orivesi, Pälkäne, Ruovesi, Tammerfors, Vilppula, Ylöjärvi
+  - **Parkano**: Ikalis, Jalasjärvi, Jämijärvi, Kankaanpää, Karvia, Kihniö, Kuru, Parkano, Tavastkyro, Virdois
+  - **Punkalaidun**: Akaa, Alastaro, Forssa, Huittinen, Humppila, Jockis, Kumo, Kylmäkoski, Lempäälä, Loimaa, Mellilä, Oripää, Punkalaidun, Urjala, Vammala, Vampula, Vesilahti, Ypäjä, Äetsä
+  - **Pälkäne**: Akaa, Birkala, Hattula, Hauho, Kalvola, Kangasala, Kuhmalahti, Kuhmoinen, Kylmäkoski, Lammi, Lempäälä, Orivesi, Padasjoki, Pälkäne, Tammerfors, Tavastehus, Tuulos, Valkeakoski
+  - **Ruovesi**: Juupajoki, Kuru, Mänttä, Orivesi, Ruovesi, Tammerfors, Vilppula, Virdois
+  - **Tammerfors**: Akaa, Birkala, Ikalis, Kangasala, Kuhmalahti, Kuru, Kylmäkoski, Lempäälä, Mouhijärvi, Nokia, Orivesi, Pälkäne, Ruovesi, Tammerfors, Tavastkyro, Valkeakoski, Vammala, Vesilahti, Ylöjärvi
+  - **Tavastkyro**: Birkala, Ikalis, Jämijärvi, Kiikoinen, Kuru, Lavia, Mouhijärvi, Nokia, Parkano, Tammerfors, Tavastkyro, Vammala, Vesilahti, Ylöjärvi
+  - **Urjala**: Akaa, Birkala, Forssa, Humppila, Jockis, Kalvola, Kylmäkoski, Lempäälä, Loimaa, Punkalaidun, Tammela, Tammerfors, Urjala, Valkeakoski, Vammala, Vesilahti, Ypäjä
+  - **Valkeakoski**: Akaa, Birkala, Hattula, Hauho, Kalvola, Kangasala, Kylmäkoski, Lempäälä, Nokia, Pälkäne, Tammerfors, Tavastehus, Urjala, Valkeakoski, Vesilahti, Ylöjärvi
+  - **Vammala**: Birkala, Harjavalta, Huittinen, Ikalis, Jämijärvi, Kankaanpää, Kiikoinen, Kjulo, Kumo, Lavia, Mouhijärvi, Nokia, Punkalaidun, Säkylä, Tammerfors, Tavastkyro, Urjala, Vammala, Vampula, Vesilahti, Ylöjärvi, Äetsä
+  - **Vesilahti**: Akaa, Birkala, Kalvola, Kangasala, Kylmäkoski, Lempäälä, Nokia, Punkalaidun, Tammerfors, Tavastkyro, Urjala, Valkeakoski, Vammala, Vesilahti, Ylöjärvi
+  - **Vilppula**: Juupajoki, Jämsä, Jämsänkoski, Keuruu, Multia, Mänttä, Orivesi, Ruovesi, Vilppula, Virdois
+  - **Virdois**: Alavus, Etseri, Keuruu, Kihniö, Kuru, Parkano, Ruovesi, Vilppula, Virdois
+  - **Ylöjärvi**: Birkala, Ikalis, Jämijärvi, Kangasala, Kuru, Lempäälä, Mouhijärvi, Nokia, Orivesi, Tammerfors, Tavastkyro, Valkeakoski, Vammala, Vesilahti, Ylöjärvi
+  - **Äetsä**: Alastaro, Eura, Harjavalta, Huittinen, Kiikoinen, Kiukainen, Kjulo, Kumo, Lavia, Mouhijärvi, Nokia, Punkalaidun, Säkylä, Vammala, Vampula, Äetsä
+- ***Närings-, trafik- och miljöcentralen i Sydöstra Finland***
+  - **Anjalankoski**: Anjalankoski, Elimäki, Fredrikshamn, Iitti, Kotka, Kouvola, Kuusankoski, Luumäki, Strömfors, Valkeala
+  - **Elimäki**: Anjalankoski, Artsjö, Elimäki, Iitti, Jaala, Kotka, Kouvola, Kuusankoski, Lappträsk, Liljendal, Lovisa, Nastola, Pernå, Pyttis, Strömfors, Valkeala
+  - **Fredrikshamn**: Anjalankoski, Fredrikshamn, Kotka, Kouvola, Luumäki, Miehikkälä, Pyttis, Virolahti
+  - **Iitti**: Anjalankoski, Artsjö, Elimäki, Heinola, Iitti, Jaala, Kouvola, Kuusankoski, Lahtis, Lappträsk, Liljendal, Nastola, Orimattila, Valkeala
+  - **Imatra**: Imatra, Joutseno, Parikkala, Rautjärvi, Ruokolahti, Taipalsaari, Villmanstrand
+  - **Jaala**: Elimäki, Heinola, Iitti, Jaala, Kouvola, Kuusankoski, Lahtis, Mäntyharju, Nastola, Valkeala
+  - **Joutseno**: Imatra, Joutseno, Lemi, Ruokolahti, Taipalsaari, Villmanstrand
+  - **Kotka**: Anjalankoski, Elimäki, Fredrikshamn, Kotka, Kouvola, Kuusankoski, Lovisa, Miehikkälä, Pyttis, Strömfors, Virolahti
+  - **Kouvola**: Anjalankoski, Artsjö, Elimäki, Fredrikshamn, Iitti, Jaala, Kotka, Kouvola, Kuusankoski, Lahtis, Lappträsk, Nastola, Pyttis, Strömfors, Valkeala
+  - **Kuusankoski**: Anjalankoski, Artsjö, Elimäki, Iitti, Jaala, Kotka, Kouvola, Kuusankoski, Lahtis, Lappträsk, Nastola, Valkeala
+  - **Lemi**: Joutseno, Lemi, Luumäki, Savitaipale, Suomenniemi, Taipalsaari, Villmanstrand, Ylämaa
+  - **Luumäki**: Anjalankoski, Fredrikshamn, Lemi, Luumäki, Miehikkälä, Savitaipale, Valkeala, Villmanstrand, Virolahti, Ylämaa
+  - **Miehikkälä**: Fredrikshamn, Kotka, Luumäki, Miehikkälä, Virolahti, Ylämaa
+  - **Parikkala**: Imatra, Kesälahti, Parikkala, Punkaharju, Rautjärvi, Ruokolahti
+  - **Pyttis**: Elimäki, Fredrikshamn, Kotka, Kouvola, Lappträsk, Lovisa, Pernå, Pyttis, Strömfors
+  - **Rautjärvi**: Imatra, Parikkala, Rautjärvi, Ruokolahti
+  - **Ruokolahti**: Imatra, Joutseno, Parikkala, Puumala, Rautjärvi, Ruokolahti, Taipalsaari, Villmanstrand
+  - **Savitaipale**: Lemi, Luumäki, Savitaipale, Suomenniemi, Taipalsaari, Valkeala, Villmanstrand
+  - **Suomenniemi**: Lemi, Mäntyharju, Ristiina, Savitaipale, S:t Michel, Suomenniemi
+  - **Taipalsaari**: Imatra, Joutseno, Lemi, Ruokolahti, Savitaipale, Taipalsaari, Villmanstrand
+  - **Valkeala**: Anjalankoski, Elimäki, Iitti, Jaala, Kouvola, Kuusankoski, Luumäki, Mäntyharju, Savitaipale, Valkeala
+  - **Villmanstrand**: Imatra, Joutseno, Lemi, Luumäki, Ruokolahti, Savitaipale, Taipalsaari, Villmanstrand, Ylämaa
+  - **Virolahti**: Fredrikshamn, Kotka, Luumäki, Miehikkälä, Virolahti, Ylämaa
+  - **Ylämaa**: Lemi, Luumäki, Miehikkälä, Villmanstrand, Virolahti, Ylämaa
+- ***Närings-, trafik- och miljöcentralen i Södra Savolax***
+  - **Enonkoski**: Enonkoski, Heinävesi, Kerimäki, Nyslott, Punkaharju, Savonranta
+  - **Heinävesi**: Enonkoski, Heinävesi, Leppävirta, Liperi, Outokumpu, Savonranta, Tuusniemi, Varkaus
+  - **Hirvensalmi**: Hirvensalmi, Joutsa, Kangasniemi, Mäntyharju, Pertunmaa, Ristiina, S:t Michel
+  - **Jorois**: Jorois, Juva, Leppävirta, Pieksämäki, Rantasalmi, Varkaus
+  - **Juva**: Jorois, Juva, Nyslott, Puumala, Rantasalmi, S:t Michel, Sulkava
+  - **Kangasniemi**: Hankasalmi, Hirvensalmi, Joutsa, Kangasniemi, Pieksämäki, S:t Michel, Toivakka
+  - **Kerimäki**: Enonkoski, Kerimäki, Kesälahti, Nyslott, Punkaharju, Savonranta
+  - **Mäntyharju**: Heinola, Hirvensalmi, Jaala, Mäntyharju, Pertunmaa, Ristiina, S:t Michel, Suomenniemi, Valkeala
+  - **Nyslott**: Enonkoski, Juva, Kerimäki, Nyslott, Punkaharju, Rantasalmi, Savonranta, Sulkava
+  - **Pertunmaa**: Hartola, Heinola, Hirvensalmi, Joutsa, Mäntyharju, Pertunmaa, Sysmä
+  - **Pieksämäki**: Hankasalmi, Jorois, Kangasniemi, Pieksämäki, Rautalampi, Suonenjoki, Varkaus
+  - **Punkaharju**: Enonkoski, Kerimäki, Kesälahti, Nyslott, Parikkala, Punkaharju, Savonranta
+  - **Puumala**: Juva, Puumala, Ristiina, Ruokolahti, Sulkava
+  - **Rantasalmi**: Jorois, Juva, Nyslott, Rantasalmi, Sulkava, Varkaus
+  - **Ristiina**: Hirvensalmi, Mäntyharju, Puumala, Ristiina, S:t Michel, Suomenniemi
+  - **S:t Michel**: Hirvensalmi, Juva, Kangasniemi, Mäntyharju, Ristiina, S:t Michel, Suomenniemi
+  - **Savonranta**: Enonkoski, Heinävesi, Kerimäki, Liperi, Nyslott, Punkaharju, Savonranta
+  - **Sulkava**: Juva, Nyslott, Puumala, Rantasalmi, Sulkava
+- ***Närings-, trafik- och miljöcentralen i Norra Savolax***
+  - **Idensalmi**: Idensalmi, Kiuruvesi, Lapinlahti, Maaninka, Pielavesi, Siilinjärvi, Sonkajärvi, Varpaisjärvi, Vieremä
+  - **Juankoski**: Juankoski, Juuka, Kaavi, Kuopio, Nilsiä, Rautavaara, Siilinjärvi, Tuusniemi, Varpaisjärvi
+  - **Kaavi**: Juankoski, Kaavi, Kuopio, Nilsiä, Outokumpu, Polvijärvi, Siilinjärvi, Tuusniemi
+  - **Karttula**: Karttula, Kuopio, Maaninka, Suonenjoki, Tervo, Vesanto
+  - **Keitele**: Keitele, Pielavesi, Pihtipudas, Tervo, Vesanto, Viitasaari
+  - **Kiuruvesi**: Idensalmi, Kiuruvesi, Pielavesi, Pyhäjärvi, Vieremä
+  - **Kuopio**: Juankoski, Kaavi, Karttula, Kuopio, Lapinlahti, Leppävirta, Maaninka, Nilsiä, Siilinjärvi, Suonenjoki, Tervo, Tuusniemi, Varpaisjärvi
+  - **Lapinlahti**: Idensalmi, Kuopio, Lapinlahti, Maaninka, Nilsiä, Siilinjärvi, Sonkajärvi, Varpaisjärvi
+  - **Leppävirta**: Heinävesi, Jorois, Kuopio, Leppävirta, Suonenjoki, Varkaus
+  - **Maaninka**: Idensalmi, Karttula, Kuopio, Lapinlahti, Maaninka, Nilsiä, Pielavesi, Siilinjärvi, Tervo, Varpaisjärvi
+  - **Nilsiä**: Juankoski, Kaavi, Kuopio, Lapinlahti, Maaninka, Nilsiä, Rautavaara, Siilinjärvi, Varpaisjärvi
+  - **Pielavesi**: Idensalmi, Keitele, Kiuruvesi, Maaninka, Pielavesi, Siilinjärvi, Tervo
+  - **Rautalampi**: Hankasalmi, Konnevesi, Pieksämäki, Rautalampi, Suonenjoki, Tervo, Vesanto
+  - **Rautavaara**: Juankoski, Nilsiä, Nurmes, Rautavaara, Sonkajärvi, Valtimo, Varpaisjärvi
+  - **Siilinjärvi**: Idensalmi, Juankoski, Kaavi, Kuopio, Lapinlahti, Maaninka, Nilsiä, Pielavesi, Siilinjärvi, Varpaisjärvi
+  - **Sonkajärvi**: Idensalmi, Kajana, Lapinlahti, Rautavaara, Sonkajärvi, Varpaisjärvi, Vieremä
+  - **Suonenjoki**: Hankasalmi, Karttula, Konnevesi, Kuopio, Leppävirta, Pieksämäki, Rautalampi, Suonenjoki, Tervo, Vesanto
+  - **Tervo**: Karttula, Keitele, Kuopio, Maaninka, Pielavesi, Rautalampi, Suonenjoki, Tervo, Vesanto
+  - **Tuusniemi**: Heinävesi, Juankoski, Kaavi, Kuopio, Outokumpu, Siilinjärvi, Tuusniemi
+  - **Varkaus**: Heinävesi, Jorois, Leppävirta, Pieksämäki, Rantasalmi, Varkaus
+  - **Varpaisjärvi**: Idensalmi, Kuopio, Lapinlahti, Maaninka, Nilsiä, Rautavaara, Siilinjärvi, Sonkajärvi, Varpaisjärvi
+  - **Vesanto**: Karttula, Keitele, Konnevesi, Rautalampi, Suonenjoki, Tervo, Vesanto, Viitasaari
+  - **Vieremä**: Idensalmi, Kiuruvesi, Pyhäntä, Sonkajärvi, Vieremä
+- ***Närings-, trafik- och miljöcentralen i Norra Karelen***
+  - **Eno**: Eno, Ilomants, Joensuu, Kontiolahti, Lieksa, Pyhäselkä
+  - **Ilomants**: Eno, Ilomants, Joensuu
+  - **Joensuu**: Eno, Ilomants, Joensuu, Kitee, Kontiolahti, Liperi, Outokumpu, Polvijärvi, Pyhäselkä, Rääkkylä, Tohmajärvi
+  - **Juuka**: Juuka, Koli (Lieksa), Nurmes, Polvijärvi
+  - **Kesälahti**: Kerimäki, Kesälahti, Kitee, Parikkala, Punkaharju, Rääkkylä
+  - **Kitee**: Joensuu, Kesälahti, Kitee, Pyhäselkä, Rääkkylä, Tohmajärvi
+  - **Kontiolahti**: Eno, Joensuu, Kontiolahti, Liperi, Pyhäselkä, Polvijärvi
+  - **Lieksa**: Eno, Lieksa, Nurmes, för dem som bor i Koli-området dessutom Juuka, Polvijärvi
+  - **Liperi**: Heinävesi, Joensuu, Kontiolahti, Liperi, Outokumpu, Polvijärvi, Pyhäselkä, Rääkkylä, Savonranta
+  - **Nurmes**: Juuka, Lieksa (inkl. Koli), Nurmes, Rautavaara, Valtimo
+  - **Outokumpu**: Heinävesi, Joensuu, Kaavi, Liperi, Outokumpu, Polvijärvi, Tuusniemi
+  - **Polvijärvi**: Joensuu, Juuka, Kaavi, Kontiolahti, Liperi, Outokumpu, Polvijärvi
+  - **Pyhäselkä**: Eno, Joensuu, Kitee, Kontiolahti, Liperi, Pyhäselkä, Rääkkylä, Tohmajärvi
+  - **Rääkkylä**: Joensuu, Kesälahti, Kitee, Liperi, Pyhäselkä, Rääkkylä
+  - **Tohmajärvi**: Joensuu, Kitee, Pyhäselkä, Tohmajärvi
+  - **Valtimo**: Nurmes, Rautavaara, Valtimo
+- ***Närings-, trafik- och miljöcentralen i Mellersta Finland***
+  - **Hankasalmi**: Hankasalmi, Jyväskylä, Jyväskylä lk, Kangasniemi, Konnevesi, Laukaa, Pieksämäki, Rautalampi, Suonenjoki, Toivakka, Äänekoski
+  - **Joutsa**: Hartola, Hirvensalmi, Joutsa, Jyväskylä, Jyväskylä lk, Kangasniemi, Korpilahti, Luhanka, Pertunmaa, Sysmä, Toivakka
+  - **Jyväskylä**: Hankasalmi, Joutsa, Jyväskylä, Jyväskylä lk, Jämsä, Jämsänkoski, Korpilahti, Laukaa, Muurame, Petäjävesi, Toivakka, Uurainen, Äänekoski
+  - **Jyväskylä lk**: Hankasalmi, Joutsa, Jyväskylä, Jyväskylä lk, Jämsä, Jämsänkoski, Korpilahti, Laukaa, Muurame, Petäjävesi, Toivakka, Uurainen, Äänekoski
+  - **Jämsä**: Juupajoki, Jyväskylä, Jyväskylä lk, Jämsä, Jämsänkoski, Keuruu, Korpilahti, Kuhmoinen, Muurame, Mänttä, Orivesi, Petäjävesi, Vilppula
+  - **Jämsänkoski**: Juupajoki, Jyväskylä, Jyväskylä lk, Jämsä, Jämsänkoski, Keuruu, Korpilahti, Kuhmoinen, Muurame, Mänttä, Orivesi, Petäjävesi, Vilppula
+  - **Kannonkoski**: Kannonkoski, Karstula, Kinnula, Kivijärvi, Kyyjärvi, Pihtipudas, Pylkönmäki, Saarijärvi, Viitasaari
+  - **Karstula**: Kannonkoski, Karstula, Kivijärvi, Kyyjärvi, Lehtimäki, Perho, Pylkönmäki, Saarijärvi, Soini
+  - **Keuruu**: Etseri, Jämsä, Jämsänkoski, Keuruu, Multia, Mänttä, Petäjävesi, Uurainen, Vilppula, Virdois
+  - **Kinnula**: Halsua, Kannonkoski, Kinnula, Kivijärvi, Lestijärvi, Perho, Pihtipudas, Reisjärvi, Viitasaari
+  - **Kivijärvi**: Kannonkoski, Karstula, Kinnula, Kivijärvi, Kyyjärvi, Perho, Pihtipudas, Viitasaari
+  - **Konnevesi**: Hankasalmi, Konnevesi, Laukaa, Rautalampi, Suonenjoki, Vesanto, Äänekoski
+  - **Korpilahti**: Joutsa, Jyväskylä, Jyväskylä lk, Jämsä, Jämsänkoski, Korpilahti, Laukaa, Luhanka, Muurame, Petäjävesi, Uurainen
+  - **Kuhmoinen**: Asikkala, Jämsä, Jämsänkoski, Kuhmalahti, Kuhmoinen, Padasjoki, Pälkäne
+  - **Kyyjärvi**: Alajärvi, Kannonkoski, Karstula, Kivijärvi, Kyyjärvi, Lehtimäki, Perho, Pylkönmäki, Saarijärvi, Soini, Vimpeli
+  - **Laukaa**: Hankasalmi, Jyväskylä, Jyväskylä lk, Konnevesi, Korpilahti, Laukaa, Muurame, Petäjävesi, Saarijärvi, Toivakka, Uurainen, Äänekoski
+  - **Luhanka**: Hartola, Joutsa, Korpilahti, Luhanka, Muurame, Sysmä, Toivakka
+  - **Multia**: Etseri, Keuruu, Multia, Mänttä, Petäjävesi, Pylkönmäki, Saarijärvi, Uurainen, Vilppula, Äänekoski
+  - **Muurame**: Jyväskylä, Jyväskylä lk, Jämsä, Jämsänkoski, Korpilahti, Laukaa, Luhanka, Muurame, Petäjävesi, Uurainen
+  - **Petäjävesi**: Jyväskylä, Jyväskylä lk, Jämsä, Jämsänkoski, Keuruu, Korpilahti, Laukaa, Multia, Muurame, Petäjävesi, Toivakka, Uurainen
+  - **Pihtipudas**: Haapajärvi, Kannonkoski, Keitele, Kinnula, Kivijärvi, Pihtipudas, Pyhäjärvi, Reisjärvi, Viitasaari
+  - **Pylkönmäki**: Etseri, Kannonkoski, Karstula, Kyyjärvi, Multia, Pylkönmäki, Saarijärvi, Uurainen
+  - **Saarijärvi**: Jyväskylä, Kannonkoski, Karstula, Kyyjärvi, Laukaa, Multia, Pylkönmäki, Saarijärvi, Uurainen, Viitasaari, Äänekoski
+  - **Toivakka**: Hankasalmi, Joutsa, Jyväskylä, Jyväskylä lk, Kangasniemi, Korpilahti, Laukaa, Luhanka, Muurame, Petäjävesi, Toivakka, Uurainen
+  - **Uurainen**: Jyväskylä, Jyväskylä lk, Keuruu, Korpilahti, Laukaa, Multia, Muurame, Petäjävesi, Pylkönmäki, Saarijärvi, Toivakka, Uurainen, Äänekoski
+  - **Viitasaari**: Kannonkoski, Keitele, Kinnula, Kivijärvi, Pihtipudas, Saarijärvi, Vesanto, Viitasaari, Äänekoski
+  - **Äänekoski**: Hankasalmi, Jyväskylä, Jyväskylä lk, Konnevesi, Laukaa, Saarijärvi, Uurainen, Viitasaari, Äänekoski
+- ***Närings-, trafik- och miljöcentralen i Södra Österbotten***
+  - **Alahärmä**: Alahärmä, Evijärvi, Jakobstad, Kauhava, Kortesjärvi, Lappajärvi, Lappo, Nurmo, Nykarleby, Oravais, Pedersöre, Storkyro, Vörå-Maxmo, Ylihärmä, Ylistaro
+  - **Alajärvi**: Alajärvi, Evijärvi, Kauhava, Kuortane, Kyyjärvi, Lappajärvi, Lappo, Lehtimäki, Perho, Soini, Töysä, Vimpeli
+  - **Alavus**: Alavus, Etseri, Kuortane, Lehtimäki, Nurmo, Seinäjoki, Soini, Töysä, Virdois
+  - **Bötom**: Bötom, Honkajoki, Jurva, Kaskö, Kauhajoki, Kristinestad, Närpes, Storå, Östermark
+  - **Etseri**: Alavus, Etseri, Keuruu, Kuortane, Lehtimäki, Pylkönmäki, Soini, Töysä, Virdois
+  - **Evijärvi**: Alahärmä, Alajärvi, Evijärvi, Halsua, Jakobstad, Kauhava, Kaustby, Kortesjärvi, Kronoby, Lappajärvi, Pedersöre, Ullava, Vetil, Vimpeli
+  - **Ilmajoki**: Ilmajoki, Jalasjärvi, Jurva, Kauhajoki, Kurikka, Laihela, Lappo, Nurmo, Seinäjoki, Storkyro, Ylistaro
+  - **Jalasjärvi**: Ilmajoki, Jalasjärvi, Karvia, Kauhajoki, Kurikka, Nurmo, Parkano, Seinäjoki
+  - **Jurva**: Bötom, Ilmajoki, Jurva, Kauhajoki, Korsholm, Korsnäs, Kurikka, Laihela, Lillkyro, Malax, Närpes, Seinäjoki, Storkyro, Vasa, Östermark
+  - **Kauhajoki**: Bötom, Honkajoki, Ilmajoki, Jalasjärvi, Jurva, Karvia, Kaskö, Kauhajoki, Kristinestad, Kurikka, Närpes, Seinäjoki, Storå, Östermark
+  - **Kauhava**: Alahärmä, Alajärvi, Evijärvi, Kauhava, Kortesjärvi, Kuortane, Lappajärvi, Lappo, Nurmo, Oravais, Seinäjoki, Storkyro, Vimpeli, Vörå-Maxmo, Ylihärmä, Ylistaro
+  - **Kortesjärvi**: Alahärmä, Evijärvi, Jakobstad, Kauhava, Kaustby, Kortesjärvi, Kronoby, Lappajärvi, Lappo, Nykarleby, Oravais, Pedersöre, Vetil, Vimpeli, Ylihärmä
+  - **Kuortane**: Alajärvi, Alavus, Etseri, Kauhava, Kuortane, Lappajärvi, Lappo, Lehtimäki, Nurmo, Seinäjoki, Soini, Töysä, Vimpeli
+  - **Kurikka**: Ilmajoki, Jalasjärvi, Jurva, Kauhajoki, Kurikka, Laihela, Nurmo, Seinäjoki, Ylistaro, Östermark
+  - **Lappajärvi**: Alahärmä, Alajärvi, Evijärvi, Halsua, Kauhava, Kaustby, Kortesjärvi, Kuortane, Lappajärvi, Lappo, Lehtimäki, Perho,Vetil, Vimpeli, Ylihärmä
+  - **Lappo**: Alahärmä, Alajärvi, Ilmajoki, Kauhava, Kortesjärvi, Kuortane, Lappajärvi, Lappo, Nurmo, Seinäjoki, Storkyro, Vimpeli, Ylihärmä, Ylistaro
+  - **Lehtimäki**: Alajärvi, Alavus, Etseri, Karstula, Kuortane, Kyyjärvi, Lappajärvi, Lehtimäki, Soini, Töysä, Vimpeli
+  - **Nurmo**: Alahärmä, Alavus, Ilmajoki, Jalasjärvi, Kauhava, Kuortane, Kurikka, Laihela, Lappo, Lillkyro, Nurmo, Seinäjoki, Storkyro, Ylihärmä, Ylistaro
+  - **Seinäjoki**: Alavus, Ilmajoki, Jalasjärvi, Jurva, Kauhajoki, Kauhava, Kuortane, Kurikka, Laihela, Lappo, Lillkyro, Nurmo, Seinäjoki, Storkyro, Töysä, Ylihärmä, Ylistaro
+  - **Soini**: Alajärvi, Alavus, Etseri, Karstula, Kuortane, Kyyjärvi, Lehtimäki, Soini, Töysä, Vimpeli
+  - **Storå**: Bötom, Honkajoki, Kankaanpää, Karvia, Kauhajoki, Kristinestad, Sastmola, Siikainen, Storå, Östermark
+  - **Töysä**: Alajärvi, Alavus, Etseri, Kuortane, Lehtimäki, Nurmo, Seinäjoki, Soini, Töysä
+  - **Vimpeli**: Alajärvi, Evijärvi, Halsua, Kauhava, Kaustby, Kortesjärvi, Kuortane, Kyyjärvi, Lappajärvi, Lappo, Lehtimäki, Perho, Soini, Vetil, Vimpeli
+  - **Ylihärmä**: Alahärmä, Kauhava, Kortesjärvi, Lappajärvi, Lappo, Lillkyro, Nurmo, Nykarleby, Oravais, Seinäjoki, Storkyro, Vörå-Maxmo, Ylihärmä, Ylistaro
+  - **Ylistaro**: Alahärmä, Ilmajoki, Kauhava, Korsholm, Kurikka, Laihela, Lappo, Lillkyro, Nurmo, Oravais, Seinäjoki, Storkyro, Vasa, Vörå-Maxmo, Ylihärmä, Ylistaro
+  - **Östermark**: Bötom, Jurva, Kaskö, Kauhajoki, Korsnäs, Kristinestad, Kurikka, Närpes, Storå, Östermark
+- ***Närings-, trafik- och miljöcentralen i Österbotten***
+  - **Halsua**: Evijärvi, Halsua, Kaustby, Kinnula, Lappajärvi, Lestijärvi, Perho, Reisjärvi, Toholampi, Ullava, Vetil, Vimpeli
+  - **Himanka**: Alavieska, Himanka, Kalajoki, Kannus, Karleby, Kelviå, Lochteå, Toholampi
+  - **Jakobstad**: Alahärmä, Evijärvi, Jakobstad, Karleby, Kaustby, Kelviå, Kortesjärvi, Kronoby, Larsmo, Nykarleby, Oravais, Pedersöre
+  - **Kannus**: Alavieska, Himanka, Kalajoki, Kannus, Karleby, Kaustby, Kelviå, Lestijärvi, Lochteå, Sievi, Toholampi, Ullava, Ylivieska
+  - **Karleby**: Himanka, Jakobstad, Kannus, Karleby, Kaustby, Kelviå, Kronoby, Larsmo, Lochteå, Nykarleby, Pedersöre, Ullava
+  - **Kaskö**: Bötom, Kaskö, Kauhajoki, Korsnäs, Kristinestad, Närpes, Östermark
+  - **Kaustby**: Evijärvi, Halsua, Jakobstad, Kannus, Karleby, Kaustby, Kelviå, Kortesjärvi, Kronoby, Lappajärvi, Pedersöre, Perho, Toholampi, Ullava, Vetil, Vimpeli
+  - **Kelviå**: Himanka, Jakobstad, Kannus, Karleby, Kaustby, Kelviå, Kronoby, Larsmo, Lochteå, Pedersöre, Sievi, Toholampi, Ullava
+  - **Korsholm**: Jurva, Korsholm, Korsnäs, Laihela, Lillkyro, Malax, Oravais, Storkyro, Vasa, Vörå-Maxmo, Ylistaro
+  - **Korsnäs**: Jurva, Kaskö, Korsholm, Korsnäs, Malax, Närpes, Vasa, Östermark
+  - **Kristinestad**: Bötom, Kaskö, Kauhajoki, Kristinestad, Närpes, Sastmola, Siikainen, Storå, Östermark
+  - **Kronoby**: Evijärvi, Jakobstad, Karleby, Kaustby, Kelviå, Kortesjärvi, Kronoby, Larsmo, Lochteå, Nykarleby, Pedersöre, Ullava, Vetil
+  - **Laihela**: Ilmajoki, Jurva, Korsholm, Kurikka, Laihela, Lillkyro, Malax, Nurmo, Seinäjoki, Storkyro, Vasa, Vörå-Maxmo, Ylistaro
+  - **Larsmo**: Jakobstad, Karleby, Kelviå, Kronoby, Larsmo, Lochteå, Nykarleby, Pedersöre
+  - **Lestijärvi**: Haapajärvi, Halsua, Kannus, Kinnula, Lestijärvi, Perho, Reisjärvi, Sievi, Toholampi, Ullava, Vetil
+  - **Lillkyro**: Jurva, Korsholm, Laihela, Lillkyro, Malax, Nurmo, Oravais, Seinäjoki, Storkyro, Vasa, Vörå-Maxmo, Ylihärmä, Ylistaro
+  - **Lochteå**: Alavieska, Himanka, Kalajoki, Kannus, Karleby, Kelviå, Kronoby, Larsmo, Lochteå, Toholampi
+  - **Malax**: Jurva, Korsholm, Korsnäs, Laihela, Lillkyro, Malax, Närpes, Storkyro, Vasa, Vörå-Maxmo
+  - **Nykarleby**: Alahärmä, Jakobstad, Karleby, Kortesjärvi, Kronoby, Larsmo, Nykarleby, Oravais, Pedersöre, Vörå-Maxmo, Ylihärmä
+  - **Närpes**: Bötom, Jurva, Kaskö, Kauhajoki, Korsnäs, Kristinestad, Malax, Närpes, Vasa, Östermark
+  - **Oravais**: Alahärmä, Jakobstad, Kauhava, Korsholm, Kortesjärvi, Lillkyro, Nykarleby, Oravais, Pedersöre, Storkyro, Vasa, Vörå-Maxmo, Ylihärmä, Ylistaro
+  - **Pedersöre**: Alahärmä, Evijärvi, Jakobstad, Karleby, Kaustby, Kelviå, Kortesjärvi, Kronoby, Larsmo, Nykarleby, Oravais, Pedersöre
+  - **Perho**: Alajärvi, Halsua, Karstula, Kaustby, Kinnula, Kivijärvi, Kyyjärvi, Lappajärvi, Lestijärvi, Perho, Vetil, Vimpeli
+  - **Storkyro**: Alahärmä, Ilmajoki, Jurva, Kauhava, Korsholm, Laihela, Lappo, Lillkyro, Malax, Nurmo, Oravais, Seinäjoki, Storkyro, Vasa, Vörå-Maxmo, Ylihärmä, Ylistaro
+  - **Toholampi**: Halsua, Himanka, Kannus, Karleby, Kaustby, Kelviå, Lestijärvi, Lochteå, Nivala, Reisjärvi, Sievi, Toholampi, Ullava, Vetil, Ylivieska
+  - **Ullava**: Evijärvi, Halsua, Kannus, Karleby, Kaustby, Kelviå, Kronoby, Lestijärvi, Sievi, Toholampi, Ullava, Vetil
+  - **Vasa**: Jurva, Korsholm, Korsnäs, Laihela, Lillkyro, Malax, Närpes, Oravais, Storkyro, Vasa, Vörå-Maxmo, Ylistaro
+  - **Vetil**: Evijärvi, Halsua, Karleby, Kaustby, Kortesjärvi, Kronoby, Lappajärvi, Lestijärvi, Perho, Toholampi, Ullava, Vetil, Vimpeli
+  - **Vörå-Maxmo**: Alahärmä, Kauhava, Korsholm, Laihela, Lillkyro, Malax, Nykarleby, Oravais, Storkyro, Vasa, Vörå-Maxmo, Ylihärmä, Ylistaro
+- ***Närings-, trafik- och miljöcentralen i Norra Österbotten***
+  - **Alavieska**: Alavieska, Haapavesi, Himanka, Kalajoki, Kannus, Lochteå, Merijärvi, Nivala, Oulainen, Sievi, Ylivieska
+  - **Brahestad**: Brahestad, Kalajoki, Limingo, Lumijoki, Merijärvi, Oulainen, Pyhäjoki, Siikajoki, Vihanti
+  - **Haapajärvi**: Haapajärvi, Haapavesi, Kärsämäki, Lestijärvi, Nivala, Pihtipudas, Pyhäjärvi, Reisjärvi, Sievi, Ylivieska
+  - **Haapavesi**: Alavieska, Haapajärvi, Haapavesi, Kärsämäki, Nivala, Oulainen, Piippola, Pulkkila, Rantsila, Vihanti, Ylivieska
+  - **Haukipudas**: Haukipudas, Ii, Karlö, Kempele, Kiiminki, Oulunsalo, Uleåborg, Yli-Ii, Ylikiiminki
+  - **Ii**: Haukipudas, Ii, Kempele, Kiiminki, Oulunsalo, Simo, Uleåborg, Yli-Ii
+  - **Kalajoki**: Alavieska, Brahestad, Himanka, Kalajoki, Kannus, Karleby, Lochteå, Merijärvi, Oulainen, Pyhäjoki, Sievi, Ylivieska
+  - **Karlö**: Haukipudas, Karlö, Kempele, Kiiminki, Limingo, Lumijoki, Oulunsalo (färja), Tyrnävä, Uleåborg
+  - **Kempele**: Haukipudas, Ii, Karlö, Kempele, Kiiminki, Limingo, Lumijoki, Muhos, Oulunsalo, Rantsila, Siikajoki, Tyrnävä, Uleåborg, Ylikiiminki
+  - **Kestilä**: Kestilä, Piippola, Pulkkila, Pyhäntä, Rantsila, Vaala
+  - **Kiiminki**: Haukipudas, Ii, Karlö, Kempele, Kiiminki, Muhos, Oulunsalo, Uleåborg, Yli-Ii, Ylikiiminki
+  - **Kuusamo**: Kuusamo
+  - **Kärsämäki**: Haapajärvi, Haapavesi, Kärsämäki, Nivala, Piippola, Pulkkila, Pyhäjärvi, Pyhäntä
+  - **Limingo**: Brahestad, Karlö, Kempele, Limingo, Lumijoki, Muhos, Oulunsalo, Rantsila, Siikajoki, Tyrnävä, Uleåborg, Vihanti
+  - **Lumijoki**: Brahestad, Karlö, Kempele, Limingo, Lumijoki, Oulunsalo, Siikajoki, Tyrnävä, Uleåborg
+  - **Merijärvi**: Alavieska, Brahestad, Kalajoki, Merijärvi, Oulainen, Pyhäjoki, Vihanti, Ylivieska
+  - **Muhos**: Kempele, Kiiminki, Limingo, Muhos, Oulunsalo, Tyrnävä, Uleåborg, Utajärvi, Vaala, Ylikiiminki
+  - **Nivala**: Alavieska, Haapajärvi, Haapavesi, Kärsämäki, Nivala, Oulainen, Pyhäjärvi, Reisjärvi, Sievi, Toholampi, Ylivieska
+  - **Oulainen**: Alavieska, Brahestad, Haapavesi, Kalajoki, Merijärvi, Nivala, Oulainen, Pyhäjoki, Sievi, Siikajoki, Vihanti, Ylivieska
+  - **Oulunsalo**: Haukipudas, Ii, Karlö, Kempele, Kiiminki, Limingo, Lumijoki, Muhos, Oulunsalo, Siikajoki, Tyrnävä, Uleåborg, Ylikiiminki
+  - **Piippola**: Haapavesi, Kestilä, Kärsämäki, Piippola, Pulkkila, Pyhäntä, Rantsila
+  - **Pudasjärvi**: Pudasjärvi
+  - **Pulkkila**: Haapavesi, Kestilä, Kärsämäki, Piippola, Pulkkila, Pyhäntä, Rantsila, Vihanti
+  - **Pyhäjoki**: Brahestad, Kalajoki, Merijärvi, Oulainen, Pyhäjoki, Siikajoki, Vihanti, Ylivieska
+  - **Pyhäjärvi**: Haapajärvi, Kiuruvesi, Kärsämäki, Nivala, Pihtipudas, Pyhäjärvi
+  - **Pyhäntä**: Kestilä, Kiuruvesi, Kärsämäki, Piippola, Pulkkila, Pyhäntä, Vieremä
+  - **Rantsila**: Haapavesi, Kempele, Kestilä, Limingo, Piippola, Pulkkila, Rantsila, Siikajoki, Tyrnävä, Uleåborg, Vihanti
+  - **Reisjärvi**: Haapajärvi, Halsua, Kinnula, Lestijärvi, Nivala, Pihtipudas, Reisjärvi, Sievi, Toholampi
+  - **Sievi**: Alavieska, Haapajärvi, Kalajoki, Kannus, Kelviå, Lestijärvi, Nivala, Oulainen, Reisjärvi, Sievi, Toholampi, Ullava, Ylivieska
+  - **Siikajoki**: Brahestad, Kempele, Limingo, Lumijoki, Oulainen, Oulunsalo, Pyhäjoki, Rantsila, Siikajoki, Tyrnävä, Uleåborg, Vihanti
+  - **Taivalkoski**: Taivalkoski
+  - **Tyrnävä**: Karlö, Kempele, Limingo, Lumijoki, Muhos, Oulunsalo, Rantsila, Siikajoki, Tyrnävä, Uleåborg, Utajärvi, Ylikiiminki
+  - **Uleåborg**: Haukipudas, Ii, Karlö, Kempele, Kiiminki, Limingo, Lumijoki, Muhos, Oulunsalo, Rantsila, Siikajoki, Tyrnävä, Uleåborg, Yli-Ii, Ylikiiminki
+  - **Utajärvi**: Muhos, Puolanka, Tyrnävä, Utajärvi, Vaala, Ylikiiminki
+  - **Vihanti**: Brahestad, Haapavesi, Limingo, Merijärvi, Oulainen, Pulkkila, Pyhäjoki, Rantsila, Siikajoki, Vihanti, Ylivieska
+  - **Yli-Ii**: Haukipudas, Ii, Kiiminki, Uleåborg, Yli-Ii, Ylikiiminki
+  - **Ylikiiminki**: Haukipudas, Kempele, Kiiminki, Muhos, Oulunsalo, Tyrnävä, Uleåborg, Utajärvi, Yli-Ii, Ylikiiminki
+  - **Ylivieska**: Alavieska, Haapajärvi, Haapavesi, Kalajoki, Kannus, Merijärvi, Nivala, Oulainen, Pyhäjoki, Sievi, Toholampi, Vihanti, Ylivieska
+- ***Närings-, trafik- och miljöcentralen i Kajanaland***
+  - **Hyrynsalmi**: Hyrynsalmi, Kajana, Paltamo, Puolanka, Ristijärvi, Suomussalmi
+  - **Kajana**: Hyrynsalmi, Kajana, Paltamo, Ristijärvi, Sonkajärvi, Sotkamo
+  - **Kuhmo**: Kuhmo, Sotkamo
+  - **Paltamo**: Hyrynsalmi, Kajana, Paltamo, Puolanka, Ristijärvi, Sotkamo, Vaala
+  - **Puolanka**: Hyrynsalmi, Paltamo, Puolanka, Ristijärvi, Suomussalmi, Utajärvi, Vaala
+  - **Ristijärvi**: Hyrynsalmi, Kajana, Paltamo, Puolanka, Ristijärvi, Sotkamo, Suomussalmi
+  - **Sotkamo**: Kajana, Kuhmo, Paltamo, Ristijärvi, Sotkamo
+  - **Suomussalmi**: Hyrynsalmi, Puolanka, Ristijärvi, Suomussalmi
+  - **Vaala**: Kestilä, Muhos, Paltamo, Puolanka, Utajärvi, Vaala
+- ***Närings-, trafik- och miljöcentralen i Lappland***
+  - **Enare**:
+    - Angeli: Enare, Ivalo, Kaamanen, Karigasniemi (Utsjoki), Lemmenjoki, Menesjärvi, Riutula
+    - Enare: Angeli, Ivalo, Ivalon Matti, Kaamanen, Kakslauttanen (Sodankylä), Kiilopää, Lemmenjoki, Lisma, Menesjärvi, Muotkan Ruoktu, Nellim, Partakko, Petsikko, Raja-Jooseppi, Riutula, Saariselkä, Sevettijärvi, Virtaniemi
+    - Ivalo: Angeli, Enare, Kaamanen, Kakslauttanen (Sodankylä), Kiilopää, Kuttura, Lemmenjoki, Menesjärvi, Muotkan Ruoktu, Nellim, Partakko, Petsikko, Raja-Jooseppi, Riutula, Saariselkä, Virtaniemi, Vuotso (Sodankylä)
+    - Ivalon Matti: Enare, Lemmenjoki, Lisma, Menesjärvi, Pokka (Kittilä), Riutula, Sirkka (Kittilä)
+    - Kaamanen: Angeli, Enare, Ivalo, Kakslauttanen (Sodankylä), Karigasniemi (Utsjoki), Kiilopää, Lemmenjoki, Menesjärvi, Muotkan Ruoktu, Partakko, Petsikko, Riutula, Saariselkä, Sevettijärvi, Utsjoki
+    - Kiilopää: Enare, Ivalo, Kaamanen, Kakslauttanen (Sodankylä), Kuttura, Menesjärvi, Nellim, Raja-Jooseppi, Riutula, Saariselkä, Virtaniemi, Vuotso (Sodankylä)
+    - Kuttura: Ivalo, Kakslauttanen (Sodankylä), Kiilopää, Saariselkä, Vuotso (Sodankylä)
+    - Lemmenjoki: Angeli, Enare, Ivalo, Ivalon Matti, Kaamanen, Lisma, Menesjärvi, Pokka (Kittilä), Riutula, Saariselkä
+    - Lisma: Enare, Ivalon Matti, Lemmenjoki, Menesjärvi, Pokka (Kittilä), Riutula, Sirkka (Kittilä)
+    - Menesjärvi: Angeli, Enare, Ivalo, Ivalon Matti, Kaamanen, Kiilopää, Lemmenjoki, Lisma, Riutula, Saariselkä
+    - Muotkan Ruoktu: Enare, Ivalo, Kaamanen, Karigasniemi (Utsjoki), Partakko, Petsikko, Riutula
+    - Nellim: Enare, Ivalo, Kakslauttanen (Sodankylä), Kiilopää, Raja-Jooseppi, Saariselkä, Virtaniemi
+    - Näätämö: Partakko, Sevettijärvi
+    - Partakko: Enare, Ivalo, Kaamanen, Muotkan Ruoktu, Näätämö, Petsikko, Riutula, Sevettijärvi
+    - Petsikko: Enare, Ivalo, Kaamanen, Muotkan Ruoktu, Partakko, Riutula, Utsjoki
+    - Raja-Jooseppi: Enare, Ivalo, Kakslauttanen (Sodankylä), Kiilopää, Nellim, Saariselkä, Virtaniemi
+    - Riutula: Angeli, Enare, Ivalo, Ivalon Matti, Kaamanen, Kakslauttanen (Sodankylä), Kiilopää, Lemmenjoki, Lisma, Menesjärvi, Muotkan Ruoktu, Partakko, Petsikko, Saariselkä, Sevettijärvi
+    - Saariselkä: Enare, Ivalo, Kaamanen, Kakslauttanen (Sodankylä), Kiilopää, Kuttura, Lemmenjoki, Menesjärvi, Nellim, Raja-Jooseppi, Riutula, Virtaniemi, Vuotso (Sodankylä)
+    - Sevettijärvi: Enare, Kaamanen, Näätämö, Partakko, Riutula
+    - Virtaniemi: Enare, Ivalo, Kakslauttanen (Sodankylä), Kiilopää, Nellim, Saariselkä, Raja-Jooseppi
+  - **Enontekis**:
+    - Enontekis frånsett Kilpisjärvi område, som utgör en egen pendlingsregion.
+    - I fråga om Palojoensuu-Sonkanmuotka: dessutom Muonio kby
+    - I fråga om Ylikyrö: dessutom Raattama (Kittilä), Pallasjärvi (Muonio), Pallas (Muonio), Muonio kby
+    - **Kemi**: Kemi, Keminmaa, Simo, Tervola, Torneå
+    - **Kemijärvi**: Kemijärvi, Pelkosenniemi
+    - **Keminmaa**: Kemi, Keminmaa, Simo, Tervola, Torneå
+  - **Kittilä**: Kittilä
+    - I fråga om Helppi, Kinisjärvi, Molkojärvi, Maunu, Lehmilehto: dessutom norra delen av Rovaniemi till och med Meltaus
+    - I fråga om Rauhala, Raattama: dessutom Olos (Muonio), Pallas (Muonio)
+    - **Kolari**: Kolari, norra delen av Rovaniemi
+  - **Muonio**: Muonio
+    - I fråga om Tapojärvi-Kihlanki-Kaalamaniemi-områdets byar: dessutom Kolari kyrkby, Äkäslompolo (Kolari)
+    - I fråga om Tiurajärvi: dessutom Äkäslompolo (Kolari), Kittilä kyrkby
+    - I fråga om Kätkäsuvanto-Ylimuonio byar: dessutom Enontekis kyrkby, Hetta (Enontekis), Palojoensuu (Enontekis)
+    - I fråga om Särkijärvi-Muotkavaara-Jerisjärvi byar: dessutom Sirkka (Kittilä), Äkäslompolo (Kolari)
+    - I fråga om arbetstagare inom byggnadsbranschen: dessutom Sirkka (Kittilä), Äkäslompolo (Kolari)
+    - I fråga om arbetstagare inom servicebranschen: dessutom Sirkka (Kittilä), Äkäslompolo (Kolari)
+    - **Pelkosenniemi**: Pelkosenniemi, Kemijärvi centrumtätort, Tapionniemi (Kemijärvi), Vuostimo (Kemijärvi), Savukoski centrumtätort, Sodankylä centrumtätort, Luostotunturi region (Sodankylä)
+  - **Pello**: Pello, Övertorneå
+    - I fråga om Rattosjärvi, Ruuhijärvi, Konttajärvi, Saukkoriipi, Lampsijärvi, Sirkkakoski, Lankojärvi: dessutom Kolari kby och nordvästra delen av Rovaniemi inkl f.d. Rovaniemi stad
+    - I fråga om Juoksenki, Turtola: dessutom Kolari kby, Torneå, Keminmaa
+    - I fråga om Orajärvi, Jarhoinen, Naamijoki: dessutom Kolari
+    - I fråga om Pello kby: dessutom Kolari, nordvästra delen av Rovaniemi inkl. f.d. Rovaniemi stad
+    - **Posio**: Posio
+  - **Ranua**: Ranua
+    - I fråga om Hosio by: dessutom Sankala, Alaniemi, Ylikärppä, Alajokikylä, Simo kommuncentrum (alla i Simo kommun)
+    - I fråga om Ranua kby, Asmunti, Telkkälä och Petäjäjärvi byar: dessutom Yli-Siurua, Aittojärvi, Kurenalus, Livo (alla i Pudasjärvi kommun)
+    - I fråga om Kelankylä och Kuukasjärvi byar: dessutom Sarakylä, Rytinki, Syötekylä (alla i Pudasjärvi kommun)
+    - I fråga om Impiö, Saariharju och Nikkilä byar: dessutom Mäntyjärvi, Raistakka, Ahola (alla i Posio kommun)
+    - I fråga om Ranua kby, Nuuppa, Portimojärvi, Saukkojärvi, Tolja och Palovaara byar: dessutom f.d. Rovaniemi stad, Saarikämä, Narkaus, Kivitaipale, Ojanperä, Paavalniemi (alla i Rovaniemi kommun)
+    - I fråga om Piittisjärvi, Pohjasperä och Teerivaara byar: dessutom f.d. Rovaniemi stad, Saarenkylä, Koskenkylä, Vaarala, Oikarainen, Tennilä, Jokela, Viirinkylä, Vanttausjärvi, Vanttauskoski, Pekkala, Pirttikoski, Autti, Juotas, Siikakämä (alla i Rovaniemi kommun)
+    - **Rovaniemi**: Rovaniemi
+    - **Salla**: Salla
+  - **Savukoski**: Savukoski
+    - I fråga om Savukoski kyrkby och Lunkkaus by: dessutom Pelkosenniemi kby
+    - I fråga om Tanhua by: dessutom Sodankylä kby
+  - **Simo**: Ii, Kemi, Keminmaa, Simo
+    - I fråga om Simo centrum: dessutom Torneå centrum
+  - **Sodankylä**: Sodankylä
+    - I fråga om Vuotso by: dessutom Saariselkä fjällområde
+    - **Tervola**: Kemi, Keminmaa, Tervola, Torneå (frånsett Korpikylä)
+  - **Torneå** (frånsett Karunki och Korpikylä): Kemi, Keminmaa, Simo, Tervola, Torneå
+    - Karunki och Korpikylä pendlingsregion: Kemi, Keminmaa, Tervola, Torneå, Övertorneå
+  - **Utsjoki**:
+    - Karigasniemi pendlingsregion (inkl. Dalvadas, Karigasniemi, Peltojoki): Angeli (Enare), Dalvadas, Karigasniemi, Peltojoki
+    - Utsjoki pendlingsregion (inkl. Nuorgam, Nuvvus och Utsjoki kby): Nuorgam, Nuvvus, Petsikko (Utsjoki), Utsjoki kby
+  - **Övertorneå**: Pello, Övertorneå
+    - I fråga om Pekanpää, Väystäjä, Kainuunkylä, Armassaari, Kuivakangas, Kauliranta: dessutom Torneå, Keminmaa, Kemi
+    - I fråga om Aavasaksa: dessutom sydvästra delen av Rovaniemi inkl. f.d. Rovaniemi stad, Torneå, Keminmaa, Kemi
+    - I fråga om Etelä-Portimojärvi, Tengeliö, Lohijärvi, Mellakoski, Törmäsjärvi: dessutom sydvästra delen av Rovaniemi, Tervola, Torneå, Keminmaa, Kemi
+    - I fråga om Kantomaanpää, Pessalompolo, Meltosjärvi, Raanujärvi: dessutom nordvästra delen av Rovaniemi
+    - I fråga om Övertorneå kby: dessutom Torneå, Keminmaa, Kemi
+
+## 3 § Ikraftträdande
+
+Denna förordning träder i kraft den 1 januari 2010.
+
+Genom denna förordning upphävs arbets- och näringsministeriets förordning av den 30 december 2008 om pendlingsregioner (1149/2008).
